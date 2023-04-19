@@ -1,2 +1,1 @@
-# sd-data
-Dynamically generated data for SD main repo
+# Dynamically generated data for SD main repo
