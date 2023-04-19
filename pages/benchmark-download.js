@@ -27,7 +27,7 @@ const err = (...msg) => {
 async function get(id) {
   // manual json fetch: `curl -v -H "X-Papertrail-Token: xxx" https://papertrailapp.com/api/v1/events/search.json`
   return new Promise((resolve) => {
-    const token = process.env.PAPERTRAIL;
+    const token = process.env.PAPERTRAIL_TOKEN;
     if (!token) {
       err('missing token');
       resolve([]);

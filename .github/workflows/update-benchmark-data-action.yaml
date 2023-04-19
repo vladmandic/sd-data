@@ -30,8 +30,8 @@ jobs:
       run: npm install
     - name: node-run
       env:
-        PAPERTRAIL: ${{ secrets.PAPERTRAIL }}
-        GHTOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PAPERTRAIL_TOKEN: ${{ secrets.PAPERTRAIL_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: node ./benchmark-download.js
     - name: git-commit
       uses: stefanzweifel/git-auto-commit-action@v4
