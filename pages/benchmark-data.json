@@ -1,5 +1,18 @@
 [
   [
+    3308,
+    "2023-04-21T01:04:55.474Z",
+    "15.8 / 16.92 / 17.95",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp-no-mem none",
+    "sitaorange.safetensors [b9286ee558]",
+    "ochob",
+    ""
+  ],
+  [
     3307,
     "2023-04-16T19:09:46.009Z",
     "8.16 / 12.69 / 15.36",
