@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-20T09:09:58.330Z
+  ## Updated: 2023-04-20T10:10:22.901Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3301|2023-04-18T10:29:53.603Z|32.76 / 39.52 / 46.35|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-56-generic python:3.10.6|torch:1.13.1 autocast half xformers:0.0.16rc425 accelerate:0.15.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8900 24GB|xformers none|1.二次元/anything-v4.5-pruned.safetensors [6e430eb514]|root||
+  |3302|2023-04-20T17:22:15.486Z|18.69 / 30.21 / 31.48|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|perfectWorld_v2Baked.safetensors [79e42fb744]|Administrator||
+|3301|2023-04-18T10:29:53.603Z|32.76 / 39.52 / 46.35|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-56-generic python:3.10.6|torch:1.13.1 autocast half xformers:0.0.16rc425 accelerate:0.15.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8900 24GB|xformers none|1.二次元/anything-v4.5-pruned.safetensors [6e430eb514]|root||
 |3300|2023-04-13T13:43:25.165Z|12.41 / 17.0 / 23.0|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-56-generic python:3.10.6|torch:1.13.1 autocast half xformers:0.0.16rc425 accelerate:0.15.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 24GB|xformers none|anything-v4.5-pruned.safetensors [6e430eb514]|root||
 |3299|2023-04-20T00:23:39.368Z|1.79 / 1.66 / 1.68|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:2.0.0 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1| 0GB|InvokeAI none|v1-5-pruned-emaonly.ckpt [cc6cb27103]|zhonghuachen||
 |3298|2023-04-20T15:44:34.929Z|1.7 / 1.73 / 1.77|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:2.0.0 full half xformers:unavailable accelerate:0.12.0 transformers:4.25.1| 0GB|sub-quadratic none|sd-v1-4.ckpt [fe4efff1e1]|zhonghuachen||
