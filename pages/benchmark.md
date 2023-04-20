@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-19T23:43:53.170Z
+  ## Updated: 2023-04-20T03:54:20.665Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3295|2023-04-20T11:38:24.708Z|1.79 / 1.12 / 1.13|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:6.2.11-arch1-1 python:3.10.10|torch:2.0.0 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:AMD Radeon RX Vega (1) hip:5.4.22804- 8GB|Doggettx none|chilloutmix_Ni.safetensors [7234b76e42]|lobocat||
+  |3296|2023-04-20T15:08:15.206Z|6.04 / 6.71 / 7.07|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-69-generic python:3.10.6|torch:1.12.1+cu113 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (sm_86) (8, 6) cuda:11.3 cudnn:8302 12GB|Doggettx none|(二次元效果最佳模型)AbyssOrangeMix_base.ckpt [bbd2621f3e]|ai||
+|3295|2023-04-20T11:38:24.708Z|1.79 / 1.12 / 1.13|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:6.2.11-arch1-1 python:3.10.10|torch:2.0.0 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:AMD Radeon RX Vega (1) hip:5.4.22804- 8GB|Doggettx none|chilloutmix_Ni.safetensors [7234b76e42]|lobocat||
 |3294|2023-04-20T08:31:25.456Z|8.93 / 10.79 / 12.91|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23419-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8801 24GB|xformers none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|geduo||
 |3293|2023-04-20T08:29:09.227Z|9.3 / 10.84 / 13.03|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23419-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8900 24GB|xformers none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|geduo||
 |3292|2023-04-20T08:26:31.966Z|3.53 / 4.84 / 6.7|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23419-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 24GB|xformers none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|geduo||

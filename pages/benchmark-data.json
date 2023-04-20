@@ -1,5 +1,18 @@
 [
   [
+    3296,
+    "2023-04-20T15:08:15.206Z",
+    "6.04 / 6.71 / 7.07",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-69-generic python:3.10.6",
+    "torch:1.12.1+cu113 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (sm_86) (8, 6) cuda:11.3 cudnn:8302 12GB",
+    "Doggettx none",
+    "(二次元效果最佳模型)AbyssOrangeMix_base.ckpt [bbd2621f3e]",
+    "ai",
+    ""
+  ],
+  [
     3295,
     "2023-04-20T11:38:24.708Z",
     "1.79 / 1.12 / 1.13",
