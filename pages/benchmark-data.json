@@ -1,5 +1,44 @@
 [
   [
+    3305,
+    "2023-04-20T20:09:11.705Z",
+    "18.66 / 30.65 / 41.29",
+    "updated:2023-03-14 hash:a9fed7c3 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "kanpiromix_v10.safetensors [bee8b3b85a]",
+    "Administrator",
+    ""
+  ],
+  [
+    3304,
+    "2023-04-20T20:07:06.592Z",
+    "7.69 / 14.38 / 20.6",
+    "updated:2023-03-14 hash:a9fed7c3 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "perfectWorld_v2Baked.safetensors [79e42fb744]",
+    "Administrator",
+    ""
+  ],
+  [
+    3303,
+    "2023-04-20T19:52:11.630Z",
+    "7.63 / 13.86 / 20.5",
+    "updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "kanpiromix_v10.safetensors [bee8b3b85a]",
+    "Administrator",
+    ""
+  ],
+  [
     3302,
     "2023-04-20T17:22:15.486Z",
     "18.69 / 30.21 / 31.48",
