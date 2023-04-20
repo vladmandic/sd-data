@@ -1,5 +1,31 @@
 [
   [
+    3307,
+    "2023-04-16T19:09:46.009Z",
+    "8.16 / 12.69 / 15.36",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:1.12.1+cu113 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.3 cudnn:8302 12GB",
+    "Doggettx none",
+    "endlessMixV3.5.safetensors [a0b0f8a8f7]",
+    "yasud",
+    ""
+  ],
+  [
+    3306,
+    "2023-04-20T22:30:58.297Z",
+    "12.66 / 14.08 / 15.1",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/feature-custom",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-38-generic python:3.10.10",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.18+bde8248.d20230413 accelerate:0.18.0 transformers:4.28.0",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:11.8 cudnn:8900 22GB",
+    "xformers none",
+    "chilloutmix_NiPrunedFp16Fix.safetensors [59ffe2243a]",
+    "jay",
+    ""
+  ],
+  [
     3305,
     "2023-04-20T20:09:11.705Z",
     "18.66 / 30.65 / 41.29",
