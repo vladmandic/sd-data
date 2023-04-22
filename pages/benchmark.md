@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-22T07:08:24.741Z
+  ## Updated: 2023-04-22T08:11:25.745Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3358|2023-04-22T15:19:02.490Z|25.12 / 36.34 / 39.76 / 38.03 / 37.39||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.0.dev20230421+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.0|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB|sdp none|anythingelseV4_v45.safetensors [6e430eb514]|marsil||
+  |3359|2023-04-22T16:03:22.031Z|1.48 / 1.48 / 1.51|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.11|torch:2.0.0 full half xformers:unavailable accelerate:0.12.0 transformers:4.25.1| 0GB|sub-quadratic none|AnythingV5V3_v5PrtRE.safetensors [7f96a1a9ca]|zhonghuachen||
+|3358|2023-04-22T15:19:02.490Z|25.12 / 36.34 / 39.76 / 38.03 / 37.39||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.0.dev20230421+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.0|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB|sdp none|anythingelseV4_v45.safetensors [6e430eb514]|marsil||
 |3357|2023-04-22T15:08:55.819Z|24.6 / 35.14 / 37.75||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.0.dev20230421+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.0|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|tmndMix_tmndMixIII.safetensors [83426ab8af]|marsil||
 |3356|2023-04-22T14:34:53.311Z|26.03 / 35.1 / 38.35||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.0|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB|sdp none|zemihr_v1.safetensors [a5974f0ddf]|marsil||
 |3355|2023-04-22T14:29:52.220Z|23.18 / 32.76 / 34.83||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.0|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|zemihr_v1.safetensors [a5974f0ddf]|marsil||

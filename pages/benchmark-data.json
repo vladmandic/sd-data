@@ -1,5 +1,18 @@
 [
   [
+    3359,
+    "2023-04-22T16:03:22.031Z",
+    "1.48 / 1.48 / 1.51",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.11",
+    "torch:2.0.0 full half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic none",
+    "AnythingV5V3_v5PrtRE.safetensors [7f96a1a9ca]",
+    "zhonghuachen",
+    ""
+  ],
+  [
     3358,
     "2023-04-22T15:19:02.490Z",
     "25.12 / 36.34 / 39.76 / 38.03 / 37.39",
