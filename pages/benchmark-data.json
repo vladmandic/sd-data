@@ -1,5 +1,31 @@
 [
   [
+    3378,
+    "2023-04-22T23:48:23.918Z",
+    "6.12 / 7.0 / 7.37",
+    "updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.4",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "elldrethsStolendreams_stolenDreams-0985-0000-1141.safetensors [861c1856d9]",
+    "dullson",
+    ""
+  ],
+  [
+    3377,
+    "2023-04-23T05:26:13.109Z",
+    "2.53 / 7.7 / 8.21",
+    "updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "meinamix_meinaV9.safetensors [eac6c08a19]",
+    "ting1",
+    ""
+  ],
+  [
     3376,
     "2023-04-22T21:56:50.762Z",
     "10.48 / 12.65 / 16.33",
