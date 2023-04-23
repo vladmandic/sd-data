@@ -1,5 +1,44 @@
 [
   [
+    3394,
+    "2023-04-23T11:36:22.576Z",
+    "13.42 / 17.79 / 19.89",
+    "updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "cuteRichstyle21_cuteRichstyle.ckpt [8c0c253bc5]",
+    "reaver",
+    ""
+  ],
+  [
+    3393,
+    "2023-04-23T11:31:35.597Z",
+    "11.18 / 12.68 / 14.23",
+    "updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "sdp none",
+    "realisticVisionV20_v20.safetensors [c0d1994c73]",
+    "JPS",
+    ""
+  ],
+  [
+    3392,
+    "2023-04-23T11:09:52.600Z",
+    "6.33 / 7.1 / 7.53",
+    "updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "NutsDiffusion3.safetensors [43e73e0ecd]",
+    "Peanutiz",
+    ""
+  ],
+  [
     3391,
     "2023-04-23T15:43:09.155Z",
     "",
