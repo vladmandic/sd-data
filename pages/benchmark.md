@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-22T23:09:21.041Z
+  ## Updated: 2023-04-23T00:55:55.178Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3382|2023-04-22T18:34:35.377Z|2.2 / 4.28 / 7.91|updated:2023-04-22 hash:ec532ee9 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.12-1-cachyos python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp lowvram|v2-1_768-ema-pruned.safetensors [dcd690123c]|me||
+  |3383|2023-04-23T01:35:10.424Z|8.85 / 10.59 / 11.15|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2080 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|uberRealisticPornMerge_urpmv12.safetensors [fcfaf106f2]|Volta||
+|3382|2023-04-22T18:34:35.377Z|2.2 / 4.28 / 7.91|updated:2023-04-22 hash:ec532ee9 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.12-1-cachyos python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp lowvram|v2-1_768-ema-pruned.safetensors [dcd690123c]|me||
 |3381|2023-04-22T18:36:13.069Z|35.12 / 43.77 / 47.99|updated:2023-04-22 hash:ec532ee9 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.12-1-cachyos python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v2-1_768-ema-pruned.safetensors [dcd690123c]|me||
 |3380|2023-04-21T20:48:37.015Z|32.14 / 40.3 / 43.44 / 42.35 / 41.29|updated:2023-04-19 hash:e6701f5c url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.12-1-cachyos python:3.10.9|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|fantasticmixReal_v30Baked (2023_04_18 17_56_56 UTC).safetensors [6219970b0a]|me||
 |3379|2023-04-22T15:22:31.761Z|0.44 / 0.61 / 1.05|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp medvram|novelai-pruned.safetensors [db0ff6faf6]|Timmy||
