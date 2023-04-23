@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-23T08:11:41.502Z
+  ## Updated: 2023-04-23T09:08:57.307Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3390|2023-04-23T16:49:44.180Z|12.18 / 13.64 / 14.68|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|xformers none|CounterfeitV25_25.safetensors [a074b8864e]|Wolfpack||
+  |3391|2023-04-23T15:43:09.155Z||updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|none none|Anime\meinamix_meinaV9.safetensors [eac6c08a19]|True|t2ia_color_grid|
+|3390|2023-04-23T16:49:44.180Z|12.18 / 13.64 / 14.68|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|xformers none|CounterfeitV25_25.safetensors [a074b8864e]|Wolfpack||
 |3389|2023-04-23T14:44:00.515Z|11.29 / 12.65 / 13.44|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp none|CounterfeitV25_25.safetensors [a074b8864e]|Wolfpack||
 |3388|2023-04-23T11:09:01.543Z|0.59 / 0.71 / 0.73|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1050 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB|sdp none|bmshv_realistic.safetensors [1df2fb3fa8]|bunneo||
 |3387|2023-04-23T10:32:27.826Z|1.42 / 1.54 / 1.56|updated:2023-03-14 hash:a9fed7c3 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 23 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.6|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:Tesla P4 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp lowram|PlusZ.safetensors [a1c0b0baec]|akash||
