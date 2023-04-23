@@ -1,5 +1,18 @@
 [
   [
+    3411,
+    "2023-04-23T16:55:24.161Z",
+    "7.1 / 10.02 / 11.36",
+    "updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "AOM3.safetensors [d124fc18f0]",
+    "zak98",
+    ""
+  ],
+  [
     3410,
     "2023-04-23T22:33:53.363Z",
     "14.39 / 16.32 / 18.85",
