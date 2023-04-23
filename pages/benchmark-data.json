@@ -1,5 +1,31 @@
 [
   [
+    3409,
+    "2023-04-23T21:55:39.691Z",
+    "3.27 / 3.69 / 3.92",
+    "updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "Based65-Final-Mix.safetensors [ed526812bb]",
+    "FWFWLL",
+    ""
+  ],
+  [
+    3408,
+    "2023-04-23T21:34:20.185Z",
+    "0.27 / 0.48 / 0.71",
+    "updated:2023-04-23 hash:bef352c2 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "sdp medvram",
+    "Based65-Final-Mix.safetensors [ed526812bb]",
+    "fuwaf",
+    ""
+  ],
+  [
     3407,
     "2023-04-23T18:13:02.224Z",
     "17.33 / 20.34 / 22.53",
