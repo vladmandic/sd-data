@@ -1,5 +1,18 @@
 [
   [
+    3402,
+    "2023-04-24T00:51:07.184Z",
+    "22.7 / 30.25 / 38.18",
+    "updated:2023-03-14 hash:a9fed7c3 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers lowram",
+    "AbyssOrangeMix2_nsfw.safetensors [0873291ac5]",
+    "orc",
+    ""
+  ],
+  [
     3401,
     "2023-04-23T16:56:23.561Z",
     "2.14 / 1.34 / 1.44",
