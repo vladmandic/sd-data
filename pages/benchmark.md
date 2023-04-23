@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-23T14:07:52.647Z
+  ## Updated: 2023-04-23T15:09:03.266Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3399|2023-04-23T06:40:59.900Z|5.62 / 6.38 / 6.85 / 7.11 / 7.26|updated:2023-04-23 hash:bef352c2 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.11-arch1-1 python:3.10.9|torch:2.0.0+cu118 Full half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|fantasticmixReal_v30.safetensors [929adade89]|drekan||
+  |3401|2023-04-23T16:56:23.561Z|2.14 / 1.34 / 1.44|updated:2023-04-23 hash:40184f9e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|2019kenshi.ckpt [a4b23ea903]|x3ns0r||
+|3400|2023-04-23T16:51:40.595Z|1.58 / 2.04 / error / error / error|updated:2023-04-23 hash:40184f9e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp-no-mem none|2019kenshi.ckpt [a4b23ea903]|x3ns0r||
+|3399|2023-04-23T06:40:59.900Z|5.62 / 6.38 / 6.85 / 7.11 / 7.26|updated:2023-04-23 hash:bef352c2 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.11-arch1-1 python:3.10.9|torch:2.0.0+cu118 Full half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|fantasticmixReal_v30.safetensors [929adade89]|drekan||
 |3398|2023-04-22T14:17:54.899Z|4.88 / 5.3 / 5.81|updated:2023-04-22 hash:4cb46d54 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.11-arch1-1 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp-no-mem none|fantasticmixReal_v30.safetensors [929adade89]|drekan||
 |3397|2023-04-16T15:43:11.345Z|5.31 / 5.83 / 6.49|updated:2023-04-16 hash:58df74cf url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.10-arch1-1 python:3.10.9|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|xformers none|fantasticmix_real_V2_baked.safetensors [d39b52e2c3]|drekan||
 |3396|2023-04-16T15:22:09.777Z|2.55 / 2.69 / 2.66|updated:2023-04-16 hash:58df74cf url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.10-arch1-1 python:3.10.9|torch:2.0.0+cu118 autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|fantasticmix_real_V2_baked.safetensors [d39b52e2c3]|drekan||
