@@ -1,5 +1,18 @@
 [
   [
+    3387,
+    "2023-04-23T10:32:27.826Z",
+    "1.42 / 1.54 / 1.56",
+    "updated:2023-03-14 hash:a9fed7c3 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 23 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    "device:Tesla P4 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "sdp lowram",
+    "PlusZ.safetensors [a1c0b0baec]",
+    "akash",
+    ""
+  ],
+  [
     3386,
     "2023-04-22T21:05:30.716Z",
     "2.75 / 2.78 / 2.89",
