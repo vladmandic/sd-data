@@ -1,5 +1,31 @@
 [
   [
+    3416,
+    "2023-04-23T21:17:40.656Z",
+    "error / error / error",
+    "updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.9.13",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AnyV3-NAI-R.safetensors [5a77e479a2]",
+    "dalli",
+    ""
+  ],
+  [
+    3415,
+    "2023-04-23T21:11:48.830Z",
+    "error / error / error",
+    "updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.9.13",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AnyV3-NAI-R.safetensors [5a77e479a2]",
+    "dalli",
+    ""
+  ],
+  [
     3414,
     "2023-04-23T23:44:55.152Z",
     "error / error / error",
