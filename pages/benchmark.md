@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-24T16:12:28.304Z
+  ## Updated: 2023-04-24T19:07:50.440Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3432|2023-04-24T23:44:13.074Z|18.47 / 28.34 / 30.21|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 24GB|sdp none|Anything-V3.0.ckpt [812cd9f9d9]|Administrator||
+  |3433|2023-04-24T13:19:43.848Z|6.78 / 7.82 / 8.95|updated:2023-04-24 hash:85798f63 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|Anime\comicBabes_v1.safetensors [9211801e30]|drakerichards||
+|3432|2023-04-24T23:44:13.074Z|18.47 / 28.34 / 30.21|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 24GB|sdp none|Anything-V3.0.ckpt [812cd9f9d9]|Administrator||
 |3431|2023-04-24T23:38:24.596Z|13.08 / 18.73 / 20.54|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 24GB|Doggettx none|dalcefoV3Anime_dalcefoV3Anime.safetensors [d62d1a7201]|Administrator||
 |3430|2023-04-12T02:53:30.579Z|22.08 / 26.93 / 30.5 / 28.19 / 26.31|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 24GB|xformers none|abyssorangemix2SFW_abyssorangemix2Sfw.safetensors [2c6c9b3e47]|Mozalic||
 |3429|2023-04-24T15:58:33.302Z|3.27 / 3.68 / 3.99|updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp-no-mem none|Based65-Final-Mix.safetensors [ed526812bb]|fuwaf||

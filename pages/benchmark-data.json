@@ -1,5 +1,18 @@
 [
   [
+    3433,
+    "2023-04-24T13:19:43.848Z",
+    "6.78 / 7.82 / 8.95",
+    "updated:2023-04-24 hash:85798f63 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "Anime\\comicBabes_v1.safetensors [9211801e30]",
+    "drakerichards",
+    ""
+  ],
+  [
     3432,
     "2023-04-24T23:44:13.074Z",
     "18.47 / 28.34 / 30.21",
