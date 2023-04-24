@@ -1,5 +1,18 @@
 [
   [
+    3426,
+    "2023-04-24T13:34:46.854Z",
+    "4.38 / 4.62 / 5.14",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/Michoko92/automatic-stable-diffusion-webui.git/tree/",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17rc481 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "xformers medvram",
+    "protogenInfinity_protogenX86.safetensors [3cc11263b7]",
+    "Fred",
+    ""
+  ],
+  [
     3425,
     "2023-04-24T18:04:31.923Z",
     "16.59 / 18.81 / 19.63",
