@@ -1,5 +1,31 @@
 [
   [
+    3496,
+    "2023-04-27T13:27:58.247Z",
+    "10.22 / 11.97 / 14.53",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB",
+    "sdp none",
+    "AnythingV5_PrtRE.safetensors [7f96a1a9ca]",
+    "wyj",
+    ""
+  ],
+  [
+    3495,
+    "2023-04-25T22:36:11.301Z",
+    "17.33 / 28.37 / 37.85",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AnythingV5_PrtRE.safetensors [7f96a1a9ca]",
+    "wyj",
+    ""
+  ],
+  [
     3494,
     "2023-04-27T11:13:36.206Z",
     "20.77 / 33.58 / 41.73",
