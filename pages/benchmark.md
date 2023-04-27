@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-27T14:09:05.657Z
+  ## Updated: 2023-04-27T16:10:31.609Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3527|2023-04-27T00:43:52.456Z|0.82|updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none medvram|Based64mix-V3.safetensors [fdf0096972]|admin||
+  |3529|2023-04-27T23:34:32.020Z|21.54 / 26.27 / 30.06|updated:2023-04-25 hash:dcd6d5bf url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|stable-diffusion-v1-4.safetensors [9d6a233ff6]|86135||
+|3528|2023-04-27T23:31:24.006Z|22.11 / 24.82 / 30.29|updated:2023-04-25 hash:dcd6d5bf url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|stable-diffusion-v1-4.safetensors [9d6a233ff6]|86135||
+|3527|2023-04-27T00:43:52.456Z|0.82|updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none medvram|Based64mix-V3.safetensors [fdf0096972]|admin||
 |3526|2023-04-27T00:39:51.434Z|0.81|updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|doggettx medvram|Based64mix-V3.safetensors [fdf0096972]|admin||
 |3525|2023-04-27T00:37:39.958Z|error|updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|v1 medvram|Based64mix-V3.safetensors [fdf0096972]|admin||
 |3524|2023-04-26T19:59:30.113Z|0.86|updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sub-quadratic medvram|Based64mix-V3.safetensors [fdf0096972]|admin||
