@@ -1,5 +1,44 @@
 [
   [
+    3502,
+    "2023-04-27T17:55:26.515Z",
+    "11.02 / 12.06 / 14.16",
+    "updated:2023-04-25 hash:24531398 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA RTX A4000 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB",
+    "sdp none",
+    "chilled_remixr_v1vae.safetensors [3e45450e39]",
+    "anoano",
+    ""
+  ],
+  [
+    3501,
+    "2023-04-27T20:53:43.615Z",
+    "12.95 / 15.07 / 16.33 / 17.06 / 8.67",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23440-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.28.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "abyssorangemix3AOM3_aom3.safetensors [d124fc18f0]",
+    "marti",
+    ""
+  ],
+  [
+    3500,
+    "2023-04-26T20:32:26.828Z",
+    "11.07 / 12.31 / 13.26 / 13.77 / 23.72",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23440-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.18 accelerate:0.18.0 transformers:4.28.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "crescentSun_v10.safetensors [e174fbf828]",
+    "marti",
+    ""
+  ],
+  [
     3499,
     "2023-04-27T18:38:52.418Z",
     "5.95 / 6.67 / 7.02",
