@@ -1,5 +1,18 @@
 [
   [
+    3530,
+    "2023-04-27T13:46:36.774Z",
+    "2.75 / error / error",
+    "updated:2023-04-27 hash:5dcaaba6 url:git@github.com:vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-69-generic python:3.10.6",
+    "torch:1.13.1+rocm5.2 Full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:AMD Radeon RX 5700 XT (1) hip:5.2.21151-afdc89f8 8GB",
+    "none none",
+    "dreamshaper_5PrunedNovae.safetensors [5415fd85c7]",
+    "gaston",
+    ""
+  ],
+  [
     3529,
     "2023-04-27T23:34:32.020Z",
     "21.54 / 26.27 / 30.06",
