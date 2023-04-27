@@ -1,5 +1,18 @@
 [
   [
+    3535,
+    "2023-04-27T15:30:40.009Z",
+    "8.59 / 13.7 / 16.67",
+    "updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ben",
+    ""
+  ],
+  [
     3534,
     "2023-04-28T02:03:56.225Z",
     "30.3 / 34.47 / 40.56 / 39.47 / 40.23",
