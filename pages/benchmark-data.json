@@ -1,5 +1,44 @@
 [
   [
+    3505,
+    "2023-04-27T11:45:25.364Z",
+    "20.79 / 25.89 / 26.25 / 26.7 / 26.49",
+    "updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.2.12-zen1-1-zen python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "xformers none",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "entheogen",
+    ""
+  ],
+  [
+    3504,
+    "2023-04-27T21:27:26.871Z",
+    "13.41 / 14.83 / 15.61 / 16.02 / 14.84",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23440-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.18 accelerate:0.18.0 transformers:4.28.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "abyssorangemix3AOM3_aom3.safetensors [d124fc18f0]",
+    "marti",
+    "token merging 0p5"
+  ],
+  [
+    3503,
+    "2023-04-27T11:27:29.182Z",
+    "21.31 / 25.31 / 26.02 / 26.75 / 26.61",
+    "updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.2.12-zen1-1-zen python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "sdp none",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "entheogen",
+    ""
+  ],
+  [
     3502,
     "2023-04-27T17:55:26.515Z",
     "11.02 / 12.06 / 14.16",
