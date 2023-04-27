@@ -1,5 +1,31 @@
 [
   [
+    3494,
+    "2023-04-27T11:13:36.206Z",
+    "20.77 / 33.58 / 41.73",
+    "updated:2023-04-11 hash:47ae7014 url:https://github.com/meta-nc/stable-diffusion-webui-meta/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-147-generic python:3.10.9",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.17.dev476 accelerate:0.17.1 transformers:4.27.2",
+    "device:NVIDIA A100 80GB PCIe (4) (sm_86) (8, 0) cuda:11.7 cudnn:8500 79GB",
+    "xformers none",
+    "henmixReal_v10.ckpt [1d8d6e1204]",
+    "kyumin",
+    ""
+  ],
+  [
+    3493,
+    "2023-03-24T11:16:14.504Z",
+    "14.85 / 18.58 / 23.88 / 42.52 / 44.96",
+    "updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-136-generic python:3.10.9",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.17.dev476 accelerate:0.17.1 transformers:4.27.2",
+    "device:NVIDIA A100 80GB PCIe (4) (sm_86) (8, 0) cuda:11.7 cudnn:8500 79GB",
+    "xformers none",
+    "henmixReal_v10.safetensors [5c2e28a5ce]",
+    "a100-webui-venv",
+    ""
+  ],
+  [
     3492,
     "2023-04-27T00:56:15.488Z",
     "4.03 / 4.51 / 4.95",

@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-26T23:09:56.499Z
+  ## Updated: 2023-04-27T03:10:26.339Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3492|2023-04-27T00:56:15.488Z|4.03 / 4.51 / 4.95|updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|sd-v1-4.ckpt [fe4efff1e1]|WOLFO||
+  |3494|2023-04-27T11:13:36.206Z|20.77 / 33.58 / 41.73|updated:2023-04-11 hash:47ae7014 url:https://github.com/meta-nc/stable-diffusion-webui-meta/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-147-generic python:3.10.9|torch:1.13.1+cu117 autocast half xformers:0.0.17.dev476 accelerate:0.17.1 transformers:4.27.2|device:NVIDIA A100 80GB PCIe (4) (sm_86) (8, 0) cuda:11.7 cudnn:8500 79GB|xformers none|henmixReal_v10.ckpt [1d8d6e1204]|kyumin||
+|3493|2023-03-24T11:16:14.504Z|14.85 / 18.58 / 23.88 / 42.52 / 44.96|updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-136-generic python:3.10.9|torch:1.13.1+cu117 autocast half xformers:0.0.17.dev476 accelerate:0.17.1 transformers:4.27.2|device:NVIDIA A100 80GB PCIe (4) (sm_86) (8, 0) cuda:11.7 cudnn:8500 79GB|xformers none|henmixReal_v10.safetensors [5c2e28a5ce]|a100-webui-venv||
+|3492|2023-04-27T00:56:15.488Z|4.03 / 4.51 / 4.95|updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|sd-v1-4.ckpt [fe4efff1e1]|WOLFO||
 |3491|2023-04-27T00:46:45.937Z|3.98 / 4.48 / 4.92|updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|sd-v1-4.ckpt [fe4efff1e1]|WOLFO||
 |3490|2023-04-19T23:56:36.475Z|3.97 / 4.47 / 4.97|updated:2023-04-19 hash:e6701f5c url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|revAnimated_v11.safetensors [d725be5d18]|WOLFO||
 |3489|2023-04-26T23:12:44.178Z|5.82 / 6.5 / 7.15 / 7.45 / 7.11|updated:2023-04-26 hash:8ee0b47f url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 45 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8801 12GB|sdp-no-mem none|revAnimated_v11.ckpt [acfd73b8a7]|Irbis||
