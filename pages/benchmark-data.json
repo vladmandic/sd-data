@@ -1,5 +1,44 @@
 [
   [
+    3577,
+    "2023-04-28T23:07:19.596Z",
+    "28.36 / 39.18 / 45.86",
+    "updated:2023-03-25 hash:aba5d639 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.9",
+    "torch:2.1.0.dev20230326+cu118 autocast half xformers:0.0.18+7ea6325.d20230404 accelerate:0.18.0 transformers:4.28.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB",
+    "xformers none",
+    "Latex.ID.v.2.3512.smFR-Ftt.safetensors [0d01002572]",
+    "idle",
+    "latex.id rebuild 21"
+  ],
+  [
+    3576,
+    "2023-04-07T03:43:11.189Z",
+    "26.39 / 34.81 / 40.62",
+    "updated:2023-03-25 hash:aba5d639 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.9",
+    "torch:2.1.0.dev20230326+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 24GB",
+    "sdp none",
+    "wtfreally3-0-F-reset-all.ckpt [bb33105cb7]",
+    "idle",
+    "run check"
+  ],
+  [
+    3575,
+    "2023-04-28T12:41:35.026Z",
+    "17.36 / 31.23 / 43.46 / 42.47 / 42.18",
+    "updated:2023-04-28 hash:eeea06b9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "edgeOfRealism_eorV20Fp16BakedVAE.safetensors [7f6146b8a9]",
+    "matt",
+    ""
+  ],
+  [
     3574,
     "2023-04-28T20:57:38.378Z",
     "1.92 / 2.76 / 2.87",
