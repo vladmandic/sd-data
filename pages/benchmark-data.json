@@ -1,5 +1,31 @@
 [
   [
+    3551,
+    "2023-04-28T15:52:19.166Z",
+    "3.61 / 5.55 / 7.72",
+    "updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.9-200.fc37.x86_64 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp medvram",
+    "CounterfeitV25_25.safetensors [a074b8864e]",
+    "aknobi",
+    ""
+  ],
+  [
+    3550,
+    "2023-04-27T22:24:46.477Z",
+    "6.11 / 6.94 / 7.77",
+    "updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "anything-v3-fp32-pruned.safetensors [3088848987]",
+    "Sean",
+    ""
+  ],
+  [
     3549,
     "2023-04-27T20:43:42.014Z",
     "6.54 / 7.29 / 8.4",
