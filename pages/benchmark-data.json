@@ -1,5 +1,31 @@
 [
   [
+    3563,
+    "2023-04-28T20:58:04.608Z",
+    "0.85 / 0.91 / 0.94",
+    "updated:2023-04-27 hash:ba02d0c2 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6",
+    "torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 4GB",
+    "doggettx medvram",
+    "abyssorangemix3AOM3_aom3a1.safetensors [f303d10812]",
+    "roman",
+    ""
+  ],
+  [
+    3562,
+    "2023-04-28T20:51:09.634Z",
+    "error / error / error",
+    "updated:2023-04-27 hash:ba02d0c2 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6",
+    "torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 4GB",
+    "none none",
+    "abyssorangemix3AOM3_aom3a1.safetensors [f303d10812]",
+    "roman",
+    ""
+  ],
+  [
     3561,
     "2023-04-28T10:00:24.929Z",
     "4.95 / 5.38 / 5.68",

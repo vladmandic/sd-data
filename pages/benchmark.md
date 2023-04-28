@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-28T08:12:33.021Z
+  ## Updated: 2023-04-28T11:08:04.287Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3561|2023-04-28T10:00:24.929Z|4.95 / 5.38 / 5.68|updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|v1 none|v1-5-pruned.safetensors [1a189f0be6]|erce||
+  |3563|2023-04-28T20:58:04.608Z|0.85 / 0.91 / 0.94|updated:2023-04-27 hash:ba02d0c2 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6|torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 4GB|doggettx medvram|abyssorangemix3AOM3_aom3a1.safetensors [f303d10812]|roman||
+|3562|2023-04-28T20:51:09.634Z|error / error / error|updated:2023-04-27 hash:ba02d0c2 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6|torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 4GB|none none|abyssorangemix3AOM3_aom3a1.safetensors [f303d10812]|roman||
+|3561|2023-04-28T10:00:24.929Z|4.95 / 5.38 / 5.68|updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|v1 none|v1-5-pruned.safetensors [1a189f0be6]|erce||
 |3560|2023-04-28T09:58:42.039Z|5.15 / 5.69 / 6.05|updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sub-quadratic none|v1-5-pruned.safetensors [1a189f0be6]|erce||
 |3559|2023-04-28T09:55:59.053Z|6.44 / 7.14 / 7.7|updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|doggettx none|v1-5-pruned.safetensors [1a189f0be6]|erce||
 |3558|2023-04-28T09:54:38.343Z|6.46 / 7.29 / 7.75|updated:2023-04-27 hash:1f6261be url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|invokeai none|v1-5-pruned.safetensors [1a189f0be6]|erce||
