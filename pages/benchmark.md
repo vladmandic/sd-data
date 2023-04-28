@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-28T17:08:55.328Z
+  ## Updated: 2023-04-28T18:11:28.222Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3573|2023-04-28T01:29:34.959Z|16.23 / 25.8 / 39.2|updated:2023-04-27 hash:bfe62127 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-21-cloud-amd64 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA A100-SXM4-40GB (2) (sm_90) (8, 0) cuda:11.8 cudnn:8700 39GB|sdp none|braBeautifulRealistic_v40.safetensors [9c03252bea]|zchee||
+  |3574|2023-04-28T20:57:38.378Z|1.92 / 2.76 / 2.87|updated:2023-04-28 hash:57241e25 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|25D_revAnimated_v122.safetensors [4199bcdd14]|ASUS||
+|3573|2023-04-28T01:29:34.959Z|16.23 / 25.8 / 39.2|updated:2023-04-27 hash:bfe62127 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-21-cloud-amd64 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA A100-SXM4-40GB (2) (sm_90) (8, 0) cuda:11.8 cudnn:8700 39GB|sdp none|braBeautifulRealistic_v40.safetensors [9c03252bea]|zchee||
 |3572|2023-04-25T11:29:24.977Z|1.3 / 1.26 / 1.58|updated:2023-04-24 hash:82d7b45c url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|v1 medvram|v1-5-pruned-emaonly.safetensors [6ce0161689]|anon||
 |3571|2023-04-28T18:03:31.129Z|1.57 / 1.51 / 2.0|updated:2023-04-28 hash:57241e25 url:https://github.com/vladmandic/automatic/tree/my-branch|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|xformers medvram|sd15-fp16_mse_vae_fp16.ckpt [c2eaa92de1]|anon||
 |3570|2023-04-28T18:00:32.412Z|1.59 / 2.08 / 2.24|updated:2023-04-28 hash:57241e25 url:https://github.com/vladmandic/automatic/tree/my-branch|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|xformers none|sd15-fp16_mse_vae_fp16.ckpt [c2eaa92de1]|anon||
