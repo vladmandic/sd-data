@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-29T13:09:42.633Z
+  ## Updated: 2023-04-29T15:08:47.548Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3599|2023-04-29T20:37:36.408Z|11.32 / 12.77 / 14.39|updated:2023-03-29 hash:22bcc7be url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 autocast half xformers:0.0.19.dev516 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|yes||
+  |3600|2023-04-29T23:47:47.897Z|14.62 / 15.59 / 17.88|updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|SD15\feelyou_alpha1.safetensors [73dcc950c5]|oja||
+|3599|2023-04-29T20:37:36.408Z|11.32 / 12.77 / 14.39|updated:2023-03-29 hash:22bcc7be url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 autocast half xformers:0.0.19.dev516 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|yes||
 |3598|2023-04-29T20:11:58.753Z|5.41 / 5.92 / 6.22|updated:2023-03-29 hash:22bcc7be url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 autocast nohalf xformers:0.0.19.dev516 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|yes||
 |3597|2023-04-29T20:08:59.252Z|error / error / error|updated:2023-03-29 hash:22bcc7be url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 full half xformers:0.0.19.dev516 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|yes||
 |3596|2023-04-29T20:06:49.767Z|5.42 / 5.94 / 6.23|updated:2023-03-29 hash:22bcc7be url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 full nohalf xformers:0.0.19.dev516 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|yes||
