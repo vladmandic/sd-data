@@ -1,5 +1,57 @@
 [
   [
+    3587,
+    "2023-04-29T19:09:52.659Z",
+    "10.75 / 11.29 / 12.76",
+    "updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "real\\realisticVisionV20_v20\\realisticVisionV20_v20.safetensors [c0d1994c73]",
+    "Administrator",
+    ""
+  ],
+  [
+    3586,
+    "2023-04-29T14:08:45.971Z",
+    "14.76 / 20.7 / 30.78 / 33.64 / 34.65",
+    "updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "unvailAI3DKXV2_3dkxV2.safetensors [d10ad6063d]",
+    "vx_10",
+    ""
+  ],
+  [
+    3585,
+    "2023-04-25T15:13:42.221Z",
+    "12.8 / 14.64 / 16.89",
+    "updated:2023-04-25 hash:dcd6d5bf url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "sd-v1-5-ema.safetensors [8d71fb6fb5]",
+    "vx_10",
+    ""
+  ],
+  [
+    3584,
+    "2023-04-20T14:31:49.424Z",
+    "12.58 / 17.17 / 20.19 / 20.88 / 22.27",
+    "updated:2023-04-19 hash:e6701f5c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "sd-v1-5-ema.safetensors [8d71fb6fb5]",
+    "vx_10",
+    ""
+  ],
+  [
     3583,
     "2023-04-29T11:55:42.223Z",
     "7.9 / 9.07 / 9.62",
