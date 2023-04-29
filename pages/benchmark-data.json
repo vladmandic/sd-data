@@ -1,5 +1,44 @@
 [
   [
+    3583,
+    "2023-04-29T11:55:42.223Z",
+    "7.9 / 9.07 / 9.62",
+    "updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "work\\new\\AIVI_virtinfl_new.ckpt [0de2fd202f]",
+    "User",
+    ""
+  ],
+  [
+    3582,
+    "2023-04-29T10:39:40.023Z",
+    "21.67 / 29.04 / 37.07",
+    "updated:2023-04-28 hash:eeea06b9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "2Guofeng2_v20.safetensors [3257896d4b]",
+    "Usuario",
+    ""
+  ],
+  [
+    3581,
+    "2023-04-29T17:20:56.812Z",
+    "16.04 / 18.27 / 20.41",
+    "updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "2d\\calicomix_v11Pruned.safetensors [20d3eca4c2]",
+    "Ibanez",
+    ""
+  ],
+  [
     3580,
     "2023-04-29T02:59:18.252Z",
     "6.18 / 7.1 / 7.87",
