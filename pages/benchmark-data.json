@@ -1,5 +1,44 @@
 [
   [
+    3603,
+    "2023-04-29T12:28:59.057Z",
+    "5.94 / 6.92 / 7.74",
+    "updated:2023-04-29 hash:79c7e9d0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "none none",
+    "realisian_v10.safetensors [39b567e382]",
+    "franc",
+    ""
+  ],
+  [
+    3602,
+    "2023-04-29T12:27:04.949Z",
+    "4.83",
+    "updated:2023-04-29 hash:79c7e9d0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "none medvram",
+    "realisian_v10.safetensors [39b567e382]",
+    "franc",
+    ""
+  ],
+  [
+    3601,
+    "2023-04-29T12:20:04.840Z",
+    "5.96",
+    "updated:2023-04-29 hash:79c7e9d0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "realisian_v10.safetensors [39b567e382]",
+    "franc",
+    ""
+  ],
+  [
     3600,
     "2023-04-29T23:47:47.897Z",
     "14.62 / 15.59 / 17.88",
