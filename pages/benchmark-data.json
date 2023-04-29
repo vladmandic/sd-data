@@ -1,5 +1,31 @@
 [
   [
+    3579,
+    "2023-04-29T04:53:53.664Z",
+    "14.71 / 25.84 / 37.43",
+    "updated:2023-04-25 hash:8c562941 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "realisticVisionV20_v20.safetensors [c0d1994c73]",
+    "JPS",
+    ""
+  ],
+  [
+    3578,
+    "2023-04-29T12:53:51.747Z",
+    "4.66 / 6.86 / 9.22",
+    "updated:2023-04-28 hash:3b6effe4 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp medvram",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "vU",
+    ""
+  ],
+  [
     3577,
     "2023-04-28T23:07:19.596Z",
     "28.36 / 39.18 / 45.86",
