@@ -1,5 +1,18 @@
 [
   [
+    3622,
+    "2023-04-30T18:32:22.991Z",
+    "2.18 / 2.7 / 3.83",
+    "updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB",
+    "sdp medvram",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "11574",
+    ""
+  ],
+  [
     3621,
     "2023-04-30T17:18:16.815Z",
     "28.49 / 33.76 / 39.02 / 40.82 / 41.79",
