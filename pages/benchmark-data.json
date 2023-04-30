@@ -1,5 +1,31 @@
 [
   [
+    3621,
+    "2023-04-30T17:18:16.815Z",
+    "28.49 / 33.76 / 39.02 / 40.82 / 41.79",
+    "updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB",
+    "sdp none",
+    "v2-1_768-ema-pruned.ckpt [ad2a33c361]",
+    "Brahmachicken",
+    ""
+  ],
+  [
+    3620,
+    "2023-04-21T08:48:54.455Z",
+    "23.97 / 28.96 / 32.52",
+    "updated:2023-04-20 hash:df424d6d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Brahmachicken",
+    ""
+  ],
+  [
     3619,
     "2023-03-05T11:31:56.654Z",
     "5.35 / 8.58 / 10.51",
