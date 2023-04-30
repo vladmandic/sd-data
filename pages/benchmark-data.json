@@ -1,5 +1,31 @@
 [
   [
+    3624,
+    "2023-04-30T13:44:52.391Z",
+    "5.64 / 6.29 / 7.34",
+    "updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-71-generic python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "Lol0/clovermix_v20.safetensors [6344e96528]",
+    "armin",
+    ""
+  ],
+  [
+    3623,
+    "2023-04-30T14:21:54.064Z",
+    "3.86 / 1.9 / 3.22",
+    "updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "none none",
+    "SomethingV2_2.safetensors [b37f7ee0bc]",
+    "disty",
+    ""
+  ],
+  [
     3622,
     "2023-04-30T18:32:22.991Z",
     "2.18 / 2.7 / 3.83",

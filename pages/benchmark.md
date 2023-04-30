@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-30T11:07:19.804Z
+  ## Updated: 2023-04-30T12:16:42.091Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3622|2023-04-30T18:32:22.991Z|2.18 / 2.7 / 3.83|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB|sdp medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|11574||
+  |3624|2023-04-30T13:44:52.391Z|5.64 / 6.29 / 7.34|updated:2023-04-28 hash:d3f0294b url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-71-generic python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|Lol0/clovermix_v20.safetensors [6344e96528]|armin||
+|3623|2023-04-30T14:21:54.064Z|3.86 / 1.9 / 3.22|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none none|SomethingV2_2.safetensors [b37f7ee0bc]|disty||
+|3622|2023-04-30T18:32:22.991Z|2.18 / 2.7 / 3.83|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB|sdp medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|11574||
 |3621|2023-04-30T17:18:16.815Z|28.49 / 33.76 / 39.02 / 40.82 / 41.79|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 24GB|sdp none|v2-1_768-ema-pruned.ckpt [ad2a33c361]|Brahmachicken||
 |3620|2023-04-21T08:48:54.455Z|23.97 / 28.96 / 32.52|updated:2023-04-20 hash:df424d6d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|Brahmachicken||
 |3619|2023-03-05T11:31:56.654Z|5.35 / 8.58 / 10.51|updated:2023-02-20 hash:0cc0ee1b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:1.13.1+cu117 autocast half xformers:0.0.17.dev451 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 12GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|SirVeillance||
