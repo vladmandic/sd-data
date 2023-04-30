@@ -1,5 +1,18 @@
 [
   [
+    3627,
+    "2023-04-30T20:57:35.975Z",
+    "0.2",
+    "updated:2023-04-30 hash:b23b6a6e url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "sub-quadratic lowvram",
+    "openjourney-v4.ckpt [02e37aad9f]",
+    "aoki",
+    "openjourney-v4, rx 5600xt direct-ml on windows 11 22621.1635"
+  ],
+  [
     3626,
     "2023-04-30T21:58:11.740Z",
     "12.9 / 14.44 / 17.18",
