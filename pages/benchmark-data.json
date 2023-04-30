@@ -1,5 +1,18 @@
 [
   [
+    3633,
+    "2023-05-01T02:08:53.808Z",
+    "5.5 / 1.79 / 1.87",
+    "updated:2023-04-30 hash:3c7273e1 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "sdp-no-mem none",
+    "dreamshaper_5BakedVae.safetensors [a60cfaa90d]",
+    "arta",
+    ""
+  ],
+  [
     3632,
     "2023-04-30T22:42:34.223Z",
     "5.5 / 7.66 / 9.05",
