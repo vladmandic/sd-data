@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-04-30T17:07:59.327Z
+  ## Updated: 2023-04-30T19:07:01.853Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3630|2023-04-30T18:20:35.025Z|3.3 / 4.24 / 4.91|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|sdp medvram|fluffyrock-576-704-832-960-1088-lion-low-lr-e20.safetensors [c2e66adb36]|||
+  |3631|2023-04-30T11:49:57.936Z|6.59 / 7.31 / 7.93|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB|xformers none|lyriel_v15.safetensors [4d91c4c217]|ALG46||
+|3630|2023-04-30T18:20:35.025Z|3.3 / 4.24 / 4.91|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|sdp medvram|fluffyrock-576-704-832-960-1088-lion-low-lr-e20.safetensors [c2e66adb36]|||
 |3629|2023-04-30T17:38:44.310Z|5.61 / 6.14 / 6.62|updated:2023-04-30 hash:682330b1 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sub-quadratic none|2_allyVerisimilar-LazyAm10_50.safetensors [490fc43f13]|NPC||
 |3628|2023-04-30T16:31:24.799Z|10.14 / 17.59 / 22.29|updated:2023-04-29 hash:408147d9 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.1.26-1-lts python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB|sdp medvram,lowram|liberty_main.safetensors [8634d80dec]|jarivm||
 |3627|2023-04-30T20:57:35.975Z|0.2|updated:2023-04-30 hash:b23b6a6e url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sub-quadratic lowvram|openjourney-v4.ckpt [02e37aad9f]|aoki|openjourney-v4, rx 5600xt direct-ml on windows 11 22621.1635|
