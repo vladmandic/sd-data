@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-01T02:03:05.550Z
+  ## Updated: 2023-05-01T03:10:29.284Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3636|2023-04-30T20:33:58.904Z|32.78 / 39.83 / 45.29|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|dusty||
+  |3638|2023-05-01T11:54:12.854Z|4.82 / 5.98 / 7.0|updated:2023-04-30 hash:4dc59419 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.9.10|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers medvram|camelliamixNSFW_v11.safetensors [d3ffeb2390]|Administrator||
+|3637|2023-05-01T11:43:44.768Z|4.82 / 6.07 / 7.08|updated:2023-04-30 hash:4dc59419 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.9.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp medvram|camelliamixNSFW_v11.safetensors [d3ffeb2390]|Administrator||
+|3636|2023-04-30T20:33:58.904Z|32.78 / 39.83 / 45.29|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|dusty||
 |3635|2023-05-01T02:09:03.492Z|11.66 / 13.81 / 15.96|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp none|AbyssOrangeMix\AbyssOrangeMix.safetensors [cadf2c6654]|Minico||
 |3634|2023-04-30T16:50:31.837Z|6.67 / 7.68 / 8.48|updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|protogenX53Photorealism_10.safetensors [93a10d6661]|storm||
 |3633|2023-05-01T02:08:53.808Z|5.5 / 1.79 / 1.87|updated:2023-04-30 hash:3c7273e1 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp-no-mem none|dreamshaper_5BakedVae.safetensors [a60cfaa90d]|arta||
