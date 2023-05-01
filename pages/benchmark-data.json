@@ -1,5 +1,31 @@
 [
   [
+    3640,
+    "2023-05-01T06:04:03.556Z",
+    "15.87 / 28.08 / 36.89",
+    "updated:2023-04-30 hash:75b741f1 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "jps",
+    ""
+  ],
+  [
+    3639,
+    "2023-04-30T21:33:04.056Z",
+    "17.78 / 21.1 / 22.74",
+    "updated:2023-04-30 hash:75b741f1 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.13-060213-generic python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "chessley",
+    ""
+  ],
+  [
     3638,
     "2023-05-01T11:54:12.854Z",
     "4.82 / 5.98 / 7.0",
