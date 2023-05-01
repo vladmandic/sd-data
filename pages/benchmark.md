@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-01T00:54:58.864Z
+  ## Updated: 2023-05-01T02:03:05.550Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3634|2023-04-30T16:50:31.837Z|6.67 / 7.68 / 8.48|updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|protogenX53Photorealism_10.safetensors [93a10d6661]|storm||
+  |3636|2023-04-30T20:33:58.904Z|32.78 / 39.83 / 45.29|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|dusty||
+|3635|2023-05-01T02:09:03.492Z|11.66 / 13.81 / 15.96|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp none|AbyssOrangeMix\AbyssOrangeMix.safetensors [cadf2c6654]|Minico||
+|3634|2023-04-30T16:50:31.837Z|6.67 / 7.68 / 8.48|updated:2023-04-24 hash:023e13b3 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|protogenX53Photorealism_10.safetensors [93a10d6661]|storm||
 |3633|2023-05-01T02:08:53.808Z|5.5 / 1.79 / 1.87|updated:2023-04-30 hash:3c7273e1 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp-no-mem none|dreamshaper_5BakedVae.safetensors [a60cfaa90d]|arta||
 |3632|2023-04-30T22:42:34.223Z|5.5 / 7.66 / 9.05|updated:2023-04-30 hash:3c7273e1 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none none|SomethingV2_2.safetensors [b37f7ee0bc]|disty||
 |3631|2023-04-30T11:49:57.936Z|6.59 / 7.31 / 7.93|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB|xformers none|lyriel_v15.safetensors [4d91c4c217]|ALG46||

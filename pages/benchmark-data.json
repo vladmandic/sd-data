@@ -1,5 +1,31 @@
 [
   [
+    3636,
+    "2023-04-30T20:33:58.904Z",
+    "32.78 / 39.83 / 45.29",
+    "updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "dusty",
+    ""
+  ],
+  [
+    3635,
+    "2023-05-01T02:09:03.492Z",
+    "11.66 / 13.81 / 15.96",
+    "updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "sdp none",
+    "AbyssOrangeMix\\AbyssOrangeMix.safetensors [cadf2c6654]",
+    "Minico",
+    ""
+  ],
+  [
     3634,
     "2023-04-30T16:50:31.837Z",
     "6.67 / 7.68 / 8.48",
