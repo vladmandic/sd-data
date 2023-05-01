@@ -1,5 +1,18 @@
 [
   [
+    3662,
+    "2023-05-01T15:59:39.363Z",
+    "10.86 / 12.84 / 13.49",
+    "updated:2023-05-01 hash:d4a748d7 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10",
+    "torch:2.1.0.dev20230429+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.28.1",
+    "device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB",
+    "sdp none",
+    "epi-hyperphotogodess-v1-CLIP-fix.safetensors [a89f142591]",
+    "<redacted>",
+    ""
+  ],
+  [
     3661,
     "2023-05-01T19:58:56.330Z",
     "4.02 / 7.18 / 11.77 / 15.57 / 18.83",

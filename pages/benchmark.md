@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-01T18:11:58.198Z
+  ## Updated: 2023-05-01T21:08:29.804Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3661|2023-05-01T19:58:56.330Z|4.02 / 7.18 / 11.77 / 15.57 / 18.83|updated:2023-05-01 hash:72cd27a1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 24GB|xformers none|AOM3A1B_orangemixs.safetensors [5493a0ec49]|PrivateGER||
+  |3662|2023-05-01T15:59:39.363Z|10.86 / 12.84 / 13.49|updated:2023-05-01 hash:d4a748d7 url:https://github.com/vladmandic/automatic.git/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:2.1.0.dev20230429+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.28.1|device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB|sdp none|epi-hyperphotogodess-v1-CLIP-fix.safetensors [a89f142591]|<redacted>||
+|3661|2023-05-01T19:58:56.330Z|4.02 / 7.18 / 11.77 / 15.57 / 18.83|updated:2023-05-01 hash:72cd27a1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 24GB|xformers none|AOM3A1B_orangemixs.safetensors [5493a0ec49]|PrivateGER||
 |3660|2023-05-01T19:58:13.973Z|3.85 / 7.11 / 11.59|updated:2023-05-01 hash:72cd27a1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 24GB|xformers none|AOM3A1B_orangemixs.safetensors [5493a0ec49]|PrivateGER||
 |3659|2023-05-01T20:46:05.684Z|3.58 / 7.2 / 12.44 / 19.99 / 26.31||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19042-SP0 python:3.10.6|torch:2.1.0.dev20230414+cu118 Autocast half xformers:0.0.19+540fcbf.d20230415 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|Based64mix-V3-fp16.safetensors [98a1428d4c]|123||
 |3658|2023-05-01T20:47:15.991Z|20.82 / 29.34 / 34.97 / 35.52 / 35.73||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19042-SP0 python:3.10.6|torch:2.1.0.dev20230414+cu118 autocast half xformers:0.0.19+540fcbf.d20230415 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|Based64mix-V3-fp16.safetensors [98a1428d4c]|123||
