@@ -1,5 +1,18 @@
 [
   [
+    3643,
+    "2023-05-01T11:50:40.216Z",
+    "0.63 / 0.53 / 0.55",
+    "updated:2023-04-28 hash:576ea886 url:https://github.com/vladmandic/automatic/tree/directml",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Full half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "sub-quadratic medvram",
+    "czeromix20HybridSFW_czeromix20HybridSFW.safetensors [0ddbfdaf90]",
+    "Hellrider",
+    ""
+  ],
+  [
     3642,
     "2023-05-01T07:45:18.368Z",
     "4.94 / 5.16 / 5.14",
