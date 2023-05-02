@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-02T11:07:54.691Z
+  ## Updated: 2023-05-02T12:18:47.798Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3685|2023-05-02T13:34:55.814Z|1.63 / 1.91 / 1.97|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.7|torch:2.0.0+cu118 Autocast nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|xformers medvram|Deliberate_v2.safetensors [9aba26abdf]|Ubemotho||
+  |3687|2023-05-02T14:34:10.743Z|4.87 / 2.05 / 3.51|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|doggettx none|SomethingV2_2.safetensors [b37f7ee0bc]|disty||
+|3686|2023-05-02T14:35:10.372Z|4.61 / 7.99 / 9.81|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|doggettx none|SomethingV2_2.safetensors [b37f7ee0bc]|disty||
+|3685|2023-05-02T13:34:55.814Z|1.63 / 1.91 / 1.97|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.7|torch:2.0.0+cu118 Autocast nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|xformers medvram|Deliberate_v2.safetensors [9aba26abdf]|Ubemotho||
 |3684|2023-04-14T23:04:43.664Z|1.19 / error / error|updated:2023-04-14 hash:149329cb url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.7|torch:2.0.0+cu118 autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|sdp-no-mem medvram|Deliberate_v2.safetensors [9aba26abdf]|Ubemotho||
 |3683|2023-04-14T22:58:46.315Z|1.26 / 1.59 / 1.71 / 1.75 / error|updated:2023-04-14 hash:149329cb url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.7|torch:2.0.0+cu118 autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|sdp medvram|Deliberate_v2.safetensors [9aba26abdf]|Ubemotho||
 |3682|2023-04-14T22:28:20.655Z|1.3 / 1.6 / 1.72 / 1.74 / error|updated:2023-04-14 hash:fea40d79 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.7|torch:2.0.0+cu118 autocast nohalf xformers:0.0.18 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB|xformers medvram|Deliberate_v2.safetensors [9aba26abdf]|Ubemotho||
