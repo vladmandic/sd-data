@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-02T20:10:11.440Z
+  ## Updated: 2023-05-02T23:09:28.451Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3690|2023-05-02T15:36:45.436Z|8.55 / 9.53 / 10.08|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:AMD Ryzen 9 5900X 12-Core Processor system:Linux release:6.3.0-x64v4-xanmod1 python:3.11.3|torch:2.1.0.dev20230411+rocm5.4.2 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:AMD Radeon RX 6800 XT (1) hip:5.4.22803-474e8620 16GB|Doggettx none|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|pppig||
+  |3692|2023-05-03T00:31:47.109Z|15.79 / 29.22 / 39.81 / 39.48 / 38.92|updated:2023-05-02 hash:eb03fce3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|jps||
+|3691|2023-05-03T00:30:32.914Z|13.45 / 26.81 / 39.28 / 39.27 / 38.7|updated:2023-05-02 hash:eb03fce3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|jps||
+|3690|2023-05-02T15:36:45.436Z|8.55 / 9.53 / 10.08|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:AMD Ryzen 9 5900X 12-Core Processor system:Linux release:6.3.0-x64v4-xanmod1 python:3.11.3|torch:2.1.0.dev20230411+rocm5.4.2 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:AMD Radeon RX 6800 XT (1) hip:5.4.22803-474e8620 16GB|Doggettx none|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|pppig||
 |3689|2023-05-03T01:58:40.598Z|5.73 / 6.29 / 6.88|updated:2023-04-26 hash:def7a02d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|DeyoyoyoV1-2.safetensors [5ba666046b]|yuki||
 |3688|2023-05-03T00:51:24.747Z|13.84 / 15.98 / 17.61|updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22624-SP0 python:3.10.6|torch:2.0.0+cu118 autocast nohalf xformers:0.0.19.dev516 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|Z\Z0modelmix.safetensors [a074bf81cc]|weste||
 |3687|2023-05-02T14:34:10.743Z|4.87 / 2.05 / 3.51|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.13-zen-1-zen python:3.10.10|torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|doggettx none|SomethingV2_2.safetensors [b37f7ee0bc]|disty||
