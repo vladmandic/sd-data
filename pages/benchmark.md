@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-03T18:12:04.605Z
+  ## Updated: 2023-05-03T20:10:04.535Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3724|2023-04-18T15:05:56.689Z|5.84 / 6.57 / 6.81|updated:2023-04-18 hash:2b1b75dd url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-67-generic python:3.10.6|torch:2.1.0.dev20230418+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6700 XT (1) hip:5.4.22803-474e8620 12GB|doggettx none|darkSushiMixMix_v10.safetensors [309b7eba55]|oem||
+  |3725|2023-05-03T19:26:17.812Z|error / error / error|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.11|torch:2.0.0+rocm5.4.2 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:AMD Radeon RX 6600 XT (1) hip:5.4.22803-474e8620 8GB|sub-quadratic medvram|homodiffusionGay_homoDiffusionV10FP32.safetensors [3fde499417]|root||
+|3724|2023-04-18T15:05:56.689Z|5.84 / 6.57 / 6.81|updated:2023-04-18 hash:2b1b75dd url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-67-generic python:3.10.6|torch:2.1.0.dev20230418+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6700 XT (1) hip:5.4.22803-474e8620 12GB|doggettx none|darkSushiMixMix_v10.safetensors [309b7eba55]|oem||
 |3723|2023-04-18T15:03:52.891Z|5.81 / 6.52 / 6.76|updated:2023-04-18 hash:2b1b75dd url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-67-generic python:3.10.6|torch:2.1.0.dev20230418+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6700 XT (1) hip:5.4.22803-474e8620 12GB|sdp-no-mem none|darkSushiMixMix_v10.safetensors [309b7eba55]|oem||
 |3722|2023-04-18T14:51:34.928Z|error / error / error|updated:2023-04-18 hash:2b1b75dd url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-67-generic python:3.10.6|torch:2.1.0.dev20230418+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6700 XT (1) hip:5.4.22803-474e8620 12GB|sub-quadratic medvram|darkSushiMixMix_v10.safetensors [309b7eba55]|oem||
 |3721|2023-04-27T11:10:33.654Z|error / error / error|updated:2023-04-24 hash:82d7b45c url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-67-generic python:3.10.6|torch:2.0.0+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6700 XT (1) hip:5.4.22803-474e8620 12GB|sdp none|darkSushiMixMix_brighterPruned.safetensors [099e07547a]|oem||
