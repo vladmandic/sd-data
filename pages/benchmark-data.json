@@ -1,5 +1,31 @@
 [
   [
+    3708,
+    "2023-05-03T10:53:51.322Z",
+    "29.47 / 37.77 / 43.48",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-60-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20.dev526 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8801 24GB",
+    "xformers none",
+    "AbyssOrangeMix2_sfw.safetensors [038ba203d8]",
+    "Nagase_Kotono",
+    ""
+  ],
+  [
+    3707,
+    "2023-04-22T10:12:17.866Z",
+    "31.09 / 37.18 / 43.48",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-60-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8801 24GB",
+    "sdp none",
+    "Counterfeit-V2.5.safetensors [bd83b90a2e]",
+    "hotch",
+    "automatic1111"
+  ],
+  [
     3706,
     "2023-05-01T22:39:27.539Z",
     "30.34 / 36.69 / 40.7 / 39.22 / 38.89",
