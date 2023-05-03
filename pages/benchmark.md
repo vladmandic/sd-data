@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-03T14:08:49.484Z
+  ## Updated: 2023-05-03T17:09:43.785Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3716|2023-05-03T15:14:28.893Z|11.52 / 12.88 / 13.89|updated:2023-04-26 hash:93b0de7e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 11GB|xformers none|revAnimated_v122.safetensors [4199bcdd14]|Patrick||
+  |3718|2023-05-03T23:59:18.512Z|1.68 / 4.17 / 7.07|updated:2023-05-03 hash:e324e54c url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.1.25-1-MANJARO python:3.10.10|torch:2.1.0.dev20230422+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB|v1 none|CounterfeitV30_v30.safetensors [cbfba64e66]|bailob||
+|3717|2023-05-04T00:47:06.277Z|8.84 / 10.25 / 10.64|updated:2023-05-03 hash:e324e54c url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.1.25-1-MANJARO python:3.10.10|torch:2.1.0.dev20230422+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB|sdp none|CounterfeitV25_25.safetensors [a074b8864e]|bailob||
+|3716|2023-05-03T15:14:28.893Z|11.52 / 12.88 / 13.89|updated:2023-04-26 hash:93b0de7e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 11GB|xformers none|revAnimated_v122.safetensors [4199bcdd14]|Patrick||
 |3715|2023-05-03T19:38:06.241Z|6.1 / 8.54 / 11.3|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|Doggettx none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|SaltyFishKing||
 |3714|2023-05-03T19:33:02.012Z|6.59 / 8.65 / 12.34|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|SaltyFishKing||
 |3713|2023-05-03T19:49:07.145Z|7.48 / 9.05 / 13.27|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp-no-mem none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|SaltyFishKing||

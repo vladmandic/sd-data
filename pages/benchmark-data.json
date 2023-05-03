@@ -1,5 +1,31 @@
 [
   [
+    3718,
+    "2023-05-03T23:59:18.512Z",
+    "1.68 / 4.17 / 7.07",
+    "updated:2023-05-03 hash:e324e54c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.1.25-1-MANJARO python:3.10.10",
+    "torch:2.1.0.dev20230422+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB",
+    "v1 none",
+    "CounterfeitV30_v30.safetensors [cbfba64e66]",
+    "bailob",
+    ""
+  ],
+  [
+    3717,
+    "2023-05-04T00:47:06.277Z",
+    "8.84 / 10.25 / 10.64",
+    "updated:2023-05-03 hash:e324e54c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.1.25-1-MANJARO python:3.10.10",
+    "torch:2.1.0.dev20230422+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB",
+    "sdp none",
+    "CounterfeitV25_25.safetensors [a074b8864e]",
+    "bailob",
+    ""
+  ],
+  [
     3716,
     "2023-05-03T15:14:28.893Z",
     "11.52 / 12.88 / 13.89",
