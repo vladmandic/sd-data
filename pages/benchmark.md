@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-03T00:51:52.447Z
+  ## Updated: 2023-05-03T02:00:12.352Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3695|2023-05-02T19:52:59.297Z|8.49 / 9.69 / 10.09|updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:AMD Ryzen 9 5900X 12-Core Processor system:Linux release:6.3.0-x64v4-xanmod1 python:3.11.3|torch:2.1.0.dev20230411+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:AMD Radeon RX 6800 XT (1) hip:5.4.22803-474e8620 16GB|Doggettx none|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|pppig||
+  |3696|2023-05-03T01:03:50.042Z|11.57 / 17.23 / 21.04|updated:2023-05-02 hash:eb03fce3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-1024-aws python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Tesla V100-SXM2-16GB (1) (sm_90) (7, 0) cuda:11.8 cudnn:8700 16GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|ubuntu||
+|3695|2023-05-02T19:52:59.297Z|8.49 / 9.69 / 10.09|updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:AMD Ryzen 9 5900X 12-Core Processor system:Linux release:6.3.0-x64v4-xanmod1 python:3.11.3|torch:2.1.0.dev20230411+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:AMD Radeon RX 6800 XT (1) hip:5.4.22803-474e8620 16GB|Doggettx none|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|pppig||
 |3694|2023-05-02T17:51:45.503Z|6.65 / 7.48 / 7.87|updated:2023-05-02 hash:eb03fce3 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.9.5|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2080 Super with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|chikmix_V2.safetensors [0bcee2e498]|lens||
 |3693|2023-05-02T19:48:19.231Z|1.98 / 3.43 / 5.13|updated:2023-04-30 hash:a136a8ea url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.0|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|robo-diffusion-v1.ckpt [244dbe0dcb]|seb||
 |3692|2023-05-03T00:31:47.109Z|15.79 / 29.22 / 39.81 / 39.48 / 38.92|updated:2023-05-02 hash:eb03fce3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|jps||
