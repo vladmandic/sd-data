@@ -1,5 +1,57 @@
 [
   [
+    3750,
+    "2023-05-04T14:58:31.037Z",
+    "6.54 / 9.25 / 10.64",
+    "updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.3.1-arch1-1 python:3.10.11",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "invokeai none",
+    "SomethingV2_2.safetensors [b37f7ee0bc]",
+    "disty",
+    ""
+  ],
+  [
+    3749,
+    "2023-05-04T14:54:18.079Z",
+    "6.19 / 9.19 / 10.6",
+    "updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.3.1-arch1-1 python:3.10.11",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "invokeai none",
+    "SomethingV2_2.safetensors [b37f7ee0bc]",
+    "disty",
+    ""
+  ],
+  [
+    3748,
+    "2023-05-04T02:26:53.121Z",
+    "5.71 / 7.97 / 9.01",
+    "updated:2023-05-03 hash:e7b88e6a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.2.13-arch1-1 python:3.10.10",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "none none",
+    "SomethingV2_2.safetensors [b37f7ee0bc]",
+    "disty",
+    ""
+  ],
+  [
+    3747,
+    "2023-05-04T19:17:07.800Z",
+    "5.97 / 6.56 / 7.67",
+    "updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.3",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "sdp none",
+    "Dreamlike-Photoreal-2.0.safetensors [92970aa785]",
+    "daida",
+    ""
+  ],
+  [
     3746,
     "2023-05-04T19:17:39.805Z",
     "6.1 / 6.96 / 7.63",
