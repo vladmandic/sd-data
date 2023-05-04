@@ -1,5 +1,18 @@
 [
   [
+    3757,
+    "2023-05-04T18:00:05.392Z",
+    "24.13 / 32.45 / 38.62",
+    "updated:2023-05-04 hash:c470f399 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "GeekDadKevin",
+    ""
+  ],
+  [
     3756,
     "2023-05-05T03:29:15.686Z",
     "11.34 / 16.31 / 17.95 / 19.53 / 20.32",
