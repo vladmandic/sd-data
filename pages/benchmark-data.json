@@ -1,5 +1,57 @@
 [
   [
+    3729,
+    "2023-05-03T17:06:36.518Z",
+    "28.29 / 48.61 / 63.76 / 64.9 / 63.98",
+    "updated:2023-05-03 hash:0af6c70b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.1.0.dev20230429+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "artiusV21NSFW_v21.safetensors [014930c624]",
+    "me",
+    "Enabled token merge(w/ all throughput options selected)"
+  ],
+  [
+    3728,
+    "2023-05-03T19:49:39.146Z",
+    "32.47 / 51.39 / 64.47",
+    "updated:2023-05-03 hash:0af6c70b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.1.0.dev20230429+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "artiusV21NSFW_v21.safetensors [014930c624]",
+    "me",
+    "Enabled token merge(w/ all throughput options selected)"
+  ],
+  [
+    3727,
+    "2023-05-03T17:06:36.518Z",
+    "28.29 / 48.61 / 63.76 / 64.9 / 63.98",
+    "updated:2023-05-03 hash:0af6c70b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.1.0.dev20230429+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "none none",
+    "artiusV21NSFW_v21.safetensors [014930c624]",
+    "me",
+    "Enabled token merge(w/ all throughput options selected)"
+  ],
+  [
+    3726,
+    "2023-05-03T19:45:22.619Z",
+    "20.59 / 29.04 / 35.24",
+    "updated:2023-05-03 hash:0af6c70b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.1.0.dev20230429+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "artiusV21NSFW_v21.safetensors [014930c624]",
+    "me",
+    "Enabled token merge(w/ all throughput options selected)"
+  ],
+  [
     3725,
     "2023-05-03T19:26:17.812Z",
     "error / error / error",
