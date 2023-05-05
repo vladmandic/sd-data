@@ -1,5 +1,18 @@
 [
   [
+    3762,
+    "2023-05-05T14:20:41.830Z",
+    "4.72 / 5.25 / 5.58",
+    "updated:2023-05-01 hash:d4a748d7 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Full nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3070 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "crima",
+    ""
+  ],
+  [
     3761,
     "2023-05-05T16:55:00.839Z",
     "15.99 / 17.81 / 21.04",
