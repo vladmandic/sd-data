@@ -1,5 +1,44 @@
 [
   [
+    3760,
+    "2023-05-05T09:41:23.582Z",
+    "1.45 / 1.88 / 2.07",
+    "updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "xiong",
+    ""
+  ],
+  [
+    3759,
+    "2023-05-04T21:06:13.870Z",
+    "27.36 / 36.82 / 41.15 / 39.81 / 39.72",
+    "updated:2023-05-04 hash:c470f399 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Taithrah",
+    ""
+  ],
+  [
+    3758,
+    "2023-05-04T21:04:20.914Z",
+    "27.17 / 34.77 / 40.29",
+    "updated:2023-05-04 hash:c470f399 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Fen",
+    ""
+  ],
+  [
     3757,
     "2023-05-04T18:00:05.392Z",
     "24.13 / 32.45 / 38.62",
