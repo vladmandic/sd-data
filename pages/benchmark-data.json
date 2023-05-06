@@ -1,5 +1,18 @@
 [
   [
+    3791,
+    "2023-05-07T00:41:36.779Z",
+    "error",
+    "updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "none none",
+    "darkSushi25D25D_v20.safetensors [2d0010aca5]",
+    "Uong",
+    ""
+  ],
+  [
     3790,
     "2023-05-06T22:55:20.832Z",
     "17.95 / 23.92 / 25.65 / 25.76 / 26.5",
