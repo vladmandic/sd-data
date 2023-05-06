@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-06T07:08:45.926Z
+  ## Updated: 2023-05-06T08:10:58.067Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3786|2023-05-06T16:07:31.924Z|17.53 / 20.11 / 21.51|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.28.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 12GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|kogas||
+  |3787|2023-05-02T01:10:51.557Z|21.11 / 25.68 / 27.66 / 29.47 / 30.1|updated:2023-05-01 hash:eaea88a4 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|New folder\v2-1_768-ema-pruned.ckpt [ad2a33c361]|xilix||
+|3786|2023-05-06T16:07:31.924Z|17.53 / 20.11 / 21.51|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.28.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 12GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|kogas||
 |3785|2023-05-06T16:03:07.893Z|17.49 / 19.46 / 21.42|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 12GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|kogas||
 |3784|2023-05-06T16:01:47.661Z|17.61 / 19.51 / 21.36|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 12GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|kogas||
 |3783|2023-05-06T16:00:46.157Z|17.22 / 18.03 / 21.16|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 12GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|kogas||
