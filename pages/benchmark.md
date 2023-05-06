@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-05T19:07:56.689Z
+  ## Updated: 2023-05-06T00:47:43.988Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3764|2023-05-05T14:23:42.653Z|13.91 / 16.32 / 19.98|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22624-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 24GB|sdp none|v1-5-pruned-emaonly.ckpt [cc6cb27103]|nick||
+  |3766|2023-05-06T01:30:53.315Z|29.39 / 38.66 / 44.29 / 42.58 / 42.56|updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|CetusMix.safetensors [68c0a27380]|xk||
+|3765|2023-05-06T01:26:32.687Z|28.7 / 36.27 / 41.47|updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|CetusMix.safetensors [68c0a27380]|xk||
+|3764|2023-05-05T14:23:42.653Z|13.91 / 16.32 / 19.98|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22624-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 24GB|sdp none|v1-5-pruned-emaonly.ckpt [cc6cb27103]|nick||
 |3763|2023-05-05T19:38:38.075Z|21.41 / 24.72 / 27.56 / 27.48 / 27.33|updated:2023-05-05 hash:ceaf7571 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 16GB|sdp none|animefull-final-pruned.ckpt [89d59c3dde]|||
 |3762|2023-05-05T14:20:41.830Z|4.72 / 5.25 / 5.58|updated:2023-05-01 hash:d4a748d7 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.9|torch:2.0.0+cu118 Full nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3070 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|revAnimated_v122.safetensors [4199bcdd14]|crima||
 |3761|2023-05-05T16:55:00.839Z|15.99 / 17.81 / 21.04|updated:2023-05-04 hash:c470f399 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|abyssorangemix2_Hard.safetensors [cadf2c6654]|hanst||
