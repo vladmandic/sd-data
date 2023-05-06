@@ -1,5 +1,18 @@
 [
   [
+    3794,
+    "2023-05-06T21:03:04.270Z",
+    "1.83 / 2.59 / 2.83",
+    "updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "lyriel_v14.safetensors [f1b08b30f8]",
+    "stefano",
+    ""
+  ],
+  [
     3793,
     "2023-05-06T14:56:04.945Z",
     "3.04 / 3.09 / 3.61",

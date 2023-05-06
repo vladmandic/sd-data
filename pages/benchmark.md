@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-06T19:07:14.550Z
+  ## Updated: 2023-05-06T20:09:20.466Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3793|2023-05-06T14:56:04.945Z|3.04 / 3.09 / 3.61|updated:2023-05-06 hash:22e588091 url:git@github.com:vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:Tesla P40 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 24GB|sdp none|aZovyaRPGArtistTools_v2.safetensors [da5224a242]|Walter||
+  |3794|2023-05-06T21:03:04.270Z|1.83 / 2.59 / 2.83|updated:2023-05-05 hash:f6898c9a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|lyriel_v14.safetensors [f1b08b30f8]|stefano||
+|3793|2023-05-06T14:56:04.945Z|3.04 / 3.09 / 3.61|updated:2023-05-06 hash:22e588091 url:git@github.com:vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:Tesla P40 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 24GB|sdp none|aZovyaRPGArtistTools_v2.safetensors [da5224a242]|Walter||
 |3792|2023-05-06T14:52:26.336Z|3.04 / 3.09 / 3.62|updated:2023-05-06 hash:22e588091 url:git@github.com:vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:Tesla P40 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 24GB|sdp none|aZovyaRPGArtistTools_v2.safetensors [da5224a242]|Walter||
 |3791|2023-05-07T00:41:36.779Z|error|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none none|darkSushi25D25D_v20.safetensors [2d0010aca5]|Uong||
 |3790|2023-05-06T22:55:20.832Z|17.95 / 23.92 / 25.65 / 25.76 / 26.5|updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|Doggettx none|henmixReal_v30.safetensors [aa3f5d1984]|munde||
