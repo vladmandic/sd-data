@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-07T02:08:00.064Z
+  ## Updated: 2023-05-07T03:09:55.096Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3800|2023-05-07T10:01:08.977Z|9.02 / 14.43 / 22.43 / 32.2 / 36.06|updated:2023-03-29 hash:22bcc7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-146-generic python:3.8.10|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_86) (8, 9) cuda:11.7 cudnn:8500 24GB|xformers none|3Guofeng3_v32Light.safetensors [f42edd43aa]|root||
+  |3801|2023-05-06T21:47:44.363Z|33.66 / 43.5 / 48.78 / 49.54 / 48.85|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|artiusV21NSFW_v21.safetensors [014930c624]|sd||
+|3800|2023-05-07T10:01:08.977Z|9.02 / 14.43 / 22.43 / 32.2 / 36.06|updated:2023-03-29 hash:22bcc7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-146-generic python:3.8.10|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_86) (8, 9) cuda:11.7 cudnn:8500 24GB|xformers none|3Guofeng3_v32Light.safetensors [f42edd43aa]|root||
 |3799|2023-04-21T22:16:22.965Z|2.23 / 2.87 / 3.17|updated:2023-03-15 hash:fd672a79 url:https://jihulab.com/scholar0/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.7 cudnn:8801 4GB|xformers medvram|Popular\二次元\meina\[Popular]MeinaMix.safetensors [30953ab0de]|于松辰||
 |3798|2023-04-21T22:11:26.823Z|3.39 / 3.97 / 4.29|updated:2023-03-15 hash:fd672a79 url:https://jihulab.com/scholar0/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.7 cudnn:8801 4GB|xformers none|Popular\二次元\meina\[Popular]MeinaMix.safetensors [30953ab0de]|于松辰||
 |3797|2023-04-21T22:07:05.654Z|2.16 / 2.8 / 3.39|updated:2023-03-15 hash:fd672a79 url:https://jihulab.com/scholar0/stable-diffusion-webui.git/tree/|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 4GB|xformers medvram|Popular\二次元\meina\[Popular]MeinaMix.safetensors [30953ab0de]|于松辰||
