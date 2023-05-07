@@ -1,5 +1,18 @@
 [
   [
+    3807,
+    "2023-05-07T13:54:03.865Z",
+    "27.31 / 49.14 / 71.14 / 77.59 / 78.0",
+    "updated:2023-05-07 hash:d1e01061 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "artiusV21NSFW_v21.safetensors [014930c624]",
+    "me",
+    "Zero idea where this increased speed came from compared to previous run. A couple changes in automatic since that run, but nothing that looked major, and I upgraded transformers. Go figure."
+  ],
+  [
     3806,
     "2023-05-08T00:04:27.506Z",
     "11.37 / 13.12 / 13.72 / 14.57 / 14.72",
