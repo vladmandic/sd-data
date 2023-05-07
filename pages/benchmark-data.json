@@ -1,5 +1,18 @@
 [
   [
+    3806,
+    "2023-05-08T00:04:27.506Z",
+    "11.37 / 13.12 / 13.72 / 14.57 / 14.72",
+    "updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 11GB",
+    "sdp none",
+    "uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]",
+    "qujam",
+    ""
+  ],
+  [
     3805,
     "2023-05-07T15:07:25.875Z",
     "12.58 / 14.33 / 15.11",
