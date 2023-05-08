@@ -1,6 +1,19 @@
 [
   [
     3808,
+    "2023-05-08T21:53:15.697Z",
+    "1.86 / 2.43 / 2.71",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1070 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "atomj",
+    ""
+  ],
+  [
+    3807,
     "2023-05-08T19:02:28.859Z",
     "14.92 / 15.7 / 18.32",
     "updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master",
@@ -11,19 +24,6 @@
     "SD1X\\sd-v1-5-inpainting.ckpt [c6bbc15e32]",
     "PUREARTS",
     ""
-  ],
-  [
-    3807,
-    "2023-05-07T13:54:03.865Z",
-    "27.31 / 49.14 / 71.14 / 77.59 / 78.0",
-    "updated:2023-05-07 hash:d1e01061 url:https://github.com/vladmandic/automatic.git/tree/master",
-    "arch:x86_64 cpu: system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.9",
-    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
-    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
-    "sdp none",
-    "artiusV21NSFW_v21.safetensors [014930c624]",
-    "me",
-    "Zero idea where this increased speed came from compared to previous run. A couple changes in automatic since that run, but nothing that looked major, and I upgraded transformers. Go figure."
   ],
   [
     3806,
