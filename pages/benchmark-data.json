@@ -1,5 +1,18 @@
 [
   [
+    3820,
+    "2023-05-09T05:23:44.771Z",
+    "17.09 / 28.26 / 33.28 / 35.93 / 37.05",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v2-1_768-ema-pruned-fp16.safetensors [370234eabb]",
+    "xilix",
+    ""
+  ],
+  [
     3819,
     "2023-05-09T05:03:43.076Z",
     "16.41 / 26.62 / 31.05 / 32.94 / 34.18",
