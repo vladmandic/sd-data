@@ -1,5 +1,5 @@
-name: update-benchmark-data
-run-name: update benchmark data
+name: update-extension-list
+run-name: update extension list
 
 on:
   push:
