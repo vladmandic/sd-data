@@ -1,5 +1,18 @@
 [
   [
+    3835,
+    "2023-05-09T15:56:52.978Z",
+    "14.12 / 16.1 / 19.63",
+    "updated:2023-05-09 hash:5bd863f9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22624-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "nick",
+    ""
+  ],
+  [
     3834,
     "2023-05-09T14:15:59.892Z",
     "10.95 / 12.0 / 13.68",
