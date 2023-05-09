@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-09T02:02:16.174Z
+  ## Updated: 2023-05-09T09:09:51.950Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3818|2023-05-09T04:07:00.963Z|1.59 / 2.08 / 2.26|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|aZovyaPhotoreal_v1Ultra.safetensors [e1c69e89ae]|Ali||
+  |3819|2023-05-09T05:03:43.076Z|16.41 / 26.62 / 31.05 / 32.94 / 34.18|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|v2-1_768-ema-pruned-fp16.safetensors [370234eabb]|xilix||
+|3818|2023-05-09T04:07:00.963Z|1.59 / 2.08 / 2.26|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|aZovyaPhotoreal_v1Ultra.safetensors [e1c69e89ae]|Ali||
 |3817|2023-05-08T12:29:01.514Z|27.48 / 33.56 / 40.46 / 40.74 / 38.81|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 24GB|sdp none|perfectdeliberate_v20.safetensors [6ac5833494]|cleverest||
 |3816|2023-05-08T11:41:28.490Z|26.94 / 33.52 / 40.2 / 40.41 / 38.18|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 24GB|sdp none|perfectdeliberate_v20.safetensors [6ac5833494]|cleverest||
 |3815|2023-05-08T11:28:34.630Z|22.47 / 34.66 / 40.7 / 39.54 / 39.46|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|perfectdeliberate_v20.safetensors [6ac5833494]|cleverest||
