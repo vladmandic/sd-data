@@ -252,7 +252,7 @@
     "size": 40241,
     "stars": 221,
     "issues": 11,
-    "commits": 0
+    "commits": 44
   },
   {
     "name": "stable-diffusion-webui-embedding-merge",
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 276,
     "issues": 33,
-    "commits": 0
+    "commits": 230
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -616,7 +616,7 @@
     "size": 3982,
     "stars": 1417,
     "issues": 11,
-    "commits": 0
+    "commits": 285
   },
   {
     "name": "novelai-2-local-prompt",
@@ -766,7 +766,7 @@
     "size": 641,
     "stars": 154,
     "issues": 4,
-    "commits": 0
+    "commits": 48
   },
   {
     "name": "sd-webui-deforum",
@@ -848,7 +848,7 @@
     "size": 19412,
     "stars": 241,
     "issues": 1,
-    "commits": 0
+    "commits": 124
   },
   {
     "name": "shift-attention",
@@ -1109,7 +1109,7 @@
     "size": 4415,
     "stars": 67,
     "issues": 3,
-    "commits": 0
+    "commits": 21
   },
   {
     "name": "depth-image-io-for-SDWebui",
@@ -1173,7 +1173,7 @@
     "size": 931,
     "stars": 309,
     "issues": 4,
-    "commits": 0
+    "commits": 54
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1237,7 +1237,7 @@
     "size": 20,
     "stars": 311,
     "issues": 12,
-    "commits": 0
+    "commits": 17
   },
   {
     "name": "stable-diffusion-webui-auto-tls-https",
@@ -1318,7 +1318,7 @@
     "size": 31,
     "stars": 16,
     "issues": 0,
-    "commits": 17
+    "commits": 0
   },
   {
     "name": "sd_auto_fix",
@@ -1415,7 +1415,7 @@
     "size": 61118,
     "stars": 103,
     "issues": 0,
-    "commits": 0
+    "commits": 937
   },
   {
     "name": "openpose-editor",
@@ -1564,7 +1564,7 @@
     "size": 134,
     "stars": 178,
     "issues": 32,
-    "commits": 27
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1629,7 +1629,7 @@
     "size": 11663,
     "stars": 411,
     "issues": 22,
-    "commits": 72
+    "commits": 0
   },
   {
     "name": "sd-webui-llul",
@@ -1678,7 +1678,7 @@
     "size": 58205,
     "stars": 379,
     "issues": 26,
-    "commits": 0
+    "commits": 45
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -1694,7 +1694,7 @@
     "size": 24,
     "stars": 41,
     "issues": 5,
-    "commits": 0
+    "commits": 3
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1726,7 +1726,7 @@
     "size": 21809,
     "stars": 153,
     "issues": 7,
-    "commits": 0
+    "commits": 84
   },
   {
     "name": "corridor-crawler-outpainting",
@@ -1840,7 +1840,7 @@
     "size": 234,
     "stars": 28,
     "issues": 1,
-    "commits": 0
+    "commits": 65
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -1873,7 +1873,7 @@
     "size": 747,
     "stars": 641,
     "issues": 22,
-    "commits": 0
+    "commits": 408
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2071,7 +2071,7 @@
     "created": "2023-03-23T09:19:22.000Z",
     "updated": "2023-05-09T21:58:53.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
-    "size": 365,
+    "size": 372,
     "stars": 376,
     "issues": 7,
     "commits": 148
