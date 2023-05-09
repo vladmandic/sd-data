@@ -1,5 +1,18 @@
 [
   [
+    3818,
+    "2023-05-09T04:07:00.963Z",
+    "1.59 / 2.08 / 2.26",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "aZovyaPhotoreal_v1Ultra.safetensors [e1c69e89ae]",
+    "Ali",
+    ""
+  ],
+  [
     3817,
     "2023-05-08T12:29:01.514Z",
     "27.48 / 33.56 / 40.46 / 40.74 / 38.81",
