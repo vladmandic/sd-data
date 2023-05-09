@@ -1,5 +1,44 @@
 [
   [
+    3838,
+    "2023-05-09T17:41:16.264Z",
+    "16.5 / 28.87 / 36.04 / 39.83 / 41.78",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v2-1_768-ema-pruned-fp16.safetensors [370234eabb]",
+    "xilix",
+    ""
+  ],
+  [
+    3837,
+    "2023-05-09T17:33:29.249Z",
+    "16.78 / 29.04 / 35.63 / 39.63 / 41.54",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v2-1_768-ema-pruned-fp16.safetensors [370234eabb]",
+    "xilix",
+    ""
+  ],
+  [
+    3836,
+    "2023-05-09T17:20:54.148Z",
+    "17.05 / 29.24 / 35.74 / 39.64 / 41.38",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v2-1_768-ema-pruned-fp16.safetensors [370234eabb]",
+    "xilix",
+    ""
+  ],
+  [
     3835,
     "2023-05-09T15:56:52.978Z",
     "14.12 / 16.1 / 19.63",
