@@ -77,7 +77,8 @@ async function getDetails(extension) {
       else {
         ext.created = new Date(r.created_at);
         ext.updated = new Date(r.pushed_at);
-        ext.name = r.full_name;
+        ext.name = r.name;
+        ext.long = r.full_name;
         ext.description = (r.description || extension.description).substring(0, 96);
         ext.size = r.size;
         ext.stars = r.stargazers_count;
