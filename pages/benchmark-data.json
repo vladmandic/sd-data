@@ -1,5 +1,44 @@
 [
   [
+    3826,
+    "2023-05-09T08:51:38.690Z",
+    "3.55 / 4.01 / 4.35",
+    "updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.20+6425fd0.d20230502 accelerate:0.18.0 transformers:4.26.1",
+    "device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8801 16GB",
+    "xformers lowram",
+    "fluffyRealism2fp16.safetensors [f24f181ab3]",
+    "clybius",
+    ""
+  ],
+  [
+    3825,
+    "2023-04-26T13:04:39.230Z",
+    "3.63 / 0.57 / 0.61",
+    "updated:2023-04-25 hash:24531398 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8801 16GB",
+    "xformers none",
+    "v2/yiffai2220-plus-providence-plus-illu-plus-perpetual-plus-classic-finalv3fp16.safetensors [e2227c1ffe]",
+    "clybius",
+    ""
+  ],
+  [
+    3824,
+    "2023-04-25T23:00:12.635Z",
+    "3.73 / 4.23 / 4.46",
+    "updated:2023-04-25 hash:24531398 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8700 16GB",
+    "sdp none",
+    "v2/yiffai2220-plus-providence-plus-illu-plus-perpetual-plus-classic-finalv3fp16.safetensors",
+    "clybius",
+    ""
+  ],
+  [
     3823,
     "2023-05-09T13:06:24.166Z",
     "3.15 / 2.51 / 2.74",
