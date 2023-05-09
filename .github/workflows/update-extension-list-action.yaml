@@ -1,0 +1,44 @@
+name: update-benchmark-data
+run-name: update benchmark data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-benchmark-data-job:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: pages
+    steps:
+    - name: actions-checkout
+      uses: actions/checkout@v3
+    - name: actions-setup-node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: npm
+        cache-dependency-path: pages/package-lock.json
+    - name: npm-install
+      run: npm install
+    - name: node-run
+      env:
+        PAPERTRAIL_TOKEN: ${{ secrets.PAPERTRAIL_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: node ./extensions-update.js
+    - name: git-commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'update benchmark data'
+        commit_options: '--no-verify'
+        file_pattern: '*.json'
+        status_options: '--untracked-files=no'
+        skip_fetch: true    
+        skip_checkout: true
