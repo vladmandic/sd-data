@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-09T14:09:28.746Z
+  ## Updated: 2023-05-09T15:10:15.781Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3826|2023-05-09T08:51:38.690Z|3.55 / 4.01 / 4.35|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:0.0.20+6425fd0.d20230502 accelerate:0.18.0 transformers:4.26.1|device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8801 16GB|xformers lowram|fluffyRealism2fp16.safetensors [f24f181ab3]|clybius||
+  |3827|2023-05-10T00:01:42.772Z|12.72 / 14.66 / 16.97||arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8600 24GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|rumble||
+|3826|2023-05-09T08:51:38.690Z|3.55 / 4.01 / 4.35|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:0.0.20+6425fd0.d20230502 accelerate:0.18.0 transformers:4.26.1|device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8801 16GB|xformers lowram|fluffyRealism2fp16.safetensors [f24f181ab3]|clybius||
 |3825|2023-04-26T13:04:39.230Z|3.63 / 0.57 / 0.61|updated:2023-04-25 hash:24531398 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8801 16GB|xformers none|v2/yiffai2220-plus-providence-plus-illu-plus-perpetual-plus-classic-finalv3fp16.safetensors [e2227c1ffe]|clybius||
 |3824|2023-04-25T23:00:12.635Z|3.73 / 4.23 / 4.46|updated:2023-04-25 hash:24531398 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:5.10.0-18-amd64 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Tesla P100-PCIE-16GB (2) (sm_90) (6, 0) cuda:11.8 cudnn:8700 16GB|sdp none|v2/yiffai2220-plus-providence-plus-illu-plus-perpetual-plus-classic-finalv3fp16.safetensors|clybius||
 |3823|2023-05-09T13:06:24.166Z|3.15 / 2.51 / 2.74|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.11|torch:2.0.0+rocm5.4.2 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device: (1) hip:5.4.22803-474e8620 8GB|sub-quadratic medvram|v1-5-pruned-emaonly.safetensors [6ce0161689]|root||
