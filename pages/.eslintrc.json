@@ -36,6 +36,7 @@
       "prefer-template": "off",
       "no-continue": "off",
       "dot-notation": "off",
-      "no-param-reassign": "off"
+      "no-param-reassign": "off",
+      "radix":"off"
   }
 }
