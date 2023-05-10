@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 560,
+    "stars": 561,
     "issues": 32,
     "commits": 85
   },
@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 312,
+    "stars": 313,
     "issues": 21,
     "commits": 172
   },
@@ -318,9 +318,9 @@
     "updated": "2023-05-09T16:07:51.000Z",
     "long": "AlUlkesh/stable-diffusion-webui-images-browser",
     "size": 252,
-    "stars": 276,
+    "stars": 277,
     "issues": 33,
-    "commits": 230
+    "commits": 0
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -388,7 +388,7 @@
     "size": 1178,
     "stars": 87,
     "issues": 9,
-    "commits": 59
+    "commits": 0
   },
   {
     "name": "sd-infinity-grid-generator-script",
@@ -452,7 +452,7 @@
     "updated": "2023-04-10T23:01:44.000Z",
     "long": "zero01101/openOutpaint-webUI-extension",
     "size": 74,
-    "stars": 233,
+    "stars": 234,
     "issues": 9,
     "commits": 145
   },
@@ -522,20 +522,13 @@
     "commits": 62
   },
   {
-    "name": "sd-webui-kitchen-theme",
+    "name": "Kitchen Theme",
     "url": "https://github.com/canisminor1990/sd-web-ui-kitchen-theme.git",
-    "description": "🧿 Kitchen theme for stable diffusion webui",
+    "description": "Custom Theme.",
     "tags": [
       "UI related"
     ],
-    "added": "2023-02-28T00:00:00.000Z",
-    "created": "2023-02-25T06:41:18.000Z",
-    "updated": "2023-05-05T15:10:14.000Z",
-    "long": "canisminor1990/sd-webui-kitchen-theme",
-    "size": 20649,
-    "stars": 194,
-    "issues": 18,
-    "commits": 176
+    "added": "2023-02-28T00:00:00.000Z"
   },
   {
     "name": "sd-webui-bilingual-localization",
@@ -549,7 +542,7 @@
     "updated": "2023-04-27T03:54:46.000Z",
     "long": "journey-ad/sd-webui-bilingual-localization",
     "size": 188,
-    "stars": 396,
+    "stars": 397,
     "issues": 2,
     "commits": 30
   },
@@ -769,21 +762,14 @@
     "commits": 48
   },
   {
-    "name": "sd-webui-deforum",
+    "name": "Deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "Deforum extension script for AUTOMATIC1111's Stable Diffusion webui",
+    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z",
-    "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-09T23:29:45.000Z",
-    "long": "deforum-art/sd-webui-deforum",
-    "size": 130901,
-    "stars": 1249,
-    "issues": 24,
-    "commits": 2672
+    "added": "2022-11-01T00:00:00.000Z"
   },
   {
     "name": "animator_extension",
@@ -864,7 +850,7 @@
     "size": 19344,
     "stars": 115,
     "issues": 0,
-    "commits": 54
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-prompt-travel",
@@ -910,7 +896,7 @@
     "updated": "2023-05-05T23:34:18.000Z",
     "long": "Interpause/auto-sd-paint-ext",
     "size": 23687,
-    "stars": 321,
+    "stars": 322,
     "issues": 24,
     "commits": 2498
   },
@@ -960,7 +946,7 @@
     "size": 3325,
     "stars": 894,
     "issues": 55,
-    "commits": 173
+    "commits": 0
   },
   {
     "name": "multi-subject-render",
@@ -1139,7 +1125,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 555,
+    "stars": 556,
     "issues": 17,
     "commits": 94
   },
@@ -1203,7 +1189,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8019,
+    "stars": 8020,
     "issues": 20,
     "commits": 1333
   },
@@ -1221,7 +1207,7 @@
     "size": 22749,
     "stars": 238,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1429,9 +1415,9 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1115,
+    "stars": 1116,
     "issues": 46,
-    "commits": 102
+    "commits": 0
   },
   {
     "name": "sd-webui-stable-horde-worker",
@@ -1564,7 +1550,7 @@
     "size": 134,
     "stars": 179,
     "issues": 32,
-    "commits": 27
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1678,7 +1664,7 @@
     "size": 58205,
     "stars": 379,
     "issues": 27,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -1694,7 +1680,7 @@
     "size": 24,
     "stars": 41,
     "issues": 5,
-    "commits": 3
+    "commits": 0
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1726,7 +1712,7 @@
     "size": 21809,
     "stars": 153,
     "issues": 7,
-    "commits": 84
+    "commits": 0
   },
   {
     "name": "corridor-crawler-outpainting",
@@ -1742,7 +1728,7 @@
     "size": 9839,
     "stars": 22,
     "issues": 1,
-    "commits": 15
+    "commits": 0
   },
   {
     "name": "sd-webui-panorama-viewer",
@@ -1758,7 +1744,7 @@
     "size": 3568,
     "stars": 80,
     "issues": 2,
-    "commits": 81
+    "commits": 0
   },
   {
     "name": "db-storage1111",
@@ -1871,7 +1857,7 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 644,
+    "stars": 645,
     "issues": 22,
     "commits": 408
   },
@@ -2141,7 +2127,7 @@
   },
   {
     "name": "ja_JP Localization",
-    "url": "https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP",
+    "url": "https://github.com/AI-Creators-Society/stable-diffusion-webui-localization-ja_JP",
     "description": "Japanese localization",
     "tags": [
       "localization"
@@ -2242,8 +2228,25 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 328,
+    "stars": 330,
     "issues": 21,
     "commits": 77
+  },
+  {
+    "name": "stable-diffusion-webui-model-toolkit",
+    "url": "https://github.com/arenasys/stable-diffusion-webui-model-toolkit.git",
+    "description": "A Multipurpose toolkit for managing, editing and creating models.",
+    "tags": [
+      "tab",
+      "models"
+    ],
+    "added": "2023-05-10T00:00:00.000Z",
+    "created": "2023-01-05T05:29:13.000Z",
+    "updated": "2023-05-09T23:55:20.000Z",
+    "long": "arenasys/stable-diffusion-webui-model-toolkit",
+    "size": 120,
+    "stars": 256,
+    "issues": 3,
+    "commits": 39
   }
 ]
