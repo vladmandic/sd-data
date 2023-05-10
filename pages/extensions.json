@@ -302,7 +302,7 @@
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 137,
     "stars": 421,
-    "issues": 14,
+    "issues": 15,
     "commits": 105
   },
   {
@@ -319,7 +319,7 @@
     "long": "AlUlkesh/stable-diffusion-webui-images-browser",
     "size": 252,
     "stars": 277,
-    "issues": 33,
+    "issues": 32,
     "commits": 230
   },
   {
@@ -452,7 +452,7 @@
     "updated": "2023-04-10T23:01:44.000Z",
     "long": "zero01101/openOutpaint-webUI-extension",
     "size": 74,
-    "stars": 235,
+    "stars": 236,
     "issues": 9,
     "commits": 145
   },
@@ -565,7 +565,7 @@
     "updated": "2023-04-23T13:28:49.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 761,
+    "stars": 762,
     "issues": 58,
     "commits": 515
   },
@@ -598,7 +598,7 @@
     "updated": "2023-04-29T14:21:01.000Z",
     "long": "some9000/StylePile",
     "size": 192851,
-    "stars": 431,
+    "stars": 432,
     "issues": 7,
     "commits": 83
   },
@@ -778,7 +778,7 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-09T23:29:45.000Z",
+    "updated": "2023-05-10T10:10:06.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130901,
     "stars": 1251,
@@ -894,7 +894,7 @@
     "updated": "2023-05-08T13:00:25.000Z",
     "long": "vladmandic/sd-extension-steps-animation",
     "size": 113,
-    "stars": 74,
+    "stars": 75,
     "issues": 0,
     "commits": 40
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8034,
+    "stars": 8035,
     "issues": 20,
     "commits": 1333
   },
@@ -1219,7 +1219,7 @@
     "updated": "2023-04-20T07:23:00.000Z",
     "long": "ashen-sensored/stable-diffusion-webui-two-shot",
     "size": 22749,
-    "stars": 238,
+    "stars": 239,
     "issues": 1,
     "commits": 45
   },
@@ -1429,7 +1429,7 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1116,
+    "stars": 1117,
     "issues": 46,
     "commits": 102
   },
@@ -1464,7 +1464,7 @@
     "long": "natanjunges/stable-diffusion-webui-stable-horde",
     "size": 87,
     "stars": 54,
-    "issues": 1,
+    "issues": 2,
     "commits": 52
   },
   {
@@ -1545,7 +1545,7 @@
     "updated": "2023-03-26T13:36:45.000Z",
     "long": "p1atdev/stable-diffusion-webui-cafe-aesthetic",
     "size": 602,
-    "stars": 16,
+    "stars": 17,
     "issues": 1,
     "commits": 14
   },
@@ -1708,7 +1708,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2049,
+    "stars": 2051,
     "issues": 35,
     "commits": 185
   },
@@ -1906,7 +1906,7 @@
     "long": "richrobber2/canvas-zoom",
     "size": 76422,
     "stars": 114,
-    "issues": 1,
+    "issues": 2,
     "commits": 162
   },
   {
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 335,
+    "stars": 336,
     "issues": 22,
     "commits": 77
   },
