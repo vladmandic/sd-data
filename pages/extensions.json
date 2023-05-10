@@ -27,7 +27,7 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "updated": "2023-05-10T20:20:49.000Z",
+    "updated": "2023-05-10T23:17:15.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17571,
     "stars": 1266,
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 278,
     "issues": 32,
-    "commits": 231
+    "commits": 0
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -501,7 +501,7 @@
     "updated": "2023-05-10T10:49:26.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60593,
-    "stars": 156,
+    "stars": 157,
     "issues": 6,
     "commits": 56
   },
@@ -880,7 +880,7 @@
     "size": 48157,
     "stars": 124,
     "issues": 2,
-    "commits": 52
+    "commits": 0
   },
   {
     "name": "sd-extension-steps-animation",
@@ -1042,7 +1042,7 @@
     "updated": "2023-04-02T23:53:29.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-pixelization",
     "size": 498,
-    "stars": 327,
+    "stars": 328,
     "issues": 17,
     "commits": 5
   },
@@ -1141,7 +1141,7 @@
     "size": 33042,
     "stars": 563,
     "issues": 18,
-    "commits": 94
+    "commits": 0
   },
   {
     "name": "prompt-fusion-extension",
@@ -1221,7 +1221,7 @@
     "size": 22749,
     "stars": 240,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1286,7 +1286,7 @@
     "size": 22,
     "stars": 18,
     "issues": 1,
-    "commits": 10
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-nsfw-censor",
@@ -1350,7 +1350,7 @@
     "size": 1269,
     "stars": 120,
     "issues": 16,
-    "commits": 40
+    "commits": 0
   },
   {
     "name": "sd_save_intermediate_images",
@@ -1366,7 +1366,7 @@
     "size": 8737,
     "stars": 66,
     "issues": 4,
-    "commits": 54
+    "commits": 0
   },
   {
     "name": "sd_grid_add_image_number",
@@ -1481,7 +1481,7 @@
     "size": 9,
     "stars": 12,
     "issues": 1,
-    "commits": 7
+    "commits": 0
   },
   {
     "name": "mine-diffusion",
@@ -1498,7 +1498,7 @@
     "size": 120316,
     "stars": 6,
     "issues": 0,
-    "commits": 27
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-aesthetic-image-scorer",
@@ -1564,7 +1564,7 @@
     "size": 134,
     "stars": 179,
     "issues": 32,
-    "commits": 27
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1613,7 +1613,7 @@
     "size": 31709,
     "stars": 54,
     "issues": 1,
-    "commits": 62
+    "commits": 0
   },
   {
     "name": "posex",
@@ -1678,7 +1678,7 @@
     "size": 58205,
     "stars": 383,
     "issues": 27,
-    "commits": 0
+    "commits": 45
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -1710,7 +1710,7 @@
     "size": 1125,
     "stars": 2060,
     "issues": 37,
-    "commits": 185
+    "commits": 0
   },
   {
     "name": "sd-3dmodel-loader",
@@ -1791,7 +1791,7 @@
     "size": 1019,
     "stars": 359,
     "issues": 15,
-    "commits": 1
+    "commits": 0
   },
   {
     "name": "sd-webui-tunnels",
@@ -1824,7 +1824,7 @@
     "size": 7676,
     "stars": 406,
     "issues": 39,
-    "commits": 205
+    "commits": 0
   },
   {
     "name": "sd-webui-enable-checker",
@@ -1856,7 +1856,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 43
+    "commits": 0
   },
   {
     "name": "sd-webui-text2video",
@@ -2007,7 +2007,7 @@
     "size": 264,
     "stars": 7,
     "issues": 0,
-    "commits": 29
+    "commits": 0
   },
   {
     "name": "PBRemTools",
@@ -2024,7 +2024,7 @@
     "size": 38,
     "stars": 194,
     "issues": 13,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 351,
+    "stars": 353,
     "issues": 26,
     "commits": 77
   },
