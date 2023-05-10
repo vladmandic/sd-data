@@ -533,7 +533,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 197,
+    "stars": 198,
     "issues": 18,
     "commits": 176
   },
@@ -942,7 +942,7 @@
     "updated": "2023-05-06T06:50:57.000Z",
     "long": "kex0/batch-face-swap",
     "size": 6268,
-    "stars": 152,
+    "stars": 153,
     "issues": 13,
     "commits": 89
   },
@@ -1204,7 +1204,7 @@
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
     "stars": 8046,
-    "issues": 21,
+    "issues": 22,
     "commits": 1333
   },
   {
@@ -1313,11 +1313,11 @@
     ],
     "added": "2022-12-20T00:00:00.000Z",
     "created": "2022-12-13T07:54:23.000Z",
-    "updated": "2023-01-30T03:47:11.000Z",
+    "updated": "2023-05-10T21:54:57.000Z",
     "long": "WildBanjos/DiffusionDefender",
     "size": 31,
     "stars": 16,
-    "issues": 0,
+    "issues": 1,
     "commits": 17
   },
   {
@@ -1678,7 +1678,7 @@
     "size": 58205,
     "stars": 383,
     "issues": 27,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -2069,9 +2069,9 @@
     ],
     "added": "2023-04-13T00:00:00.000Z",
     "created": "2023-03-23T09:19:22.000Z",
-    "updated": "2023-05-10T21:28:24.000Z",
+    "updated": "2023-05-10T22:08:29.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
-    "size": 372,
+    "size": 390,
     "stars": 379,
     "issues": 6,
     "commits": 148
@@ -2242,8 +2242,8 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 350,
-    "issues": 25,
+    "stars": 351,
+    "issues": 26,
     "commits": 77
   },
   {
