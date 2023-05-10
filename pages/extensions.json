@@ -336,7 +336,7 @@
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 11471,
     "stars": 128,
-    "issues": 15,
+    "issues": 14,
     "commits": 294
   },
   {
@@ -418,7 +418,7 @@
     "updated": "2023-05-08T21:05:03.000Z",
     "long": "Zyin055/Config-Presets",
     "size": 74,
-    "stars": 92,
+    "stars": 93,
     "issues": 6,
     "commits": 66
   },
@@ -501,7 +501,7 @@
     "updated": "2023-05-09T15:18:05.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60504,
-    "stars": 150,
+    "stars": 151,
     "issues": 13,
     "commits": 53
   },
@@ -533,7 +533,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 191,
+    "stars": 192,
     "issues": 18,
     "commits": 176
   },
@@ -694,7 +694,7 @@
     "created": "2022-12-01T03:07:53.000Z",
     "updated": "2023-05-10T00:00:39.000Z",
     "long": "mix1009/model-keyword",
-    "size": 3660,
+    "size": 4030,
     "stars": 99,
     "issues": 9,
     "commits": 836
@@ -712,7 +712,7 @@
     "updated": "2023-05-08T11:29:55.000Z",
     "long": "imrayya/stable-diffusion-webui-Prompt_Generator",
     "size": 58,
-    "stars": 125,
+    "stars": 126,
     "issues": 0,
     "commits": 48
   },
@@ -764,7 +764,7 @@
     "updated": "2023-05-09T08:30:10.000Z",
     "long": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
     "size": 641,
-    "stars": 154,
+    "stars": 155,
     "issues": 4,
     "commits": 48
   },
@@ -1139,7 +1139,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 554,
+    "stars": 555,
     "issues": 17,
     "commits": 94
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8010,
+    "stars": 8013,
     "issues": 21,
     "commits": 1333
   },
@@ -1219,7 +1219,7 @@
     "updated": "2023-04-20T07:23:00.000Z",
     "long": "ashen-sensored/stable-diffusion-webui-two-shot",
     "size": 22749,
-    "stars": 237,
+    "stars": 238,
     "issues": 1,
     "commits": 45
   },
@@ -1235,7 +1235,7 @@
     "updated": "2023-04-21T14:28:37.000Z",
     "long": "opparco/stable-diffusion-webui-composable-lora",
     "size": 20,
-    "stars": 311,
+    "stars": 312,
     "issues": 12,
     "commits": 17
   },
@@ -1562,7 +1562,7 @@
     "updated": "2023-03-28T03:20:49.000Z",
     "long": "pharmapsychotic/clip-interrogator-ext",
     "size": 134,
-    "stars": 178,
+    "stars": 179,
     "issues": 32,
     "commits": 27
   },
@@ -1677,7 +1677,7 @@
     "long": "s9roll7/ebsynth_utility",
     "size": 58205,
     "stars": 379,
-    "issues": 26,
+    "issues": 27,
     "commits": 45
   },
   {
@@ -1708,7 +1708,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2037,
+    "stars": 2040,
     "issues": 34,
     "commits": 185
   },
@@ -1789,7 +1789,7 @@
     "updated": "2023-04-18T01:46:15.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1019,
-    "stars": 356,
+    "stars": 357,
     "issues": 15,
     "commits": 1
   },
