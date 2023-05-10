@@ -64,7 +64,7 @@
     "updated": "2023-05-02T13:29:28.000Z",
     "long": "toshiaki1729/stable-diffusion-webui-dataset-tag-editor",
     "size": 7626,
-    "stars": 315,
+    "stars": 316,
     "issues": 12,
     "commits": 213
   },
@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 559,
+    "stars": 560,
     "issues": 32,
     "commits": 85
   },
@@ -183,7 +183,7 @@
     "updated": "2023-03-18T12:01:18.000Z",
     "long": "tkalayci71/embedding-inspector",
     "size": 1349,
-    "stars": 123,
+    "stars": 124,
     "issues": 2,
     "commits": 97
   },
@@ -250,7 +250,7 @@
     "updated": "2023-05-07T23:54:27.000Z",
     "long": "bbc-mc/sdweb-merge-block-weighted-gui",
     "size": 40241,
-    "stars": 221,
+    "stars": 222,
     "issues": 11,
     "commits": 44
   },
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 276,
     "issues": 33,
-    "commits": 230
+    "commits": 0
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -501,7 +501,7 @@
     "updated": "2023-05-09T15:18:05.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60504,
-    "stars": 152,
+    "stars": 153,
     "issues": 13,
     "commits": 53
   },
@@ -522,20 +522,13 @@
     "commits": 62
   },
   {
-    "name": "sd-webui-kitchen-theme",
+    "name": "Kitchen Theme",
     "url": "https://github.com/canisminor1990/sd-web-ui-kitchen-theme.git",
-    "description": "🧿 Kitchen theme for stable diffusion webui",
+    "description": "Custom Theme.",
     "tags": [
       "UI related"
     ],
-    "added": "2023-02-28T00:00:00.000Z",
-    "created": "2023-02-25T06:41:18.000Z",
-    "updated": "2023-05-05T15:10:14.000Z",
-    "long": "canisminor1990/sd-webui-kitchen-theme",
-    "size": 20649,
-    "stars": 193,
-    "issues": 18,
-    "commits": 176
+    "added": "2023-02-28T00:00:00.000Z"
   },
   {
     "name": "sd-webui-bilingual-localization",
@@ -764,26 +757,19 @@
     "updated": "2023-05-09T08:30:10.000Z",
     "long": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
     "size": 641,
-    "stars": 155,
+    "stars": 156,
     "issues": 4,
     "commits": 48
   },
   {
-    "name": "sd-webui-deforum",
+    "name": "Deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "Deforum extension script for AUTOMATIC1111's Stable Diffusion webui",
+    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z",
-    "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-09T23:29:45.000Z",
-    "long": "deforum-art/sd-webui-deforum",
-    "size": 130901,
-    "stars": 1246,
-    "issues": 24,
-    "commits": 2672
+    "added": "2022-11-01T00:00:00.000Z"
   },
   {
     "name": "animator_extension",
@@ -942,8 +928,8 @@
     "updated": "2023-05-06T06:50:57.000Z",
     "long": "kex0/batch-face-swap",
     "size": 6268,
-    "stars": 151,
-    "issues": 12,
+    "stars": 152,
+    "issues": 13,
     "commits": 89
   },
   {
@@ -992,7 +978,7 @@
     "updated": "2023-04-13T04:10:08.000Z",
     "long": "Extraltodeus/depthmap2mask",
     "size": 31,
-    "stars": 281,
+    "stars": 282,
     "issues": 25,
     "commits": 35
   },
@@ -1171,7 +1157,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 310,
+    "stars": 311,
     "issues": 4,
     "commits": 54
   },
@@ -1221,7 +1207,7 @@
     "size": 22749,
     "stars": 238,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1253,7 +1239,7 @@
     "size": 45,
     "stars": 35,
     "issues": 3,
-    "commits": 24
+    "commits": 0
   },
   {
     "name": "booru2prompt",
@@ -1380,7 +1366,7 @@
     "updated": "2023-05-06T21:05:47.000Z",
     "long": "AlUlkesh/sd_grid_add_image_number",
     "size": 1798,
-    "stars": 12,
+    "stars": 13,
     "issues": 1,
     "commits": 8
   },
@@ -1415,7 +1401,7 @@
     "size": 61118,
     "stars": 103,
     "issues": 0,
-    "commits": 0
+    "commits": 937
   },
   {
     "name": "openpose-editor",
@@ -1448,7 +1434,7 @@
     "size": 561,
     "stars": 33,
     "issues": 10,
-    "commits": 69
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1465,7 +1451,7 @@
     "size": 87,
     "stars": 54,
     "issues": 1,
-    "commits": 52
+    "commits": 0
   },
   {
     "name": "discord-rpc-for-automatic1111-webui",
@@ -1481,7 +1467,7 @@
     "size": 9,
     "stars": 12,
     "issues": 1,
-    "commits": 7
+    "commits": 0
   },
   {
     "name": "mine-diffusion",
@@ -1547,7 +1533,7 @@
     "size": 602,
     "stars": 16,
     "issues": 0,
-    "commits": 14
+    "commits": 0
   },
   {
     "name": "clip-interrogator-ext",
@@ -1613,7 +1599,7 @@
     "size": 31709,
     "stars": 54,
     "issues": 1,
-    "commits": 0
+    "commits": 62
   },
   {
     "name": "posex",
@@ -1694,7 +1680,7 @@
     "size": 24,
     "stars": 41,
     "issues": 5,
-    "commits": 3
+    "commits": 0
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1708,7 +1694,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2040,
+    "stars": 2042,
     "issues": 34,
     "commits": 185
   },
@@ -1871,7 +1857,7 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 642,
+    "stars": 644,
     "issues": 22,
     "commits": 408
   },
@@ -1907,7 +1893,7 @@
     "size": 76422,
     "stars": 114,
     "issues": 1,
-    "commits": 0
+    "commits": 162
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -1923,7 +1909,7 @@
     "size": 18856,
     "stars": 402,
     "issues": 26,
-    "commits": 0
+    "commits": 130
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -2072,7 +2058,7 @@
     "updated": "2023-05-09T21:58:53.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 372,
-    "stars": 376,
+    "stars": 377,
     "issues": 7,
     "commits": 148
   },
@@ -2242,7 +2228,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 326,
+    "stars": 327,
     "issues": 21,
     "commits": 77
   }
