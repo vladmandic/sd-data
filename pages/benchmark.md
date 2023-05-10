@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-10T02:32:44.517Z
+  ## Updated: 2023-05-10T07:09:13.549Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3839|2023-05-10T02:10:34.559Z|6.14 / 6.79 / 6.95|updated:2023-05-09 hash:aad2a533 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-122-generic python:3.10.9|torch:2.1.0.dev20230509+cu118 Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp none|AC0.2-v1.0-fp16.safetensors [5a23f6ba50]|root||
+  |3841|2023-04-02T12:05:48.072Z|19.48 / 30.47 / 39.09|updated:2023-03-14 hash:a9fed7c3 url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 24GB|xformers lowram|cetusMix_cetusVersion2.safetensors [e911995387]|LinPC||
+|3840|2023-03-30T21:52:11.157Z|19.25 / 30.19 / 39.03|updated:2023-03-14 hash:a9fed7c3 url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers lowram|cetusMix_cetusVersion2.safetensors [e911995387]|LinPC||
+|3839|2023-05-10T02:10:34.559Z|6.14 / 6.79 / 6.95|updated:2023-05-09 hash:aad2a533 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-122-generic python:3.10.9|torch:2.1.0.dev20230509+cu118 Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp none|AC0.2-v1.0-fp16.safetensors [5a23f6ba50]|root||
 |3838|2023-05-09T17:41:16.264Z|16.5 / 28.87 / 36.04 / 39.83 / 41.78|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|v2-1_768-ema-pruned-fp16.safetensors [370234eabb]|xilix||
 |3837|2023-05-09T17:33:29.249Z|16.78 / 29.04 / 35.63 / 39.63 / 41.54|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|v2-1_768-ema-pruned-fp16.safetensors [370234eabb]|xilix||
 |3836|2023-05-09T17:20:54.148Z|17.05 / 29.24 / 35.74 / 39.64 / 41.38|updated:2023-05-08 hash:4d9fab49 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|v2-1_768-ema-pruned-fp16.safetensors [370234eabb]|xilix||
