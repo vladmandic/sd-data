@@ -64,7 +64,7 @@
     "updated": "2023-05-02T13:29:28.000Z",
     "long": "toshiaki1729/stable-diffusion-webui-dataset-tag-editor",
     "size": 7626,
-    "stars": 317,
+    "stars": 319,
     "issues": 12,
     "commits": 213
   },
@@ -498,11 +498,11 @@
     ],
     "added": "2023-05-02T00:00:00.000Z",
     "created": "2023-04-30T08:47:39.000Z",
-    "updated": "2023-05-10T07:23:20.000Z",
+    "updated": "2023-05-10T08:48:15.000Z",
     "long": "Nevysha/Cozy-Nest",
-    "size": 60504,
-    "stars": 154,
-    "issues": 6,
+    "size": 60571,
+    "stars": 155,
+    "issues": 8,
     "commits": 54
   },
   {
@@ -614,7 +614,7 @@
     "updated": "2023-05-09T12:42:33.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3982,
-    "stars": 1421,
+    "stars": 1423,
     "issues": 10,
     "commits": 285
   },
@@ -830,7 +830,7 @@
     "updated": "2023-04-21T12:08:24.000Z",
     "long": "fishslot/video_loopback_for_webui",
     "size": 18209,
-    "stars": 276,
+    "stars": 277,
     "issues": 1,
     "commits": 83
   },
@@ -880,7 +880,7 @@
     "size": 48157,
     "stars": 124,
     "issues": 2,
-    "commits": 0
+    "commits": 52
   },
   {
     "name": "sd-extension-steps-animation",
@@ -960,7 +960,7 @@
     "size": 3325,
     "stars": 895,
     "issues": 55,
-    "commits": 0
+    "commits": 173
   },
   {
     "name": "multi-subject-render",
@@ -977,7 +977,7 @@
     "size": 81,
     "stars": 301,
     "issues": 15,
-    "commits": 0
+    "commits": 79
   },
   {
     "name": "depthmap2mask",
@@ -1027,7 +1027,7 @@
     "size": 1117,
     "stars": 8,
     "issues": 0,
-    "commits": 0
+    "commits": 12
   },
   {
     "name": "stable-diffusion-webui-pixelization",
@@ -1077,7 +1077,7 @@
     "size": 9,
     "stars": 72,
     "issues": 3,
-    "commits": 0
+    "commits": 4
   },
   {
     "name": "SD-latent-mirroring",
@@ -1125,7 +1125,7 @@
     "size": 122,
     "stars": 63,
     "issues": 5,
-    "commits": 0
+    "commits": 6
   },
   {
     "name": "ultimate-upscale-for-automatic1111",
@@ -1140,7 +1140,7 @@
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
     "stars": 557,
-    "issues": 17,
+    "issues": 18,
     "commits": 94
   },
   {
@@ -1171,7 +1171,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 315,
+    "stars": 316,
     "issues": 3,
     "commits": 54
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8029,
+    "stars": 8034,
     "issues": 20,
     "commits": 1333
   },
@@ -1235,7 +1235,7 @@
     "updated": "2023-04-21T14:28:37.000Z",
     "long": "opparco/stable-diffusion-webui-composable-lora",
     "size": 20,
-    "stars": 312,
+    "stars": 314,
     "issues": 12,
     "commits": 17
   },
@@ -1253,7 +1253,7 @@
     "size": 45,
     "stars": 35,
     "issues": 3,
-    "commits": 0
+    "commits": 24
   },
   {
     "name": "booru2prompt",
@@ -1318,7 +1318,7 @@
     "size": 31,
     "stars": 16,
     "issues": 0,
-    "commits": 0
+    "commits": 17
   },
   {
     "name": "sd_auto_fix",
@@ -1334,7 +1334,7 @@
     "size": 19,
     "stars": 9,
     "issues": 2,
-    "commits": 0
+    "commits": 4
   },
   {
     "name": "sd-webui-riffusion",
@@ -1415,7 +1415,7 @@
     "size": 61118,
     "stars": 104,
     "issues": 0,
-    "commits": 0
+    "commits": 937
   },
   {
     "name": "openpose-editor",
@@ -1597,7 +1597,7 @@
     "size": 3298,
     "stars": 56,
     "issues": 12,
-    "commits": 0
+    "commits": 42
   },
   {
     "name": "stable-diffusion-webui-dumpunet",
@@ -1613,7 +1613,7 @@
     "size": 31709,
     "stars": 54,
     "issues": 1,
-    "commits": 0
+    "commits": 62
   },
   {
     "name": "posex",
@@ -1708,7 +1708,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2050,
+    "stars": 2049,
     "issues": 35,
     "commits": 185
   },
@@ -1789,7 +1789,7 @@
     "updated": "2023-04-18T01:46:15.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1019,
-    "stars": 357,
+    "stars": 358,
     "issues": 15,
     "commits": 1
   },
@@ -1855,7 +1855,7 @@
     "long": "ilian6806/stable-diffusion-webui-state",
     "size": 73,
     "stars": 93,
-    "issues": 4,
+    "issues": 5,
     "commits": 43
   },
   {
@@ -1953,7 +1953,7 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 47,
+    "stars": 48,
     "issues": 10,
     "commits": 34
   },
@@ -1990,7 +1990,7 @@
     "size": 727,
     "stars": 50,
     "issues": 0,
-    "commits": 0
+    "commits": 38
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 334,
+    "stars": 335,
     "issues": 22,
     "commits": 77
   },
