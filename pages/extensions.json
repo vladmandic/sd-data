@@ -37,7 +37,7 @@
   {
     "name": "training-picker",
     "url": "https://github.com/Maurdekye/training-picker.git",
-    "description": "Extension for stable-diffusion-webui that allows the user to mux through the keyframes of a vide",
+    "description": "Extension for stable-diffusion-webui that allows the user to mux through the keyframes of a video, and automatically pick and export training examples from individual keyframes.",
     "tags": [
       "tab",
       "training"
@@ -190,24 +190,24 @@
   {
     "name": "sdweb-merge-board",
     "url": "https://github.com/bbc-mc/sdweb-merge-board.git",
-    "description": "Multi-step automation merge tool. Extension/Script for Stable Diffusion UI by AUTOMATIC1111 http",
+    "description": "Multi-step automation merge tool. Extension/Script for Stable Diffusion UI by AUTOMATIC1111 https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "tags": [
       "tab",
       "models"
     ],
     "added": "2022-11-21T00:00:00.000Z",
     "created": "2022-11-07T16:25:50.000Z",
-    "updated": "2023-01-25T15:00:18.000Z",
+    "updated": "2023-05-10T12:21:43.000Z",
     "long": "bbc-mc/sdweb-merge-board",
     "size": 1166,
     "stars": 49,
     "issues": 6,
-    "commits": 0
+    "commits": 18
   },
   {
     "name": "sd-webui-model-converter",
     "url": "https://github.com/Akegarasu/sd-webui-model-converter.git",
-    "description": "model convert extension for stable-diffusion-webui. supports convert fp16/bf16 no-ema/ema-only s",
+    "description": "model convert extension for stable-diffusion-webui. supports convert fp16/bf16 no-ema/ema-only safetensors",
     "tags": [
       "tab",
       "models"
@@ -224,7 +224,7 @@
   {
     "name": "sd-webui-additional-networks",
     "url": "https://github.com/kohya-ss/sd-webui-additional-networks.git",
-    "description": "Allows the Web UI to use LoRAs (1.X and 2.X) to generate images. Also allows editing .safetensor",
+    "description": "Allows the Web UI to use LoRAs (1.X and 2.X) to generate images. Also allows editing .safetensors networks prompt metadata.",
     "tags": [
       "models"
     ],
@@ -240,7 +240,7 @@
   {
     "name": "sdweb-merge-block-weighted-gui",
     "url": "https://github.com/bbc-mc/sdweb-merge-block-weighted-gui.git",
-    "description": "Merge models with separate rate for each 25 U-Net block (input, middle, output). Extension for S",
+    "description": "Merge models with separate rate for each 25 U-Net block (input, middle, output). Extension for Stable Diffusion UI by AUTOMATIC1111",
     "tags": [
       "tab",
       "models"
@@ -257,7 +257,7 @@
   {
     "name": "stable-diffusion-webui-embedding-merge",
     "url": "https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge.git",
-    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for creating and merging Textual Inversion em",
+    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for creating and merging Textual Inversion embeddings at runtime from string literals.",
     "tags": [
       "tab",
       "models",
@@ -270,7 +270,7 @@
     "size": 132,
     "stars": 30,
     "issues": 3,
-    "commits": 0
+    "commits": 13
   },
   {
     "name": "sd-webui-supermerger",
@@ -292,7 +292,7 @@
   {
     "name": "sd-webui-lora-block-weight",
     "url": "https://github.com/hako-mikan/sd-webui-lora-block-weight.git",
-    "description": "Applies LoRA strength; block by block on the fly. Includes presets, weight analysis, randomizati",
+    "description": "Applies LoRA strength; block by block on the fly. Includes presets, weight analysis, randomization, XY plot.",
     "tags": [
       "models"
     ],
@@ -325,7 +325,7 @@
   {
     "name": "sd-webui-infinite-image-browsing",
     "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
-    "description": "A powerful image browser for Stable Diffusion webui with infinite scrolling and joint search usi",
+    "description": "A powerful image browser for Stable Diffusion webui with infinite scrolling and joint search using image parameters. Viewing images in a matter of milliseconds.",
     "tags": [
       "tab",
       "UI related"
@@ -337,12 +337,12 @@
     "size": 11471,
     "stars": 130,
     "issues": 14,
-    "commits": 0
+    "commits": 294
   },
   {
     "name": "stable-diffusion-webui-inspiration",
     "url": "https://github.com/yfszzx/stable-diffusion-webui-inspiration.git",
-    "description": "Randomly display the pictures of the artist's or artistic genres typical style, more pictures of",
+    "description": "Randomly display the pictures of the artist's or artistic genres typical style, more pictures of this artist or genre is displayed after selecting. So you don't have to worry about how hard it is to c",
     "tags": [
       "tab",
       "UI related"
@@ -459,7 +459,7 @@
   {
     "name": "sd-web-ui-quickcss",
     "url": "https://github.com/Gerschel/sd-web-ui-quickcss.git",
-    "description": "I just setup a quick css apply using the style here https://github.com/AUTOMATIC1111/stable-diff",
+    "description": "I just setup a quick css apply using the style here https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5813 This is a tool for designers to worry more about designing their css, rathe",
     "tags": [
       "tab",
       "UI related"
@@ -556,7 +556,7 @@
   {
     "name": "sd-dynamic-prompts",
     "url": "https://github.com/adieyal/sd-dynamic-prompts.git",
-    "description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language f",
+    "description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
     "tags": [
       "prompting"
     ],
@@ -572,7 +572,7 @@
   {
     "name": "unprompted",
     "url": "https://github.com/ThereforeGames/unprompted.git",
-    "description": "Templating language written for Stable Diffusion workflows. Available as an extension for the Au",
+    "description": "Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.",
     "tags": [
       "prompting",
       "ads"
@@ -637,7 +637,7 @@
   {
     "name": "stable-diffusion-webui-tokenizer",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer.git",
-    "description": "An extension for stable-diffusion-webui that adds a tab that lets you preview how CLIP model wou",
+    "description": "An extension for stable-diffusion-webui that adds a tab that lets you preview how CLIP model would tokenize your text.",
     "tags": [
       "tab",
       "prompting"
@@ -670,7 +670,7 @@
   {
     "name": "stable-diffusion-webui-conditioning-highres-fix",
     "url": "https://github.com/klimaleksus/stable-diffusion-webui-conditioning-highres-fix.git",
-    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for simplify usage of \"Inpainting conditionin",
+    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for simplify usage of \"Inpainting conditioning mask strength\", greatly improving \"Highres. fix\" feature for sd-v1-5-inpainting model.",
     "tags": [
       "prompting"
     ],
@@ -686,7 +686,7 @@
   {
     "name": "model-keyword",
     "url": "https://github.com/mix1009/model-keyword.git",
-    "description": "Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models and LORA mo",
+    "description": "Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models and LORA models.",
     "tags": [
       "prompting"
     ],
@@ -753,7 +753,7 @@
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
     "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
-    "description": "This extension can translate prompt from your native language into English, so you can write pro",
+    "description": "This extension can translate prompt from your native language into English, so you can write prompt with your native language",
     "tags": [
       "tab",
       "prompting",
@@ -821,7 +821,7 @@
   {
     "name": "video_loopback_for_webui",
     "url": "https://github.com/fishslot/video_loopback_for_webui.git",
-    "description": "A video2video script that tries to improve on the temporal consistency and flexibility of normal",
+    "description": "A video2video script that tries to improve on the temporal consistency and flexibility of normal vid2vid.",
     "tags": [
       "animation"
     ],
@@ -869,7 +869,7 @@
   {
     "name": "stable-diffusion-webui-prompt-travel",
     "url": "https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel.git",
-    "description": "Travel between prompts in the latent space to make pseudo-animation, extension script for AUTOMA",
+    "description": "Travel between prompts in the latent space to make pseudo-animation, extension script for AUTOMATIC1111/stable-diffusion-webui.",
     "tags": [
       "animation"
     ],
@@ -1015,7 +1015,7 @@
   {
     "name": "sd-pixel",
     "url": "https://github.com/Leodotpy/sd-pixel.git",
-    "description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effec",
+    "description": "Quickly and easily perform downscaling, color palette limiting, and other useful pixel art effects through the extras tab.",
     "tags": [
       "editing",
       "extras"
@@ -1082,7 +1082,7 @@
   {
     "name": "SD-latent-mirroring",
     "url": "https://github.com/dfaker/SD-latent-mirroring.git",
-    "description": "Applies mirroring and flips to the latent images to produce anything from subtle balanced compos",
+    "description": "Applies mirroring and flips to the latent images to produce anything from subtle balanced compositions to perfect reflections",
     "tags": [
       "manipulations"
     ],
@@ -1098,7 +1098,7 @@
   {
     "name": "stable-diffusion-webui-sonar",
     "url": "https://github.com/Kahsolt/stable-diffusion-webui-sonar.git",
-    "description": "Wrapped k-diffuison samplers with tricks to improve the generated image quality (maybe?), extens",
+    "description": "Wrapped k-diffuison samplers with tricks to improve the generated image quality (maybe?), extension script for AUTOMATIC1111/stable-diffusion-webui",
     "tags": [
       "manipulations"
     ],
@@ -1109,12 +1109,12 @@
     "size": 4415,
     "stars": 67,
     "issues": 3,
-    "commits": 0
+    "commits": 21
   },
   {
     "name": "depth-image-io-for-SDWebui",
     "url": "https://github.com/AnonymousCervine/depth-image-io-for-SDWebui.git",
-    "description": "An extension to allow managing custom depth inputs to Stable Diffusion depth2img models for the ",
+    "description": "An extension to allow managing custom depth inputs to Stable Diffusion depth2img models for the stable-diffusion-webui repo.",
     "tags": [
       "manipulations"
     ],
@@ -1130,7 +1130,7 @@
   {
     "name": "ultimate-upscale-for-automatic1111",
     "url": "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git",
-    "description": "More advanced options for SD Upscale, less artifacts than original using higher denoise ratio (0",
+    "description": "More advanced options for SD Upscale, less artifacts than original using higher denoise ratio (0.3-0.5).",
     "tags": [
       "manipulations"
     ],
@@ -1178,7 +1178,7 @@
   {
     "name": "stable-diffusion-webui-anti-burn",
     "url": "https://github.com/klimaleksus/stable-diffusion-webui-anti-burn.git",
-    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for smoothing generated images by skipping a ",
+    "description": "Extension for AUTOMATIC1111/stable-diffusion-webui for smoothing generated images by skipping a few very last steps and averaging together some images before them.",
     "tags": [
       "manipulations"
     ],
@@ -1242,7 +1242,7 @@
   {
     "name": "stable-diffusion-webui-auto-tls-https",
     "url": "https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git",
-    "description": "An extension for AUTOMATIC1111's Stable Diffusion Web-UI that enables easy or zero-conf TLS for ",
+    "description": "An extension for AUTOMATIC1111's Stable Diffusion Web-UI that enables easy or zero-conf TLS for HTTPS",
     "tags": [
       "script"
     ],
@@ -1387,7 +1387,7 @@
   {
     "name": "sd-webui-multiple-hypernetworks",
     "url": "https://github.com/antis0007/sd-webui-multiple-hypernetworks.git",
-    "description": "Extension that allows the use of multiple hypernetworks at once in AUTOMATIC1111's Stable Diffus",
+    "description": "Extension that allows the use of multiple hypernetworks at once in AUTOMATIC1111's Stable Diffusion webui",
     "tags": [
       "script"
     ],
@@ -1398,7 +1398,7 @@
     "size": 54,
     "stars": 85,
     "issues": 5,
-    "commits": 0
+    "commits": 17
   },
   {
     "name": "sd-extension-system-info",
@@ -1448,7 +1448,7 @@
     "size": 561,
     "stars": 33,
     "issues": 10,
-    "commits": 0
+    "commits": 69
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1470,7 +1470,7 @@
   {
     "name": "discord-rpc-for-automatic1111-webui",
     "url": "https://github.com/kabachuha/discord-rpc-for-automatic1111-webui.git",
-    "description": "Silent extension (no tab) for AUTOMATIC1111's Stable Diffusion WebUI adding connection to Discor",
+    "description": "Silent extension (no tab) for AUTOMATIC1111's Stable Diffusion WebUI adding connection to Discord RPC, so it would show a fancy table in the Discord profile.",
     "tags": [
       "online"
     ],
@@ -1486,7 +1486,7 @@
   {
     "name": "mine-diffusion",
     "url": "https://github.com/fropych/mine-diffusion.git",
-    "description": "This extension converts images into blocks and creates schematics for easy importing into Minecr",
+    "description": "This extension converts images into blocks and creates schematics for easy importing into Minecraft using the Litematica mod.",
     "tags": [
       "tab",
       "online"
@@ -1503,7 +1503,7 @@
   {
     "name": "stable-diffusion-webui-aesthetic-image-scorer",
     "url": "https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer.git",
-    "description": "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based o",
+    "description": "Calculates aesthetic score for generated images using CLIP+MLP Aesthetic Score Predictor based on Chad Scorer",
     "tags": [
       "query"
     ],
@@ -1569,7 +1569,7 @@
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
     "url": "https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension.git",
-    "description": "Generates highlighted sectors of a submitted input image, based on input prompts. Use with token",
+    "description": "Generates highlighted sectors of a submitted input image, based on input prompts. Use with tokenizer extension. See the readme for more info.",
     "tags": [
       "tab",
       "science"
@@ -1602,7 +1602,7 @@
   {
     "name": "stable-diffusion-webui-dumpunet",
     "url": "https://github.com/hnmr293/stable-diffusion-webui-dumpunet.git",
-    "description": "View different layers, observe U-Net feature maps. Image generation by giving different prompts ",
+    "description": "View different layers, observe U-Net feature maps. Image generation by giving different prompts for each block of the unet: https://note.com/kohya_ss/n/n93b7c01b0547",
     "tags": [
       "science"
     ],
@@ -1861,7 +1861,7 @@
   {
     "name": "sd-webui-text2video",
     "url": "https://github.com/deforum-art/sd-webui-text2video.git",
-    "description": "Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) us",
+    "description": "Auto1111 extension implementing text2video diffusion models (like ModelScope or VideoCrafter) using only Auto1111 webui dependencies",
     "tags": [
       "tab",
       "animation"
@@ -1878,7 +1878,7 @@
   {
     "name": "sd-webui-aspect-ratio-helper",
     "url": "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git",
-    "description": "Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the ext",
+    "description": "Simple extension to easily maintain aspect ratio while changing dimensions.  Install via the extensions tab on the AUTOMATIC1111 webui.",
     "tags": [
       "script",
       "dropdown",
@@ -1928,7 +1928,7 @@
   {
     "name": "stable-diffusion-webui-auto-translate-language",
     "url": "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language.git",
-    "description": "Language extension allows users to write prompts in their native language and automatically tran",
+    "description": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
     "tags": [
       "UI related"
     ],
@@ -1944,7 +1944,7 @@
   {
     "name": "prompt_translator",
     "url": "https://github.com/ParisNeo/prompt_translator.git",
-    "description": "A stable diffusion extension for translating prompts from 50 languages. The objective is to give",
+    "description": "A stable diffusion extension for translating prompts from 50 languages. The objective is to give users the possibility to use their own language to perform text prompting.",
     "tags": [
       "prompting"
     ],
@@ -2045,7 +2045,7 @@
   {
     "name": "sd-canvas-editor",
     "url": "https://github.com/jtydhr88/sd-canvas-editor.git",
-    "description": "A custom extension for sd-webui that integrated a full capability canvas editor which you can us",
+    "description": "A custom extension for sd-webui that integrated a full capability canvas editor which you can use layer, text, image, elements, etc",
     "tags": [
       "tab",
       "online"
@@ -2074,7 +2074,7 @@
     "size": 372,
     "stars": 377,
     "issues": 7,
-    "commits": 0
+    "commits": 148
   },
   {
     "name": "zh_CN Localization",
@@ -2266,7 +2266,7 @@
   {
     "name": "sd-webui-prompt-all-in-one",
     "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
-    "description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/neg",
+    "description": "This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto",
     "tags": [
       "UI related",
       "prompting",
@@ -2280,6 +2280,6 @@
     "size": 4726,
     "stars": 25,
     "issues": 2,
-    "commits": 0
+    "commits": 39
   }
 ]
