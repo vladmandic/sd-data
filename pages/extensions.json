@@ -27,7 +27,7 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "updated": "2023-05-10T18:03:28.000Z",
+    "updated": "2023-05-10T20:20:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17565,
     "stars": 1266,
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 278,
     "issues": 32,
-    "commits": 231
+    "commits": 0
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -566,7 +566,7 @@
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
     "stars": 763,
-    "issues": 58,
+    "issues": 59,
     "commits": 515
   },
   {
@@ -769,21 +769,14 @@
     "commits": 48
   },
   {
-    "name": "sd-webui-deforum",
+    "name": "Deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "Deforum extension script for AUTOMATIC1111's Stable Diffusion webui",
+    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z",
-    "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-10T17:06:46.000Z",
-    "long": "deforum-art/sd-webui-deforum",
-    "size": 130918,
-    "stars": 1253,
-    "issues": 23,
-    "commits": 2682
+    "added": "2022-11-01T00:00:00.000Z"
   },
   {
     "name": "animator_extension",
@@ -1139,7 +1132,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 561,
+    "stars": 562,
     "issues": 18,
     "commits": 94
   },
@@ -1221,7 +1214,7 @@
     "size": 22749,
     "stars": 240,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1270,7 +1263,7 @@
     "size": 43,
     "stars": 37,
     "issues": 15,
-    "commits": 8
+    "commits": 0
   },
   {
     "name": "sd-webui-gelbooru-prompt",
@@ -1382,7 +1375,7 @@
     "size": 1798,
     "stars": 15,
     "issues": 1,
-    "commits": 0
+    "commits": 8
   },
   {
     "name": "sd-webui-multiple-hypernetworks",
@@ -1398,7 +1391,7 @@
     "size": 54,
     "stars": 85,
     "issues": 5,
-    "commits": 17
+    "commits": 0
   },
   {
     "name": "sd-extension-system-info",
@@ -1429,7 +1422,7 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1118,
+    "stars": 1119,
     "issues": 46,
     "commits": 102
   },
@@ -1514,7 +1507,7 @@
     "size": 840,
     "stars": 81,
     "issues": 14,
-    "commits": 0
+    "commits": 20
   },
   {
     "name": "sd-extension-aesthetic-scorer",
@@ -1564,7 +1557,7 @@
     "size": 134,
     "stars": 179,
     "issues": 32,
-    "commits": 0
+    "commits": 27
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1856,7 +1849,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 43
+    "commits": 0
   },
   {
     "name": "sd-webui-text2video",
@@ -1922,7 +1915,7 @@
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 18863,
     "stars": 406,
-    "issues": 24,
+    "issues": 25,
     "commits": 132
   },
   {
@@ -2242,7 +2235,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 347,
+    "stars": 350,
     "issues": 25,
     "commits": 77
   },
@@ -2259,7 +2252,7 @@
     "updated": "2023-05-09T23:55:20.000Z",
     "long": "arenasys/stable-diffusion-webui-model-toolkit",
     "size": 120,
-    "stars": 257,
+    "stars": 258,
     "issues": 2,
     "commits": 39
   },
@@ -2278,7 +2271,7 @@
     "updated": "2023-05-10T14:53:08.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 4893,
-    "stars": 30,
+    "stars": 31,
     "issues": 1,
     "commits": 43
   }
