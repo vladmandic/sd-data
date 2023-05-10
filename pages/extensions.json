@@ -335,7 +335,7 @@
     "updated": "2023-05-09T18:39:21.000Z",
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 11471,
-    "stars": 128,
+    "stars": 129,
     "issues": 14,
     "commits": 294
   },
@@ -501,7 +501,7 @@
     "updated": "2023-05-09T15:18:05.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60504,
-    "stars": 151,
+    "stars": 152,
     "issues": 13,
     "commits": 53
   },
@@ -533,7 +533,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 192,
+    "stars": 193,
     "issues": 18,
     "commits": 176
   },
@@ -781,7 +781,7 @@
     "updated": "2023-05-09T23:29:45.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130901,
-    "stars": 1245,
+    "stars": 1246,
     "issues": 24,
     "commits": 2672
   },
@@ -1171,7 +1171,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 309,
+    "stars": 310,
     "issues": 4,
     "commits": 54
   },
@@ -1203,8 +1203,8 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8013,
-    "issues": 21,
+    "stars": 8018,
+    "issues": 20,
     "commits": 1333
   },
   {
@@ -1415,7 +1415,7 @@
     "size": 61118,
     "stars": 103,
     "issues": 0,
-    "commits": 937
+    "commits": 0
   },
   {
     "name": "openpose-editor",
@@ -1613,7 +1613,7 @@
     "size": 31709,
     "stars": 54,
     "issues": 1,
-    "commits": 62
+    "commits": 0
   },
   {
     "name": "posex",
@@ -1644,7 +1644,7 @@
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
     "stars": 503,
-    "issues": 12,
+    "issues": 13,
     "commits": 36
   },
   {
@@ -1822,7 +1822,7 @@
     "updated": "2023-04-25T01:44:54.000Z",
     "long": "nonnonstop/sd-webui-3d-open-pose-editor",
     "size": 7676,
-    "stars": 405,
+    "stars": 406,
     "issues": 39,
     "commits": 205
   },
@@ -1871,7 +1871,7 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 641,
+    "stars": 642,
     "issues": 22,
     "commits": 408
   },
@@ -1907,7 +1907,7 @@
     "size": 76422,
     "stars": 114,
     "issues": 1,
-    "commits": 162
+    "commits": 0
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -1923,7 +1923,7 @@
     "size": 18856,
     "stars": 402,
     "issues": 26,
-    "commits": 130
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -2038,7 +2038,7 @@
     "updated": "2023-05-09T12:30:50.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
-    "stars": 198,
+    "stars": 199,
     "issues": 6,
     "commits": 33
   },
@@ -2225,7 +2225,7 @@
     "updated": "2023-05-08T11:00:21.000Z",
     "long": "alexandersokol/sd-model-organizer",
     "size": 6640,
-    "stars": 1,
+    "stars": 2,
     "issues": 0,
     "commits": 101
   },
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 325,
+    "stars": 326,
     "issues": 21,
     "commits": 77
   }
