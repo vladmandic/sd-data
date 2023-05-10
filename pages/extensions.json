@@ -29,7 +29,7 @@
     "created": "2022-11-06T02:40:44.000Z",
     "updated": "2023-05-10T18:03:28.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17560,
+    "size": 17565,
     "stars": 1266,
     "issues": 28,
     "commits": 1212
@@ -82,7 +82,7 @@
     "size": 61019,
     "stars": 555,
     "issues": 27,
-    "commits": 0
+    "commits": 49
   },
   {
     "name": "stable-diffusion-webui-wd14-tagger",
@@ -202,7 +202,7 @@
     "size": 1181,
     "stars": 49,
     "issues": 5,
-    "commits": 0
+    "commits": 18
   },
   {
     "name": "sd-webui-model-converter",
@@ -250,7 +250,7 @@
     "updated": "2023-05-07T23:54:27.000Z",
     "long": "bbc-mc/sdweb-merge-block-weighted-gui",
     "size": 40241,
-    "stars": 223,
+    "stars": 224,
     "issues": 11,
     "commits": 44
   },
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 278,
     "issues": 32,
-    "commits": 0
+    "commits": 231
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -533,7 +533,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 196,
+    "stars": 197,
     "issues": 18,
     "commits": 176
   },
@@ -567,7 +567,7 @@
     "size": 27366,
     "stars": 763,
     "issues": 58,
-    "commits": 0
+    "commits": 515
   },
   {
     "name": "unprompted",
@@ -616,7 +616,7 @@
     "size": 3982,
     "stars": 1424,
     "issues": 10,
-    "commits": 0
+    "commits": 285
   },
   {
     "name": "novelai-2-local-prompt",
@@ -681,7 +681,7 @@
     "size": 19,
     "stars": 26,
     "issues": 0,
-    "commits": 0
+    "commits": 12
   },
   {
     "name": "model-keyword",
@@ -694,7 +694,7 @@
     "created": "2022-12-01T03:07:53.000Z",
     "updated": "2023-05-10T18:00:33.000Z",
     "long": "mix1009/model-keyword",
-    "size": 4410,
+    "size": 4784,
     "stars": 99,
     "issues": 9,
     "commits": 842
@@ -781,9 +781,9 @@
     "updated": "2023-05-10T17:06:46.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130918,
-    "stars": 1254,
+    "stars": 1253,
     "issues": 23,
-    "commits": 0
+    "commits": 2682
   },
   {
     "name": "animator_extension",
@@ -1203,8 +1203,8 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8044,
-    "issues": 19,
+    "stars": 8045,
+    "issues": 20,
     "commits": 1333
   },
   {
@@ -1221,7 +1221,7 @@
     "size": 22749,
     "stars": 240,
     "issues": 1,
-    "commits": 0
+    "commits": 45
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1382,7 +1382,7 @@
     "size": 1798,
     "stars": 15,
     "issues": 1,
-    "commits": 8
+    "commits": 0
   },
   {
     "name": "sd-webui-multiple-hypernetworks",
@@ -1465,7 +1465,7 @@
     "size": 87,
     "stars": 54,
     "issues": 1,
-    "commits": 0
+    "commits": 52
   },
   {
     "name": "discord-rpc-for-automatic1111-webui",
@@ -1514,7 +1514,7 @@
     "size": 840,
     "stars": 81,
     "issues": 14,
-    "commits": 20
+    "commits": 0
   },
   {
     "name": "sd-extension-aesthetic-scorer",
@@ -1564,7 +1564,7 @@
     "size": 134,
     "stars": 179,
     "issues": 32,
-    "commits": 27
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1708,7 +1708,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2059,
+    "stars": 2060,
     "issues": 36,
     "commits": 185
   },
@@ -1824,7 +1824,7 @@
     "size": 7676,
     "stars": 406,
     "issues": 39,
-    "commits": 0
+    "commits": 205
   },
   {
     "name": "sd-webui-enable-checker",
@@ -2069,7 +2069,7 @@
     ],
     "added": "2023-04-13T00:00:00.000Z",
     "created": "2023-03-23T09:19:22.000Z",
-    "updated": "2023-05-09T21:58:53.000Z",
+    "updated": "2023-05-10T18:41:47.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 372,
     "stars": 379,
@@ -2226,7 +2226,7 @@
     "long": "alexandersokol/sd-model-organizer",
     "size": 6640,
     "stars": 3,
-    "issues": 1,
+    "issues": 0,
     "commits": 101
   },
   {
