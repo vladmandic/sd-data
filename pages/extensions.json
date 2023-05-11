@@ -29,7 +29,7 @@
     "created": "2022-11-06T02:40:44.000Z",
     "updated": "2023-05-10T23:17:15.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17571,
+    "size": 17590,
     "stars": 1266,
     "issues": 28,
     "commits": 1212
@@ -319,8 +319,8 @@
     "long": "AlUlkesh/stable-diffusion-webui-images-browser",
     "size": 252,
     "stars": 278,
-    "issues": 32,
-    "commits": 0
+    "issues": 31,
+    "commits": 231
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -336,7 +336,7 @@
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 11736,
     "stars": 131,
-    "issues": 14,
+    "issues": 16,
     "commits": 296
   },
   {
@@ -415,12 +415,12 @@
     ],
     "added": "2022-12-13T00:00:00.000Z",
     "created": "2022-12-13T07:05:08.000Z",
-    "updated": "2023-05-08T21:05:03.000Z",
+    "updated": "2023-05-11T00:00:45.000Z",
     "long": "Zyin055/Config-Presets",
-    "size": 74,
+    "size": 57,
     "stars": 93,
     "issues": 6,
-    "commits": 66
+    "commits": 67
   },
   {
     "name": "sd_web_ui_preset_utils",
@@ -502,7 +502,7 @@
     "long": "Nevysha/Cozy-Nest",
     "size": 60593,
     "stars": 157,
-    "issues": 6,
+    "issues": 7,
     "commits": 56
   },
   {
@@ -565,7 +565,7 @@
     "updated": "2023-04-23T13:28:49.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 763,
+    "stars": 764,
     "issues": 59,
     "commits": 515
   },
@@ -614,7 +614,7 @@
     "updated": "2023-05-09T12:42:33.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3982,
-    "stars": 1424,
+    "stars": 1425,
     "issues": 10,
     "commits": 285
   },
@@ -692,12 +692,12 @@
     ],
     "added": "2022-12-28T00:00:00.000Z",
     "created": "2022-12-01T03:07:53.000Z",
-    "updated": "2023-05-10T18:00:33.000Z",
+    "updated": "2023-05-11T00:00:26.000Z",
     "long": "mix1009/model-keyword",
-    "size": 4784,
+    "size": 4789,
     "stars": 99,
     "issues": 9,
-    "commits": 842
+    "commits": 843
   },
   {
     "name": "stable-diffusion-webui-Prompt_Generator",
@@ -781,7 +781,7 @@
     "updated": "2023-05-10T17:06:46.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130918,
-    "stars": 1254,
+    "stars": 1255,
     "issues": 23,
     "commits": 2682
   },
@@ -880,7 +880,7 @@
     "size": 48157,
     "stars": 124,
     "issues": 2,
-    "commits": 0
+    "commits": 52
   },
   {
     "name": "sd-extension-steps-animation",
@@ -1139,9 +1139,9 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 563,
+    "stars": 564,
     "issues": 18,
-    "commits": 0
+    "commits": 94
   },
   {
     "name": "prompt-fusion-extension",
@@ -1171,7 +1171,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 321,
+    "stars": 323,
     "issues": 3,
     "commits": 54
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8046,
+    "stars": 8048,
     "issues": 22,
     "commits": 1333
   },
@@ -1252,7 +1252,7 @@
     "long": "papuSpartan/stable-diffusion-webui-auto-tls-https",
     "size": 45,
     "stars": 35,
-    "issues": 3,
+    "issues": 2,
     "commits": 24
   },
   {
@@ -1286,7 +1286,7 @@
     "size": 22,
     "stars": 18,
     "issues": 1,
-    "commits": 0
+    "commits": 10
   },
   {
     "name": "stable-diffusion-webui-nsfw-censor",
@@ -1334,7 +1334,7 @@
     "size": 19,
     "stars": 9,
     "issues": 2,
-    "commits": 4
+    "commits": 0
   },
   {
     "name": "sd-webui-riffusion",
@@ -1350,7 +1350,7 @@
     "size": 1269,
     "stars": 120,
     "issues": 16,
-    "commits": 0
+    "commits": 40
   },
   {
     "name": "sd_save_intermediate_images",
@@ -1366,7 +1366,7 @@
     "size": 8737,
     "stars": 66,
     "issues": 4,
-    "commits": 0
+    "commits": 54
   },
   {
     "name": "sd_grid_add_image_number",
@@ -1429,7 +1429,7 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1119,
+    "stars": 1120,
     "issues": 46,
     "commits": 102
   },
@@ -1498,7 +1498,7 @@
     "size": 120316,
     "stars": 6,
     "issues": 0,
-    "commits": 0
+    "commits": 27
   },
   {
     "name": "stable-diffusion-webui-aesthetic-image-scorer",
@@ -1564,7 +1564,7 @@
     "size": 134,
     "stars": 179,
     "issues": 32,
-    "commits": 0
+    "commits": 27
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1613,7 +1613,7 @@
     "size": 31709,
     "stars": 54,
     "issues": 1,
-    "commits": 0
+    "commits": 62
   },
   {
     "name": "posex",
@@ -1627,9 +1627,9 @@
     "updated": "2023-05-03T09:00:07.000Z",
     "long": "hnmr293/posex",
     "size": 11663,
-    "stars": 413,
+    "stars": 414,
     "issues": 22,
-    "commits": 72
+    "commits": 0
   },
   {
     "name": "sd-webui-llul",
@@ -1678,7 +1678,7 @@
     "size": 58205,
     "stars": 383,
     "issues": 27,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -1694,7 +1694,7 @@
     "size": 24,
     "stars": 41,
     "issues": 5,
-    "commits": 3
+    "commits": 0
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1758,7 +1758,7 @@
     "size": 3568,
     "stars": 81,
     "issues": 2,
-    "commits": 81
+    "commits": 0
   },
   {
     "name": "db-storage1111",
@@ -1774,7 +1774,7 @@
     "size": 8,
     "stars": 27,
     "issues": 0,
-    "commits": 8
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-rembg",
@@ -1791,7 +1791,7 @@
     "size": 1019,
     "stars": 359,
     "issues": 15,
-    "commits": 0
+    "commits": 1
   },
   {
     "name": "sd-webui-tunnels",
@@ -1840,7 +1840,7 @@
     "size": 234,
     "stars": 28,
     "issues": 1,
-    "commits": 65
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -1856,7 +1856,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 0
+    "commits": 43
   },
   {
     "name": "sd-webui-text2video",
@@ -1873,7 +1873,7 @@
     "size": 747,
     "stars": 647,
     "issues": 22,
-    "commits": 408
+    "commits": 0
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -1923,7 +1923,7 @@
     "size": 18863,
     "stars": 406,
     "issues": 26,
-    "commits": 132
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -1939,7 +1939,7 @@
     "size": 932,
     "stars": 24,
     "issues": 2,
-    "commits": 22
+    "commits": 0
   },
   {
     "name": "prompt_translator",
@@ -1953,7 +1953,7 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 51,
+    "stars": 55,
     "issues": 10,
     "commits": 34
   },
@@ -2007,7 +2007,7 @@
     "size": 264,
     "stars": 7,
     "issues": 0,
-    "commits": 0
+    "commits": 29
   },
   {
     "name": "PBRemTools",
@@ -2024,7 +2024,7 @@
     "size": 38,
     "stars": 194,
     "issues": 13,
-    "commits": 0
+    "commits": 45
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2057,7 +2057,7 @@
     "size": 11366,
     "stars": 72,
     "issues": 4,
-    "commits": 17
+    "commits": 0
   },
   {
     "name": "infinite-zoom-automatic1111-webui",
@@ -2069,7 +2069,7 @@
     ],
     "added": "2023-04-13T00:00:00.000Z",
     "created": "2023-03-23T09:19:22.000Z",
-    "updated": "2023-05-10T22:08:29.000Z",
+    "updated": "2023-05-11T01:03:02.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 390,
     "stars": 379,
@@ -2227,7 +2227,7 @@
     "size": 6640,
     "stars": 3,
     "issues": 0,
-    "commits": 101
+    "commits": 0
   },
   {
     "name": "SD-CN-Animation",
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 353,
+    "stars": 356,
     "issues": 26,
     "commits": 77
   },
@@ -2278,7 +2278,7 @@
     "updated": "2023-05-10T14:53:08.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 4893,
-    "stars": 31,
+    "stars": 33,
     "issues": 1,
     "commits": 43
   }
