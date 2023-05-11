@@ -1,5 +1,18 @@
 [
   [
+    3849,
+    "2023-05-11T04:30:14.068Z",
+    "7.15 / 9.16 / 9.89 / 10.31 / 10.21",
+    "updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 143 Stepping 8, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "hrl_v40.safetensors [fd3bfb1ea7]",
+    "Yggdrasil75",
+    ""
+  ],
+  [
     3848,
     "2023-05-11T13:12:34.375Z",
     "5.49 / 6.61 / 7.01",
