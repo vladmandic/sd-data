@@ -536,7 +536,7 @@
     "size": 20649,
     "stars": 198,
     "issues": 18,
-    "commits": 176
+    "commits": 0
   },
   {
     "name": "sd-webui-bilingual-localization",
@@ -566,8 +566,8 @@
     "updated": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 765,
-    "issues": 60,
+    "stars": 766,
+    "issues": 61,
     "commits": 515
   },
   {
@@ -612,11 +612,11 @@
     ],
     "added": "2022-11-04T00:00:00.000Z",
     "created": "2022-10-11T17:33:14.000Z",
-    "updated": "2023-05-09T12:42:33.000Z",
+    "updated": "2023-05-11T08:09:53.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3982,
     "stars": 1427,
-    "issues": 10,
+    "issues": 11,
     "commits": 285
   },
   {
@@ -779,12 +779,12 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-10T17:06:46.000Z",
+    "updated": "2023-05-11T08:14:03.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130918,
-    "stars": 1260,
+    "stars": 1261,
     "issues": 23,
-    "commits": 2682
+    "commits": 2684
   },
   {
     "name": "animator_extension",
@@ -943,7 +943,7 @@
     "updated": "2023-05-06T06:50:57.000Z",
     "long": "kex0/batch-face-swap",
     "size": 6268,
-    "stars": 153,
+    "stars": 154,
     "issues": 13,
     "commits": 89
   },
@@ -1140,7 +1140,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 566,
+    "stars": 567,
     "issues": 18,
     "commits": 94
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8059,
+    "stars": 8061,
     "issues": 22,
     "commits": 1333
   },
@@ -1222,7 +1222,7 @@
     "size": 22749,
     "stars": 240,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1270,7 +1270,7 @@
     "long": "Malisius/booru2prompt",
     "size": 43,
     "stars": 37,
-    "issues": 15,
+    "issues": 16,
     "commits": 8
   },
   {
@@ -1416,7 +1416,7 @@
     "size": 61118,
     "stars": 105,
     "issues": 0,
-    "commits": 937
+    "commits": 0
   },
   {
     "name": "openpose-editor",
@@ -1548,7 +1548,7 @@
     "size": 602,
     "stars": 17,
     "issues": 1,
-    "commits": 14
+    "commits": 0
   },
   {
     "name": "clip-interrogator-ext",
@@ -1662,7 +1662,7 @@
     "size": 131,
     "stars": 23,
     "issues": 0,
-    "commits": 63
+    "commits": 0
   },
   {
     "name": "ebsynth_utility",
@@ -1679,7 +1679,7 @@
     "size": 58205,
     "stars": 383,
     "issues": 28,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "a1111-stable-diffusion-webui-vram-estimator",
@@ -1743,7 +1743,7 @@
     "size": 9839,
     "stars": 22,
     "issues": 1,
-    "commits": 15
+    "commits": 0
   },
   {
     "name": "sd-webui-panorama-viewer",
@@ -1792,7 +1792,7 @@
     "size": 1019,
     "stars": 359,
     "issues": 15,
-    "commits": 1
+    "commits": 0
   },
   {
     "name": "sd-webui-tunnels",
@@ -1809,7 +1809,7 @@
     "size": 21,
     "stars": 42,
     "issues": 1,
-    "commits": 22
+    "commits": 0
   },
   {
     "name": "sd-webui-3d-open-pose-editor",
@@ -1857,7 +1857,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 43
+    "commits": 0
   },
   {
     "name": "sd-webui-text2video",
@@ -1906,7 +1906,7 @@
     "updated": "2023-05-09T10:35:35.000Z",
     "long": "richrobber2/canvas-zoom",
     "size": 76422,
-    "stars": 117,
+    "stars": 118,
     "issues": 3,
     "commits": 162
   },
@@ -1954,9 +1954,9 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 55,
+    "stars": 57,
     "issues": 10,
-    "commits": 34
+    "commits": 0
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -2243,7 +2243,7 @@
     "updated": "2023-05-11T04:35:55.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35871,
-    "stars": 364,
+    "stars": 366,
     "issues": 23,
     "commits": 78
   },
