@@ -27,9 +27,9 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "updated": "2023-05-11T22:01:20.000Z",
+    "updated": "2023-05-11T23:02:29.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17607,
+    "size": 17608,
     "stars": 1268,
     "issues": 29,
     "commits": 1212
@@ -217,7 +217,7 @@
     "updated": "2023-03-26T06:37:01.000Z",
     "long": "Akegarasu/sd-webui-model-converter",
     "size": 12,
-    "stars": 135,
+    "stars": 136,
     "issues": 2,
     "commits": 16
   },
@@ -336,7 +336,7 @@
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 9546,
     "stars": 135,
-    "issues": 16,
+    "issues": 17,
     "commits": 300
   },
   {
@@ -471,7 +471,7 @@
     "size": 1162,
     "stars": 35,
     "issues": 11,
-    "commits": 93
+    "commits": 0
   },
   {
     "name": "sd-webui-ar",
@@ -501,7 +501,7 @@
     "created": "2023-04-30T08:47:39.000Z",
     "updated": "2023-05-11T22:02:28.000Z",
     "long": "Nevysha/Cozy-Nest",
-    "size": 60699,
+    "size": 60692,
     "stars": 171,
     "issues": 8,
     "commits": 56
@@ -617,7 +617,7 @@
     "size": 4026,
     "stars": 1433,
     "issues": 10,
-    "commits": 302
+    "commits": 0
   },
   {
     "name": "novelai-2-local-prompt",
@@ -682,7 +682,7 @@
     "size": 19,
     "stars": 26,
     "issues": 0,
-    "commits": 12
+    "commits": 0
   },
   {
     "name": "model-keyword",
@@ -698,7 +698,7 @@
     "size": 5509,
     "stars": 99,
     "issues": 9,
-    "commits": 849
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-Prompt_Generator",
@@ -749,7 +749,7 @@
     "size": 67862,
     "stars": 112,
     "issues": 1,
-    "commits": 48
+    "commits": 0
   },
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
@@ -940,12 +940,12 @@
     ],
     "added": "2023-01-13T00:00:00.000Z",
     "created": "2023-01-11T04:09:21.000Z",
-    "updated": "2023-05-11T22:28:22.000Z",
+    "updated": "2023-05-11T23:05:31.000Z",
     "long": "kex0/batch-face-swap",
-    "size": 6268,
+    "size": 6272,
     "stars": 154,
     "issues": 13,
-    "commits": 90
+    "commits": 91
   },
   {
     "name": "stable-diffusion-webui-depthmap-script",
@@ -1076,7 +1076,7 @@
     "updated": "2022-11-18T17:43:23.000Z",
     "long": "tjm35/asymmetric-tiling-sd-webui",
     "size": 9,
-    "stars": 72,
+    "stars": 73,
     "issues": 3,
     "commits": 4
   },
@@ -1140,7 +1140,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 570,
+    "stars": 571,
     "issues": 19,
     "commits": 94
   },
@@ -1205,7 +1205,7 @@
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
     "stars": 8085,
-    "issues": 22,
+    "issues": 23,
     "commits": 1333
   },
   {
@@ -1314,12 +1314,12 @@
     ],
     "added": "2022-12-20T00:00:00.000Z",
     "created": "2022-12-13T07:54:23.000Z",
-    "updated": "2023-05-11T09:48:18.000Z",
+    "updated": "2023-05-11T23:08:43.000Z",
     "long": "WildBanjos/DiffusionDefender",
     "size": 31,
     "stars": 16,
-    "issues": 1,
-    "commits": 17
+    "issues": 0,
+    "commits": 20
   },
   {
     "name": "sd_auto_fix",
@@ -1430,7 +1430,7 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1127,
+    "stars": 1128,
     "issues": 47,
     "commits": 102
   },
@@ -1662,7 +1662,7 @@
     "size": 131,
     "stars": 23,
     "issues": 0,
-    "commits": 63
+    "commits": 0
   },
   {
     "name": "ebsynth_utility",
@@ -1874,7 +1874,7 @@
     "size": 747,
     "stars": 651,
     "issues": 22,
-    "commits": 408
+    "commits": 0
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2226,7 +2226,7 @@
     "updated": "2023-05-08T11:00:21.000Z",
     "long": "alexandersokol/sd-model-organizer",
     "size": 6640,
-    "stars": 6,
+    "stars": 7,
     "issues": 1,
     "commits": 101
   },
@@ -2260,7 +2260,7 @@
     "updated": "2023-05-09T23:55:20.000Z",
     "long": "arenasys/stable-diffusion-webui-model-toolkit",
     "size": 120,
-    "stars": 261,
+    "stars": 262,
     "issues": 2,
     "commits": 39
   },
@@ -2278,7 +2278,7 @@
     "updated": "2023-05-11T17:29:03.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 5882,
-    "stars": 58,
+    "stars": 59,
     "issues": 1,
     "commits": 57
   }
