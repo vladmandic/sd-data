@@ -13,7 +13,7 @@
     "updated": "2023-01-23T08:45:27.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
     "size": 1121,
-    "stars": 294,
+    "stars": 295,
     "issues": 27,
     "commits": 5
   },
@@ -230,11 +230,11 @@
     ],
     "added": "2023-01-06T00:00:00.000Z",
     "created": "2022-12-27T09:03:08.000Z",
-    "updated": "2023-05-08T13:05:50.000Z",
+    "updated": "2023-05-11T05:24:53.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 240,
-    "stars": 1025,
-    "issues": 59,
+    "stars": 1026,
+    "issues": 60,
     "commits": 229
   },
   {
@@ -301,7 +301,7 @@
     "updated": "2023-05-08T10:02:19.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 137,
-    "stars": 427,
+    "stars": 428,
     "issues": 15,
     "commits": 105
   },
@@ -320,7 +320,7 @@
     "size": 252,
     "stars": 278,
     "issues": 31,
-    "commits": 231
+    "commits": 0
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -501,7 +501,7 @@
     "updated": "2023-05-10T10:49:26.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60593,
-    "stars": 161,
+    "stars": 162,
     "issues": 7,
     "commits": 56
   },
@@ -551,7 +551,7 @@
     "size": 188,
     "stars": 403,
     "issues": 2,
-    "commits": 30
+    "commits": 0
   },
   {
     "name": "sd-dynamic-prompts",
@@ -565,7 +565,7 @@
     "updated": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 764,
+    "stars": 765,
     "issues": 60,
     "commits": 515
   },
@@ -848,7 +848,7 @@
     "size": 19412,
     "stars": 241,
     "issues": 1,
-    "commits": 124
+    "commits": 0
   },
   {
     "name": "shift-attention",
@@ -1010,7 +1010,7 @@
     "size": 25,
     "stars": 132,
     "issues": 4,
-    "commits": 31
+    "commits": 0
   },
   {
     "name": "sd-pixel",
@@ -1139,7 +1139,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 565,
+    "stars": 566,
     "issues": 18,
     "commits": 94
   },
@@ -1203,9 +1203,9 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8054,
+    "stars": 8056,
     "issues": 22,
-    "commits": 1333
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-two-shot",
@@ -1221,7 +1221,7 @@
     "size": 22749,
     "stars": 240,
     "issues": 1,
-    "commits": 45
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1708,7 +1708,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2063,
+    "stars": 2064,
     "issues": 36,
     "commits": 185
   },
@@ -1906,8 +1906,8 @@
     "long": "richrobber2/canvas-zoom",
     "size": 76422,
     "stars": 115,
-    "issues": 2,
-    "commits": 162
+    "issues": 3,
+    "commits": 0
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -2225,7 +2225,7 @@
     "updated": "2023-05-08T11:00:21.000Z",
     "long": "alexandersokol/sd-model-organizer",
     "size": 6640,
-    "stars": 3,
+    "stars": 4,
     "issues": 0,
     "commits": 101
   },
@@ -2239,12 +2239,12 @@
     ],
     "added": "2023-05-06T00:00:00.000Z",
     "created": "2023-03-17T13:35:21.000Z",
-    "updated": "2023-05-07T22:19:53.000Z",
+    "updated": "2023-05-11T04:35:55.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 359,
-    "issues": 26,
-    "commits": 77
+    "stars": 361,
+    "issues": 22,
+    "commits": 78
   },
   {
     "name": "stable-diffusion-webui-model-toolkit",
