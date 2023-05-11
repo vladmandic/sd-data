@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 566,
+    "stars": 567,
     "issues": 32,
     "commits": 85
   },
@@ -233,7 +233,7 @@
     "updated": "2023-05-08T13:05:50.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 240,
-    "stars": 1022,
+    "stars": 1025,
     "issues": 59,
     "commits": 229
   },
@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 316,
+    "stars": 317,
     "issues": 22,
     "commits": 172
   },
@@ -301,7 +301,7 @@
     "updated": "2023-05-08T10:02:19.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 137,
-    "stars": 426,
+    "stars": 427,
     "issues": 15,
     "commits": 105
   },
@@ -336,7 +336,7 @@
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 11736,
     "stars": 132,
-    "issues": 16,
+    "issues": 15,
     "commits": 296
   },
   {
@@ -501,7 +501,7 @@
     "updated": "2023-05-10T10:49:26.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60593,
-    "stars": 160,
+    "stars": 161,
     "issues": 7,
     "commits": 56
   },
@@ -729,7 +729,7 @@
     "updated": "2023-05-08T15:39:36.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-promptgen",
     "size": 218,
-    "stars": 198,
+    "stars": 199,
     "issues": 12,
     "commits": 4
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8051,
+    "stars": 8054,
     "issues": 22,
     "commits": 1333
   },
@@ -1413,7 +1413,7 @@
     "updated": "2023-05-08T21:29:25.000Z",
     "long": "vladmandic/sd-extension-system-info",
     "size": 61118,
-    "stars": 104,
+    "stars": 105,
     "issues": 0,
     "commits": 937
   },
@@ -1429,7 +1429,7 @@
     "updated": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1120,
+    "stars": 1121,
     "issues": 46,
     "commits": 102
   },
@@ -1677,7 +1677,7 @@
     "long": "s9roll7/ebsynth_utility",
     "size": 58205,
     "stars": 383,
-    "issues": 27,
+    "issues": 28,
     "commits": 45
   },
   {
@@ -1708,8 +1708,8 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2061,
-    "issues": 37,
+    "stars": 2063,
+    "issues": 36,
     "commits": 185
   },
   {
@@ -1871,7 +1871,7 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 648,
+    "stars": 649,
     "issues": 22,
     "commits": 408
   },
