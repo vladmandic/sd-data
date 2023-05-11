@@ -1,5 +1,18 @@
 [
   [
+    3850,
+    "2023-05-12T00:24:34.105Z",
+    "12.98 / 14.81 / 15.52",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/feature-custom",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-40-generic python:3.10.10",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.18+bde8248.d20230413 accelerate:0.18.0 transformers:4.28.0",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:11.8 cudnn:8900 22GB",
+    "xformers none",
+    "final-prune.ckpt [89d59c3dde]",
+    "jay",
+    ""
+  ],
+  [
     3849,
     "2023-05-11T04:30:14.068Z",
     "7.15 / 9.16 / 9.89 / 10.31 / 10.21",
