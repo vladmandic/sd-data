@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 314,
+    "stars": 316,
     "issues": 22,
     "commits": 172
   },
@@ -501,7 +501,7 @@
     "updated": "2023-05-10T10:49:26.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60593,
-    "stars": 158,
+    "stars": 160,
     "issues": 7,
     "commits": 56
   },
@@ -549,7 +549,7 @@
     "updated": "2023-04-27T03:54:46.000Z",
     "long": "journey-ad/sd-webui-bilingual-localization",
     "size": 188,
-    "stars": 402,
+    "stars": 403,
     "issues": 2,
     "commits": 30
   },
@@ -781,7 +781,7 @@
     "updated": "2023-05-10T17:06:46.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130918,
-    "stars": 1256,
+    "stars": 1258,
     "issues": 23,
     "commits": 2682
   },
@@ -992,7 +992,7 @@
     "updated": "2023-04-13T04:10:08.000Z",
     "long": "Extraltodeus/depthmap2mask",
     "size": 31,
-    "stars": 283,
+    "stars": 284,
     "issues": 25,
     "commits": 35
   },
@@ -1171,7 +1171,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 324,
+    "stars": 325,
     "issues": 3,
     "commits": 54
   },
@@ -1203,7 +1203,7 @@
     "updated": "2023-05-09T16:22:57.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15115,
-    "stars": 8049,
+    "stars": 8051,
     "issues": 22,
     "commits": 1333
   },
@@ -1819,11 +1819,11 @@
     ],
     "added": "2023-03-16T00:00:00.000Z",
     "created": "2023-03-14T12:04:41.000Z",
-    "updated": "2023-04-25T01:44:54.000Z",
+    "updated": "2023-05-11T02:53:19.000Z",
     "long": "nonnonstop/sd-webui-3d-open-pose-editor",
     "size": 7676,
     "stars": 406,
-    "issues": 39,
+    "issues": 40,
     "commits": 205
   },
   {
@@ -1871,7 +1871,7 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 647,
+    "stars": 648,
     "issues": 22,
     "commits": 408
   },
@@ -1921,7 +1921,7 @@
     "updated": "2023-05-10T11:00:38.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 18863,
-    "stars": 406,
+    "stars": 407,
     "issues": 26,
     "commits": 132
   },
@@ -2022,7 +2022,7 @@
     "updated": "2023-05-10T16:04:25.000Z",
     "long": "mattyamonaca/PBRemTools",
     "size": 38,
-    "stars": 194,
+    "stars": 195,
     "issues": 13,
     "commits": 45
   },
@@ -2242,7 +2242,7 @@
     "updated": "2023-05-07T22:19:53.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 35867,
-    "stars": 357,
+    "stars": 359,
     "issues": 26,
     "commits": 77
   },
@@ -2278,7 +2278,7 @@
     "updated": "2023-05-10T14:53:08.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 4893,
-    "stars": 36,
+    "stars": 38,
     "issues": 1,
     "commits": 43
   }
