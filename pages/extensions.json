@@ -27,11 +27,11 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "updated": "2023-05-11T21:24:45.000Z",
+    "updated": "2023-05-11T22:01:20.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17601,
+    "size": 17607,
     "stars": 1268,
-    "issues": 28,
+    "issues": 29,
     "commits": 1212
   },
   {
@@ -320,7 +320,7 @@
     "size": 253,
     "stars": 281,
     "issues": 32,
-    "commits": 0
+    "commits": 232
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -335,7 +335,7 @@
     "updated": "2023-05-11T18:16:44.000Z",
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 9546,
-    "stars": 134,
+    "stars": 135,
     "issues": 16,
     "commits": 300
   },
@@ -499,9 +499,9 @@
     ],
     "added": "2023-05-02T00:00:00.000Z",
     "created": "2023-04-30T08:47:39.000Z",
-    "updated": "2023-05-11T20:47:48.000Z",
+    "updated": "2023-05-11T22:02:28.000Z",
     "long": "Nevysha/Cozy-Nest",
-    "size": 60680,
+    "size": 60699,
     "stars": 171,
     "issues": 8,
     "commits": 56
@@ -782,7 +782,7 @@
     "updated": "2023-05-11T21:17:49.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130920,
-    "stars": 1268,
+    "stars": 1269,
     "issues": 24,
     "commits": 2686
   },
@@ -833,7 +833,7 @@
     "size": 18209,
     "stars": 276,
     "issues": 1,
-    "commits": 0
+    "commits": 83
   },
   {
     "name": "seed_travel",
@@ -940,12 +940,12 @@
     ],
     "added": "2023-01-13T00:00:00.000Z",
     "created": "2023-01-11T04:09:21.000Z",
-    "updated": "2023-05-06T06:50:57.000Z",
+    "updated": "2023-05-11T22:28:22.000Z",
     "long": "kex0/batch-face-swap",
     "size": 6268,
     "stars": 154,
     "issues": 13,
-    "commits": 89
+    "commits": 90
   },
   {
     "name": "stable-diffusion-webui-depthmap-script",
@@ -995,7 +995,7 @@
     "size": 31,
     "stars": 286,
     "issues": 25,
-    "commits": 0
+    "commits": 35
   },
   {
     "name": "ABG_extension",
@@ -1062,7 +1062,7 @@
     "size": 65,
     "stars": 97,
     "issues": 8,
-    "commits": 0
+    "commits": 41
   },
   {
     "name": "asymmetric-tiling-sd-webui",
@@ -1094,7 +1094,7 @@
     "size": 30,
     "stars": 87,
     "issues": 2,
-    "commits": 0
+    "commits": 39
   },
   {
     "name": "stable-diffusion-webui-sonar",
@@ -1141,7 +1141,7 @@
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
     "stars": 570,
-    "issues": 18,
+    "issues": 19,
     "commits": 94
   },
   {
@@ -1222,7 +1222,7 @@
     "size": 22749,
     "stars": 242,
     "issues": 1,
-    "commits": 0
+    "commits": 45
   },
   {
     "name": "stable-diffusion-webui-composable-lora",
@@ -1383,7 +1383,7 @@
     "size": 1798,
     "stars": 16,
     "issues": 1,
-    "commits": 0
+    "commits": 8
   },
   {
     "name": "sd-webui-multiple-hypernetworks",
@@ -1565,7 +1565,7 @@
     "size": 134,
     "stars": 180,
     "issues": 32,
-    "commits": 0
+    "commits": 27
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1598,7 +1598,7 @@
     "size": 3298,
     "stars": 56,
     "issues": 12,
-    "commits": 0
+    "commits": 42
   },
   {
     "name": "stable-diffusion-webui-dumpunet",
@@ -1646,7 +1646,7 @@
     "size": 14584,
     "stars": 508,
     "issues": 13,
-    "commits": 0
+    "commits": 36
   },
   {
     "name": "CFG-Schedule-for-Automatic1111-SD",
@@ -1709,7 +1709,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2075,
+    "stars": 2076,
     "issues": 35,
     "commits": 185
   },
@@ -1743,7 +1743,7 @@
     "size": 9839,
     "stars": 22,
     "issues": 1,
-    "commits": 0
+    "commits": 15
   },
   {
     "name": "sd-webui-panorama-viewer",
@@ -1792,7 +1792,7 @@
     "size": 1019,
     "stars": 360,
     "issues": 15,
-    "commits": 0
+    "commits": 1
   },
   {
     "name": "sd-webui-tunnels",
@@ -1825,7 +1825,7 @@
     "size": 7676,
     "stars": 409,
     "issues": 40,
-    "commits": 0
+    "commits": 205
   },
   {
     "name": "sd-webui-enable-checker",
@@ -1857,7 +1857,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 0
+    "commits": 43
   },
   {
     "name": "sd-webui-text2video",
@@ -1874,7 +1874,7 @@
     "size": 747,
     "stars": 651,
     "issues": 22,
-    "commits": 0
+    "commits": 408
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -1908,7 +1908,7 @@
     "size": 76422,
     "stars": 118,
     "issues": 4,
-    "commits": 0
+    "commits": 162
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -1923,7 +1923,7 @@
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 18863,
     "stars": 410,
-    "issues": 28,
+    "issues": 29,
     "commits": 132
   },
   {
@@ -1940,7 +1940,7 @@
     "size": 932,
     "stars": 24,
     "issues": 2,
-    "commits": 0
+    "commits": 22
   },
   {
     "name": "prompt_translator",
@@ -1971,7 +1971,7 @@
     "updated": "2023-04-15T04:28:34.000Z",
     "long": "AbyszOne/Abysz-LAB-Ext",
     "size": 213,
-    "stars": 115,
+    "stars": 116,
     "issues": 2,
     "commits": 56
   },
@@ -2039,7 +2039,7 @@
     "updated": "2023-05-09T12:30:50.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
-    "stars": 207,
+    "stars": 208,
     "issues": 6,
     "commits": 33
   },
