@@ -1058,8 +1058,8 @@
     "stars": 155,
     "issues": 11,
     "branch": "main",
-    "updated": "2023-05-11T23:05:27Z",
-    "commits": 91
+    "updated": "2023-05-11T23:05:31.000Z",
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-depthmap-script",
@@ -1092,7 +1092,7 @@
     "pushed": "2023-03-06T14:11:30.000Z",
     "long": "Extraltodeus/multi-subject-render",
     "size": 81,
-    "stars": 301,
+    "stars": 302,
     "issues": 15,
     "branch": "main",
     "updated": "2023-03-06T14:11:30Z",
@@ -1348,7 +1348,7 @@
     "pushed": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8120,
+    "stars": 8121,
     "issues": 24,
     "branch": "main",
     "updated": "2023-05-07T17:15:00Z",
@@ -1602,7 +1602,7 @@
     "pushed": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1129,
+    "stars": 1130,
     "issues": 47,
     "branch": "master",
     "updated": "2023-05-02T09:49:03Z",
@@ -1842,11 +1842,11 @@
     "pushed": "2023-05-04T16:14:43.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
-    "stars": 512,
+    "stars": 513,
     "issues": 13,
     "branch": "master",
-    "updated": "2023-05-04T16:14:34Z",
-    "commits": 36
+    "updated": "2023-05-04T16:14:43.000Z",
+    "commits": 0
   },
   {
     "name": "CFG-Schedule-for-Automatic1111-SD",
@@ -1918,8 +1918,8 @@
     "stars": 2088,
     "issues": 37,
     "branch": "main",
-    "updated": "2023-05-09T13:29:40Z",
-    "commits": 185
+    "updated": "2023-05-09T13:29:44.000Z",
+    "commits": 0
   },
   {
     "name": "sd-3dmodel-loader",
@@ -1954,8 +1954,8 @@
     "stars": 22,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-03-28T23:58:24Z",
-    "commits": 15
+    "updated": "2023-03-28T23:58:24.000Z",
+    "commits": 0
   },
   {
     "name": "sd-webui-panorama-viewer",
@@ -2009,8 +2009,8 @@
     "stars": 362,
     "issues": 15,
     "branch": "master",
-    "updated": "2023-03-12T15:32:00Z",
-    "commits": 1
+    "updated": "2023-04-18T01:46:15.000Z",
+    "commits": 0
   },
   {
     "name": "sd-webui-tunnels",
@@ -2028,8 +2028,8 @@
     "stars": 43,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-10T12:08:31Z",
-    "commits": 22
+    "updated": "2023-05-10T12:08:41.000Z",
+    "commits": 0
   },
   {
     "name": "sd-webui-3d-open-pose-editor",
@@ -2082,8 +2082,8 @@
     "stars": 93,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-05-08T13:24:04Z",
-    "commits": 43
+    "updated": "2023-05-08T13:24:04.000Z",
+    "commits": 0
   },
   {
     "name": "sd-webui-text2video",
@@ -2157,8 +2157,8 @@
     "stars": 417,
     "issues": 26,
     "branch": "main",
-    "updated": "2023-05-10T11:00:37Z",
-    "commits": 132
+    "updated": "2023-05-10T11:00:38.000Z",
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
