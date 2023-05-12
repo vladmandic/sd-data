@@ -27,10 +27,10 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "updated": "2023-05-11T23:02:29.000Z",
+    "updated": "2023-05-12T01:51:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17609,
-    "stars": 1269,
+    "stars": 1270,
     "issues": 29,
     "commits": 1212
   },
@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 319,
+    "stars": 320,
     "issues": 23,
     "commits": 172
   },
@@ -779,11 +779,11 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2022-10-14T22:29:12.000Z",
-    "updated": "2023-05-11T21:17:49.000Z",
+    "updated": "2023-05-12T01:51:52.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130920,
     "stars": 1270,
-    "issues": 24,
+    "issues": 25,
     "commits": 2686
   },
   {
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8087,
+    "stars": 8089,
     "issues": 23,
     "commits": 1333
   },
@@ -2278,7 +2278,7 @@
     "updated": "2023-05-11T17:29:03.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 5882,
-    "stars": 62,
+    "stars": 64,
     "issues": 1,
     "commits": 57
   }
