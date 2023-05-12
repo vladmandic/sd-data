@@ -286,7 +286,7 @@
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
     "stars": 323,
-    "issues": 23,
+    "issues": 20,
     "commits": 172
   },
   {
@@ -550,7 +550,7 @@
     "updated": "2023-04-27T03:54:46.000Z",
     "long": "journey-ad/sd-webui-bilingual-localization",
     "size": 188,
-    "stars": 406,
+    "stars": 407,
     "issues": 2,
     "commits": 30
   },
@@ -617,7 +617,7 @@
     "size": 4026,
     "stars": 1437,
     "issues": 10,
-    "commits": 302
+    "commits": 0
   },
   {
     "name": "novelai-2-local-prompt",
@@ -782,7 +782,7 @@
     "updated": "2023-05-12T06:36:00.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130920,
-    "stars": 1271,
+    "stars": 1274,
     "issues": 25,
     "commits": 2686
   },
@@ -943,7 +943,7 @@
     "updated": "2023-05-11T23:05:31.000Z",
     "long": "kex0/batch-face-swap",
     "size": 6272,
-    "stars": 154,
+    "stars": 155,
     "issues": 11,
     "commits": 91
   },
@@ -1140,7 +1140,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 574,
+    "stars": 576,
     "issues": 19,
     "commits": 94
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8105,
+    "stars": 8107,
     "issues": 24,
     "commits": 1333
   },
@@ -1349,7 +1349,7 @@
     "updated": "2023-04-30T08:15:07.000Z",
     "long": "enlyth/sd-webui-riffusion",
     "size": 1269,
-    "stars": 122,
+    "stars": 123,
     "issues": 16,
     "commits": 40
   },
@@ -1381,7 +1381,7 @@
     "updated": "2023-05-06T21:05:47.000Z",
     "long": "AlUlkesh/sd_grid_add_image_number",
     "size": 1798,
-    "stars": 16,
+    "stars": 17,
     "issues": 1,
     "commits": 8
   },
@@ -1709,8 +1709,8 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2084,
-    "issues": 36,
+    "stars": 2086,
+    "issues": 37,
     "commits": 185
   },
   {
@@ -1874,7 +1874,7 @@
     "size": 747,
     "stars": 654,
     "issues": 22,
-    "commits": 408
+    "commits": 0
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -1954,7 +1954,7 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 63,
+    "stars": 64,
     "issues": 10,
     "commits": 34
   },
@@ -2073,7 +2073,7 @@
     "updated": "2023-05-12T04:21:56.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 376,
-    "stars": 381,
+    "stars": 382,
     "issues": 7,
     "commits": 148
   },
@@ -2243,8 +2243,8 @@
     "updated": "2023-05-12T00:10:54.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36047,
-    "stars": 374,
-    "issues": 25,
+    "stars": 375,
+    "issues": 26,
     "commits": 81
   },
   {
@@ -2275,11 +2275,11 @@
     ],
     "added": "2023-05-08T00:00:00.000Z",
     "created": "2023-05-08T12:23:21.000Z",
-    "updated": "2023-05-12T08:38:57.000Z",
+    "updated": "2023-05-12T09:53:27.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
-    "size": 6103,
-    "stars": 76,
+    "size": 6105,
+    "stars": 78,
     "issues": 4,
-    "commits": 65
+    "commits": 67
   }
 ]
