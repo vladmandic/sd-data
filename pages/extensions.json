@@ -29,7 +29,7 @@
     "created": "2022-11-06T02:40:44.000Z",
     "updated": "2023-05-12T01:51:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17609,
+    "size": 17611,
     "stars": 1270,
     "issues": 29,
     "commits": 1212
@@ -98,7 +98,7 @@
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
     "stars": 571,
-    "issues": 33,
+    "issues": 34,
     "commits": 85
   },
   {
@@ -233,7 +233,7 @@
     "updated": "2023-05-11T05:24:53.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 240,
-    "stars": 1026,
+    "stars": 1027,
     "issues": 60,
     "commits": 229
   },
@@ -566,7 +566,7 @@
     "updated": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 771,
+    "stars": 772,
     "issues": 62,
     "commits": 515
   },
@@ -583,7 +583,7 @@
     "updated": "2023-05-05T03:15:40.000Z",
     "long": "ThereforeGames/unprompted",
     "size": 16338,
-    "stars": 520,
+    "stars": 521,
     "issues": 56,
     "commits": 184
   },
@@ -911,7 +911,7 @@
     "updated": "2023-05-05T23:34:18.000Z",
     "long": "Interpause/auto-sd-paint-ext",
     "size": 23687,
-    "stars": 323,
+    "stars": 324,
     "issues": 24,
     "commits": 2498
   },
@@ -1172,7 +1172,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 329,
+    "stars": 330,
     "issues": 3,
     "commits": 54
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8091,
+    "stars": 8095,
     "issues": 23,
     "commits": 1333
   },
@@ -1335,7 +1335,7 @@
     "size": 19,
     "stars": 9,
     "issues": 2,
-    "commits": 0
+    "commits": 4
   },
   {
     "name": "sd-webui-riffusion",
@@ -1449,7 +1449,7 @@
     "size": 561,
     "stars": 33,
     "issues": 10,
-    "commits": 0
+    "commits": 69
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1709,7 +1709,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2077,
+    "stars": 2078,
     "issues": 36,
     "commits": 185
   },
@@ -1825,7 +1825,7 @@
     "size": 7676,
     "stars": 409,
     "issues": 40,
-    "commits": 0
+    "commits": 205
   },
   {
     "name": "sd-webui-enable-checker",
@@ -1841,7 +1841,7 @@
     "size": 234,
     "stars": 28,
     "issues": 2,
-    "commits": 0
+    "commits": 65
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -1857,7 +1857,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 0
+    "commits": 43
   },
   {
     "name": "sd-webui-text2video",
@@ -1872,9 +1872,9 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 652,
+    "stars": 653,
     "issues": 22,
-    "commits": 0
+    "commits": 408
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -1892,7 +1892,7 @@
     "size": 388,
     "stars": 60,
     "issues": 6,
-    "commits": 0
+    "commits": 41
   },
   {
     "name": "canvas-zoom",
@@ -1908,7 +1908,7 @@
     "size": 76422,
     "stars": 118,
     "issues": 5,
-    "commits": 0
+    "commits": 162
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -1924,7 +1924,7 @@
     "size": 18863,
     "stars": 411,
     "issues": 29,
-    "commits": 0
+    "commits": 132
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -1940,7 +1940,7 @@
     "size": 932,
     "stars": 24,
     "issues": 2,
-    "commits": 0
+    "commits": 22
   },
   {
     "name": "prompt_translator",
@@ -1954,9 +1954,9 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 61,
+    "stars": 62,
     "issues": 10,
-    "commits": 0
+    "commits": 34
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -1991,7 +1991,7 @@
     "size": 727,
     "stars": 51,
     "issues": 0,
-    "commits": 0
+    "commits": 38
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2008,7 +2008,7 @@
     "size": 264,
     "stars": 7,
     "issues": 0,
-    "commits": 0
+    "commits": 29
   },
   {
     "name": "PBRemTools",
@@ -2025,7 +2025,7 @@
     "size": 42,
     "stars": 197,
     "issues": 13,
-    "commits": 0
+    "commits": 49
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2040,7 +2040,7 @@
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
     "stars": 209,
-    "issues": 6,
+    "issues": 7,
     "commits": 33
   },
   {
@@ -2075,7 +2075,7 @@
     "size": 376,
     "stars": 381,
     "issues": 7,
-    "commits": 0
+    "commits": 148
   },
   {
     "name": "zh_CN Localization",
@@ -2228,7 +2228,7 @@
     "size": 6640,
     "stars": 7,
     "issues": 1,
-    "commits": 0
+    "commits": 101
   },
   {
     "name": "SD-CN-Animation",
@@ -2245,7 +2245,7 @@
     "size": 36047,
     "stars": 373,
     "issues": 25,
-    "commits": 0
+    "commits": 81
   },
   {
     "name": "stable-diffusion-webui-model-toolkit",
@@ -2262,7 +2262,7 @@
     "size": 120,
     "stars": 261,
     "issues": 2,
-    "commits": 0
+    "commits": 39
   },
   {
     "name": "sd-webui-prompt-all-in-one",
@@ -2275,11 +2275,11 @@
     ],
     "added": "2023-05-08T00:00:00.000Z",
     "created": "2023-05-08T12:23:21.000Z",
-    "updated": "2023-05-11T17:29:03.000Z",
+    "updated": "2023-05-12T03:05:55.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 5882,
-    "stars": 64,
+    "stars": 65,
     "issues": 1,
-    "commits": 0
+    "commits": 58
   }
 ]
