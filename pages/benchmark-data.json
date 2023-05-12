@@ -1,5 +1,18 @@
 [
   [
+    3862,
+    "2023-05-12T15:57:31.955Z",
+    "8.24 / 9.3 / 10.18",
+    "updated:2023-05-12 hash:daf90cb6 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "vlado",
+    ""
+  ],
+  [
     3861,
     "2023-05-12T11:31:40.914Z",
     "8.49 / 11.23 / 15.18",
