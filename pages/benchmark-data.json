@@ -1,5 +1,18 @@
 [
   [
+    3860,
+    "2023-05-12T19:17:32.925Z",
+    "2.25 / 3.04 / 3.53",
+    "updated:2023-05-11 hash:8c981159 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    "sdp none",
+    "realisticVisionV20_v20.safetensors [e6415c4892]",
+    "deinmitbewohner",
+    ""
+  ],
+  [
     3859,
     "2023-05-12T14:07:59.523Z",
     "7.13 / 11.13 / 15.25",
