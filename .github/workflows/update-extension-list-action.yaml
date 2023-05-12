@@ -30,7 +30,6 @@ jobs:
       run: npm install
     - name: node-run
       env:
-        PAPERTRAIL_TOKEN: ${{ secrets.PAPERTRAIL_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: node ./extensions-update.js
     - name: git-commit
