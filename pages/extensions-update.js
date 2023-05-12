@@ -38,7 +38,7 @@ const http = async (url) => {
     const res = await fetch(url, { method: 'GET', headers });
     if (res.status !== 200) {
       const limit = parseInt(res.headers.get('x-ratelimit-remaining') || '0');
-      if (limit === 0) log(`ratelimit: ${url}`, new Date(1000 * parseInt(res.headers.get('x-ratelimit-reset'))));
+      if (limit === 0) log(`ratelimit: ${url} used=${res.headers.get('x-ratelimit-used')} remaining=${res.headers.get('x-ratelimit-remaining')} reset=${res.headers.get('x-ratelimit-reset')}`, new Date(1000 * parseInt(res.headers.get('x-ratelimit-reset') || '0'))); // eslint-disable-line
       else log(`error: ${res.status} ${res.statusText} ${url}`);
       return {};
     }
@@ -80,7 +80,7 @@ async function getDetails(extension) {
         ext.branch = r.default_branch;
         const h = await http(`https://api.github.com/repos/${r.full_name}/commits?per_page=1`);
         ext.updated = h.array?.[0]?.commit?.author?.date || ext.pushed; // timestamp of last commit
-        const commits = parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from headers pagination data
+        const commits = 1 + parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from headers pagination data
         ext.commits = commits;
         resolve(ext);
       }
