@@ -30,7 +30,7 @@
     "updated": "2023-05-12T01:51:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17611,
-    "stars": 1270,
+    "stars": 1268,
     "issues": 29,
     "commits": 1212
   },
@@ -64,7 +64,7 @@
     "updated": "2023-05-02T13:29:28.000Z",
     "long": "toshiaki1729/stable-diffusion-webui-dataset-tag-editor",
     "size": 7626,
-    "stars": 326,
+    "stars": 329,
     "issues": 12,
     "commits": 213
   },
@@ -80,7 +80,7 @@
     "updated": "2023-04-24T05:53:29.000Z",
     "long": "7eu7d7/DreamArtist-sd-webui-extension",
     "size": 61019,
-    "stars": 556,
+    "stars": 557,
     "issues": 27,
     "commits": 49
   },
@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 571,
+    "stars": 572,
     "issues": 34,
     "commits": 85
   },
@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 321,
+    "stars": 322,
     "issues": 23,
     "commits": 172
   },
@@ -502,7 +502,7 @@
     "updated": "2023-05-11T22:02:28.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60692,
-    "stars": 173,
+    "stars": 174,
     "issues": 8,
     "commits": 56
   },
@@ -713,7 +713,7 @@
     "updated": "2023-05-08T11:29:55.000Z",
     "long": "imrayya/stable-diffusion-webui-Prompt_Generator",
     "size": 58,
-    "stars": 126,
+    "stars": 125,
     "issues": 0,
     "commits": 48
   },
@@ -782,7 +782,7 @@
     "updated": "2023-05-12T01:51:52.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130920,
-    "stars": 1270,
+    "stars": 1269,
     "issues": 25,
     "commits": 2686
   },
@@ -1140,7 +1140,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 572,
+    "stars": 574,
     "issues": 19,
     "commits": 94
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8095,
+    "stars": 8097,
     "issues": 23,
     "commits": 1333
   },
@@ -1414,7 +1414,7 @@
     "updated": "2023-05-08T21:29:25.000Z",
     "long": "vladmandic/sd-extension-system-info",
     "size": 61118,
-    "stars": 105,
+    "stars": 106,
     "issues": 0,
     "commits": 937
   },
@@ -1644,7 +1644,7 @@
     "updated": "2023-05-04T16:14:43.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
-    "stars": 509,
+    "stars": 510,
     "issues": 13,
     "commits": 36
   },
@@ -1823,7 +1823,7 @@
     "updated": "2023-05-11T02:53:19.000Z",
     "long": "nonnonstop/sd-webui-3d-open-pose-editor",
     "size": 7676,
-    "stars": 409,
+    "stars": 410,
     "issues": 40,
     "commits": 205
   },
@@ -1907,7 +1907,7 @@
     "long": "richrobber2/canvas-zoom",
     "size": 76422,
     "stars": 118,
-    "issues": 5,
+    "issues": 4,
     "commits": 162
   },
   {
@@ -1922,7 +1922,7 @@
     "updated": "2023-05-10T11:00:38.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 18863,
-    "stars": 411,
+    "stars": 412,
     "issues": 29,
     "commits": 132
   },
@@ -2070,7 +2070,7 @@
     ],
     "added": "2023-04-13T00:00:00.000Z",
     "created": "2023-03-23T09:19:22.000Z",
-    "updated": "2023-05-11T23:48:45.000Z",
+    "updated": "2023-05-12T04:21:56.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 376,
     "stars": 381,
@@ -2277,9 +2277,9 @@
     "created": "2023-05-08T12:23:21.000Z",
     "updated": "2023-05-12T03:05:55.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
-    "size": 5882,
-    "stars": 65,
-    "issues": 1,
+    "size": 5934,
+    "stars": 70,
+    "issues": 2,
     "commits": 58
   }
 ]
