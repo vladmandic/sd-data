@@ -30,7 +30,7 @@
     "updated": "2023-05-12T01:51:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17611,
-    "stars": 1268,
+    "stars": 1269,
     "issues": 29,
     "commits": 1212
   },
@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 572,
+    "stars": 573,
     "issues": 34,
     "commits": 85
   },
@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 322,
+    "stars": 323,
     "issues": 23,
     "commits": 172
   },
@@ -335,7 +335,7 @@
     "updated": "2023-05-11T18:16:44.000Z",
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 9546,
-    "stars": 136,
+    "stars": 137,
     "issues": 18,
     "commits": 300
   },
@@ -452,7 +452,7 @@
     "updated": "2023-04-10T23:01:44.000Z",
     "long": "zero01101/openOutpaint-webUI-extension",
     "size": 74,
-    "stars": 239,
+    "stars": 240,
     "issues": 10,
     "commits": 145
   },
@@ -566,7 +566,7 @@
     "updated": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 772,
+    "stars": 773,
     "issues": 63,
     "commits": 515
   },
@@ -615,7 +615,7 @@
     "updated": "2023-05-11T19:20:02.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 4026,
-    "stars": 1436,
+    "stars": 1437,
     "issues": 10,
     "commits": 302
   },
@@ -911,7 +911,7 @@
     "updated": "2023-05-05T23:34:18.000Z",
     "long": "Interpause/auto-sd-paint-ext",
     "size": 23687,
-    "stars": 324,
+    "stars": 325,
     "issues": 24,
     "commits": 2498
   },
@@ -1110,7 +1110,7 @@
     "size": 4415,
     "stars": 67,
     "issues": 3,
-    "commits": 21
+    "commits": 0
   },
   {
     "name": "depth-image-io-for-SDWebui",
@@ -1142,7 +1142,7 @@
     "size": 33042,
     "stars": 574,
     "issues": 19,
-    "commits": 94
+    "commits": 0
   },
   {
     "name": "prompt-fusion-extension",
@@ -1172,9 +1172,9 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 332,
+    "stars": 333,
     "issues": 3,
-    "commits": 54
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1204,8 +1204,8 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8100,
-    "issues": 23,
+    "stars": 8102,
+    "issues": 24,
     "commits": 1333
   },
   {
@@ -1351,7 +1351,7 @@
     "size": 1269,
     "stars": 122,
     "issues": 16,
-    "commits": 40
+    "commits": 0
   },
   {
     "name": "sd_save_intermediate_images",
@@ -1546,7 +1546,7 @@
     "updated": "2023-03-26T13:36:45.000Z",
     "long": "p1atdev/stable-diffusion-webui-cafe-aesthetic",
     "size": 602,
-    "stars": 17,
+    "stars": 18,
     "issues": 1,
     "commits": 14
   },
@@ -1582,7 +1582,7 @@
     "size": 3166,
     "stars": 47,
     "issues": 3,
-    "commits": 4
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-daam",
@@ -1612,7 +1612,7 @@
     "updated": "2023-04-10T12:42:22.000Z",
     "long": "hnmr293/stable-diffusion-webui-dumpunet",
     "size": 31709,
-    "stars": 54,
+    "stars": 55,
     "issues": 1,
     "commits": 62
   },
@@ -1644,7 +1644,7 @@
     "updated": "2023-05-04T16:14:43.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
-    "stars": 511,
+    "stars": 512,
     "issues": 13,
     "commits": 36
   },
@@ -1709,7 +1709,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2081,
+    "stars": 2082,
     "issues": 36,
     "commits": 185
   },
@@ -1922,7 +1922,7 @@
     "updated": "2023-05-10T11:00:38.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 18863,
-    "stars": 413,
+    "stars": 414,
     "issues": 29,
     "commits": 132
   },
@@ -2025,7 +2025,7 @@
     "size": 42,
     "stars": 197,
     "issues": 13,
-    "commits": 49
+    "commits": 0
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2039,7 +2039,7 @@
     "updated": "2023-05-09T12:30:50.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
-    "stars": 209,
+    "stars": 212,
     "issues": 5,
     "commits": 33
   },
@@ -2228,7 +2228,7 @@
     "size": 6640,
     "stars": 7,
     "issues": 1,
-    "commits": 101
+    "commits": 0
   },
   {
     "name": "SD-CN-Animation",
