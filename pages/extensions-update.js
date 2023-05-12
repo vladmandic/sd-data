@@ -43,20 +43,14 @@ const http = async (url) => {
       return {};
     }
     const text = await res.text();
-    const json = JSON.parse(text);
+    const obj = JSON.parse(text);
+    const json = Array.isArray(obj) ? { array: obj } : obj;
+    for (const h of res.headers) json[h[0]] = h[1];
     return json;
   } catch (e) {
     log(`exception: ${e} ${url}`);
     return {};
   }
-};
-
-const head = async (url) => {
-  const json = {};
-  const res = await fetch(url, { method: 'GET', headers });
-  if (res.status !== 200) return {};
-  for (const h of res.headers) json[h[0]] = h[1];
-  return json;
 };
 
 async function getDetails(extension) {
@@ -76,19 +70,18 @@ async function getDetails(extension) {
       if (!r.full_name) resolve(ext);
       else {
         ext.created = new Date(r.created_at);
-        ext.updated = new Date(r.pushed_at);
+        ext.pushed = new Date(r.pushed_at); // timestamp of last any update
         ext.name = r.name;
         ext.long = r.full_name;
         ext.description = (r.description || extension.description).substring(0, 200);
         ext.size = r.size;
         ext.stars = r.stargazers_count;
         ext.issues = r.open_issues_count;
-        const h = await head(`https://api.github.com/repos/${r.full_name}/commits?per_page=1`); // get headers
-        const commits = parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from pagination data
+        ext.branch = r.default_branch;
+        const h = await http(`https://api.github.com/repos/${r.full_name}/commits?per_page=1`);
+        ext.updated = h.array?.[0]?.commit?.author?.date || ext.pushed; // timestamp of last commit
+        const commits = parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from headers pagination data
         ext.commits = commits;
-        // const c = await http(`https://api.github.com/repos/${r.full_name}/traffic/clones?per=week`); // not allowed for non-owners
-        // const clones = c.clones?.map((c) => c.count).reduce((avg, value, _, { length }) => avg + value / length, 0) || 0;
-        // ext.clones: Math.round(clones),
         resolve(ext);
       }
     }
