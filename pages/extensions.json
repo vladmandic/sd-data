@@ -29,7 +29,7 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "pushed": "2023-05-12T01:51:49.000Z",
+    "pushed": "2023-05-12T14:24:36.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17611,
     "stars": 1270,
@@ -73,8 +73,8 @@
     "stars": 329,
     "issues": 12,
     "branch": "main",
-    "updated": "2023-05-02T13:29:24Z",
-    "commits": 214
+    "updated": "2023-05-02T13:29:28.000Z",
+    "commits": 1
   },
   {
     "name": "DreamArtist-sd-webui-extension",
@@ -632,7 +632,7 @@
     "pushed": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 774,
+    "stars": 775,
     "issues": 63,
     "branch": "main",
     "updated": "2023-04-23T13:28:49Z",
@@ -838,8 +838,8 @@
     "stars": 112,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-02-24T08:29:55Z",
-    "commits": 49
+    "updated": "2023-02-24T08:29:59.000Z",
+    "commits": 1
   },
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
@@ -862,23 +862,14 @@
     "commits": 49
   },
   {
-    "name": "sd-webui-deforum",
+    "name": "Deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "Deforum extension script for AUTOMATIC1111's Stable Diffusion webui",
+    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z",
-    "created": "2022-10-14T22:29:12.000Z",
-    "pushed": "2023-05-12T06:36:00.000Z",
-    "long": "deforum-art/sd-webui-deforum",
-    "size": 130920,
-    "stars": 1275,
-    "issues": 25,
-    "branch": "automatic1111-webui",
-    "updated": "2023-05-11T14:12:50Z",
-    "commits": 2687
+    "added": "2022-11-01T00:00:00.000Z"
   },
   {
     "name": "animator_extension",
@@ -1001,11 +992,11 @@
     "pushed": "2023-05-08T13:00:25.000Z",
     "long": "vladmandic/sd-extension-steps-animation",
     "size": 113,
-    "stars": 75,
+    "stars": 76,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-08T13:00:22Z",
-    "commits": 41
+    "updated": "2023-05-08T13:00:25.000Z",
+    "commits": 1
   },
   {
     "name": "auto-sd-paint-ext",
@@ -1037,7 +1028,7 @@
     "pushed": "2023-05-12T09:04:08.000Z",
     "long": "dustysys/ddetailer",
     "size": 1511,
-    "stars": 247,
+    "stars": 248,
     "issues": 36,
     "branch": "master",
     "updated": "2022-11-28T09:33:31Z",
@@ -1279,8 +1270,8 @@
     "stars": 577,
     "issues": 19,
     "branch": "master",
-    "updated": "2023-05-05T00:22:21Z",
-    "commits": 95
+    "updated": "2023-05-05T00:22:21.000Z",
+    "commits": 1
   },
   {
     "name": "prompt-fusion-extension",
@@ -1312,7 +1303,7 @@
     "pushed": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 336,
+    "stars": 337,
     "issues": 3,
     "branch": "master",
     "updated": "2023-05-08T23:17:15Z",
@@ -1333,8 +1324,8 @@
     "stars": 92,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-02-19T19:22:44Z",
-    "commits": 13
+    "updated": "2023-02-19T19:22:44.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-controlnet",
@@ -1348,7 +1339,7 @@
     "pushed": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8123,
+    "stars": 8125,
     "issues": 24,
     "branch": "main",
     "updated": "2023-05-07T17:15:00Z",
@@ -1442,8 +1433,8 @@
     "stars": 18,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-04-07T18:47:44Z",
-    "commits": 11
+    "updated": "2023-04-07T18:47:48.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-nsfw-censor",
@@ -1532,8 +1523,8 @@
     "stars": 67,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-03-27T13:58:26Z",
-    "commits": 55
+    "updated": "2023-03-27T13:58:29.000Z",
+    "commits": 1
   },
   {
     "name": "sd_grid_add_image_number",
@@ -1661,8 +1652,8 @@
     "stars": 12,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-01-29T08:46:30Z",
-    "commits": 8
+    "updated": "2023-01-29T08:46:30.000Z",
+    "commits": 1
   },
   {
     "name": "mine-diffusion",
@@ -1809,8 +1800,8 @@
     "stars": 55,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-04-10T12:42:18Z",
-    "commits": 63
+    "updated": "2023-04-10T12:42:22.000Z",
+    "commits": 1
   },
   {
     "name": "posex",
@@ -1842,7 +1833,7 @@
     "pushed": "2023-05-04T16:14:43.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
-    "stars": 513,
+    "stars": 514,
     "issues": 13,
     "branch": "master",
     "updated": "2023-05-04T16:14:34Z",
@@ -1936,8 +1927,8 @@
     "stars": 157,
     "issues": 7,
     "branch": "master",
-    "updated": "2023-05-06T20:26:55Z",
-    "commits": 85
+    "updated": "2023-05-06T20:26:57.000Z",
+    "commits": 1
   },
   {
     "name": "corridor-crawler-outpainting",
@@ -2046,8 +2037,8 @@
     "stars": 410,
     "issues": 40,
     "branch": "main",
-    "updated": "2023-04-15T13:21:06Z",
-    "commits": 206
+    "updated": "2023-05-11T02:53:19.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-enable-checker",
@@ -2288,8 +2279,8 @@
     "stars": 214,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-05-09T12:30:54Z",
-    "commits": 34
+    "updated": "2023-05-09T12:30:50.000Z",
+    "commits": 1
   },
   {
     "name": "sd-canvas-editor",
@@ -2497,11 +2488,11 @@
     "pushed": "2023-05-12T00:10:54.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36047,
-    "stars": 375,
+    "stars": 378,
     "issues": 25,
     "branch": "main",
-    "updated": "2023-05-12T00:10:48Z",
-    "commits": 82
+    "updated": "2023-05-12T00:10:54.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-model-toolkit",
