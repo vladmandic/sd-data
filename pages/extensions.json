@@ -30,7 +30,7 @@
     "updated": "2023-05-12T01:51:49.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17611,
-    "stars": 1269,
+    "stars": 1270,
     "issues": 29,
     "commits": 1212
   },
@@ -233,7 +233,7 @@
     "updated": "2023-05-11T05:24:53.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 240,
-    "stars": 1027,
+    "stars": 1028,
     "issues": 60,
     "commits": 229
   },
@@ -301,7 +301,7 @@
     "updated": "2023-05-08T10:02:19.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 137,
-    "stars": 430,
+    "stars": 431,
     "issues": 15,
     "commits": 105
   },
@@ -319,7 +319,7 @@
     "long": "AlUlkesh/stable-diffusion-webui-images-browser",
     "size": 253,
     "stars": 281,
-    "issues": 32,
+    "issues": 33,
     "commits": 232
   },
   {
@@ -534,7 +534,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 203,
+    "stars": 204,
     "issues": 20,
     "commits": 176
   },
@@ -924,11 +924,11 @@
     ],
     "added": "2022-11-09T00:00:00.000Z",
     "created": "2022-11-06T12:42:22.000Z",
-    "updated": "2023-05-09T14:00:37.000Z",
+    "updated": "2023-05-12T09:04:08.000Z",
     "long": "dustysys/ddetailer",
     "size": 1511,
     "stars": 247,
-    "issues": 35,
+    "issues": 36,
     "commits": 27
   },
   {
@@ -959,7 +959,7 @@
     "updated": "2023-04-17T22:01:08.000Z",
     "long": "thygate/stable-diffusion-webui-depthmap-script",
     "size": 3325,
-    "stars": 899,
+    "stars": 900,
     "issues": 55,
     "commits": 173
   },
@@ -1110,7 +1110,7 @@
     "size": 4415,
     "stars": 67,
     "issues": 3,
-    "commits": 0
+    "commits": 21
   },
   {
     "name": "depth-image-io-for-SDWebui",
@@ -1142,7 +1142,7 @@
     "size": 33042,
     "stars": 574,
     "issues": 19,
-    "commits": 0
+    "commits": 94
   },
   {
     "name": "prompt-fusion-extension",
@@ -1174,7 +1174,7 @@
     "size": 931,
     "stars": 333,
     "issues": 3,
-    "commits": 0
+    "commits": 54
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8102,
+    "stars": 8105,
     "issues": 24,
     "commits": 1333
   },
@@ -1351,7 +1351,7 @@
     "size": 1269,
     "stars": 122,
     "issues": 16,
-    "commits": 0
+    "commits": 40
   },
   {
     "name": "sd_save_intermediate_images",
@@ -1582,7 +1582,7 @@
     "size": 3166,
     "stars": 47,
     "issues": 3,
-    "commits": 0
+    "commits": 4
   },
   {
     "name": "stable-diffusion-webui-daam",
@@ -1709,7 +1709,7 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2082,
+    "stars": 2084,
     "issues": 36,
     "commits": 185
   },
@@ -1790,7 +1790,7 @@
     "updated": "2023-04-18T01:46:15.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1019,
-    "stars": 361,
+    "stars": 362,
     "issues": 15,
     "commits": 1
   },
@@ -1954,7 +1954,7 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 62,
+    "stars": 63,
     "issues": 10,
     "commits": 34
   },
@@ -1971,7 +1971,7 @@
     "updated": "2023-04-15T04:28:34.000Z",
     "long": "AbyszOne/Abysz-LAB-Ext",
     "size": 213,
-    "stars": 116,
+    "stars": 117,
     "issues": 2,
     "commits": 56
   },
@@ -2025,7 +2025,7 @@
     "size": 42,
     "stars": 197,
     "issues": 13,
-    "commits": 0
+    "commits": 49
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2039,7 +2039,7 @@
     "updated": "2023-05-09T12:30:50.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
-    "stars": 212,
+    "stars": 214,
     "issues": 5,
     "commits": 33
   },
@@ -2228,7 +2228,7 @@
     "size": 6640,
     "stars": 7,
     "issues": 1,
-    "commits": 0
+    "commits": 101
   },
   {
     "name": "SD-CN-Animation",
@@ -2275,11 +2275,11 @@
     ],
     "added": "2023-05-08T00:00:00.000Z",
     "created": "2023-05-08T12:23:21.000Z",
-    "updated": "2023-05-12T06:59:59.000Z",
+    "updated": "2023-05-12T08:38:57.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 6103,
-    "stars": 75,
+    "stars": 76,
     "issues": 4,
-    "commits": 64
+    "commits": 65
   }
 ]
