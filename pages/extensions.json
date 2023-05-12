@@ -31,7 +31,7 @@
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17611,
     "stars": 1270,
-    "issues": 29,
+    "issues": 30,
     "commits": 1212
   },
   {
@@ -97,7 +97,7 @@
     "updated": "2023-05-07T05:02:30.000Z",
     "long": "toriato/stable-diffusion-webui-wd14-tagger",
     "size": 1124,
-    "stars": 573,
+    "stars": 574,
     "issues": 34,
     "commits": 85
   },
@@ -233,7 +233,7 @@
     "updated": "2023-05-11T05:24:53.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 240,
-    "stars": 1028,
+    "stars": 1029,
     "issues": 60,
     "commits": 229
   },
@@ -282,12 +282,12 @@
     ],
     "added": "2023-02-18T00:00:00.000Z",
     "created": "2023-01-18T13:20:58.000Z",
-    "updated": "2023-05-02T10:00:49.000Z",
+    "updated": "2023-05-12T11:11:11.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
     "stars": 323,
     "issues": 20,
-    "commits": 172
+    "commits": 175
   },
   {
     "name": "sd-webui-lora-block-weight",
@@ -301,8 +301,8 @@
     "updated": "2023-05-08T10:02:19.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 137,
-    "stars": 431,
-    "issues": 15,
+    "stars": 432,
+    "issues": 14,
     "commits": 105
   },
   {
@@ -336,7 +336,7 @@
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 9546,
     "stars": 137,
-    "issues": 18,
+    "issues": 19,
     "commits": 300
   },
   {
@@ -503,7 +503,7 @@
     "long": "Nevysha/Cozy-Nest",
     "size": 60692,
     "stars": 174,
-    "issues": 8,
+    "issues": 9,
     "commits": 56
   },
   {
@@ -534,7 +534,7 @@
     "updated": "2023-05-05T15:10:14.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 20649,
-    "stars": 204,
+    "stars": 205,
     "issues": 20,
     "commits": 176
   },
@@ -566,7 +566,7 @@
     "updated": "2023-05-11T01:55:42.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27366,
-    "stars": 773,
+    "stars": 774,
     "issues": 63,
     "commits": 515
   },
@@ -617,7 +617,7 @@
     "size": 4026,
     "stars": 1437,
     "issues": 10,
-    "commits": 0
+    "commits": 302
   },
   {
     "name": "novelai-2-local-prompt",
@@ -713,7 +713,7 @@
     "updated": "2023-05-08T11:29:55.000Z",
     "long": "imrayya/stable-diffusion-webui-Prompt_Generator",
     "size": 58,
-    "stars": 125,
+    "stars": 126,
     "issues": 0,
     "commits": 48
   },
@@ -1140,7 +1140,7 @@
     "updated": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 576,
+    "stars": 577,
     "issues": 19,
     "commits": 94
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8107,
+    "stars": 8110,
     "issues": 24,
     "commits": 1333
   },
@@ -1254,7 +1254,7 @@
     "size": 45,
     "stars": 35,
     "issues": 2,
-    "commits": 24
+    "commits": 0
   },
   {
     "name": "booru2prompt",
@@ -1466,7 +1466,7 @@
     "size": 87,
     "stars": 54,
     "issues": 1,
-    "commits": 52
+    "commits": 0
   },
   {
     "name": "discord-rpc-for-automatic1111-webui",
@@ -1614,7 +1614,7 @@
     "size": 31709,
     "stars": 55,
     "issues": 1,
-    "commits": 62
+    "commits": 0
   },
   {
     "name": "posex",
@@ -1709,9 +1709,9 @@
     "updated": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2086,
+    "stars": 2087,
     "issues": 37,
-    "commits": 185
+    "commits": 0
   },
   {
     "name": "sd-3dmodel-loader",
@@ -1873,8 +1873,8 @@
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
     "stars": 654,
-    "issues": 22,
-    "commits": 0
+    "issues": 23,
+    "commits": 408
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2277,7 +2277,7 @@
     "created": "2023-05-08T12:23:21.000Z",
     "updated": "2023-05-12T09:53:27.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
-    "size": 6105,
+    "size": 8727,
     "stars": 78,
     "issues": 4,
     "commits": 67
