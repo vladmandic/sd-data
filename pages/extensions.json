@@ -285,7 +285,7 @@
     "updated": "2023-05-02T10:00:49.000Z",
     "long": "hako-mikan/sd-webui-supermerger",
     "size": 4919,
-    "stars": 320,
+    "stars": 321,
     "issues": 23,
     "commits": 172
   },
@@ -502,7 +502,7 @@
     "updated": "2023-05-11T22:02:28.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60692,
-    "stars": 172,
+    "stars": 173,
     "issues": 8,
     "commits": 56
   },
@@ -847,7 +847,7 @@
     "updated": "2023-04-27T20:26:42.000Z",
     "long": "yownas/seed_travel",
     "size": 19412,
-    "stars": 242,
+    "stars": 243,
     "issues": 1,
     "commits": 124
   },
@@ -1172,7 +1172,7 @@
     "updated": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 328,
+    "stars": 329,
     "issues": 3,
     "commits": 54
   },
@@ -1204,7 +1204,7 @@
     "updated": "2023-05-11T23:57:23.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8089,
+    "stars": 8091,
     "issues": 23,
     "commits": 1333
   },
@@ -1335,7 +1335,7 @@
     "size": 19,
     "stars": 9,
     "issues": 2,
-    "commits": 4
+    "commits": 0
   },
   {
     "name": "sd-webui-riffusion",
@@ -1449,7 +1449,7 @@
     "size": 561,
     "stars": 33,
     "issues": 10,
-    "commits": 69
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1581,7 +1581,7 @@
     "long": "benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension",
     "size": 3166,
     "stars": 47,
-    "issues": 2,
+    "issues": 3,
     "commits": 4
   },
   {
@@ -1710,7 +1710,7 @@
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
     "stars": 2077,
-    "issues": 35,
+    "issues": 36,
     "commits": 185
   },
   {
@@ -1790,7 +1790,7 @@
     "updated": "2023-04-18T01:46:15.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1019,
-    "stars": 360,
+    "stars": 361,
     "issues": 15,
     "commits": 1
   },
@@ -1825,7 +1825,7 @@
     "size": 7676,
     "stars": 409,
     "issues": 40,
-    "commits": 205
+    "commits": 0
   },
   {
     "name": "sd-webui-enable-checker",
@@ -1841,7 +1841,7 @@
     "size": 234,
     "stars": 28,
     "issues": 2,
-    "commits": 65
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -1857,7 +1857,7 @@
     "size": 73,
     "stars": 93,
     "issues": 5,
-    "commits": 43
+    "commits": 0
   },
   {
     "name": "sd-webui-text2video",
@@ -1872,9 +1872,9 @@
     "updated": "2023-05-05T21:53:24.000Z",
     "long": "deforum-art/sd-webui-text2video",
     "size": 747,
-    "stars": 651,
+    "stars": 652,
     "issues": 22,
-    "commits": 408
+    "commits": 0
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -1892,7 +1892,7 @@
     "size": 388,
     "stars": 60,
     "issues": 6,
-    "commits": 41
+    "commits": 0
   },
   {
     "name": "canvas-zoom",
@@ -1908,7 +1908,7 @@
     "size": 76422,
     "stars": 118,
     "issues": 5,
-    "commits": 162
+    "commits": 0
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -1924,7 +1924,7 @@
     "size": 18863,
     "stars": 411,
     "issues": 29,
-    "commits": 132
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -1940,7 +1940,7 @@
     "size": 932,
     "stars": 24,
     "issues": 2,
-    "commits": 22
+    "commits": 0
   },
   {
     "name": "prompt_translator",
@@ -1954,9 +1954,9 @@
     "updated": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 60,
+    "stars": 61,
     "issues": 10,
-    "commits": 34
+    "commits": 0
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -1991,7 +1991,7 @@
     "size": 727,
     "stars": 51,
     "issues": 0,
-    "commits": 38
+    "commits": 0
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2008,7 +2008,7 @@
     "size": 264,
     "stars": 7,
     "issues": 0,
-    "commits": 29
+    "commits": 0
   },
   {
     "name": "PBRemTools",
@@ -2025,7 +2025,7 @@
     "size": 42,
     "stars": 197,
     "issues": 13,
-    "commits": 49
+    "commits": 0
   },
   {
     "name": "a1111-sd-webui-lycoris",
@@ -2075,7 +2075,7 @@
     "size": 376,
     "stars": 381,
     "issues": 7,
-    "commits": 148
+    "commits": 0
   },
   {
     "name": "zh_CN Localization",
@@ -2228,7 +2228,7 @@
     "size": 6640,
     "stars": 7,
     "issues": 1,
-    "commits": 101
+    "commits": 0
   },
   {
     "name": "SD-CN-Animation",
@@ -2243,9 +2243,9 @@
     "updated": "2023-05-12T00:10:54.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36047,
-    "stars": 372,
+    "stars": 373,
     "issues": 25,
-    "commits": 81
+    "commits": 0
   },
   {
     "name": "stable-diffusion-webui-model-toolkit",
@@ -2262,7 +2262,7 @@
     "size": 120,
     "stars": 261,
     "issues": 2,
-    "commits": 39
+    "commits": 0
   },
   {
     "name": "sd-webui-prompt-all-in-one",
@@ -2280,6 +2280,6 @@
     "size": 5882,
     "stars": 64,
     "issues": 1,
-    "commits": 57
+    "commits": 0
   }
 ]
