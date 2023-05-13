@@ -33,7 +33,7 @@
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17685,
     "stars": 1271,
-    "issues": 29,
+    "issues": 30,
     "branch": "main",
     "updated": "2023-03-31T15:12:45Z",
     "commits": 1213
@@ -301,8 +301,8 @@
     "stars": 30,
     "issues": 3,
     "branch": "master",
-    "updated": "2023-02-27T20:57:13Z",
-    "commits": 14
+    "updated": "2023-02-27T20:57:13.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-supermerger",
@@ -526,8 +526,8 @@
     "stars": 35,
     "issues": 11,
     "branch": "master",
-    "updated": "2023-04-26T18:17:08Z",
-    "commits": 94
+    "updated": "2023-05-07T23:59:19.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-ar",
@@ -560,7 +560,7 @@
     "pushed": "2023-05-12T15:39:04.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 60702,
-    "stars": 177,
+    "stars": 178,
     "issues": 14,
     "branch": "main",
     "updated": "2023-05-10T10:49:24Z",
@@ -635,8 +635,8 @@
     "stars": 778,
     "issues": 63,
     "branch": "main",
-    "updated": "2023-04-23T13:28:49Z",
-    "commits": 516
+    "updated": "2023-05-11T01:55:42.000Z",
+    "commits": 1
   },
   {
     "name": "unprompted",
@@ -687,7 +687,7 @@
     "pushed": "2023-05-11T19:20:02.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 4026,
-    "stars": 1440,
+    "stars": 1441,
     "issues": 11,
     "branch": "main",
     "updated": "2023-05-11T19:18:09Z",
@@ -708,8 +708,8 @@
     "stars": 53,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-01-28T06:33:03Z",
-    "commits": 18
+    "updated": "2023-01-29T19:03:19.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-tokenizer",
@@ -781,8 +781,8 @@
     "stars": 101,
     "issues": 9,
     "branch": "main",
-    "updated": "2023-05-13T00:00:38Z",
-    "commits": 860
+    "updated": "2023-05-13T00:00:39.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-Prompt_Generator",
@@ -838,8 +838,8 @@
     "stars": 112,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-02-24T08:29:55Z",
-    "commits": 49
+    "updated": "2023-02-24T08:29:59.000Z",
+    "commits": 1
   },
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
@@ -858,8 +858,8 @@
     "stars": 158,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-05-09T08:30:09Z",
-    "commits": 49
+    "updated": "2023-05-09T08:30:10.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-deforum",
@@ -1022,8 +1022,8 @@
     "stars": 325,
     "issues": 25,
     "branch": "main",
-    "updated": "2023-05-03T12:34:30Z",
-    "commits": 2499
+    "updated": "2023-05-05T23:34:18.000Z",
+    "commits": 1
   },
   {
     "name": "ddetailer",
@@ -1058,8 +1058,8 @@
     "stars": 155,
     "issues": 11,
     "branch": "main",
-    "updated": "2023-05-11T23:05:27Z",
-    "commits": 92
+    "updated": "2023-05-11T23:05:31.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-depthmap-script",
@@ -1076,8 +1076,8 @@
     "stars": 902,
     "issues": 57,
     "branch": "main",
-    "updated": "2023-04-17T22:01:00Z",
-    "commits": 174
+    "updated": "2023-04-17T22:01:08.000Z",
+    "commits": 1
   },
   {
     "name": "multi-subject-render",
@@ -1315,8 +1315,8 @@
     "stars": 337,
     "issues": 3,
     "branch": "master",
-    "updated": "2023-05-08T23:17:15Z",
-    "commits": 55
+    "updated": "2023-05-08T23:17:17.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1345,11 +1345,11 @@
     ],
     "added": "2023-02-18T00:00:00.000Z",
     "created": "2023-02-12T16:26:27.000Z",
-    "pushed": "2023-05-11T23:57:23.000Z",
+    "pushed": "2023-05-13T02:38:44.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15105,
-    "stars": 8136,
-    "issues": 24,
+    "stars": 8139,
+    "issues": 25,
     "branch": "main",
     "updated": "2023-05-07T17:15:00Z",
     "commits": 1334
@@ -2494,14 +2494,14 @@
     ],
     "added": "2023-05-06T00:00:00.000Z",
     "created": "2023-03-17T13:35:21.000Z",
-    "pushed": "2023-05-12T21:50:07.000Z",
+    "pushed": "2023-05-13T02:37:01.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36047,
     "stars": 381,
-    "issues": 27,
+    "issues": 26,
     "branch": "main",
-    "updated": "2023-05-12T00:10:48Z",
-    "commits": 82
+    "updated": "2023-05-13T02:30:03Z",
+    "commits": 83
   },
   {
     "name": "stable-diffusion-webui-model-toolkit",
