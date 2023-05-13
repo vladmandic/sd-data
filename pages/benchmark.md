@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-13T20:09:15.277Z
+  ## Updated: 2023-05-13T23:08:55.663Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3877|2023-05-13T15:31:48.111Z|11.46 / 13.6 / 16.63|updated:2023-05-13 hash:c46f0dbd url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB|sdp none|experience_80.safetensors [28bb9b6d12]|Victor||
+  |3879|2023-05-14T00:29:22.204Z|8.13|updated:2023-05-13 hash:926b8666 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.14-300.fc38.x86_64 python:3.10.11|torch:2.1.0.dev20230513+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 24GB|sdp-no-mem none|epicrealism_newEra.safetensors [aa78bfa99c]|idcrafter|My little pc|
+|3878|2023-05-14T00:25:15.571Z|10.62 / 18.45 / 26.94|updated:2023-05-13 hash:926b8666 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.2.14-300.fc38.x86_64 python:3.10.11|torch:2.1.0.dev20230513+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 24GB|sdp-no-mem none|epicrealism_newEra.safetensors [aa78bfa99c]|idcrafter|My little pc|
+|3877|2023-05-13T15:31:48.111Z|11.46 / 13.6 / 16.63|updated:2023-05-13 hash:c46f0dbd url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB|sdp none|experience_80.safetensors [28bb9b6d12]|Victor||
 |3876|2023-05-13T08:15:18.755Z|15.65 / 18.96 / 20.72|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7|torch:2.1.0.dev20230511+cu121 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8900 16GB|sdp none|model.ckpt [fe4efff1e1]|Nathaniel||
 |3875|2023-05-13T07:55:33.626Z|15.78 / 19.74 / 21.93|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7|torch:2.1.0.dev20230511+cu121 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 16GB|sdp none|model.ckpt [fe4efff1e1]|Nathaniel||
 |3874|2023-05-13T07:12:43.044Z|15.94 / 18.29 / 20.58|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7|torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8801 16GB|sdp none|model.ckpt [fe4efff1e1]|Nathaniel||
