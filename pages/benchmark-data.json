@@ -1,5 +1,31 @@
 [
   [
+    3890,
+    "2023-05-14T23:25:55.641Z",
+    "22.93 / 31.07 / 34.16 / 33.64 / 33.62",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "henmixReal_v30.safetensors [aa3f5d1984]",
+    "munde",
+    ""
+  ],
+  [
+    3889,
+    "2023-05-14T23:25:20.189Z",
+    "22.21 / 28.35 / 32.92 / 33.77 / 33.65",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "henmixReal_v30.safetensors [aa3f5d1984]",
+    "munde",
+    ""
+  ],
+  [
     3888,
     "2023-05-14T14:51:57.166Z",
     "12.95 / 16.88 / 23.51",
