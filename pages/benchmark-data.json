@@ -1,5 +1,31 @@
 [
   [
+    3886,
+    "2023-05-14T01:13:03.845Z",
+    "18.27 / 31.81 / 42.59 / 41.76 / 43.44",
+    "updated:2023-05-13 hash:926b8666 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "deoxi",
+    "5800x3d"
+  ],
+  [
+    3885,
+    "2023-05-14T01:12:02.562Z",
+    "18.52 / 32.48 / 42.52",
+    "updated:2023-05-13 hash:926b8666 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "deoxi",
+    ""
+  ],
+  [
     3884,
     "2023-05-14T08:56:50.064Z",
     "1.93 / 2.42 / 2.52",
