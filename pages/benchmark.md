@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-15T12:19:02.547Z
+  ## Updated: 2023-05-15T13:13:05.704Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3898|2023-05-15T15:04:43.583Z|1.34 / 1.31 / 1.37|updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:2.0.1 autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.25.1| 0GB|sub-quadratic none|awportrait_v10.safetensors [72d764a66c]|kevinlu||
+  |3899|2023-05-15T18:02:19.439Z|5.82 / 7.33 / 8.4|updated:2023-05-14 hash:c99c1410 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|realisticVisionV20_v20.safetensors [c0d1994c73]|Aigen||
+|3898|2023-05-15T15:04:43.583Z|1.34 / 1.31 / 1.37|updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:2.0.1 autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.25.1| 0GB|sub-quadratic none|awportrait_v10.safetensors [72d764a66c]|kevinlu||
 |3897|2023-05-15T19:47:29.974Z|2.42 / 2.05 / 2.17|updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:2.0.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1| 0GB|InvokeAI none|awportrait_v10.safetensors [72d764a66c]|kevinlu||
 |3896|2023-05-09T00:44:22.676Z|2.06 / 1.98 / 2.21|updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.10|torch:1.12.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sub-quadratic none|rmadartSD15_v80.safetensors [5e579a0d89]|kevinlu||
 |3895|2023-05-15T09:29:08.263Z|4.01 / 3.74 / 4.28|updated:2023-05-14 hash:c99c1410 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|realisticVisionV13_v13.safetensors [c35782bad8]|WOLFO||
