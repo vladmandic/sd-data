@@ -260,7 +260,7 @@
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 243,
     "stars": 1046,
-    "issues": 59,
+    "issues": 60,
     "branch": "main",
     "updated": "2023-05-12T12:28:25Z",
     "commits": 232
@@ -561,7 +561,7 @@
     "long": "Nevysha/Cozy-Nest",
     "size": 60709,
     "stars": 204,
-    "issues": 19,
+    "issues": 21,
     "branch": "main",
     "updated": "2023-05-14T18:55:48Z",
     "commits": 66
@@ -777,7 +777,7 @@
     "created": "2022-12-01T03:07:53.000Z",
     "pushed": "2023-05-15T18:00:19.000Z",
     "long": "mix1009/model-keyword",
-    "size": 3069,
+    "size": 3419,
     "stars": 104,
     "issues": 9,
     "branch": "main",
@@ -855,7 +855,7 @@
     "pushed": "2023-05-09T08:30:10.000Z",
     "long": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
     "size": 641,
-    "stars": 162,
+    "stars": 163,
     "issues": 6,
     "branch": "main",
     "updated": "2023-05-09T08:30:09Z",
@@ -871,14 +871,14 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2022-10-14T22:29:12.000Z",
-    "pushed": "2023-05-15T14:36:56.000Z",
+    "pushed": "2023-05-15T18:58:17.000Z",
     "long": "deforum-art/sd-webui-deforum",
-    "size": 130938,
+    "size": 130945,
     "stars": 1319,
     "issues": 26,
     "branch": "automatic1111-webui",
-    "updated": "2023-05-15T14:36:56Z",
-    "commits": 2698
+    "updated": "2023-05-15T18:58:17Z",
+    "commits": 2701
   },
   {
     "name": "animator_extension",
@@ -911,7 +911,7 @@
     "pushed": "2023-05-13T14:56:06.000Z",
     "long": "LonicaMewinsky/gif2gif",
     "size": 80,
-    "stars": 179,
+    "stars": 180,
     "issues": 1,
     "branch": "main",
     "updated": "2023-05-13T14:56:04Z",
@@ -1019,7 +1019,7 @@
     "pushed": "2023-05-15T15:50:55.000Z",
     "long": "Interpause/auto-sd-paint-ext",
     "size": 23687,
-    "stars": 326,
+    "stars": 327,
     "issues": 25,
     "branch": "main",
     "updated": "2023-05-03T12:34:30Z",
@@ -1038,7 +1038,7 @@
     "long": "dustysys/ddetailer",
     "size": 1511,
     "stars": 252,
-    "issues": 36,
+    "issues": 37,
     "branch": "master",
     "updated": "2022-11-28T09:33:31Z",
     "commits": 28
@@ -1276,8 +1276,8 @@
     "pushed": "2023-05-05T00:22:21.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 605,
-    "issues": 21,
+    "stars": 606,
+    "issues": 22,
     "branch": "master",
     "updated": "2023-05-05T00:22:21Z",
     "commits": 95
@@ -1348,7 +1348,7 @@
     "pushed": "2023-05-15T09:49:01.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15497,
-    "stars": 8455,
+    "stars": 8463,
     "issues": 45,
     "branch": "main",
     "updated": "2023-05-15T07:18:51Z",
@@ -1366,7 +1366,7 @@
     "pushed": "2023-04-20T07:23:00.000Z",
     "long": "ashen-sensored/stable-diffusion-webui-two-shot",
     "size": 22749,
-    "stars": 245,
+    "stars": 246,
     "issues": 1,
     "branch": "main",
     "updated": "2023-04-02T11:22:41Z",
@@ -1624,8 +1624,8 @@
     "stars": 33,
     "issues": 11,
     "branch": "master",
-    "updated": "2023-05-04T07:07:30Z",
-    "commits": 70
+    "updated": "2023-05-04T07:07:31.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1791,8 +1791,8 @@
     "stars": 58,
     "issues": 12,
     "branch": "master",
-    "updated": "2023-01-26T04:20:48Z",
-    "commits": 43
+    "updated": "2023-02-24T22:59:40.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-dumpunet",
@@ -1915,7 +1915,7 @@
     "pushed": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2156,
+    "stars": 2158,
     "issues": 41,
     "branch": "main",
     "updated": "2023-05-09T13:29:40Z",
@@ -2028,8 +2028,8 @@
     "stars": 47,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-10T12:08:31Z",
-    "commits": 23
+    "updated": "2023-05-10T12:08:41.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-3d-open-pose-editor",
@@ -2099,7 +2099,7 @@
     "long": "deforum-art/sd-webui-text2video",
     "size": 802,
     "stars": 663,
-    "issues": 26,
+    "issues": 25,
     "branch": "main",
     "updated": "2023-05-14T16:36:00Z",
     "commits": 411
@@ -2285,7 +2285,7 @@
     "pushed": "2023-05-09T12:30:50.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 117,
-    "stars": 235,
+    "stars": 237,
     "issues": 5,
     "branch": "main",
     "updated": "2023-05-09T12:30:54Z",
@@ -2307,8 +2307,8 @@
     "stars": 74,
     "issues": 5,
     "branch": "master",
-    "updated": "2023-05-05T02:16:38Z",
-    "commits": 18
+    "updated": "2023-05-05T02:16:40.000Z",
+    "commits": 1
   },
   {
     "name": "infinite-zoom-automatic1111-webui",
@@ -2343,7 +2343,7 @@
     "pushed": "2023-05-15T13:52:31.000Z",
     "long": "ilian6806/stable-diffusion-webui-eyemask",
     "size": 71102,
-    "stars": 1,
+    "stars": 3,
     "issues": 0,
     "branch": "master",
     "updated": "2023-05-15T13:52:31Z",
@@ -2515,14 +2515,14 @@
     ],
     "added": "2023-05-15T00:00:00.000Z",
     "created": "2023-05-14T18:53:50.000Z",
-    "pushed": "2023-05-15T15:43:08.000Z",
+    "pushed": "2023-05-15T19:28:15.000Z",
     "long": "rifeWithKaiju/model_preset_manager",
-    "size": 23,
-    "stars": 5,
+    "size": 29,
+    "stars": 8,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-15T15:43:00Z",
-    "commits": 12
+    "updated": "2023-05-15T19:28:15.000Z",
+    "commits": 1
   },
   {
     "name": "Stable-Diffusion-Webui-Civitai-Helper",
@@ -2556,7 +2556,7 @@
     "created": "2023-03-17T13:35:21.000Z",
     "pushed": "2023-05-15T18:02:24.000Z",
     "long": "volotat/SD-CN-Animation",
-    "size": 36018,
+    "size": 36023,
     "stars": 421,
     "issues": 24,
     "branch": "main",
@@ -2633,7 +2633,7 @@
     "pushed": "2023-05-15T13:05:17.000Z",
     "long": "Bing-su/adetailer",
     "size": 100,
-    "stars": 298,
+    "stars": 302,
     "issues": 19,
     "branch": "main",
     "updated": "2023-05-15T05:19:46Z",
@@ -2654,8 +2654,8 @@
     "stars": 3,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-05-14T20:30:57Z",
-    "commits": 49
+    "updated": "2023-05-14T20:30:59.000Z",
+    "commits": 1
   },
   {
     "name": "OneButtonPrompt",
