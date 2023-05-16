@@ -13,7 +13,7 @@
     "pushed": "2023-01-23T08:45:27.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
     "size": 1121,
-    "stars": 299,
+    "stars": 300,
     "issues": 27,
     "branch": "master",
     "updated": "2023-01-06T10:59:30Z",
@@ -73,8 +73,8 @@
     "stars": 339,
     "issues": 12,
     "branch": "main",
-    "updated": "2023-05-02T13:29:28.000Z",
-    "commits": 1
+    "updated": "2023-05-02T13:29:24Z",
+    "commits": 214
   },
   {
     "name": "DreamArtist-sd-webui-extension",
@@ -335,7 +335,7 @@
     "pushed": "2023-05-12T12:04:33.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 163,
-    "stars": 447,
+    "stars": 448,
     "issues": 15,
     "branch": "main",
     "updated": "2023-05-12T12:04:33Z",
@@ -357,8 +357,8 @@
     "stars": 286,
     "issues": 34,
     "branch": "main",
-    "updated": "2023-05-11T05:53:57.000Z",
-    "commits": 1
+    "updated": "2023-05-11T05:53:55Z",
+    "commits": 233
   },
   {
     "name": "sd-webui-infinite-image-browsing",
@@ -373,11 +373,11 @@
     "pushed": "2023-05-15T15:29:25.000Z",
     "long": "zanllp/sd-webui-infinite-image-browsing",
     "size": 10950,
-    "stars": 153,
-    "issues": 25,
+    "stars": 154,
+    "issues": 26,
     "branch": "main",
-    "updated": "2023-05-15T15:29:25.000Z",
-    "commits": 1
+    "updated": "2023-05-15T15:29:22Z",
+    "commits": 313
   },
   {
     "name": "stable-diffusion-webui-inspiration",
@@ -465,7 +465,7 @@
     "created": "2022-12-13T07:05:08.000Z",
     "pushed": "2023-05-16T01:47:22.000Z",
     "long": "Zyin055/Config-Presets",
-    "size": 61,
+    "size": 62,
     "stars": 95,
     "issues": 4,
     "branch": "main",
@@ -578,7 +578,7 @@
     "pushed": "2023-05-10T03:44:40.000Z",
     "long": "catppuccin/stable-diffusion-webui",
     "size": 13785,
-    "stars": 156,
+    "stars": 157,
     "issues": 7,
     "branch": "main",
     "updated": "2023-04-06T18:22:37Z",
@@ -687,7 +687,7 @@
     "pushed": "2023-05-15T17:21:15.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3968,
-    "stars": 1463,
+    "stars": 1464,
     "issues": 11,
     "branch": "main",
     "updated": "2023-05-15T16:59:26Z",
@@ -874,7 +874,7 @@
     "pushed": "2023-05-16T00:39:17.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 130843,
-    "stars": 1321,
+    "stars": 1322,
     "issues": 26,
     "branch": "automatic1111-webui",
     "updated": "2023-05-15T20:45:39Z",
@@ -1167,7 +1167,7 @@
     "pushed": "2023-04-02T23:53:29.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-pixelization",
     "size": 498,
-    "stars": 334,
+    "stars": 335,
     "issues": 17,
     "branch": "master",
     "updated": "2023-02-04T17:02:01Z",
@@ -1279,8 +1279,8 @@
     "stars": 608,
     "issues": 22,
     "branch": "master",
-    "updated": "2023-05-05T00:22:21.000Z",
-    "commits": 1
+    "updated": "2023-05-05T00:22:21Z",
+    "commits": 95
   },
   {
     "name": "prompt-fusion-extension",
@@ -1312,11 +1312,11 @@
     "pushed": "2023-05-08T23:17:17.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 348,
+    "stars": 349,
     "issues": 2,
     "branch": "master",
-    "updated": "2023-05-08T23:17:17.000Z",
-    "commits": 1
+    "updated": "2023-05-08T23:17:15Z",
+    "commits": 55
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1348,8 +1348,8 @@
     "pushed": "2023-05-15T09:49:01.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15497,
-    "stars": 8486,
-    "issues": 45,
+    "stars": 8499,
+    "issues": 47,
     "branch": "main",
     "updated": "2023-05-15T07:18:51Z",
     "commits": 1372
@@ -1751,7 +1751,7 @@
     "pushed": "2023-03-28T03:20:49.000Z",
     "long": "pharmapsychotic/clip-interrogator-ext",
     "size": 134,
-    "stars": 184,
+    "stars": 186,
     "issues": 33,
     "branch": "main",
     "updated": "2023-03-28T03:20:44Z",
@@ -1915,7 +1915,7 @@
     "pushed": "2023-05-09T13:29:44.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1125,
-    "stars": 2158,
+    "stars": 2160,
     "issues": 41,
     "branch": "main",
     "updated": "2023-05-09T13:29:40Z",
@@ -2009,8 +2009,8 @@
     "stars": 370,
     "issues": 17,
     "branch": "master",
-    "updated": "2023-05-15T08:06:01.000Z",
-    "commits": 1
+    "updated": "2023-03-12T15:32:00Z",
+    "commits": 2
   },
   {
     "name": "sd-webui-tunnels",
@@ -2025,7 +2025,7 @@
     "pushed": "2023-05-10T12:08:41.000Z",
     "long": "Bing-su/sd-webui-tunnels",
     "size": 21,
-    "stars": 47,
+    "stars": 48,
     "issues": 1,
     "branch": "main",
     "updated": "2023-05-10T12:08:31Z",
@@ -2212,8 +2212,8 @@
     "stars": 118,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-04-15T04:28:34.000Z",
-    "commits": 1
+    "updated": "2023-04-15T04:28:34Z",
+    "commits": 57
   },
   {
     "name": "stable-diffusion-NPW",
@@ -2538,7 +2538,7 @@
     "pushed": "2023-05-15T16:45:21.000Z",
     "long": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
     "size": 2468,
-    "stars": 1305,
+    "stars": 1307,
     "issues": 39,
     "branch": "main",
     "updated": "2023-04-14T05:39:01Z",
@@ -2593,14 +2593,14 @@
     ],
     "added": "2023-05-08T00:00:00.000Z",
     "created": "2023-05-08T12:23:21.000Z",
-    "pushed": "2023-05-15T17:29:01.000Z",
+    "pushed": "2023-05-16T02:24:00.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 11056,
     "stars": 162,
     "issues": 6,
     "branch": "main",
-    "updated": "2023-05-15T17:28:54Z",
-    "commits": 119
+    "updated": "2023-05-16T02:23:54Z",
+    "commits": 120
   },
   {
     "name": "sd-model-preview-xd",
@@ -2633,7 +2633,7 @@
     "pushed": "2023-05-15T13:05:17.000Z",
     "long": "Bing-su/adetailer",
     "size": 100,
-    "stars": 316,
+    "stars": 318,
     "issues": 20,
     "branch": "main",
     "updated": "2023-05-15T05:19:46Z",
@@ -2654,8 +2654,8 @@
     "stars": 3,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-05-14T20:30:59.000Z",
-    "commits": 1
+    "updated": "2023-05-14T20:30:57Z",
+    "commits": 49
   },
   {
     "name": "OneButtonPrompt",
@@ -2670,7 +2670,7 @@
     "pushed": "2023-05-15T16:43:29.000Z",
     "long": "AIrjen/OneButtonPrompt",
     "size": 7800,
-    "stars": 91,
+    "stars": 92,
     "issues": 1,
     "branch": "main",
     "updated": "2023-05-15T16:43:25Z",
