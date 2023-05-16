@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-16T02:03:46.302Z
+  ## Updated: 2023-05-16T04:12:07.359Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3910|2023-05-16T03:12:01.250Z|9.82 / 10.79 / 13.75|updated:2023-05-15 hash:7fe05875 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|moonmix_fantasy20.safetensors [7458ea4104]|jens||
+  |3911|2023-05-16T11:42:10.107Z|10.83 / 19.83 / 26.98 / 25.93 / 26.41|updated:2023-05-02 hash:5ab7f213 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.25300-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|v1-5-pruned.ckpt [e1441589a6]|jishuhui||
+|3910|2023-05-16T03:12:01.250Z|9.82 / 10.79 / 13.75|updated:2023-05-15 hash:7fe05875 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|moonmix_fantasy20.safetensors [7458ea4104]|jens||
 |3909|2023-05-16T09:40:37.520Z|1.18 / 1.3 / error|updated:2023-05-15 hash:7fe05875 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sub-quadratic medvram|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|lukea||
 |3908|2023-05-16T09:27:37.978Z|1.13 / 1.11 / error|updated:2023-05-15 hash:7fe05875 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sdp medvram|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|lukea||
 |3907|2023-05-16T09:23:57.326Z|0.92|updated:2023-05-15 hash:7fe05875 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|sdp-no-mem medvram|uberRealisticPornMerge_urpmv13.safetensors [f93e6a50ac]|lukea||
