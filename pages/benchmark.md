@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-16T16:12:11.243Z
+  ## Updated: 2023-05-16T18:11:32.553Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3920|2023-05-06T04:54:43.059Z|12.66 / 17.34 / 19.71 / 20.94 / 21.55||arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|anyloraCheckpoint_bakedvaeFtmseFp16NOT.safetensors [8a952cafe9]|user||
+  |3921|2023-05-16T19:35:42.503Z|7.54 / 10.27 / 12.52|updated:2023-05-16 hash:bc02d666 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6|torch:2.0.1+git8f7b63d Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Radeon RX 7900 XT (1) hip:5.5.30201-c1741e9b 20GB|sdp medvram|v1-5-pruned-emaonly.safetensors [6ce0161689]|emil||
+|3920|2023-05-06T04:54:43.059Z|12.66 / 17.34 / 19.71 / 20.94 / 21.55||arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.27.4|device:NVIDIA GeForce RTX 3090 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|anyloraCheckpoint_bakedvaeFtmseFp16NOT.safetensors [8a952cafe9]|user||
 |3919|2023-05-16T23:46:39.056Z|11.06 / 16.61 / 19.9 / 22.2 / 23.08||arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|anyloraCheckpoint_bakedvaeFtmseFp16NOT.safetensors [8a952cafe9]|user||
 |3918|2023-05-14T18:48:35.142Z|2.15 / 2.42 / 2.52|updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 45 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8900 8GB|xformers none|majicmixFantasy_v20.safetensors [bde6750eac]|Administrator||
 |3917|2023-05-16T16:51:47.924Z|2.21 / 2.48 / 2.61|updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 45 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 8GB|xformers none|GhostMix-V1.2.safetensors [f20c91bd27]|Administrator||

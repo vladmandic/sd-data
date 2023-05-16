@@ -1,5 +1,18 @@
 [
   [
+    3921,
+    "2023-05-16T19:35:42.503Z",
+    "7.54 / 10.27 / 12.52",
+    "updated:2023-05-16 hash:bc02d666 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6",
+    "torch:2.0.1+git8f7b63d Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:Radeon RX 7900 XT (1) hip:5.5.30201-c1741e9b 20GB",
+    "sdp medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "emil",
+    ""
+  ],
+  [
     3920,
     "2023-05-06T04:54:43.059Z",
     "12.66 / 17.34 / 19.71 / 20.94 / 21.55",
