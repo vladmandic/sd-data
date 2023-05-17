@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-16T22:08:55.365Z
+  ## Updated: 2023-05-17T10:10:15.253Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3929|2023-05-16T16:48:50.206Z|9.1 / 10.56 / 11.71 / 12.13 / 12.5|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp-no-mem none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
+  |3930|2023-05-17T18:00:28.581Z|0.37|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:x86_64 cpu: system:Linux release:6.3.2-zen1-1-zen python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1650 SUPER (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 4GB|xformers none|chilloutmix-Ni-non-ema-fp32.safetensors [db220d90e5]|llc||
+|3929|2023-05-16T16:48:50.206Z|9.1 / 10.56 / 11.71 / 12.13 / 12.5|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp-no-mem none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
 |3928|2023-05-16T16:42:33.658Z|8.69 / 10.0 / 11.69 / 12.17 / 12.64|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|xformers none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
 |3927|2023-05-16T16:26:32.925Z|8.63 / 9.83 / 11.58|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
 |3926|2023-05-16T16:22:37.441Z|9.03 / 10.54 / 11.69|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp-no-mem none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
