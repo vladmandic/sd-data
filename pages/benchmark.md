@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-17T14:08:46.446Z
+  ## Updated: 2023-05-17T23:09:04.294Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3932|2023-05-17T10:02:34.306Z|14.73 / 18.53 / 24.87|updated:2023-05-16 hash:5250ba4b url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.9.10|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp-no-mem none|anythingV3_fp16.ckpt [812cd9f9d9]|Hag||
+  |3933|2023-05-18T00:19:08.385Z|7.63|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|knollingcase.ckpt [cf836e65a7]|Paolo||
+|3932|2023-05-17T10:02:34.306Z|14.73 / 18.53 / 24.87|updated:2023-05-16 hash:5250ba4b url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.9.10|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp-no-mem none|anythingV3_fp16.ckpt [812cd9f9d9]|Hag||
 |3931|2023-05-17T23:00:37.507Z|10.18 / 11.46 / 14.39|updated:2023-05-16 hash:5250ba4b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|sita.ckpt [77e017b67e]|este_||
 |3930|2023-05-17T18:00:28.581Z|0.37|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:x86_64 cpu: system:Linux release:6.3.2-zen1-1-zen python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1650 SUPER (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 4GB|xformers none|chilloutmix-Ni-non-ema-fp32.safetensors [db220d90e5]|llc||
 |3929|2023-05-16T16:48:50.206Z|9.1 / 10.56 / 11.71 / 12.13 / 12.5|updated:2023-05-16 hash:bce16a1d url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 16GB|sdp-no-mem none|realisticVisionV20_v20.safetensors [c0d1994c73]|dt||
