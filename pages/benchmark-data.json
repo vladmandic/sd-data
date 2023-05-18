@@ -1,5 +1,18 @@
 [
   [
+    3941,
+    "2023-05-18T14:17:44.653Z",
+    "6.73 / 7.87 / 7.95",
+    "updated:2023-04-26 hash:e8370828 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "neurocontrastdream_v15.safetensors [79e02bb2cc]",
+    "angry",
+    ""
+  ],
+  [
     3940,
     "2023-05-18T08:52:46.388Z",
     "7.13 / 9.04 / 10.38",
