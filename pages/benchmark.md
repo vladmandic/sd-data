@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-19T03:10:03.644Z
+  ## Updated: 2023-05-19T04:11:36.970Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3945|2023-05-18T22:00:55.071Z|20.59 / 31.39 / 41.52 / 41.68 / 42.15|updated:2023-05-18 hash:527dc0ee url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.0.dev20230518+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8901 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|micha||
+  |3946|2023-05-18T22:25:38.256Z|20.5 / 34.67 / 44.76 / 46.29 / 47.16|updated:2023-05-18 hash:527dc0ee url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.0.dev20230518+cu121 Autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8901 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|micha||
+|3945|2023-05-18T22:00:55.071Z|20.59 / 31.39 / 41.52 / 41.68 / 42.15|updated:2023-05-18 hash:527dc0ee url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.0.dev20230518+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8901 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|micha||
 |3944|2023-05-18T22:06:05.684Z|20.1 / 30.84 / 40.61 / 40.89 / 40.97|updated:2023-05-18 hash:527dc0ee url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.0.dev20230518+cu121 Autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8901 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|micha||
 |3943|2023-05-18T21:46:08.163Z|20.21 / 26.2 / 35.7 / 37.17 / 37.92|updated:2023-05-18 hash:527dc0ee url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.0.dev20230518+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8901 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|msull00||
 |3942|2023-05-19T10:30:22.463Z|21.92 / 30.19 / 32.18 / 31.63 / 31.96|updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp-no-mem none|suikamixHentaiMode_suikamixVer2Pruned.safetensors [361a4fa8cb]|munde||
