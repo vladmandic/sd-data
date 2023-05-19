@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-18T21:08:28.484Z
+  ## Updated: 2023-05-19T02:02:07.767Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3941|2023-05-18T14:17:44.653Z|6.73 / 7.87 / 7.95|updated:2023-04-26 hash:e8370828 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|neurocontrastdream_v15.safetensors [79e02bb2cc]|angry||
+  |3942|2023-05-19T10:30:22.463Z|21.92 / 30.19 / 32.18 / 31.63 / 31.96|updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp-no-mem none|suikamixHentaiMode_suikamixVer2Pruned.safetensors [361a4fa8cb]|munde||
+|3941|2023-05-18T14:17:44.653Z|6.73 / 7.87 / 7.95|updated:2023-04-26 hash:e8370828 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp none|neurocontrastdream_v15.safetensors [79e02bb2cc]|angry||
 |3940|2023-05-18T08:52:46.388Z|7.13 / 9.04 / 10.38|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|CYPHER||
 |3939|2023-05-18T08:47:42.428Z|7.07 / 3.29 / 3.65|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|CYPHER||
 |3938|2023-05-18T06:52:56.015Z|6.22 / 7.92 / 9.4|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|CYPHER||
