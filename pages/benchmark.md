@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-20T10:09:10.501Z
+  ## Updated: 2023-05-20T11:07:28.068Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3950|2023-05-20T11:11:53.794Z|7.19 / 8.72 / 9.41|updated:2023-05-19 hash:794b23cc url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|klausman||
+  |3951|2023-05-20T06:47:07.199Z||updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cu117 autocast nohalf xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.7 cudnn:8500 8GB|Doggettx lowvram|v2_512-inpainting-ema.safetensors [b29e2ed9a8]|neighbors celebrating in front of a dog park, sunny, sharp focus, professional photography, 4K|haze, blurry, out of focus, fog, extra limbs, disfigured, deformed, bad anatomy, zombies|
+|3950|2023-05-20T11:11:53.794Z|7.19 / 8.72 / 9.41|updated:2023-05-19 hash:794b23cc url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|klausman||
 |3949|2023-05-20T00:14:49.974Z|15.48 / 16.47 / 16.27|updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB|xformers none|真实\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|CODE.3F||
 |3948|2023-05-20T00:12:45.064Z|15.07 / 16.5 / 16.23 / 16.23 / 16.53|updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB|xformers none|真实\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|CODE.3F||
 |3947|2023-05-19T18:34:45.072Z|7.37 / 7.07 / 3.12|updated:2023-05-15 hash:e737419b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|none none|v1-5-pruned-emaonly.safetensors [6ce0161689]|SongPeng||
