@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-20T18:10:53.496Z
+  ## Updated: 2023-05-20T21:07:39.319Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3954|2023-05-20T19:12:07.455Z|4.08 / 2.25 / 2.33|updated:2023-05-19 hash:794b23cc url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.3.3-1-liquorix-amd64 python:3.10.6|torch:2.0.0+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6600 XT (2) hip:5.4.22803-474e8620 8GB|sdp none|anything-v4.0-pruned.safetensors [69528490df]|novadragon||
+  |3955|2023-05-20T21:58:45.634Z|1.73 / 1.41 / 1.44|updated:2023-05-20 hash:b6289d56 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|neverendingDreamNED_v122BakedVae.safetensors [ecefb796ff]|semix||
+|3954|2023-05-20T19:12:07.455Z|4.08 / 2.25 / 2.33|updated:2023-05-19 hash:794b23cc url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.3.3-1-liquorix-amd64 python:3.10.6|torch:2.0.0+rocm5.4.2 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:AMD Radeon RX 6600 XT (2) hip:5.4.22803-474e8620 8GB|sdp none|anything-v4.0-pruned.safetensors [69528490df]|novadragon||
 |3953|2023-05-20T09:02:42.090Z|4.39 / 4.19 / 4.66|updated:2023-05-20 hash:e59ebe25 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.0+cu118 Full half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|revAnimated_v122.safetensors [4199bcdd14]|stud_||
 |3952|2023-04-28T17:06:00.612Z|3.28 / 5.22 / 7.0|updated:2023-04-28 hash:3b6effe4 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers medvram|xeroxrealmix_v10.safetensors [38e37797dc]|stud_||
 |3951|2023-05-20T06:47:07.199Z||updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:1.13.1+cu117 autocast nohalf xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.7 cudnn:8500 8GB|Doggettx lowvram|v2_512-inpainting-ema.safetensors [b29e2ed9a8]|neighbors celebrating in front of a dog park, sunny, sharp focus, professional photography, 4K|haze, blurry, out of focus, fog, extra limbs, disfigured, deformed, bad anatomy, zombies|
