@@ -1,5 +1,18 @@
 [
   [
+    3975,
+    "2023-05-21T23:35:08.583Z",
+    "1.18",
+    "updated:2023-05-21 hash:d647bb5c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "doggettx medvram",
+    "cyberrealistic_v21.safetensors [542f61e09a]",
+    "gasst",
+    ""
+  ],
+  [
     3974,
     "2023-05-21T18:04:38.635Z",
     "6.77 / 6.28 / 7.26",
