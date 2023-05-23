@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-23T09:09:51.398Z
+  ## Updated: 2023-05-23T15:10:38.340Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3993|2023-05-23T10:16:20.671Z|0.7|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB|sdp medvram|perfectdeliberate_v30.safetensors [1d47bbd6cc]|Jensus||
+  |3995|2023-05-23T23:42:04.347Z|12.64 / 12.65 / 15.31|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|majicmixReverie_v10.safetensors [2de691b494]|1||
+|3994|2023-05-18T21:12:27.560Z|28.18 / 33.34 / 39.97|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|NewZ0testmix.safetensors [ebb3428063]|1||
+|3993|2023-05-23T10:16:20.671Z|0.7|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB|sdp medvram|perfectdeliberate_v30.safetensors [1d47bbd6cc]|Jensus||
 |3992|2023-05-23T02:49:40.478Z|9.37|updated:2023-05-22 hash:a64bb437 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|braBeautifulRealistic_brav5.safetensors [ac68270450]|k||
 |3991|2023-05-22T12:24:38.768Z|10.46 / 13.72 / 16.34 / 18.05 / 15.75|updated:2023-05-21 hash:26b05ef8 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.9.13|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB|sdp none|anyloraCheckpoint_bakedvaeFtmseFp16NOT.safetensors [8a952cafe9]|Shuichi||
 |3990|2023-05-23T00:32:06.197Z|2.24 / 2.46 / 2.53|updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 8GB|xformers none|国风3 GuoFeng3_v3.3.safetensors [fedb2f1fbe]|37172||
