@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-23T16:12:35.736Z
+  ## Updated: 2023-05-24T04:11:44.337Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |3997|2023-05-23T18:49:28.096Z|13.98 / 15.03 / 18.52|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-20-generic python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA RTX A6000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 48GB|sdp none|natxy_1950.safetensors [1c6326d870]|kenrox||
+  |3999|2023-05-24T11:41:02.973Z|error / error / error|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none none|anything-v4.5.ckpt [fbcf965a62]|Kevin||
+|3998|2023-05-24T11:40:49.333Z|error / error / error|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cpu Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1| 0GB|none none|anything-v4.5.ckpt [fbcf965a62]|Kevin||
+|3997|2023-05-23T18:49:28.096Z|13.98 / 15.03 / 18.52|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-20-generic python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA RTX A6000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 48GB|sdp none|natxy_1950.safetensors [1c6326d870]|kenrox||
 |3996|2023-05-23T18:47:13.526Z|5.06 / 7.23 / 9.22|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|rolle||
 |3995|2023-05-23T23:42:04.347Z|12.64 / 12.65 / 15.31|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|majicmixReverie_v10.safetensors [2de691b494]|1||
 |3994|2023-05-18T21:12:27.560Z|28.18 / 33.34 / 39.97|updated:2023-05-06 hash:22e58809 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|NewZ0testmix.safetensors [ebb3428063]|1||
