@@ -1,5 +1,31 @@
 [
   [
+    4016,
+    "2023-05-24T17:14:34.930Z",
+    "6.09 / 7.1 / 7.86",
+    "updated:2023-05-23 hash:5c516332 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "BEST_endlessreality_v11.safetensors [1dd56f8b12]",
+    "kiksu",
+    ""
+  ],
+  [
+    4015,
+    "2023-05-24T07:40:03.877Z",
+    "5.8 / 5.27 / 5.96",
+    "updated:2023-05-23 hash:5c516332 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "BEST_endlessreality_v11.safetensors [1dd56f8b12]",
+    "kiksu",
+    ""
+  ],
+  [
     4014,
     "2023-05-24T15:42:46.864Z",
     "4.33 / 5.56 / 6.27 / 6.39 / 6.55",
