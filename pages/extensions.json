@@ -31,7 +31,7 @@
     "created": "2022-11-06T02:40:44.000Z",
     "pushed": "2023-05-27T20:22:20.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
-    "size": 17625,
+    "size": 17627,
     "stars": 1332,
     "issues": 30,
     "branch": "main",
@@ -595,7 +595,7 @@
     "pushed": "2023-05-24T17:02:57.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 23558,
-    "stars": 271,
+    "stars": 272,
     "issues": 12,
     "branch": "main",
     "updated": "2023-05-24T17:02:57Z",
@@ -650,7 +650,7 @@
     "pushed": "2023-05-15T12:58:34.000Z",
     "long": "ThereforeGames/unprompted",
     "size": 16438,
-    "stars": 542,
+    "stars": 543,
     "issues": 60,
     "branch": "main",
     "updated": "2023-05-13T23:38:30Z",
@@ -873,7 +873,7 @@
     "pushed": "2023-05-25T18:00:28.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131090,
-    "stars": 1500,
+    "stars": 1501,
     "issues": 21,
     "branch": "automatic1111-webui",
     "updated": "2023-05-25T17:59:29Z",
@@ -1037,7 +1037,7 @@
     "long": "dustysys/ddetailer",
     "size": 1511,
     "stars": 265,
-    "issues": 38,
+    "issues": 39,
     "branch": "master",
     "updated": "2022-11-28T09:33:31Z",
     "commits": 28
@@ -1055,7 +1055,7 @@
     "long": "kex0/batch-face-swap",
     "size": 6272,
     "stars": 182,
-    "issues": 10,
+    "issues": 12,
     "branch": "main",
     "updated": "2023-05-11T23:05:27Z",
     "commits": 92
@@ -1113,8 +1113,8 @@
     "stars": 294,
     "issues": 27,
     "branch": "main",
-    "updated": "2023-04-13T04:10:08Z",
-    "commits": 36
+    "updated": "2023-04-13T04:10:08.000Z",
+    "commits": 1
   },
   {
     "name": "ABG_extension",
@@ -1166,7 +1166,7 @@
     "pushed": "2023-04-02T23:53:29.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-pixelization",
     "size": 498,
-    "stars": 352,
+    "stars": 353,
     "issues": 18,
     "branch": "master",
     "updated": "2023-02-04T17:02:01Z",
@@ -1311,7 +1311,7 @@
     "pushed": "2023-05-22T14:20:34.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 420,
+    "stars": 421,
     "issues": 3,
     "branch": "master",
     "updated": "2023-05-22T14:20:30Z",
@@ -1344,11 +1344,11 @@
     ],
     "added": "2023-02-18T00:00:00.000Z",
     "created": "2023-02-12T16:26:27.000Z",
-    "pushed": "2023-05-27T20:10:08.000Z",
+    "pushed": "2023-05-27T20:54:41.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15543,
-    "stars": 9245,
-    "issues": 68,
+    "stars": 9247,
+    "issues": 69,
     "branch": "main",
     "updated": "2023-05-27T04:08:50Z",
     "commits": 1424
@@ -1899,8 +1899,8 @@
     "stars": 48,
     "issues": 7,
     "branch": "master",
-    "updated": "2023-03-05T03:42:33Z",
-    "commits": 4
+    "updated": "2023-03-05T03:42:45.000Z",
+    "commits": 1
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1914,7 +1914,7 @@
     "pushed": "2023-05-27T12:31:40.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1162,
-    "stars": 2424,
+    "stars": 2425,
     "issues": 50,
     "branch": "main",
     "updated": "2023-05-27T12:31:40Z",
@@ -1932,7 +1932,7 @@
     "pushed": "2023-05-24T17:06:01.000Z",
     "long": "jtydhr88/sd-3dmodel-loader",
     "size": 23121,
-    "stars": 157,
+    "stars": 158,
     "issues": 7,
     "branch": "master",
     "updated": "2023-05-24T17:05:58Z",
@@ -1986,7 +1986,7 @@
     "pushed": "2023-05-02T12:40:49.000Z",
     "long": "takoyaro/db-storage1111",
     "size": 8,
-    "stars": 29,
+    "stars": 30,
     "issues": 0,
     "branch": "main",
     "updated": "2023-05-02T12:40:49Z",
@@ -2005,7 +2005,7 @@
     "pushed": "2023-05-17T18:52:18.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1021,
-    "stars": 411,
+    "stars": 413,
     "issues": 16,
     "branch": "master",
     "updated": "2023-05-17T18:52:18Z",
@@ -2100,8 +2100,8 @@
     "stars": 703,
     "issues": 26,
     "branch": "main",
-    "updated": "2023-05-21T22:32:27Z",
-    "commits": 413
+    "updated": "2023-05-22T13:22:33.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2192,8 +2192,8 @@
     "stars": 89,
     "issues": 10,
     "branch": "main",
-    "updated": "2023-05-05T18:42:11Z",
-    "commits": 35
+    "updated": "2023-05-09T07:38:36.000Z",
+    "commits": 1
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -2231,8 +2231,8 @@
     "stars": 60,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-22T22:21:56Z",
-    "commits": 41
+    "updated": "2023-05-22T22:21:56.000Z",
+    "commits": 1
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2266,7 +2266,7 @@
     "pushed": "2023-05-23T04:59:59.000Z",
     "long": "mattyamonaca/PBRemTools",
     "size": 62,
-    "stars": 217,
+    "stars": 218,
     "issues": 14,
     "branch": "main",
     "updated": "2023-05-23T04:59:59Z",
@@ -2287,8 +2287,8 @@
     "stars": 322,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-05-17T00:19:32Z",
-    "commits": 36
+    "updated": "2023-05-17T00:19:33.000Z",
+    "commits": 1
   },
   {
     "name": "sd-canvas-editor",
@@ -2345,8 +2345,8 @@
     "stars": 12,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-05-23T09:20:12Z",
-    "commits": 31
+    "updated": "2023-05-23T09:20:12.000Z",
+    "commits": 1
   },
   {
     "name": "zh_CN Localization",
@@ -2500,8 +2500,8 @@
     "stars": 17,
     "issues": 11,
     "branch": "main",
-    "updated": "2023-05-08T11:00:16Z",
-    "commits": 102
+    "updated": "2023-05-25T17:05:00.000Z",
+    "commits": 1
   },
   {
     "name": "model_preset_manager",
@@ -2556,7 +2556,7 @@
     "pushed": "2023-05-27T12:38:18.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36061,
-    "stars": 504,
+    "stars": 505,
     "issues": 38,
     "branch": "main",
     "updated": "2023-05-27T12:38:14Z",
@@ -2598,8 +2598,8 @@
     "stars": 497,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-05-26T05:57:59Z",
-    "commits": 272
+    "updated": "2023-05-26T05:58:17.000Z",
+    "commits": 1
   },
   {
     "name": "sd-model-preview-xd",
@@ -2632,7 +2632,7 @@
     "pushed": "2023-05-27T15:18:00.000Z",
     "long": "Bing-su/adetailer",
     "size": 174,
-    "stars": 614,
+    "stars": 616,
     "issues": 31,
     "branch": "main",
     "updated": "2023-05-26T05:57:05Z",
@@ -2672,8 +2672,8 @@
     "stars": 134,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-26T12:37:04Z",
-    "commits": 93
+    "updated": "2023-05-27T17:29:51.000Z",
+    "commits": 1
   },
   {
     "name": "miaoshouai-assistant",
@@ -2728,7 +2728,7 @@
     "pushed": "2023-05-26T17:08:17.000Z",
     "long": "pkuliyi2015/sd-webui-stablesr",
     "size": 60,
-    "stars": 131,
+    "stars": 132,
     "issues": 7,
     "branch": "master",
     "updated": "2023-05-23T10:12:17Z",
