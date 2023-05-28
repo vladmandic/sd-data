@@ -225,8 +225,8 @@
     "stars": 51,
     "issues": 5,
     "branch": "master",
-    "updated": "2023-05-10T12:15:00Z",
-    "commits": 19
+    "updated": "2023-05-10T12:21:43.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-model-converter",
@@ -595,7 +595,7 @@
     "pushed": "2023-05-24T17:02:57.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
     "size": 23558,
-    "stars": 272,
+    "stars": 273,
     "issues": 12,
     "branch": "main",
     "updated": "2023-05-24T17:02:57Z",
@@ -689,8 +689,8 @@
     "stars": 1550,
     "issues": 11,
     "branch": "main",
-    "updated": "2023-05-26T21:44:20Z",
-    "commits": 321
+    "updated": "2023-05-26T21:53:58.000Z",
+    "commits": 1
   },
   {
     "name": "novelai-2-local-prompt",
@@ -873,7 +873,7 @@
     "pushed": "2023-05-25T18:00:28.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131090,
-    "stars": 1501,
+    "stars": 1502,
     "issues": 21,
     "branch": "automatic1111-webui",
     "updated": "2023-05-25T17:59:29Z",
@@ -1185,7 +1185,7 @@
     "pushed": "2023-05-25T02:31:34.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-haku-img",
     "size": 66,
-    "stars": 101,
+    "stars": 102,
     "issues": 9,
     "branch": "main",
     "updated": "2023-05-25T02:31:28Z",
@@ -1275,7 +1275,7 @@
     "pushed": "2023-05-26T16:06:24.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 683,
+    "stars": 684,
     "issues": 29,
     "branch": "master",
     "updated": "2023-05-05T00:22:21Z",
@@ -1348,7 +1348,7 @@
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15543,
     "stars": 9251,
-    "issues": 70,
+    "issues": 71,
     "branch": "main",
     "updated": "2023-05-27T04:08:50Z",
     "commits": 1424
@@ -1601,7 +1601,7 @@
     "pushed": "2023-05-02T09:49:03.000Z",
     "long": "fkunn1326/openpose-editor",
     "size": 1178,
-    "stars": 1208,
+    "stars": 1209,
     "issues": 50,
     "branch": "master",
     "updated": "2023-05-02T09:49:03Z",
@@ -1734,8 +1734,8 @@
     "stars": 20,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-03-26T13:36:41Z",
-    "commits": 15
+    "updated": "2023-03-26T13:36:45.000Z",
+    "commits": 1
   },
   {
     "name": "clip-interrogator-ext",
@@ -1753,8 +1753,8 @@
     "stars": 198,
     "issues": 34,
     "branch": "main",
-    "updated": "2023-03-28T03:20:44Z",
-    "commits": 28
+    "updated": "2023-03-28T03:20:49.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1823,7 +1823,7 @@
     "pushed": "2023-05-03T09:00:07.000Z",
     "long": "hnmr293/posex",
     "size": 11663,
-    "stars": 431,
+    "stars": 433,
     "issues": 25,
     "branch": "master",
     "updated": "2023-05-03T08:59:57Z",
@@ -2117,7 +2117,7 @@
     "pushed": "2023-04-10T21:20:40.000Z",
     "long": "thomasasfk/sd-webui-aspect-ratio-helper",
     "size": 388,
-    "stars": 82,
+    "stars": 83,
     "issues": 6,
     "branch": "main",
     "updated": "2023-04-10T21:17:00Z",
@@ -2598,8 +2598,8 @@
     "stars": 497,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-05-26T05:57:59Z",
-    "commits": 272
+    "updated": "2023-05-26T05:58:17.000Z",
+    "commits": 1
   },
   {
     "name": "sd-model-preview-xd",
@@ -2632,7 +2632,7 @@
     "pushed": "2023-05-27T15:18:00.000Z",
     "long": "Bing-su/adetailer",
     "size": 174,
-    "stars": 621,
+    "stars": 622,
     "issues": 31,
     "branch": "main",
     "updated": "2023-05-26T05:57:05Z",
@@ -2728,8 +2728,8 @@
     "pushed": "2023-05-26T17:08:17.000Z",
     "long": "pkuliyi2015/sd-webui-stablesr",
     "size": 60,
-    "stars": 134,
-    "issues": 6,
+    "stars": 136,
+    "issues": 8,
     "branch": "master",
     "updated": "2023-05-23T10:12:17Z",
     "commits": 13
@@ -2766,7 +2766,7 @@
     "pushed": "2023-05-26T23:31:06.000Z",
     "long": "papuSpartan/stable-diffusion-webui-distributed",
     "size": 100,
-    "stars": 27,
+    "stars": 28,
     "issues": 1,
     "branch": "master",
     "updated": "2023-05-26T23:24:06Z",
