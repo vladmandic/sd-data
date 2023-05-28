@@ -1,5 +1,18 @@
 [
   [
+    4048,
+    "2023-05-29T02:30:04.217Z",
+    "4.38 / 6.5 / 7.92",
+    "updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "anything-v4.5.ckpt [fbcf965a62]",
+    "limeh",
+    ""
+  ],
+  [
     4047,
     "2023-05-28T20:36:56.241Z",
     "6.47 / 9.4 / 9.87",
