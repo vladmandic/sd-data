@@ -1,5 +1,18 @@
 [
   [
+    4049,
+    "2023-05-31T15:09:23.345Z",
+    "0.69 / 0.74 / 0.77",
+    "updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-42-generic python:3.10.6",
+    "torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 8GB",
+    "none medvram",
+    "breakdomain_M2150.safetensors [0805b136eb]",
+    "reyzhang",
+    ""
+  ],
+  [
     4048,
     "2023-05-29T02:30:04.217Z",
     "4.38 / 6.5 / 7.92",
