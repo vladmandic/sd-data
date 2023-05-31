@@ -1,5 +1,18 @@
 [
   [
+    4051,
+    "2023-05-31T22:12:24.480Z",
+    "17.89 / 20.56 / 21.24",
+    "updated:2023-02-20 hash:0cc0ee1b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:1.12.1 autocast half xformers:0.0.14.dev accelerate:0.15.0 transformers:4.19.2",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.3 cudnn:8600 12GB",
+    "xformers none",
+    "realistic-archi-sd15_v3.safetensors [974f353810]",
+    "Imoca",
+    ""
+  ],
+  [
     4050,
     "2023-05-31T18:28:37.585Z",
     "2.75 / 3.1 / 3.23",
