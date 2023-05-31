@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-05-31T08:12:20.610Z
+  ## Updated: 2023-05-31T11:07:47.675Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4049|2023-05-31T15:09:23.345Z|0.69 / 0.74 / 0.77|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-42-generic python:3.10.6|torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 8GB|none medvram|breakdomain_M2150.safetensors [0805b136eb]|reyzhang||
+  |4050|2023-05-31T18:28:37.585Z|2.75 / 3.1 / 3.23|updated:2023-05-27 hash:20ae71fa url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 8GB|xformers none|majicmixrealv5test.safetensors [7948bccd8f]|37172||
+|4049|2023-05-31T15:09:23.345Z|0.69 / 0.74 / 0.77|updated:2023-05-17 hash:1dffd114 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-42-generic python:3.10.6|torch:1.13.1 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:Radeon RX 580 Series (1) hip:5.4.22804-474e8620 8GB|none medvram|breakdomain_M2150.safetensors [0805b136eb]|reyzhang||
 |4048|2023-05-29T02:30:04.217Z|4.38 / 6.5 / 7.92|updated:2023-04-26 hash:def7a02d url:https://jihulab.com/aimwiseToniX/vlad-stable-diffusion-webui.git/tree/|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB|sdp none|anything-v4.5.ckpt [fbcf965a62]|limeh||
 |4047|2023-05-28T20:36:56.241Z|6.47 / 9.4 / 9.87||arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB|sdp none|anything-v4.5.ckpt [3446c48e2c]|Grail||
 |4046|2023-05-28T14:24:27.037Z|9.78|updated:2023-04-30 hash:67c39202 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers none|pornmasterv1_Pruned.safetensors [743d61dfeb]|james||
