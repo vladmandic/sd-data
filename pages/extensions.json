@@ -32,7 +32,7 @@
     "pushed": "2023-05-30T22:18:17.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17657,
-    "stars": 1348,
+    "stars": 1349,
     "issues": 27,
     "branch": "main",
     "updated": "2023-03-31T15:12:45Z",
@@ -335,7 +335,7 @@
     "pushed": "2023-05-24T10:35:35.000Z",
     "long": "hako-mikan/sd-webui-lora-block-weight",
     "size": 191,
-    "stars": 548,
+    "stars": 550,
     "issues": 17,
     "branch": "main",
     "updated": "2023-05-24T10:35:35Z",
@@ -613,7 +613,7 @@
     "pushed": "2023-04-27T03:54:46.000Z",
     "long": "journey-ad/sd-webui-bilingual-localization",
     "size": 188,
-    "stars": 468,
+    "stars": 469,
     "issues": 3,
     "branch": "main",
     "updated": "2023-04-27T03:54:25Z",
@@ -837,8 +837,8 @@
     "stars": 120,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-02-24T08:29:55Z",
-    "commits": 49
+    "updated": "2023-02-24T08:29:59.000Z",
+    "commits": 1
   },
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
@@ -854,7 +854,7 @@
     "pushed": "2023-05-09T08:30:10.000Z",
     "long": "butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
     "size": 641,
-    "stars": 176,
+    "stars": 177,
     "issues": 6,
     "branch": "main",
     "updated": "2023-05-09T08:30:09Z",
@@ -873,7 +873,7 @@
     "pushed": "2023-05-30T05:48:00.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131090,
-    "stars": 1550,
+    "stars": 1552,
     "issues": 22,
     "branch": "automatic1111-webui",
     "updated": "2023-05-25T17:59:29Z",
@@ -910,7 +910,7 @@
     "pushed": "2023-05-13T14:56:06.000Z",
     "long": "LonicaMewinsky/gif2gif",
     "size": 80,
-    "stars": 192,
+    "stars": 194,
     "issues": 3,
     "branch": "main",
     "updated": "2023-05-13T14:56:04Z",
@@ -1110,7 +1110,7 @@
     "pushed": "2023-04-13T04:10:08.000Z",
     "long": "Extraltodeus/depthmap2mask",
     "size": 31,
-    "stars": 296,
+    "stars": 297,
     "issues": 27,
     "branch": "main",
     "updated": "2023-04-13T04:10:08Z",
@@ -1275,7 +1275,7 @@
     "pushed": "2023-05-26T16:06:24.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33042,
-    "stars": 707,
+    "stars": 708,
     "issues": 28,
     "branch": "master",
     "updated": "2023-05-05T00:22:21Z",
@@ -1365,7 +1365,7 @@
     "pushed": "2023-05-31T02:19:38.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 15565,
-    "stars": 9399,
+    "stars": 9406,
     "issues": 77,
     "branch": "main",
     "updated": "2023-05-30T09:50:33Z",
@@ -1492,7 +1492,7 @@
     "pushed": "2023-05-11T23:08:43.000Z",
     "long": "WildBanjos/DiffusionDefender",
     "size": 35,
-    "stars": 17,
+    "stars": 18,
     "issues": 0,
     "branch": "main",
     "updated": "2023-05-11T23:08:43Z",
@@ -2023,7 +2023,7 @@
     "pushed": "2023-05-30T00:27:59.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1021,
-    "stars": 424,
+    "stars": 425,
     "issues": 17,
     "branch": "master",
     "updated": "2023-05-17T18:52:18Z",
@@ -2115,7 +2115,7 @@
     "pushed": "2023-05-30T17:23:48.000Z",
     "long": "kabachuha/sd-webui-text2video",
     "size": 755,
-    "stars": 709,
+    "stars": 710,
     "issues": 26,
     "branch": "main",
     "updated": "2023-05-30T14:23:45Z",
@@ -2136,7 +2136,7 @@
     "long": "thomasasfk/sd-webui-aspect-ratio-helper",
     "size": 397,
     "stars": 94,
-    "issues": 2,
+    "issues": 3,
     "branch": "main",
     "updated": "2023-05-28T20:31:15Z",
     "commits": 45
@@ -2156,8 +2156,8 @@
     "stars": 156,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-05-30T21:08:21Z",
-    "commits": 181
+    "updated": "2023-05-30T21:08:21.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -2174,8 +2174,8 @@
     "stars": 513,
     "issues": 23,
     "branch": "main",
-    "updated": "2023-05-26T03:40:36Z",
-    "commits": 161
+    "updated": "2023-05-26T03:40:36.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-auto-translate-language",
@@ -2229,8 +2229,8 @@
     "stars": 125,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-04-15T04:28:34Z",
-    "commits": 57
+    "updated": "2023-04-15T04:28:34.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-NPW",
@@ -2246,11 +2246,11 @@
     "pushed": "2023-05-22T22:21:56.000Z",
     "long": "muerrilla/stable-diffusion-NPW",
     "size": 732,
-    "stars": 61,
+    "stars": 62,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-22T22:21:56Z",
-    "commits": 41
+    "updated": "2023-05-22T22:21:56.000Z",
+    "commits": 1
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2518,8 +2518,8 @@
     "stars": 17,
     "issues": 11,
     "branch": "main",
-    "updated": "2023-05-08T11:00:16Z",
-    "commits": 102
+    "updated": "2023-05-28T21:02:33.000Z",
+    "commits": 1
   },
   {
     "name": "model_preset_manager",
@@ -2558,8 +2558,8 @@
     "stars": 1420,
     "issues": 58,
     "branch": "main",
-    "updated": "2023-05-23T11:53:22Z",
-    "commits": 123
+    "updated": "2023-05-30T08:33:38.000Z",
+    "commits": 1
   },
   {
     "name": "SD-CN-Animation",
@@ -2574,7 +2574,7 @@
     "pushed": "2023-05-30T16:49:10.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36083,
-    "stars": 521,
+    "stars": 522,
     "issues": 40,
     "branch": "main",
     "updated": "2023-05-30T16:49:03Z",
@@ -2613,7 +2613,7 @@
     "pushed": "2023-05-31T01:56:50.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 15355,
-    "stars": 572,
+    "stars": 573,
     "issues": 3,
     "branch": "main",
     "updated": "2023-05-31T01:56:44Z",
@@ -2709,7 +2709,7 @@
     "pushed": "2023-05-27T02:01:18.000Z",
     "long": "miaoshouai/miaoshouai-assistant",
     "size": 128068,
-    "stars": 97,
+    "stars": 98,
     "issues": 7,
     "branch": "main",
     "updated": "2023-05-27T02:01:18Z",
@@ -2821,7 +2821,7 @@
     "pushed": "2023-05-30T23:23:23.000Z",
     "long": "AJpon/a1111-sd-webui-quickswitch",
     "size": 7,
-    "stars": 1,
+    "stars": 2,
     "issues": 0,
     "branch": "master",
     "updated": "2023-05-30T23:23:23Z",
