@@ -1,5 +1,18 @@
 [
   [
+    4052,
+    "2023-06-03T13:43:03.064Z",
+    "0.86 / 0.88 / error",
+    "updated:2023-04-26 hash:9a224a5c url:https://github.com/vladmandic/automatic.git/tree/directml",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:1.13.1+cpu Autocast nohalf xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    " 0GB",
+    "sub-quadratic none",
+    "chillout.safetensors [fc2511737a]",
+    "user",
+    ""
+  ],
+  [
     4051,
     "2023-05-31T22:12:24.480Z",
     "17.89 / 20.56 / 21.24",
