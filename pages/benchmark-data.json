@@ -1,5 +1,18 @@
 [
   [
+    4053,
+    "2023-06-03T15:53:58.006Z",
+    "0.24 / 0.19 / error",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.21996-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 4GB",
+    "sdp-no-mem none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "Vaibhav",
+    ""
+  ],
+  [
     4052,
     "2023-06-03T13:43:03.064Z",
     "0.86 / 0.88 / error",
