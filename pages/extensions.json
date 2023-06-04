@@ -53,7 +53,7 @@
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17753,
     "stars": 1374,
-    "issues": 31,
+    "issues": 32,
     "branch": "main",
     "updated": "2023-06-03T20:38:34Z",
     "commits": 1381
@@ -651,7 +651,7 @@
     "pushed": "2023-06-03T20:22:44.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27412,
-    "stars": 1005,
+    "stars": 1006,
     "issues": 69,
     "branch": "main",
     "updated": "2023-06-03T10:48:47Z",
@@ -706,7 +706,7 @@
     "pushed": "2023-05-26T21:53:58.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3979,
-    "stars": 1594,
+    "stars": 1595,
     "issues": 11,
     "branch": "main",
     "updated": "2023-05-26T21:44:20Z",
@@ -727,8 +727,8 @@
     "stars": 57,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-01-29T19:03:19.000Z",
-    "commits": 1
+    "updated": "2023-01-28T06:33:03Z",
+    "commits": 18
   },
   {
     "name": "stable-diffusion-webui-tokenizer",
@@ -893,7 +893,7 @@
     "pushed": "2023-06-03T14:02:11.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131134,
-    "stars": 1601,
+    "stars": 1603,
     "issues": 24,
     "branch": "automatic1111-webui",
     "updated": "2023-06-03T14:02:11Z",
@@ -969,8 +969,8 @@
     "stars": 253,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-04-27T20:26:42.000Z",
-    "commits": 1
+    "updated": "2023-04-27T20:26:07Z",
+    "commits": 125
   },
   {
     "name": "shift-attention",
@@ -1093,7 +1093,7 @@
     "long": "thygate/stable-diffusion-webui-depthmap-script",
     "size": 3357,
     "stars": 976,
-    "issues": 71,
+    "issues": 72,
     "branch": "main",
     "updated": "2023-05-30T00:18:06Z",
     "commits": 183
@@ -1298,8 +1298,8 @@
     "stars": 736,
     "issues": 27,
     "branch": "master",
-    "updated": "2023-05-26T16:06:24.000Z",
-    "commits": 1
+    "updated": "2023-05-05T00:22:21Z",
+    "commits": 95
   },
   {
     "name": "prompt-fusion-extension",
@@ -1331,7 +1331,7 @@
     "pushed": "2023-06-04T08:12:43.000Z",
     "long": "ljleb/sd-webui-neutral-prompt",
     "size": 77,
-    "stars": 31,
+    "stars": 32,
     "issues": 1,
     "branch": "main",
     "updated": "2023-05-31T05:29:17Z",
@@ -1352,8 +1352,8 @@
     "stars": 463,
     "issues": 3,
     "branch": "master",
-    "updated": "2023-05-22T14:20:34.000Z",
-    "commits": 1
+    "updated": "2023-05-22T14:20:30Z",
+    "commits": 56
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1382,14 +1382,14 @@
     ],
     "added": "2023-02-18T00:00:00.000Z",
     "created": "2023-02-12T16:26:27.000Z",
-    "pushed": "2023-06-04T20:35:17.000Z",
+    "pushed": "2023-06-04T22:30:59.000Z",
     "long": "Mikubill/sd-webui-controlnet",
-    "size": 15916,
+    "size": 15997,
     "stars": 9675,
     "issues": 83,
     "branch": "main",
-    "updated": "2023-06-04T19:54:53Z",
-    "commits": 1465
+    "updated": "2023-06-04T22:30:59Z",
+    "commits": 1470
   },
   {
     "name": "stable-diffusion-webui-two-shot",
@@ -1479,8 +1479,8 @@
     "stars": 21,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-04-07T18:47:48.000Z",
-    "commits": 1
+    "updated": "2023-04-07T18:47:44Z",
+    "commits": 11
   },
   {
     "name": "stable-diffusion-webui-nsfw-censor",
@@ -1698,8 +1698,8 @@
     "stars": 13,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-01-29T08:46:30.000Z",
-    "commits": 1
+    "updated": "2023-01-29T08:46:30Z",
+    "commits": 8
   },
   {
     "name": "mine-diffusion",
@@ -1952,7 +1952,7 @@
     "pushed": "2023-06-03T16:38:24.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1162,
-    "stars": 2552,
+    "stars": 2553,
     "issues": 48,
     "branch": "main",
     "updated": "2023-05-28T09:11:28Z",
@@ -2191,7 +2191,7 @@
     "pushed": "2023-05-31T11:11:41.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 19739,
-    "stars": 533,
+    "stars": 534,
     "issues": 27,
     "branch": "main",
     "updated": "2023-05-31T11:11:41Z",
@@ -2266,7 +2266,7 @@
     "pushed": "2023-06-02T13:48:42.000Z",
     "long": "muerrilla/stable-diffusion-NPW",
     "size": 738,
-    "stars": 67,
+    "stars": 68,
     "issues": 1,
     "branch": "main",
     "updated": "2023-06-02T13:48:42Z",
@@ -2670,7 +2670,7 @@
     "pushed": "2023-06-01T22:48:08.000Z",
     "long": "Bing-su/adetailer",
     "size": 226,
-    "stars": 753,
+    "stars": 754,
     "issues": 47,
     "branch": "main",
     "updated": "2023-06-01T22:45:39Z",
