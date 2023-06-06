@@ -1,5 +1,18 @@
 [
   [
+    4059,
+    "2023-06-06T13:38:57.264Z",
+    "11.87 / 14.56 / 14.96",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    " none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "yang",
+    ""
+  ],
+  [
     4058,
     "2023-06-05T15:33:11.403Z",
     "28.57 / 31.44 / 36.11",
