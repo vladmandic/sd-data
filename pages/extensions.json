@@ -1,5 +1,24 @@
 [
   {
+    "name": "sd-webui-segment-anything",
+    "url": "https://github.com/continue-revolution/sd-webui-segment-anything.git",
+    "description": "Segment Anything for Stable Diffusion WebUI",
+    "tags": [
+      "script",
+      "dropdown"
+    ],
+    "added": "2023-06-07T00:00:00.000Z",
+    "created": "2023-04-10T13:52:55.000Z",
+    "pushed": "2023-06-06T03:57:39.000Z",
+    "long": "continue-revolution/sd-webui-segment-anything",
+    "size": 318,
+    "stars": 1730,
+    "issues": 15,
+    "branch": "master",
+    "updated": "2023-06-06T03:57:39Z",
+    "commits": 208
+  },
+  {
     "name": "stable-diffusion-aws-extension",
     "url": "https://github.com/awslabs/stable-diffusion-aws-extension.git",
     "description": "Stable Diffusion AWS Extension User Guide",
@@ -279,7 +298,7 @@
     "pushed": "2023-05-24T03:48:19.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 269,
-    "stars": 1147,
+    "stars": 1148,
     "issues": 70,
     "branch": "main",
     "updated": "2023-05-23T12:31:15Z",
@@ -614,12 +633,12 @@
     "created": "2023-02-25T06:41:18.000Z",
     "pushed": "2023-06-06T16:00:46.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
-    "size": 24333,
-    "stars": 340,
+    "size": 24514,
+    "stars": 341,
     "issues": 24,
     "branch": "main",
-    "updated": "2023-06-06T16:00:46.000Z",
-    "commits": 1
+    "updated": "2023-06-06T15:59:17Z",
+    "commits": 214
   },
   {
     "name": "sd-webui-bilingual-localization",
@@ -794,14 +813,14 @@
     ],
     "added": "2022-12-28T00:00:00.000Z",
     "created": "2022-12-01T03:07:53.000Z",
-    "pushed": "2023-06-06T12:00:51.000Z",
+    "pushed": "2023-06-06T18:00:21.000Z",
     "long": "mix1009/model-keyword",
     "size": 5615,
     "stars": 115,
     "issues": 10,
     "branch": "main",
-    "updated": "2023-06-06T12:00:50Z",
-    "commits": 1045
+    "updated": "2023-06-06T18:00:20Z",
+    "commits": 1046
   },
   {
     "name": "stable-diffusion-webui-Prompt_Generator",
@@ -896,8 +915,8 @@
     "stars": 1621,
     "issues": 24,
     "branch": "automatic1111-webui",
-    "updated": "2023-06-03T14:02:11.000Z",
-    "commits": 1
+    "updated": "2023-06-03T14:02:11Z",
+    "commits": 2942
   },
   {
     "name": "animator_extension",
@@ -1038,7 +1057,7 @@
     "pushed": "2023-06-06T12:23:27.000Z",
     "long": "Interpause/auto-sd-paint-ext",
     "size": 23687,
-    "stars": 352,
+    "stars": 353,
     "issues": 24,
     "branch": "main",
     "updated": "2023-05-03T12:34:30Z",
@@ -1385,7 +1404,7 @@
     "pushed": "2023-06-06T06:15:33.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 16260,
-    "stars": 9765,
+    "stars": 9772,
     "issues": 88,
     "branch": "main",
     "updated": "2023-06-06T02:23:03Z",
@@ -1421,7 +1440,7 @@
     "pushed": "2023-04-21T14:28:37.000Z",
     "long": "opparco/stable-diffusion-webui-composable-lora",
     "size": 20,
-    "stars": 354,
+    "stars": 355,
     "issues": 12,
     "branch": "main",
     "updated": "2023-02-27T17:40:08Z",
@@ -1846,8 +1865,8 @@
     "stars": 60,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-04-10T12:42:22.000Z",
-    "commits": 1
+    "updated": "2023-04-10T12:42:18Z",
+    "commits": 63
   },
   {
     "name": "posex",
@@ -1900,8 +1919,8 @@
     "stars": 25,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-03-09T10:43:02.000Z",
-    "commits": 1
+    "updated": "2023-03-09T10:43:02Z",
+    "commits": 64
   },
   {
     "name": "ebsynth_utility",
@@ -1916,7 +1935,7 @@
     "pushed": "2023-05-31T07:01:52.000Z",
     "long": "s9roll7/ebsynth_utility",
     "size": 58215,
-    "stars": 465,
+    "stars": 467,
     "issues": 33,
     "branch": "main",
     "updated": "2023-05-31T07:02:22Z",
@@ -2046,8 +2065,8 @@
     "stars": 444,
     "issues": 17,
     "branch": "master",
-    "updated": "2023-06-04T13:35:24.000Z",
-    "commits": 1
+    "updated": "2023-06-04T13:35:24Z",
+    "commits": 8
   },
   {
     "name": "sd-webui-tunnels",
@@ -2158,8 +2177,8 @@
     "stars": 127,
     "issues": 7,
     "branch": "main",
-    "updated": "2023-06-04T15:39:07.000Z",
-    "commits": 1
+    "updated": "2023-06-04T15:39:07Z",
+    "commits": 46
   },
   {
     "name": "canvas-zoom",
@@ -2170,14 +2189,14 @@
     ],
     "added": "2023-03-27T00:00:00.000Z",
     "created": "2023-02-27T09:06:55.000Z",
-    "pushed": "2023-06-06T15:52:11.000Z",
+    "pushed": "2023-06-06T18:25:07.000Z",
     "long": "richrobber2/canvas-zoom",
     "size": 84853,
     "stars": 172,
-    "issues": 2,
+    "issues": 3,
     "branch": "main",
-    "updated": "2023-06-06T15:52:11Z",
-    "commits": 183
+    "updated": "2023-06-06T18:25:03Z",
+    "commits": 185
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -2269,8 +2288,8 @@
     "stars": 68,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-06-02T13:48:42.000Z",
-    "commits": 1
+    "updated": "2023-06-02T13:48:42Z",
+    "commits": 43
   },
   {
     "name": "sd-discord-rich_presence",
@@ -2322,7 +2341,7 @@
     "pushed": "2023-06-06T02:12:16.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 40,
-    "stars": 393,
+    "stars": 394,
     "issues": 2,
     "branch": "main",
     "updated": "2023-06-06T02:12:14Z",
@@ -2344,8 +2363,8 @@
     "stars": 83,
     "issues": 5,
     "branch": "master",
-    "updated": "2023-05-24T17:08:06.000Z",
-    "commits": 1
+    "updated": "2023-05-24T17:08:03Z",
+    "commits": 19
   },
   {
     "name": "infinite-zoom-automatic1111-webui",
@@ -2633,8 +2652,8 @@
     "pushed": "2023-06-06T16:22:59.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 16972,
-    "stars": 709,
-    "issues": 3,
+    "stars": 711,
+    "issues": 4,
     "branch": "main",
     "updated": "2023-06-06T16:22:53Z",
     "commits": 320
@@ -2670,7 +2689,7 @@
     "pushed": "2023-06-05T05:32:50.000Z",
     "long": "Bing-su/adetailer",
     "size": 242,
-    "stars": 777,
+    "stars": 778,
     "issues": 47,
     "branch": "main",
     "updated": "2023-06-05T05:32:16Z",
@@ -2897,13 +2916,13 @@
     ],
     "added": "2023-06-06T00:00:00.000Z",
     "created": "2023-04-23T12:48:27.000Z",
-    "pushed": "2023-06-06T16:27:43.000Z",
+    "pushed": "2023-06-06T17:04:54.000Z",
     "long": "Filexor/Clip_IO",
-    "size": 44,
+    "size": 45,
     "stars": 0,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-06-06T16:27:39Z",
-    "commits": 32
+    "updated": "2023-06-06T17:04:50Z",
+    "commits": 33
   }
 ]
