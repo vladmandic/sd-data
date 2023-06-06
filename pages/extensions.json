@@ -10,9 +10,9 @@
     ],
     "added": "2023-06-01T00:00:00.000Z",
     "created": "2023-05-04T04:23:40.000Z",
-    "pushed": "2023-06-06T02:54:36.000Z",
+    "pushed": "2023-06-06T04:30:39.000Z",
     "long": "awslabs/stable-diffusion-aws-extension",
-    "size": 74001,
+    "size": 74011,
     "stars": 20,
     "issues": 1,
     "branch": "main",
@@ -33,11 +33,11 @@
     "pushed": "2023-01-23T08:45:27.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
     "size": 1121,
-    "stars": 318,
+    "stars": 319,
     "issues": 27,
     "branch": "master",
-    "updated": "2023-01-23T08:45:27.000Z",
-    "commits": 1
+    "updated": "2023-01-06T10:59:30Z",
+    "commits": 6
   },
   {
     "name": "sd_dreambooth_extension",
@@ -49,14 +49,14 @@
     ],
     "added": "2022-11-07T00:00:00.000Z",
     "created": "2022-11-06T02:40:44.000Z",
-    "pushed": "2023-06-05T15:18:30.000Z",
+    "pushed": "2023-06-06T04:21:36.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17752,
-    "stars": 1376,
-    "issues": 35,
+    "stars": 1377,
+    "issues": 34,
     "branch": "main",
-    "updated": "2023-06-03T20:38:34Z",
-    "commits": 1381
+    "updated": "2023-06-06T04:21:36Z",
+    "commits": 1384
   },
   {
     "name": "training-picker",
@@ -245,8 +245,8 @@
     "stars": 52,
     "issues": 5,
     "branch": "master",
-    "updated": "2023-05-10T12:15:00Z",
-    "commits": 19
+    "updated": "2023-05-10T12:21:43.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-model-converter",
@@ -301,8 +301,8 @@
     "stars": 243,
     "issues": 11,
     "branch": "master",
-    "updated": "2023-01-19T21:31:06Z",
-    "commits": 45
+    "updated": "2023-05-07T23:54:27.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-embedding-merge",
@@ -340,8 +340,8 @@
     "stars": 356,
     "issues": 18,
     "branch": "main",
-    "updated": "2023-06-04T17:11:51Z",
-    "commits": 184
+    "updated": "2023-06-04T17:11:51.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-lora-block-weight",
@@ -486,7 +486,7 @@
     "pushed": "2023-05-30T00:43:16.000Z",
     "long": "Zyin055/Config-Presets",
     "size": 76,
-    "stars": 108,
+    "stars": 109,
     "issues": 3,
     "branch": "main",
     "updated": "2023-05-30T00:43:14Z",
@@ -600,8 +600,8 @@
     "stars": 174,
     "issues": 7,
     "branch": "main",
-    "updated": "2023-04-06T18:22:37Z",
-    "commits": 63
+    "updated": "2023-05-10T03:44:40.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-kitchen-theme",
@@ -614,7 +614,7 @@
     "created": "2023-02-25T06:41:18.000Z",
     "pushed": "2023-06-06T02:52:01.000Z",
     "long": "canisminor1990/sd-webui-kitchen-theme",
-    "size": 24159,
+    "size": 24333,
     "stars": 336,
     "issues": 22,
     "branch": "main",
@@ -651,7 +651,7 @@
     "pushed": "2023-06-05T19:03:05.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27412,
-    "stars": 1008,
+    "stars": 1010,
     "issues": 70,
     "branch": "main",
     "updated": "2023-06-03T10:48:47Z",
@@ -706,7 +706,7 @@
     "pushed": "2023-06-05T19:50:52.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 3990,
-    "stars": 1608,
+    "stars": 1609,
     "issues": 11,
     "branch": "main",
     "updated": "2023-06-05T19:46:48Z",
@@ -743,7 +743,7 @@
     "pushed": "2022-12-10T12:58:34.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-tokenizer",
     "size": 43,
-    "stars": 91,
+    "stars": 92,
     "issues": 6,
     "branch": "master",
     "updated": "2022-12-10T12:58:31Z",
@@ -819,8 +819,8 @@
     "stars": 151,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-05-08T11:29:45Z",
-    "commits": 49
+    "updated": "2023-05-08T11:29:55.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-promptgen",
@@ -854,7 +854,7 @@
     "pushed": "2023-02-24T08:29:59.000Z",
     "long": "toshiaki1729/stable-diffusion-webui-text2prompt",
     "size": 67862,
-    "stars": 125,
+    "stars": 126,
     "issues": 1,
     "branch": "main",
     "updated": "2023-02-24T08:29:55Z",
@@ -893,7 +893,7 @@
     "pushed": "2023-06-03T14:02:11.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131134,
-    "stars": 1612,
+    "stars": 1615,
     "issues": 24,
     "branch": "automatic1111-webui",
     "updated": "2023-06-03T14:02:11Z",
@@ -1092,7 +1092,7 @@
     "pushed": "2023-05-30T00:18:06.000Z",
     "long": "thygate/stable-diffusion-webui-depthmap-script",
     "size": 3357,
-    "stars": 977,
+    "stars": 978,
     "issues": 74,
     "branch": "main",
     "updated": "2023-05-30T00:18:06Z",
@@ -1349,11 +1349,11 @@
     "pushed": "2023-05-22T14:20:34.000Z",
     "long": "mcmonkeyprojects/sd-dynamic-thresholding",
     "size": 931,
-    "stars": 468,
+    "stars": 469,
     "issues": 3,
     "branch": "master",
-    "updated": "2023-05-22T14:20:30Z",
-    "commits": 56
+    "updated": "2023-05-22T14:20:34.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-anti-burn",
@@ -1370,8 +1370,8 @@
     "stars": 107,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-02-19T19:22:44Z",
-    "commits": 13
+    "updated": "2023-02-19T19:22:44.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-controlnet",
@@ -1382,11 +1382,11 @@
     ],
     "added": "2023-02-18T00:00:00.000Z",
     "created": "2023-02-12T16:26:27.000Z",
-    "pushed": "2023-06-06T02:23:03.000Z",
+    "pushed": "2023-06-06T03:07:30.000Z",
     "long": "Mikubill/sd-webui-controlnet",
-    "size": 16258,
-    "stars": 9729,
-    "issues": 85,
+    "size": 16260,
+    "stars": 9732,
+    "issues": 84,
     "branch": "main",
     "updated": "2023-06-06T02:23:03Z",
     "commits": 1473
@@ -1494,7 +1494,7 @@
     "pushed": "2023-03-31T19:34:37.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-nsfw-censor",
     "size": 1,
-    "stars": 46,
+    "stars": 47,
     "issues": 5,
     "branch": "master",
     "updated": "2022-12-10T11:33:46Z",
@@ -1515,8 +1515,8 @@
     "stars": 18,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-11T23:08:43Z",
-    "commits": 21
+    "updated": "2023-05-11T23:08:43.000Z",
+    "commits": 1
   },
   {
     "name": "sd_auto_fix",
@@ -1624,8 +1624,8 @@
     "stars": 124,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-06-02T00:51:00.000Z",
-    "commits": 1
+    "updated": "2023-06-02T00:51:00Z",
+    "commits": 947
   },
   {
     "name": "openpose-editor",
@@ -1680,8 +1680,8 @@
     "stars": 58,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-04-20T19:43:05Z",
-    "commits": 53
+    "updated": "2023-04-20T19:43:05.000Z",
+    "commits": 1
   },
   {
     "name": "discord-rpc-for-automatic1111-webui",
@@ -1698,8 +1698,8 @@
     "stars": 13,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-01-29T08:46:30.000Z",
-    "commits": 1
+    "updated": "2023-01-29T08:46:30Z",
+    "commits": 8
   },
   {
     "name": "mine-diffusion",
@@ -1791,8 +1791,8 @@
     "stars": 220,
     "issues": 38,
     "branch": "main",
-    "updated": "2023-06-01T04:41:18.000Z",
-    "commits": 1
+    "updated": "2023-03-28T03:20:44Z",
+    "commits": 28
   },
   {
     "name": "stable-diffusion-webui-visualize-cross-attention-extension",
@@ -1879,7 +1879,7 @@
     "pushed": "2023-05-04T16:14:43.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14584,
-    "stars": 575,
+    "stars": 577,
     "issues": 17,
     "branch": "master",
     "updated": "2023-05-04T16:14:34Z",
@@ -1916,7 +1916,7 @@
     "pushed": "2023-05-31T07:01:52.000Z",
     "long": "s9roll7/ebsynth_utility",
     "size": 58215,
-    "stars": 463,
+    "stars": 464,
     "issues": 33,
     "branch": "main",
     "updated": "2023-05-31T07:02:22Z",
@@ -1937,8 +1937,8 @@
     "stars": 49,
     "issues": 7,
     "branch": "master",
-    "updated": "2023-06-04T13:55:57.000Z",
-    "commits": 1
+    "updated": "2023-06-04T13:55:57Z",
+    "commits": 6
   },
   {
     "name": "multidiffusion-upscaler-for-automatic1111",
@@ -1973,8 +1973,8 @@
     "stars": 164,
     "issues": 8,
     "branch": "master",
-    "updated": "2023-05-24T17:06:01.000Z",
-    "commits": 1
+    "updated": "2023-05-24T17:05:58Z",
+    "commits": 89
   },
   {
     "name": "corridor-crawler-outpainting",
@@ -2046,8 +2046,8 @@
     "stars": 441,
     "issues": 17,
     "branch": "master",
-    "updated": "2023-06-04T13:35:24.000Z",
-    "commits": 1
+    "updated": "2023-06-04T13:35:24Z",
+    "commits": 8
   },
   {
     "name": "sd-webui-tunnels",
@@ -2065,8 +2065,8 @@
     "stars": 59,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-05-10T12:08:41.000Z",
-    "commits": 1
+    "updated": "2023-05-10T12:08:31Z",
+    "commits": 23
   },
   {
     "name": "sd-webui-3d-open-pose-editor",
@@ -2101,8 +2101,8 @@
     "stars": 34,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-06-05T20:00:58Z",
-    "commits": 87
+    "updated": "2023-06-06T00:34:14.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -2138,8 +2138,8 @@
     "stars": 726,
     "issues": 26,
     "branch": "main",
-    "updated": "2023-06-02T22:52:57.000Z",
-    "commits": 1
+    "updated": "2023-06-02T22:52:57Z",
+    "commits": 418
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2158,8 +2158,8 @@
     "stars": 127,
     "issues": 6,
     "branch": "main",
-    "updated": "2023-06-04T15:39:07Z",
-    "commits": 46
+    "updated": "2023-06-04T15:39:07.000Z",
+    "commits": 1
   },
   {
     "name": "canvas-zoom",
@@ -2176,8 +2176,8 @@
     "stars": 171,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-05-30T21:08:21.000Z",
-    "commits": 1
+    "updated": "2023-05-30T21:08:21Z",
+    "commits": 181
   },
   {
     "name": "sd-webui-regional-prompter",
@@ -2230,8 +2230,8 @@
     "stars": 95,
     "issues": 10,
     "branch": "main",
-    "updated": "2023-05-05T18:42:11Z",
-    "commits": 35
+    "updated": "2023-05-09T07:38:36.000Z",
+    "commits": 1
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -2249,8 +2249,8 @@
     "stars": 126,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-04-15T04:28:34.000Z",
-    "commits": 1
+    "updated": "2023-04-15T04:28:34Z",
+    "commits": 57
   },
   {
     "name": "stable-diffusion-NPW",
@@ -2288,8 +2288,8 @@
     "stars": 14,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-06-03T16:10:33Z",
-    "commits": 32
+    "updated": "2023-06-03T16:10:47.000Z",
+    "commits": 1
   },
   {
     "name": "PBRemTools",
@@ -2321,7 +2321,7 @@
     "created": "2023-04-09T08:20:56.000Z",
     "pushed": "2023-06-06T02:12:16.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
-    "size": 39,
+    "size": 40,
     "stars": 387,
     "issues": 2,
     "branch": "main",
@@ -2383,8 +2383,8 @@
     "stars": 17,
     "issues": 2,
     "branch": "master",
-    "updated": "2023-06-02T11:15:19Z",
-    "commits": 33
+    "updated": "2023-06-02T11:15:19.000Z",
+    "commits": 1
   },
   {
     "name": "zh_CN Localization",
@@ -2633,11 +2633,11 @@
     "pushed": "2023-06-04T14:58:13.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 16806,
-    "stars": 692,
+    "stars": 695,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-06-04T14:58:02Z",
-    "commits": 314
+    "updated": "2023-06-04T14:58:13.000Z",
+    "commits": 1
   },
   {
     "name": "sd-model-preview-xd",
@@ -2655,8 +2655,8 @@
     "stars": 35,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-05-23T00:52:25Z",
-    "commits": 87
+    "updated": "2023-05-23T00:52:29.000Z",
+    "commits": 1
   },
   {
     "name": "adetailer",
@@ -2670,7 +2670,7 @@
     "pushed": "2023-06-05T05:32:50.000Z",
     "long": "Bing-su/adetailer",
     "size": 242,
-    "stars": 768,
+    "stars": 769,
     "issues": 47,
     "branch": "main",
     "updated": "2023-06-05T05:32:16Z",
@@ -2766,7 +2766,7 @@
     "pushed": "2023-05-30T19:00:32.000Z",
     "long": "pkuliyi2015/sd-webui-stablesr",
     "size": 60,
-    "stars": 232,
+    "stars": 234,
     "issues": 15,
     "branch": "master",
     "updated": "2023-05-23T10:12:17Z",
@@ -2841,7 +2841,7 @@
     "pushed": "2023-05-30T23:23:23.000Z",
     "long": "AJpon/a1111-sd-webui-quickswitch",
     "size": 7,
-    "stars": 4,
+    "stars": 5,
     "issues": 0,
     "branch": "master",
     "updated": "2023-05-30T23:23:23Z",
