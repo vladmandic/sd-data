@@ -1,5 +1,18 @@
 [
   [
+    4076,
+    "2023-06-08T21:34:58.037Z",
+    "0.42 / 0.41 / 0.4",
+    "updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.7 cudnn:8500 4GB",
+    "xformers medvram",
+    "neverendingDreamNED_bakedVae.safetensors [d8722b4a4d]",
+    "User",
+    ""
+  ],
+  [
     4075,
     "2023-06-08T10:08:34.926Z",
     "11.68 / 18.36 / 20.18",
