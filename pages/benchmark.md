@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-07T22:08:43.755Z
+  ## Updated: 2023-06-08T11:08:34.227Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4065|2023-06-08T00:02:37.562Z|15.72 / 1.65 / 1.8|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|henmixReal_v40.safetensors [f4151d2b7b]|victor||
+  |4067|2023-06-08T11:35:10.989Z|1.35 / 0.79 / 0.79|updated:2023-03-15 hash:fd672a79 url:https://jihulab.com/scholar0/stable-diffusion-webui.git/tree/|arch:arm64 cpu:arm system:Darwin release:22.4.0 python:3.10.9|torch:1.12.1 autocast nohalf xformers:unavailable accelerate:0.12.0 transformers:4.25.1| 0GB|InvokeAI none|AnythingV5V3_v5PrtRE.safetensors [7f96a1a9ca]|root||
+|4066|2023-06-08T19:13:56.611Z|7.95 / 9.11 / 10.06|updated:2023-05-04 hash:22090d7b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|sdp none|meinamix_meinaV8.safetensors [30953ab0de]|82109||
+|4065|2023-06-08T00:02:37.562Z|15.72 / 1.65 / 1.8|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|henmixReal_v40.safetensors [f4151d2b7b]|victor||
 |4064|2023-06-07T23:57:22.765Z|1.99|updated:2023-05-22 hash:beff89ba url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1|device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB|sdp none|henmixReal_v40.safetensors [f4151d2b7b]|victor||
 |4063|2023-06-07T11:42:37.062Z|9.39 / 12.92 / 13.46 / 14.26 / 14.66|updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.1|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 22GB|sdp none|zhenren\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Administrator||
 |4062|2023-06-07T11:41:02.431Z|9.05 / 12.95 / 13.52 / 14.25 / 14.39|||torch: | 22GB| |zhenren\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Administrator||
