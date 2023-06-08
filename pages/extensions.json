@@ -11,7 +11,7 @@
     "pushed": "2023-06-08T17:18:27.000Z",
     "long": "huchenlei/sd-webui-openpose-editor",
     "size": 8441,
-    "stars": 46,
+    "stars": 47,
     "issues": 2,
     "branch": "main",
     "updated": "2023-06-08T17:18:27Z",
@@ -145,7 +145,7 @@
     "pushed": "2023-04-24T05:53:29.000Z",
     "long": "7eu7d7/DreamArtist-sd-webui-extension",
     "size": 61019,
-    "stars": 584,
+    "stars": 585,
     "issues": 27,
     "branch": "master",
     "updated": "2023-04-24T05:53:26Z",
@@ -685,11 +685,11 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2022-10-08T17:58:22.000Z",
-    "pushed": "2023-06-05T19:03:05.000Z",
+    "pushed": "2023-06-08T18:43:14.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27412,
-    "stars": 1021,
-    "issues": 73,
+    "stars": 1022,
+    "issues": 74,
     "branch": "main",
     "updated": "2023-06-03T10:48:47Z",
     "commits": 566
@@ -819,8 +819,8 @@
     "stars": 29,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-01-04T18:39:42.000Z",
-    "commits": 1
+    "updated": "2023-01-04T18:39:42Z",
+    "commits": 13
   },
   {
     "name": "model-keyword",
@@ -833,7 +833,7 @@
     "created": "2022-12-01T03:07:53.000Z",
     "pushed": "2023-06-08T18:00:44.000Z",
     "long": "mix1009/model-keyword",
-    "size": 8186,
+    "size": 8248,
     "stars": 115,
     "issues": 10,
     "branch": "main",
@@ -930,7 +930,7 @@
     "pushed": "2023-06-06T21:50:09.000Z",
     "long": "deforum-art/sd-webui-deforum",
     "size": 131142,
-    "stars": 1634,
+    "stars": 1635,
     "issues": 25,
     "branch": "automatic1111-webui",
     "updated": "2023-06-06T21:47:35Z",
@@ -985,7 +985,7 @@
     "pushed": "2023-04-21T12:08:24.000Z",
     "long": "fishslot/video_loopback_for_webui",
     "size": 18209,
-    "stars": 289,
+    "stars": 290,
     "issues": 1,
     "branch": "main",
     "updated": "2023-04-21T12:08:15Z",
@@ -1042,8 +1042,8 @@
     "stars": 140,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-05-08T08:05:20.000Z",
-    "commits": 1
+    "updated": "2023-05-03T05:48:08Z",
+    "commits": 53
   },
   {
     "name": "sd-extension-steps-animation",
@@ -1132,8 +1132,8 @@
     "stars": 983,
     "issues": 76,
     "branch": "main",
-    "updated": "2023-05-30T00:18:06.000Z",
-    "commits": 1
+    "updated": "2023-05-30T00:18:06Z",
+    "commits": 183
   },
   {
     "name": "multi-subject-render",
@@ -1223,7 +1223,7 @@
     "pushed": "2023-04-02T23:53:29.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-pixelization",
     "size": 498,
-    "stars": 368,
+    "stars": 369,
     "issues": 18,
     "branch": "master",
     "updated": "2023-02-04T17:02:01Z",
@@ -1407,8 +1407,8 @@
     "stars": 109,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-02-19T19:22:44.000Z",
-    "commits": 1
+    "updated": "2023-02-19T19:22:44Z",
+    "commits": 13
   },
   {
     "name": "sd-webui-controlnet",
@@ -1422,8 +1422,8 @@
     "pushed": "2023-06-08T14:08:39.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 16230,
-    "stars": 9880,
-    "issues": 94,
+    "stars": 9882,
+    "issues": 95,
     "branch": "main",
     "updated": "2023-06-08T01:27:33Z",
     "commits": 1478
@@ -1458,7 +1458,7 @@
     "pushed": "2023-04-21T14:28:37.000Z",
     "long": "opparco/stable-diffusion-webui-composable-lora",
     "size": 20,
-    "stars": 357,
+    "stars": 358,
     "issues": 13,
     "branch": "main",
     "updated": "2023-02-27T17:40:08Z",
@@ -1698,8 +1698,8 @@
     "stars": 34,
     "issues": 13,
     "branch": "master",
-    "updated": "2023-05-31T16:17:45.000Z",
-    "commits": 1
+    "updated": "2023-05-30T05:42:15Z",
+    "commits": 72
   },
   {
     "name": "stable-diffusion-webui-stable-horde",
@@ -1937,8 +1937,8 @@
     "stars": 25,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-03-09T10:43:02.000Z",
-    "commits": 1
+    "updated": "2023-03-09T10:43:02Z",
+    "commits": 64
   },
   {
     "name": "ebsynth_utility",
@@ -1989,11 +1989,11 @@
     "pushed": "2023-06-03T16:38:24.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1162,
-    "stars": 2615,
+    "stars": 2617,
     "issues": 52,
     "branch": "main",
-    "updated": "2023-06-03T16:38:24.000Z",
-    "commits": 1
+    "updated": "2023-05-28T09:11:28Z",
+    "commits": 202
   },
   {
     "name": "sd-3dmodel-loader",
@@ -2010,8 +2010,8 @@
     "stars": 167,
     "issues": 8,
     "branch": "master",
-    "updated": "2023-05-24T17:06:01.000Z",
-    "commits": 1
+    "updated": "2023-05-24T17:05:58Z",
+    "commits": 89
   },
   {
     "name": "corridor-crawler-outpainting",
@@ -2046,8 +2046,8 @@
     "stars": 102,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-29T02:31:46.000Z",
-    "commits": 1
+    "updated": "2023-05-29T02:31:41Z",
+    "commits": 83
   },
   {
     "name": "db-storage1111",
@@ -2080,7 +2080,7 @@
     "pushed": "2023-06-04T13:35:24.000Z",
     "long": "AUTOMATIC1111/stable-diffusion-webui-rembg",
     "size": 1024,
-    "stars": 452,
+    "stars": 453,
     "issues": 17,
     "branch": "master",
     "updated": "2023-06-04T13:35:24Z",
@@ -2138,8 +2138,8 @@
     "stars": 34,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-06-06T00:34:14.000Z",
-    "commits": 1
+    "updated": "2023-06-05T20:00:58Z",
+    "commits": 87
   },
   {
     "name": "stable-diffusion-webui-state",
@@ -2175,8 +2175,8 @@
     "stars": 726,
     "issues": 26,
     "branch": "main",
-    "updated": "2023-06-07T16:24:52.000Z",
-    "commits": 1
+    "updated": "2023-06-07T16:24:52Z",
+    "commits": 420
   },
   {
     "name": "sd-webui-aspect-ratio-helper",
@@ -2211,7 +2211,7 @@
     "long": "richrobber2/canvas-zoom",
     "size": 84865,
     "stars": 175,
-    "issues": 5,
+    "issues": 4,
     "branch": "main",
     "updated": "2023-06-07T14:33:16Z",
     "commits": 188
@@ -2228,7 +2228,7 @@
     "pushed": "2023-06-08T08:26:55.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 19627,
-    "stars": 558,
+    "stars": 559,
     "issues": 29,
     "branch": "main",
     "updated": "2023-06-08T08:26:55Z",
@@ -2249,8 +2249,8 @@
     "stars": 24,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-05-30T07:04:11.000Z",
-    "commits": 1
+    "updated": "2023-05-30T07:04:06Z",
+    "commits": 26
   },
   {
     "name": "prompt_translator",
@@ -2267,8 +2267,8 @@
     "stars": 95,
     "issues": 10,
     "branch": "main",
-    "updated": "2023-05-09T07:38:36.000Z",
-    "commits": 1
+    "updated": "2023-05-05T18:42:11Z",
+    "commits": 35
   },
   {
     "name": "Abysz-LAB-Ext",
@@ -2653,8 +2653,8 @@
     "stars": 311,
     "issues": 2,
     "branch": "master",
-    "updated": "2023-05-14T09:09:51.000Z",
-    "commits": 1
+    "updated": "2023-05-14T09:09:42Z",
+    "commits": 41
   },
   {
     "name": "sd-webui-prompt-all-in-one",
@@ -2673,8 +2673,8 @@
     "stars": 746,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-06-08T15:32:08.000Z",
-    "commits": 1
+    "updated": "2023-06-08T15:31:58Z",
+    "commits": 322
   },
   {
     "name": "sd-model-preview-xd",
@@ -2710,8 +2710,8 @@
     "stars": 815,
     "issues": 47,
     "branch": "main",
-    "updated": "2023-06-05T05:32:50.000Z",
-    "commits": 1
+    "updated": "2023-06-05T05:32:16Z",
+    "commits": 226
   },
   {
     "name": "weight_gradient",
@@ -2900,8 +2900,8 @@
     "stars": 16,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-29T19:54:52.000Z",
-    "commits": 1
+    "updated": "2023-05-29T19:54:45Z",
+    "commits": 100
   },
   {
     "name": "sd-model-downloader",
@@ -2914,14 +2914,14 @@
     ],
     "added": "2023-06-05T00:00:00.000Z",
     "created": "2023-02-28T14:43:20.000Z",
-    "pushed": "2023-06-08T16:10:11.000Z",
+    "pushed": "2023-06-08T20:28:05.000Z",
     "long": "Iyashinouta/sd-model-downloader",
     "size": 5169,
     "stars": 5,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-06-08T16:10:10Z",
-    "commits": 80
+    "updated": "2023-06-08T20:28:05Z",
+    "commits": 82
   },
   {
     "name": "Clip_IO",
