@@ -30,7 +30,7 @@
     "pushed": "2023-06-07T20:02:12.000Z",
     "long": "continue-revolution/sd-webui-segment-anything",
     "size": 318,
-    "stars": 1764,
+    "stars": 1765,
     "issues": 15,
     "branch": "master",
     "updated": "2023-06-07T20:02:47Z",
@@ -47,9 +47,9 @@
     ],
     "added": "2023-06-01T00:00:00.000Z",
     "created": "2023-05-04T04:23:40.000Z",
-    "pushed": "2023-06-09T02:58:31.000Z",
+    "pushed": "2023-06-09T03:31:25.000Z",
     "long": "awslabs/stable-diffusion-aws-extension",
-    "size": 74421,
+    "size": 74443,
     "stars": 29,
     "issues": 1,
     "branch": "main",
@@ -89,7 +89,7 @@
     "pushed": "2023-06-09T01:06:22.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 17537,
-    "stars": 1387,
+    "stars": 1388,
     "issues": 33,
     "branch": "main",
     "updated": "2023-06-06T04:21:36Z",
@@ -111,8 +111,8 @@
     "stars": 86,
     "issues": 11,
     "branch": "master",
-    "updated": "2023-02-11T01:33:10Z",
-    "commits": 54
+    "updated": "2023-04-14T23:30:43.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-dataset-tag-editor",
@@ -316,7 +316,7 @@
     "pushed": "2023-05-24T03:48:19.000Z",
     "long": "kohya-ss/sd-webui-additional-networks",
     "size": 269,
-    "stars": 1162,
+    "stars": 1164,
     "issues": 69,
     "branch": "main",
     "updated": "2023-05-23T12:31:15Z",
@@ -688,7 +688,7 @@
     "pushed": "2023-06-08T18:43:14.000Z",
     "long": "adieyal/sd-dynamic-prompts",
     "size": 27412,
-    "stars": 1023,
+    "stars": 1024,
     "issues": 75,
     "branch": "main",
     "updated": "2023-06-03T10:48:47Z",
@@ -707,7 +707,7 @@
     "pushed": "2023-05-15T12:58:34.000Z",
     "long": "ThereforeGames/unprompted",
     "size": 16438,
-    "stars": 557,
+    "stars": 558,
     "issues": 63,
     "branch": "main",
     "updated": "2023-05-13T23:38:30Z",
@@ -1006,8 +1006,8 @@
     "stars": 254,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-04-27T20:26:07Z",
-    "commits": 125
+    "updated": "2023-04-27T20:26:42.000Z",
+    "commits": 1
   },
   {
     "name": "shift-attention",
@@ -1422,8 +1422,8 @@
     "pushed": "2023-06-09T02:00:10.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 16168,
-    "stars": 9890,
-    "issues": 94,
+    "stars": 9896,
+    "issues": 93,
     "branch": "main",
     "updated": "2023-06-09T00:50:56Z",
     "commits": 1480
@@ -1661,8 +1661,8 @@
     "stars": 127,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-06-02T00:51:00Z",
-    "commits": 947
+    "updated": "2023-06-02T00:51:00.000Z",
+    "commits": 1
   },
   {
     "name": "openpose-editor",
@@ -1790,8 +1790,8 @@
     "stars": 43,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-21T15:23:49Z",
-    "commits": 17
+    "updated": "2023-05-21T15:23:51.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-cafe-aesthetic",
@@ -2228,7 +2228,7 @@
     "pushed": "2023-06-08T08:26:55.000Z",
     "long": "hako-mikan/sd-webui-regional-prompter",
     "size": 19627,
-    "stars": 561,
+    "stars": 562,
     "issues": 29,
     "branch": "main",
     "updated": "2023-06-08T08:26:55Z",
@@ -2303,7 +2303,7 @@
     "pushed": "2023-06-02T13:48:42.000Z",
     "long": "muerrilla/stable-diffusion-NPW",
     "size": 738,
-    "stars": 69,
+    "stars": 70,
     "issues": 2,
     "branch": "main",
     "updated": "2023-06-02T13:48:42Z",
@@ -2359,7 +2359,7 @@
     "pushed": "2023-06-08T01:19:44.000Z",
     "long": "KohakuBlueleaf/a1111-sd-webui-lycoris",
     "size": 41,
-    "stars": 414,
+    "stars": 415,
     "issues": 2,
     "branch": "main",
     "updated": "2023-06-08T01:19:40Z",
@@ -2803,7 +2803,7 @@
     "pushed": "2023-05-30T19:00:32.000Z",
     "long": "pkuliyi2015/sd-webui-stablesr",
     "size": 60,
-    "stars": 262,
+    "stars": 264,
     "issues": 16,
     "branch": "master",
     "updated": "2023-05-23T10:12:17Z",
@@ -2922,6 +2922,26 @@
     "branch": "main",
     "updated": "2023-06-08T20:28:05Z",
     "commits": 82
+  },
+  {
+    "name": "Styles-Editor",
+    "url": "https://github.com/chrisgoringe/Styles-Editor.git",
+    "description": "Simple editor for styles in Automatic1111",
+    "tags": [
+      "tab",
+      "UI related",
+      "prompting"
+    ],
+    "added": "2023-06-06T00:00:00.000Z",
+    "created": "2023-05-28T11:19:38.000Z",
+    "pushed": "2023-06-08T23:25:46.000Z",
+    "long": "chrisgoringe/Styles-Editor",
+    "size": 37,
+    "stars": 16,
+    "issues": 2,
+    "branch": "main",
+    "updated": "2023-06-08T23:25:46Z",
+    "commits": 52
   },
   {
     "name": "Clip_IO",
