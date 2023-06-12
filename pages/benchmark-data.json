@@ -1,5 +1,44 @@
 [
   [
+    4093,
+    "2023-05-28T12:31:50.086Z",
+    "14.65 / 16.98 / 19.82",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-107-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA RTX A5000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "anything-v4.5-pruned-fp16.ckpt [f773383dbc]",
+    "root",
+    ""
+  ],
+  [
+    4092,
+    "2023-05-27T18:39:17.868Z",
+    "14.7 / 16.69 / 19.81",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-100-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA RTX A5000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "anything-v4.5-pruned-fp16.ckpt [f773383dbc]",
+    "root",
+    ""
+  ],
+  [
+    4091,
+    "2023-05-07T21:42:06.806Z",
+    "14.95 / 13.58 / 16.55",
+    "updated:2023-05-02 hash:5ab7f213 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-107-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA RTX A5000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "anything-v4.5-pruned-fp16.ckpt [f773383dbc]",
+    "root",
+    ""
+  ],
+  [
     4090,
     "2023-06-12T09:49:13.036Z",
     "6.4 / 5.66 / 5.89",
