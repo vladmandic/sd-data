@@ -1,5 +1,31 @@
 [
   [
+    4103,
+    "2023-06-14T04:01:52.205Z",
+    "4.5 / 4.9 / 5.31",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    " none",
+    "tenganmix_-2.5D-half.safetensors [3e98080b3f]",
+    "Chris",
+    ""
+  ],
+  [
+    4102,
+    "2023-06-13T23:51:17.858Z",
+    "3.39 / 3.87 / 3.83",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.3.7-273-tkg-pds python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev542 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    "xformers none",
+    "divineelegancemix_V5.safetensors [0a03c339c7]",
+    "user",
+    ""
+  ],
+  [
     4101,
     "2023-06-13T22:15:34.371Z",
     "39.0 / 51.81 / 59.19 / 61.55 / 61.87",
