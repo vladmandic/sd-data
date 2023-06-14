@@ -67,7 +67,7 @@
     "created": "2023-05-04T04:23:40.000Z",
     "pushed": "2023-06-14T01:56:03.000Z",
     "long": "awslabs/stable-diffusion-aws-extension",
-    "size": 78288,
+    "size": 78297,
     "stars": 34,
     "issues": 2,
     "branch": "main",
@@ -634,7 +634,7 @@
     "pushed": "2023-06-12T10:45:14.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 62103,
-    "stars": 268,
+    "stars": 269,
     "issues": 27,
     "branch": "main",
     "updated": "2023-06-12T10:44:57Z",
@@ -936,23 +936,14 @@
     "commits": 49
   },
   {
-    "name": "sd-webui-deforum",
+    "name": "Deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
+    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z",
-    "created": "2022-10-14T22:29:12.000Z",
-    "pushed": "2023-06-06T21:50:09.000Z",
-    "long": "deforum-art/sd-webui-deforum",
-    "size": 131142,
-    "stars": 1670,
-    "issues": 26,
-    "branch": "automatic1111-webui",
-    "updated": "2023-06-06T21:47:35Z",
-    "commits": 2944
+    "added": "2022-11-01T00:00:00.000Z"
   },
   {
     "name": "animator_extension",
@@ -985,7 +976,7 @@
     "pushed": "2023-05-13T14:56:06.000Z",
     "long": "LonicaMewinsky/gif2gif",
     "size": 80,
-    "stars": 198,
+    "stars": 199,
     "issues": 3,
     "branch": "main",
     "updated": "2023-05-13T14:56:04Z",
@@ -1296,7 +1287,7 @@
     "pushed": "2023-03-25T14:37:33.000Z",
     "long": "dfaker/SD-latent-mirroring",
     "size": 30,
-    "stars": 89,
+    "stars": 90,
     "issues": 2,
     "branch": "main",
     "updated": "2023-03-25T14:37:33Z",
@@ -1440,8 +1431,8 @@
     "pushed": "2023-06-13T07:39:32.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 16199,
-    "stars": 10122,
-    "issues": 98,
+    "stars": 10126,
+    "issues": 97,
     "branch": "main",
     "updated": "2023-06-13T07:39:32Z",
     "commits": 1499
@@ -1479,8 +1470,8 @@
     "stars": 359,
     "issues": 13,
     "branch": "main",
-    "updated": "2023-02-27T17:40:08Z",
-    "commits": 18
+    "updated": "2023-04-21T14:28:37.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-auto-tls-https",
@@ -1753,8 +1744,8 @@
     "stars": 13,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-06-12T16:00:34Z",
-    "commits": 11
+    "updated": "2023-06-12T16:00:35.000Z",
+    "commits": 1
   },
   {
     "name": "mine-diffusion",
@@ -1827,8 +1818,8 @@
     "stars": 22,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-03-26T13:36:41Z",
-    "commits": 15
+    "updated": "2023-03-26T13:36:45.000Z",
+    "commits": 1
   },
   {
     "name": "clip-interrogator-ext",
@@ -1937,8 +1928,8 @@
     "stars": 593,
     "issues": 17,
     "branch": "master",
-    "updated": "2023-05-04T16:14:34Z",
-    "commits": 37
+    "updated": "2023-05-04T16:14:43.000Z",
+    "commits": 1
   },
   {
     "name": "CFG-Schedule-for-Automatic1111-SD",
@@ -1955,8 +1946,8 @@
     "stars": 26,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-03-09T10:43:02Z",
-    "commits": 64
+    "updated": "2023-03-09T10:43:02.000Z",
+    "commits": 1
   },
   {
     "name": "ebsynth_utility",
@@ -2007,11 +1998,11 @@
     "pushed": "2023-06-09T17:45:42.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1163,
-    "stars": 2699,
-    "issues": 53,
+    "stars": 2700,
+    "issues": 54,
     "branch": "main",
-    "updated": "2023-06-09T17:45:33Z",
-    "commits": 203
+    "updated": "2023-06-09T17:45:42.000Z",
+    "commits": 1
   },
   {
     "name": "sd-3dmodel-loader",
@@ -2082,8 +2073,8 @@
     "stars": 36,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-05-02T12:40:49Z",
-    "commits": 9
+    "updated": "2023-05-02T12:40:49.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-rembg",
@@ -2282,7 +2273,7 @@
     "pushed": "2023-05-09T07:38:36.000Z",
     "long": "ParisNeo/prompt_translator",
     "size": 57,
-    "stars": 98,
+    "stars": 99,
     "issues": 10,
     "branch": "main",
     "updated": "2023-05-05T18:42:11Z",
@@ -2415,7 +2406,7 @@
     "pushed": "2023-06-10T07:59:44.000Z",
     "long": "v8hid/infinite-zoom-automatic1111-webui",
     "size": 1624,
-    "stars": 449,
+    "stars": 450,
     "issues": 9,
     "branch": "main",
     "updated": "2023-05-03T17:08:52Z",
@@ -2649,7 +2640,7 @@
     "pushed": "2023-05-30T16:49:10.000Z",
     "long": "volotat/SD-CN-Animation",
     "size": 36083,
-    "stars": 575,
+    "stars": 576,
     "issues": 51,
     "branch": "main",
     "updated": "2023-05-30T16:49:03Z",
@@ -2688,7 +2679,7 @@
     "pushed": "2023-06-14T01:58:01.000Z",
     "long": "Physton/sd-webui-prompt-all-in-one",
     "size": 17148,
-    "stars": 834,
+    "stars": 835,
     "issues": 4,
     "branch": "main",
     "updated": "2023-06-14T01:57:51Z",
@@ -2994,8 +2985,8 @@
     "created": "2023-04-16T01:46:03.000Z",
     "pushed": "2023-06-14T01:24:58.000Z",
     "long": "Uminosachi/sd-webui-inpaint-anything",
-    "size": 2878,
-    "stars": 199,
+    "size": 2879,
+    "stars": 200,
     "issues": 20,
     "branch": "main",
     "updated": "2023-06-14T01:22:28Z",
@@ -3033,7 +3024,7 @@
     "pushed": "2023-06-13T15:24:08.000Z",
     "long": "Ynn/sd-webui-faceswap",
     "size": 562,
-    "stars": 57,
+    "stars": 58,
     "issues": 6,
     "branch": "main",
     "updated": "2023-06-13T15:23:57Z",
