@@ -1,5 +1,31 @@
 [
   [
+    4107,
+    "2023-06-09T18:18:01.010Z",
+    "2.26 / 2.97 / 3.34",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA TITAN X (Pascal) (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 12GB",
+    "sdp-no-mem none",
+    "avalonTruvision_v2.safetensors [a4df55d292]",
+    "lol",
+    ""
+  ],
+  [
+    4106,
+    "2023-06-15T16:39:11.533Z",
+    "2.44 / 3.33 / 3.78",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA TITAN X (Pascal) (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "realisticVisionV20_v20.ckpt [81086e2b3f]",
+    "lol",
+    ""
+  ],
+  [
     4105,
     "2023-06-14T04:30:23.794Z",
     "4.33 / 4.74 / 5.17",

@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-15T07:09:38.233Z
+  ## Updated: 2023-06-15T21:08:48.566Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4105|2023-06-14T04:30:23.794Z|4.33 / 4.74 / 5.17|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB|sdp none|tenganmix_-2.5D-half.safetensors [3e98080b3f]|Chris||
+  |4107|2023-06-09T18:18:01.010Z|2.26 / 2.97 / 3.34|updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA TITAN X (Pascal) (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 12GB|sdp-no-mem none|avalonTruvision_v2.safetensors [a4df55d292]|lol||
+|4106|2023-06-15T16:39:11.533Z|2.44 / 3.33 / 3.78|updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA TITAN X (Pascal) (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 12GB|xformers none|realisticVisionV20_v20.ckpt [81086e2b3f]|lol||
+|4105|2023-06-14T04:30:23.794Z|4.33 / 4.74 / 5.17|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB|sdp none|tenganmix_-2.5D-half.safetensors [3e98080b3f]|Chris||
 |4104|2023-06-14T02:11:18.664Z|15.26 / 14.46 / 16.16|updated:2023-05-24 hash:0acc7d3b url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 Autocast nohalf xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|ianjoicey||
 |4103|2023-06-14T04:01:52.205Z|4.5 / 4.9 / 5.31|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB| none|tenganmix_-2.5D-half.safetensors [3e98080b3f]|Chris||
 |4102|2023-06-13T23:51:17.858Z|3.39 / 3.87 / 3.83|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu: system:Linux release:6.3.7-273-tkg-pds python:3.11.3|torch:2.0.1+cu118 autocast half xformers:0.0.21.dev542 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:11.8 cudnn:8700 11GB|xformers none|divineelegancemix_V5.safetensors [0a03c339c7]|user||
