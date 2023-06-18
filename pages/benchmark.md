@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-18T16:11:25.828Z
+  ## Updated: 2023-06-18T17:08:07.681Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4113|2023-06-18T12:17:34.644Z|4.29 / 4.5 / 5.4|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers lowram|v1-5-pruned-emaonly.safetensors [6ce0161689]|igord||
+  |4115|2023-06-17T09:18:00.473Z|15.42 / 17.3 / 17.72 / 17.98 / 18.05|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-43-generic python:3.10.6|torch:2.1.0.dev20230616+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:Radeon RX 7900 XTX (1) hip:5.5.30201-c1741e9b 24GB|sdp none|v1-5-pruned-emaonly.safetensors [6ce0161689]|mayuri||
+|4114|2023-06-17T09:12:52.525Z|14.52 / 17.0 / 18.52 / 19.59 / 20.16|updated:2023-06-16 hash:eae813bc url:https://github.com/vladmandic/automatic.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-43-generic python:3.10.6|torch:2.1.0.dev20230614+rocm5.5 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1|device:Radeon RX 7900 XTX (1) hip:5.5.30201-c1741e9b 24GB|sdp none|CounterfeitV30_v30.safetensors [cbfba64e66]|mayuri||
+|4113|2023-06-18T12:17:34.644Z|4.29 / 4.5 / 5.4|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB|xformers lowram|v1-5-pruned-emaonly.safetensors [6ce0161689]|igord||
 |4112|2023-06-18T09:12:17.222Z|8.39 / 7.09 / 8.37|||torch: | 12GB| |best/icbinp-icantbelieveIts-final.safetensors [73f48afbdc]|vlado||
 |4111|2023-06-18T09:08:22.224Z|8.49 / 7.2 / 8.43|updated:2023-06-17 hash:e9f4ba02 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.1.21.2-microsoft-standard-WSL2 python:3.10.6|torch:2.1.0.dev20230614+cu121 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 12GB|sdp none|best/icbinp-icantbelieveIts-final.safetensors [73f48afbdc]|vlado||
 |4110|2023-06-13T13:00:36.208Z|8.08 / 9.12 / 9.85 / 9.36 / 9.58|updated:2023-06-13 hash:1d9e490e url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.1.21.2-microsoft-standard-WSL2 python:3.10.6|torch:2.1.0.dev20230612+cu121 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 12GB|sdp none|best/lyriel-v16.safetensors [ec6f68ea63]|vlado||
