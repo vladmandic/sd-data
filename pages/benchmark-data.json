@@ -1,5 +1,18 @@
 [
   [
+    4117,
+    "2023-06-18T14:01:35.190Z",
+    "4.86 / 2.4 / 2.44",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6650 XT (1) hip:5.4.22803-474e8620 8GB",
+    "Doggettx none",
+    "Realistic_Vision_V2.0.ckpt [81086e2b3f]",
+    "stan",
+    ""
+  ],
+  [
     4116,
     "2023-06-18T18:48:46.178Z",
     "27.28 / 34.54 / 41.28 / 40.46 / 40.67",
