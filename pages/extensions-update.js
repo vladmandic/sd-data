@@ -82,6 +82,8 @@ async function getDetails(extension) {
         ext.updated = h.array?.[0]?.commit?.author?.date || ext.pushed; // timestamp of last commit
         const commits = 1 + parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from headers pagination data
         ext.commits = commits;
+        ext.status = '';
+        ext.note = '';
         resolve(ext);
       }
     }
