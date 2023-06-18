@@ -48,7 +48,7 @@
     "pushed": "2023-06-13T02:14:44.000Z",
     "long": "jtydhr88/sd-webui-txt-img-to-3d-model",
     "size": 7217,
-    "stars": 119,
+    "stars": 120,
     "issues": 8,
     "branch": "master",
     "updated": "2023-06-13T02:14:43Z",
@@ -671,7 +671,7 @@
     "pushed": "2023-06-17T13:37:37.000Z",
     "long": "Nevysha/Cozy-Nest",
     "size": 62090,
-    "stars": 275,
+    "stars": 276,
     "issues": 20,
     "branch": "main",
     "updated": "2023-06-17T07:30:38Z",
@@ -819,8 +819,8 @@
     "stars": 57,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-01-28T06:33:03Z",
-    "commits": 18
+    "updated": "2023-01-29T19:03:19.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-tokenizer",
@@ -949,8 +949,8 @@
     "stars": 129,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-02-24T08:29:55Z",
-    "commits": 49
+    "updated": "2023-02-24T08:29:59.000Z",
+    "commits": 1
   },
   {
     "name": "Stable-Diffusion-Webui-Prompt-Translator",
@@ -969,8 +969,8 @@
     "stars": 190,
     "issues": 6,
     "branch": "main",
-    "updated": "2023-05-09T08:30:09Z",
-    "commits": 49
+    "updated": "2023-05-09T08:30:10.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-deforum",
@@ -1097,8 +1097,8 @@
     "stars": 143,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-05-03T05:48:08Z",
-    "commits": 53
+    "updated": "2023-05-08T08:05:20.000Z",
+    "commits": 1
   },
   {
     "name": "sd-extension-steps-animation",
@@ -1262,8 +1262,8 @@
     "stars": 28,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-05-31T19:57:01Z",
-    "commits": 15
+    "updated": "2023-05-31T19:57:13.000Z",
+    "commits": 1
   },
   {
     "name": "stable-diffusion-webui-pixelization",
@@ -2323,8 +2323,8 @@
     "stars": 25,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-05-30T07:04:06Z",
-    "commits": 26
+    "updated": "2023-05-30T07:04:11.000Z",
+    "commits": 1
   },
   {
     "name": "prompt_translator",
@@ -2727,8 +2727,8 @@
     "stars": 320,
     "issues": 2,
     "branch": "master",
-    "updated": "2023-05-14T09:09:42Z",
-    "commits": 41
+    "updated": "2023-05-14T09:09:51.000Z",
+    "commits": 1
   },
   {
     "name": "sd-webui-prompt-all-in-one",
