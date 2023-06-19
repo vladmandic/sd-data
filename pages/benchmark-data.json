@@ -1,5 +1,18 @@
 [
   [
+    4133,
+    "2023-06-19T11:17:43.133Z",
+    "13.41 / 15.48 / 16.9 / 18.19 / 19.25",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "xformers none",
+    "main.safetensors",
+    "ADMIN",
+    ""
+  ],
+  [
     4132,
     "2023-06-19T17:45:55.997Z",
     "12.95 / 15.56 / 18.44",
