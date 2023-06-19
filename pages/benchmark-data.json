@@ -1,5 +1,43 @@
 [
   [
+    4128,
+    "2023-06-18T18:34:43.330Z",
+    "16.15 / 18.14 / 20.9",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "MootChicken",
+    ""
+  ],
+  [
+    4127,
+    "2023-06-18T18:31:10.034Z",
+    "15.74 / 17.71 / 20.08",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "MootChicken",
+    ""
+  ],
+  [
+    4126,
+    "2023-06-12T22:11:37.962Z",
+    "50.4 / 63.16 / 71.91",
+    "updated:2023-06-09 hash:305def9c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.11",
+    "torch:2.1.0.dev20230609+cu121 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8902 24GB",
+    "sdp none",
+    "babes_20.safetensors [65cf944caa]",
+    "me"
+  ],
+  [
     4125,
     "2023-06-18T19:36:18.259Z",
     "10.14 / 11.02 / 12.19",
