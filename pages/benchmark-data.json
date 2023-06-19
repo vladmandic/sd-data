@@ -1,5 +1,18 @@
 [
   [
+    4148,
+    "2023-06-20T04:03:56.553Z",
+    "2.45 / 2.44 / 2.82",
+    "updated:2023-06-19 hash:23452378 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.9.6",
+    "torch:2.0.1 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    " 0GB",
+    "doggettx none",
+    "cyberrealistic_v31_3.safetensors [03363589fe]",
+    "root",
+    ""
+  ],
+  [
     4147,
     "2023-06-19T16:53:05.901Z",
     "13.49 / 25.34 / 37.05",
