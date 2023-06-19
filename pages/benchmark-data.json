@@ -1,5 +1,18 @@
 [
   [
+    4125,
+    "2023-06-18T19:36:18.259Z",
+    "10.14 / 11.02 / 12.19",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "Doggettx none",
+    "abyssorangemix2_Hard.ckpt [a19c77b34a]",
+    "knigh",
+    ""
+  ],
+  [
     4124,
     "2023-06-19T02:07:01.474Z",
     "10.98 / 12.28 / 13.7",
