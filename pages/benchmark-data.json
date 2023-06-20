@@ -1,5 +1,44 @@
 [
   [
+    4169,
+    "2023-06-20T13:54:46.664Z",
+    "12.45 / 13.43 / 13.67",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "Doggettx none",
+    "LazySara\\aaaaa_promix3_1x0.75+230610_Test1_585x0.25x0.5+230610_Test6_518x0.5.safetensors [d61aba44b1]",
+    "Chris",
+    ""
+  ],
+  [
+    4168,
+    "2023-06-20T13:54:03.185Z",
+    "15.49 / 16.57 / 17.58",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "LazySara\\aaaaa_promix3_1x0.75+230610_Test1_585x0.25x0.5+230610_Test6_518x0.5.safetensors [d61aba44b1]",
+    "Chris",
+    ""
+  ],
+  [
+    4167,
+    "2023-06-20T13:53:13.575Z",
+    "10.48 / 11.25 / 11.27",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sub-quadratic none",
+    "LazySara\\aaaaa_promix3_1x0.75+230610_Test1_585x0.25x0.5+230610_Test6_518x0.5.safetensors [d61aba44b1]",
+    "Chris",
+    ""
+  ],
+  [
     4166,
     "2023-06-20T14:41:43.955Z",
     "5.4 / 6.13 / 6.54 / 6.96 / 6.78",
