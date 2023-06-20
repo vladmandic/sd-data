@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-20T19:07:53.861Z
+  ## Updated: 2023-06-20T20:09:59.154Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4190|2023-06-20T14:58:08.294Z|17.44 / 21.16 / 23.01 / 22.93 / 23.7|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|Doggettx none|v1-5-pruned-emaonly.safetensors [6ce0161689]|davinci||
+  |4191|2023-06-20T22:30:17.783Z|12.58 / 16.29 / 19.38|updated:2023-06-20 hash:c02ccc4f url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1|device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB|sdp none|ANIME\CounterfeitV30_v30.safetensors [cbfba64e66]|daswer123||
+|4190|2023-06-20T14:58:08.294Z|17.44 / 21.16 / 23.01 / 22.93 / 23.7|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|Doggettx none|v1-5-pruned-emaonly.safetensors [6ce0161689]|davinci||
 |4189|2023-06-20T14:55:59.105Z|13.18 / 14.44 / 15.67 / 16.3 / 16.66|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|davinci||
 |4188|2023-06-20T15:05:22.253Z|21.96 / 29.64 / 32.43 / 32.01 / 32.06|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|davinci||
 |4187|2023-06-20T14:49:30.090Z|21.6 / 27.54 / 29.93 / 29.82 / 29.78|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|davinci||
