@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-20T03:10:41.569Z
+  ## Updated: 2023-06-20T04:11:46.922Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,9 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4153|2023-06-20T12:54:01.006Z|21.75 / 34.27 / 40.5|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB|sdp-no-mem none|HeNide_ChillUber.safetensors [4b97628b31]|quokka||
+  |4155|2023-06-20T13:26:57.389Z|23.06 / 37.29 / 43.75|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB|sdp-no-mem none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|quokka||
+|4154|2023-06-20T13:23:46.342Z|22.16 / 36.18 / 41.45|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB|sdp-no-mem none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|quokka||
+|4153|2023-06-20T12:54:01.006Z|21.75 / 34.27 / 40.5|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB|sdp-no-mem none|HeNide_ChillUber.safetensors [4b97628b31]|quokka||
 |4152|2023-06-20T00:28:28.341Z|5.12|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|Doggettx none|majicmixRealistic_v5.safetensors [33c9f6dfcb]|fay||
 |4151|2023-05-22T08:26:05.938Z|12.69 / 14.61 / 15.43|updated:2023-05-02 hash:5ab7f213 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 22GB|xformers none|三次元\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Fisher||
 |4150|2023-06-20T07:48:59.061Z|12.99 / 15.2 / 16.3|updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 22GB| none|3D\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Fisher||

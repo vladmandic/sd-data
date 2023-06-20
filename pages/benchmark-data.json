@@ -1,5 +1,31 @@
 [
   [
+    4155,
+    "2023-06-20T13:26:57.389Z",
+    "23.06 / 37.29 / 43.75",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB",
+    "sdp-no-mem none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "quokka",
+    ""
+  ],
+  [
+    4154,
+    "2023-06-20T13:23:46.342Z",
+    "22.16 / 36.18 / 41.45",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8902 24GB",
+    "sdp-no-mem none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "quokka",
+    ""
+  ],
+  [
     4153,
     "2023-06-20T12:54:01.006Z",
     "21.75 / 34.27 / 40.5",
