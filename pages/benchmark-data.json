@@ -1,5 +1,31 @@
 [
   [
+    4179,
+    "2023-06-20T11:10:02.530Z",
+    "10.14 / 12.15 / 13.04",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "Doggettx none",
+    "DreamShaper\\dreamshaper_631BakedVae.safetensors [853e7e85c4]",
+    "blkmmb",
+    ""
+  ],
+  [
+    4178,
+    "2023-06-20T11:08:32.588Z",
+    "9.09 / 11.08 / 12.36",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "Doggettx none",
+    "DreamShaper\\dreamshaper_631BakedVae.safetensors [853e7e85c4]",
+    "blkmmb",
+    ""
+  ],
+  [
     4177,
     "2023-06-20T22:58:45.686Z",
     "10.64 / 23.16 / 34.66",
