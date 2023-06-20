@@ -1,5 +1,44 @@
 [
   [
+    4151,
+    "2023-05-22T08:26:05.938Z",
+    "12.69 / 14.61 / 15.43",
+    "updated:2023-05-02 hash:5ab7f213 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 22GB",
+    "xformers none",
+    "三次元\\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Fisher",
+    ""
+  ],
+  [
+    4150,
+    "2023-06-20T07:48:59.061Z",
+    "12.99 / 15.2 / 16.3",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 22GB",
+    " none",
+    "3D\\chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Fisher",
+    ""
+  ],
+  [
+    4149,
+    "2023-05-20T10:31:39.318Z",
+    "10.09 / 11.55 / 12.44",
+    "updated:2023-05-02 hash:5ab7f213 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 22GB",
+    "Doggettx none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Fisher",
+    ""
+  ],
+  [
     4148,
     "2023-06-20T04:03:56.553Z",
     "2.45 / 2.44 / 2.82",
