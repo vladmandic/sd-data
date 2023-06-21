@@ -1,5 +1,31 @@
 [
   [
+    4209,
+    "2023-06-21T14:04:05.368Z",
+    "27.03 / 35.96 / 37.44 / 36.56 / 36.37",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.18 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Garfield666",
+    ""
+  ],
+  [
+    4208,
+    "2023-06-21T13:54:10.913Z",
+    "28.06 / 42.89 / 47.68 / 45.9 / 45.4",
+    "updated:2023-06-16 hash:8400323a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-76060200-generic python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "abysshellmaple_v10.ckpt [0134f9690f]",
+    "eisenxu",
+    ""
+  ],
+  [
     4207,
     "2023-06-21T03:57:58.780Z",
     "6.16 / 9.71 / 12.53",
