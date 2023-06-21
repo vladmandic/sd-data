@@ -1,5 +1,44 @@
 [
   [
+    4205,
+    "2023-06-19T17:40:20.178Z",
+    "0.07 / 0.07 / 0.07",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "Butter.safetensors [e17c28a282]",
+    "penecea",
+    ""
+  ],
+  [
+    4204,
+    "2023-06-21T10:52:34.487Z",
+    "5.94 / 5.22 / 5.4",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "94539",
+    ""
+  ],
+  [
+    4203,
+    "2023-06-21T03:42:33.917Z",
+    "17.24 / 18.84 / 21.57",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Anon",
+    ""
+  ],
+  [
     4202,
     "2023-06-21T02:53:57.425Z",
     "16.82 / 18.89 / 21.66",
