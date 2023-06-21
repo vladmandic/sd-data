@@ -1,5 +1,31 @@
 [
   [
+    4207,
+    "2023-06-21T03:57:58.780Z",
+    "6.16 / 9.71 / 12.53",
+    "updated:2023-03-29 hash:22bcc7be url:https://ghproxy.com/https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.8.10",
+    "torch:2.0.0a0+git22bcc7b autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    "device:Radeon RX 7900 XTX (1) hip:5.5.30201-d32bf634 24GB",
+    "Doggettx medvram",
+    "Hentai Diffusion v17.ckpt [e1d4b186c8]",
+    "root",
+    ""
+  ],
+  [
+    4206,
+    "2023-06-21T03:54:20.761Z",
+    "16.59 / 19.38 / 21.57 / 22.9 / 23.88",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-69-generic python:3.10.6",
+    "torch:2.0.1+cu117 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_86) (8, 6) cuda:11.7 cudnn:8500 24GB",
+    "sdp none",
+    "SDv1-5.ckpt [4c86efd062]",
+    "root",
+    ""
+  ],
+  [
     4205,
     "2023-06-19T17:40:20.178Z",
     "0.07 / 0.07 / 0.07",
