@@ -779,13 +779,24 @@
     "note": ""
   },
   {
-    "name": "Kitchen Theme",
+    "name": "sd-webui-kitchen-theme",
     "url": "https://github.com/canisminor1990/sd-web-ui-kitchen-theme.git",
-    "description": "Custom Theme.",
+    "description": "🧿 Kitchen theme for stable diffusion webui",
     "tags": [
       "UI related"
     ],
-    "added": "2023-02-28T00:00:00.000Z"
+    "added": "2023-02-28T00:00:00.000Z",
+    "created": "2023-02-25T06:41:18.000Z",
+    "pushed": "2023-06-21T15:56:01.000Z",
+    "long": "canisminor1990/sd-webui-kitchen-theme",
+    "size": 26100,
+    "stars": 429,
+    "issues": 42,
+    "branch": "main",
+    "updated": "2023-06-17T16:20:15Z",
+    "commits": 219,
+    "status": "",
+    "note": ""
   },
   {
     "name": "sd-webui-bilingual-localization",
@@ -883,8 +894,8 @@
     "stars": 1700,
     "issues": 7,
     "branch": "main",
-    "updated": "2023-06-20T16:50:39Z",
-    "commits": 335,
+    "updated": "2023-06-20T17:15:32.000Z",
+    "commits": 1,
     "status": "",
     "note": ""
   },
@@ -1075,14 +1086,25 @@
     "note": ""
   },
   {
-    "name": "Deforum",
+    "name": "sd-webui-deforum",
     "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui.git",
-    "description": "The official port of Deforum, an extensive script for 2D and 3D ",
+    "description": "Deforum extension for AUTOMATIC1111's Stable Diffusion webui",
     "tags": [
       "tab",
       "animation"
     ],
-    "added": "2022-11-01T00:00:00.000Z"
+    "added": "2022-11-01T00:00:00.000Z",
+    "created": "2022-10-14T22:29:12.000Z",
+    "pushed": "2023-06-16T05:31:05.000Z",
+    "long": "deforum-art/sd-webui-deforum",
+    "size": 131142,
+    "stars": 1713,
+    "issues": 28,
+    "branch": "automatic1111-webui",
+    "updated": "2023-06-06T21:47:35Z",
+    "commits": 2944,
+    "status": "",
+    "note": ""
   },
   {
     "name": "animator_extension",
@@ -1787,8 +1809,8 @@
     "stars": 20,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-11T23:08:43Z",
-    "commits": 21,
+    "updated": "2023-05-11T23:08:43.000Z",
+    "commits": 1,
     "status": "",
     "note": ""
   },
@@ -1895,7 +1917,7 @@
   {
     "name": "sd-extension-system-info",
     "url": "https://github.com/vladmandic/sd-extension-system-info.git",
-    "description": "",
+    "description": "System Info Extension for SD WebUI",
     "tags": "",
     "added": null,
     "created": "2023-01-14T16:40:39.000Z",
@@ -1911,13 +1933,24 @@
     "note": ""
   },
   {
-    "name": "OpenPose Editor",
+    "name": "openpose-editor",
     "url": "https://github.com/fkunn1326/openpose-editor.git",
-    "description": "This can add multiple pose characters, detect pose from image, s",
+    "description": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
     "tags": [
       "tab"
     ],
-    "added": "2023-02-18T00:00:00.000Z"
+    "added": "2023-02-18T00:00:00.000Z",
+    "created": "2023-02-19T04:24:44.000Z",
+    "pushed": "2023-06-03T04:54:52.000Z",
+    "long": "fkunn1326/openpose-editor",
+    "size": 1192,
+    "stars": 1304,
+    "issues": 51,
+    "branch": "master",
+    "updated": "2023-06-03T04:54:52Z",
+    "commits": 109,
+    "status": "",
+    "note": ""
   },
   {
     "name": "sd-webui-stable-horde-worker",
@@ -1997,8 +2030,8 @@
     "stars": 10,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-03-31T14:38:41Z",
-    "commits": 28,
+    "updated": "2023-03-31T14:38:57.000Z",
+    "commits": 1,
     "status": "",
     "note": ""
   },
@@ -2261,8 +2294,8 @@
     "stars": 2830,
     "issues": 52,
     "branch": "main",
-    "updated": "2023-06-18T21:39:44Z",
-    "commits": 207,
+    "updated": "2023-06-18T21:39:50.000Z",
+    "commits": 1,
     "status": "",
     "note": ""
   },
@@ -2301,8 +2334,8 @@
     "stars": 29,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-03-28T23:58:24Z",
-    "commits": 16,
+    "updated": "2023-03-28T23:58:24.000Z",
+    "commits": 1,
     "status": "",
     "note": ""
   },
@@ -2955,7 +2988,7 @@
     "long": "volotat/SD-CN-Animation",
     "size": 36083,
     "stars": 587,
-    "issues": 58,
+    "issues": 59,
     "branch": "main",
     "updated": "2023-05-30T16:49:03Z",
     "commits": 114,
@@ -3378,7 +3411,7 @@
     "pushed": "2023-06-21T17:56:07.000Z",
     "long": "s0md3v/sd-webui-roop",
     "size": 688,
-    "stars": 311,
+    "stars": 312,
     "issues": 10,
     "branch": "main",
     "updated": "2023-06-21T14:41:16Z",
