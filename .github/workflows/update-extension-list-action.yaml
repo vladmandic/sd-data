@@ -16,7 +16,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: pages
+        working-directory: jobs
     steps:
     - name: actions-checkout
       uses: actions/checkout@v3
@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: 18
         cache: npm
-        cache-dependency-path: pages/package-lock.json
+        cache-dependency-path: jobs/package-lock.json
     - name: npm-install
       run: npm install
     - name: node-run

@@ -16,7 +16,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: pages
+        working-directory: jobs
     steps:
     - name: actions-checkout
       uses: actions/checkout@v3
@@ -25,14 +25,14 @@ jobs:
       with:
         node-version: 18
         cache: npm
-        cache-dependency-path: pages/package-lock.json
+        cache-dependency-path: jobs/package-lock.json
     - name: npm-install
       run: npm install
     - name: node-run
       env:
         PAPERTRAIL_TOKEN: ${{ secrets.PAPERTRAIL_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: node ./benchmark-download.js
+      run: node ./benchmark-update.js
     - name: git-commit
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
