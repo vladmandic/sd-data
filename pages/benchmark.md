@@ -1,7 +1,7 @@
 
   # Benchmark Data
 
-  ## Updated: 2023-06-21T16:12:23.386Z
+  ## Updated: 2023-06-21T17:08:31.528Z
   
   ### Submit data using WebUI extension: <https://github.com/vladmandic/sd-extension-system-info>
 
@@ -9,7 +9,8 @@
 
   |ID|Date|Performance|Version|System|Libraries|GPU Info|Optimizations|Model|Username|Note|
   |---|---|---|---|---|---|---|---|---|---|---|
-  |4251|2023-04-16T23:51:37.675Z|6.16 / 6.82 / 7.8|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB|xformers none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||
+  |4252|2023-06-22T00:09:58.645Z|10.75 / 12.43 / 12.78|updated:2023-06-01 hash:b6af0a38 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB| none|meinamix_meinaV10+ms-V6-weight_1fp16.ckpt [cd7e938725]|Administrator||
+|4251|2023-04-16T23:51:37.675Z|6.16 / 6.82 / 7.8|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB|xformers none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||
 |4250|2023-03-31T09:57:50.646Z|4.18 / 4.96 / 5.32|updated:2023-03-14 hash:a9fed7c3 url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.1.0.dev20230320+cu118 autocast half xformers:unavailable accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|sdp-no-mem none|meinamix_meinaV8.safetensors [30953ab0de]|Administrator||
 |4249|2023-03-28T18:20:54.784Z|6.46 / 7.4 / 8.24|updated:2023-02-20 hash:0cc0ee1b url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.1.0.dev20230320+cu118 autocast half xformers:0.0.17+b3d75b3.d20230321 accelerate:0.16.0 transformers:4.26.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|xformers none|Counterfeit-V2.5-full.safetensors [bd83b90a2e]|Administrator||
 |4248|2023-04-16T23:15:16.144Z|3.42 / 4.08 / 4.8|updated:2023-03-29 hash:22bcc7be url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.1.0.dev20230320+cu118 autocast half xformers:0.0.17+b3d75b3.d20230321 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB|xformers none|cetusMix_whalefall.safetensors [ec9c3259dc]|Administrator||
