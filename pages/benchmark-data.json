@@ -1,5 +1,57 @@
 [
   [
+    4282,
+    "2023-06-22T08:58:08.495Z",
+    "11.95 / 10.36 / 12.63",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro RTX 8000 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 48GB",
+    "xformers none",
+    "Realistic\\realisticVisionV13_v13VAEIncluded.ckpt [ac32a2b5d7]",
+    "Multi Media",
+    ""
+  ],
+  [
+    4281,
+    "2023-06-22T08:36:49.355Z",
+    "4.62 / 1.9 / 2.86",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro RTX 8000 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 48GB",
+    "xformers none",
+    "Realistic\\realisticVisionV13_v13VAEIncluded.ckpt [ac32a2b5d7]",
+    "Multi Media",
+    ""
+  ],
+  [
+    4280,
+    "2023-06-22T21:30:27.425Z",
+    "1.29 / 3.4 / 3.85",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    "none none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "imsle",
+    ""
+  ],
+  [
+    4279,
+    "2023-06-22T08:13:20.494Z",
+    "4.65 / 1.9 / 2.86",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro RTX 8000 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 48GB",
+    "xformers none",
+    "Realistic\\realisticVisionV13_v13VAEIncluded.ckpt [ac32a2b5d7]",
+    "Multi Media",
+    ""
+  ],
+  [
     4278,
     "2023-06-22T17:14:05.837Z",
     "12.89 / 18.89 / 28.91",
