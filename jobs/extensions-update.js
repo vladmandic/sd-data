@@ -125,13 +125,19 @@ async function curate(data) {
     log('curation file:', f, { entries: length });
     for (let ext of list) {
       if (!ext.name) continue;
-      if (ext.url) {
+      const existing = data.find((e) => e.name === ext.name);
+      if (ext.url && (ext.url !== existing?.url)) {
         ext = await getDetails(ext);
       }
-      let existing = data.find((e) => e.name === ext.name);
-      if (existing) existing = Object.assign(existing, ext);
-      else if (ext.url) data.push(ext); // only append extensions with url
-      else log(`curate error: ${f}/${ext.name}`);
+      if (existing) {
+        existing.status = ext.status;
+        existing.note = ext.note;
+        existing.url = ext.url || existing.url;
+      } else if (ext.url) {
+        data.push(ext); // only append extensions with url
+      } else {
+        log(`curate error: ${f}/${ext.name}`);
+      }
     }
   }
   return output;

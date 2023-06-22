@@ -1,17 +1,14 @@
 {
-  "name": "sd-extensions-system-info",
+  "name": "sd-data",
   "version": "0.0.1",
   "description": "",
-  "main": "benchmark-download.js",
-  "scripts": {
-    "start": "node benchmark-download.js"
-  },
+  "main": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladmandic/sd-extension-system-info.git"
+    "url": "git+https://github.com/vladmandic/sd-data.git"
   },
   "bugs": {
-    "url": "https://github.com/vladmandic/sd-extension-system-info/issues"
+    "url": "https://github.com/vladmandic/sd-data/issues"
   },
   "engines": {
     "node": ">=18.0.0"
