@@ -1,5 +1,44 @@
 [
   [
+    4278,
+    "2023-06-22T17:14:05.837Z",
+    "12.89 / 18.89 / 28.91",
+    "updated:2023-06-20 hash:c02ccc4f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "reliberate_v10.safetensors [980cb713af]",
+    "Origin XL",
+    ""
+  ],
+  [
+    4277,
+    "2023-06-22T13:10:15.588Z",
+    "12.03 / 14.89 / 17.08 / 17.68 / 17.74",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "dreadV4_.safetensors [eb91d59a27]",
+    "Peufou",
+    ""
+  ],
+  [
+    4276,
+    "2023-06-13T21:46:33.347Z",
+    "9.11 / 11.7 / 12.29",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Peufou",
+    ""
+  ],
+  [
     4275,
     "2023-06-22T17:35:47.630Z",
     "1.4 / 1.44 / 1.56",
