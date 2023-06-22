@@ -1,5 +1,31 @@
 [
   [
+    4259,
+    "2023-06-21T20:12:55.807Z",
+    "23.99 / 35.13 / 43.08 / 42.88 / 43.37",
+    "updated:2023-06-20 hash:c02ccc4f url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "davinci",
+    ""
+  ],
+  [
+    4258,
+    "2023-06-21T20:07:46.509Z",
+    "23.21 / 24.53 / 32.01 / 34.77 / 35.65",
+    "updated:2023-06-20 hash:c02ccc4f url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "none none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "davinci",
+    ""
+  ],
+  [
     4257,
     "2023-06-21T22:56:47.752Z",
     "27.12 / 29.26 / 30.31",
