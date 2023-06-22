@@ -1,5 +1,44 @@
 [
   [
+    4298,
+    "2023-06-23T00:53:14.326Z",
+    "6.24 / 7.74 / 9.63",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "KK",
+    ""
+  ],
+  [
+    4297,
+    "2023-06-23T00:31:55.239Z",
+    "9.44 / 10.58 / 11.81",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "KK",
+    ""
+  ],
+  [
+    4296,
+    "2023-06-23T00:18:04.849Z",
+    "3.11 / 4.01 / 4.74",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "KK",
+    ""
+  ],
+  [
     4295,
     "2023-06-22T23:02:22.052Z",
     "13.54 / 18.07 / 23.07",
