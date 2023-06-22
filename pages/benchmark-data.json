@@ -1,5 +1,18 @@
 [
   [
+    4283,
+    "2023-06-22T14:02:14.833Z",
+    "9.84 / 5.34 / 5.63",
+    "updated:2023-06-05 hash:baf6946e url:https://gitee.com/k7212519/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.9.5",
+    "torch:2.1.0.dev20230620+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.5.30201-c1741e9b 16GB",
+    "Doggettx none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "root",
+    ""
+  ],
+  [
     4282,
     "2023-06-22T08:58:08.495Z",
     "11.95 / 10.36 / 12.63",
