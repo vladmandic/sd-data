@@ -1,5 +1,18 @@
 [
   [
+    4292,
+    "2023-06-23T00:10:59.032Z",
+    "2.74 / 3.08 / 3.68",
+    "updated:2023-06-05 hash:baf6946e0 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "CounterfeitV25_25.safetensors [a074b8864e]",
+    "LZY",
+    ""
+  ],
+  [
     4291,
     "2023-06-23T00:02:51.875Z",
     "0.38 / 0.41 / 0.46",
