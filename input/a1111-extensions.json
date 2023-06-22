@@ -21,6 +21,15 @@
   },
   "extensions": [
     {
+      "name": "Agent Scheduler",
+      "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler.git",
+      "description": "Queue task and task history",
+      "added": "2023-06-23",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
       "name": "TemporalKit",
       "url": "https://github.com/CiaraStrawberry/TemporalKit",
       "description": "An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension",
@@ -1740,13 +1749,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "14570",
+  "content-length": "14636",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 22 Jun 2023 16:39:06 GMT",
-  "etag": "W/\"0ed8509fde9b63d445780b67c4d55a479ac5bcaddede5253979c5929e557c35d\"",
-  "expires": "Thu, 22 Jun 2023 16:44:06 GMT",
+  "date": "Thu, 22 Jun 2023 18:38:33 GMT",
+  "etag": "W/\"ddaf660066f3123452864cf1d384cdc8a0eb40c333a7cf90a62daa00a80257e7\"",
+  "expires": "Thu, 22 Jun 2023 18:43:33 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -1754,10 +1763,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "88e7a591625e383ad77948b93bcea6d33d175dd0",
+  "x-fastly-request-id": "0da3bb6d90083bce2576ba58f73f9c3b755ee50c",
   "x-frame-options": "deny",
-  "x-github-request-id": "BBA0:4340:2C90B1:357BDB:64947929",
-  "x-served-by": "cache-sjc10034-SJC",
-  "x-timer": "S1687451946.856793,VS0,VE284",
+  "x-github-request-id": "C2E4:20F8:3184EE:3B33DF:64949528",
+  "x-served-by": "cache-sjc10066-SJC",
+  "x-timer": "S1687459113.899809,VS0,VE164",
   "x-xss-protection": "1; mode=block"
 }
