@@ -1,5 +1,44 @@
 [
   [
+    4291,
+    "2023-06-23T00:02:51.875Z",
+    "0.38 / 0.41 / 0.46",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 71 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA P106-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "joy",
+    ""
+  ],
+  [
+    4290,
+    "2023-06-23T00:19:19.777Z",
+    "20.26 / 26.24 / 29.9 / 24.58 / 24.0",
+    "updated:2023-06-22 hash:91e65fd3 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AbyssOrangeMix2_nsfw.safetensors [0873291ac5]",
+    "kemomimi",
+    ""
+  ],
+  [
+    4289,
+    "2023-06-23T00:16:50.727Z",
+    "21.3 / 18.82 / 23.41",
+    "updated:2023-06-22 hash:91e65fd3 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AbyssOrangeMix2_nsfw.safetensors [0873291ac5]",
+    "kemomimi",
+    ""
+  ],
+  [
     4288,
     "2023-06-22T16:49:16.547Z",
     "15.53 / 23.6 / 32.76 / 33.25 / 35.37",
