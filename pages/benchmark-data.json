@@ -1,5 +1,18 @@
 [
   [
+    4354,
+    "2023-06-24T01:40:26.007Z",
+    "1.23",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "realisticVisionV20_v20.safetensors [c0d1994c73]",
+    "Tada",
+    ""
+  ],
+  [
     4353,
     "2023-06-23T21:09:03.824Z",
     "10.85 / 14.61 / 16.38",
