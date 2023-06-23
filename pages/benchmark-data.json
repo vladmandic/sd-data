@@ -1,5 +1,18 @@
 [
   [
+    4350,
+    "2023-06-24T03:22:38.541Z",
+    "9.71 / 11.39 / 11.98",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6950 XT (1) hip:5.4.22803-474e8620 16GB",
+    "Doggettx none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    ""
+  ],
+  [
     4349,
     "2023-06-24T02:11:47.074Z",
     "6.16 / 6.8 / 7.56",
