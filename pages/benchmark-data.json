@@ -1,5 +1,44 @@
 [
   [
+    4338,
+    "2023-06-23T23:59:07.943Z",
+    "7.86 / 6.91 / 7.62",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "1",
+    ""
+  ],
+  [
+    4337,
+    "2023-06-24T00:34:44.188Z",
+    "4.28 / 6.54 / 11.25",
+    "updated:2023-06-23 hash:4867dafa url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 126 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "AbyssOrangeMix2_hard.safetensors [0fc198c490]",
+    "제주수제담배",
+    ""
+  ],
+  [
+    4336,
+    "2023-06-23T15:27:08.174Z",
+    "10.65 / 10.1 / 11.5",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-122-generic python:3.10.9",
+    "torch:2.0.0 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro RTX 5000 (1) (compute_37) (7, 5) cuda:11.7 cudnn:8500 16GB",
+    "xformers none",
+    "allInOnePixelModel_v1.ckpt [d7fb6396ab]",
+    "root",
+    ""
+  ],
+  [
     4335,
     "2023-06-23T22:30:49.258Z",
     "14.66 / 19.4 / 22.0",
