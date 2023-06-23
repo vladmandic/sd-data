@@ -8,39 +8,34 @@
     "url": "https://github.com/muerrilla/stable-diffusion-Latentshop.git",
 	  "description": "Color correction and much more.",
 	  "long-description": "",
-	  "branch": "",
-    "commit": "",
+	  "branch": ""
   },
   {
     "name": "Face Editor",
     "url": "https://github.com/ototadana/sd-face-editor.git",
 	  "description": "Repairs bad faces, neck, head, and hair.",
 	  "long-description": "",
-	  "branch": "",
-    "commit": "",
+	  "branch": ""
   },
   {
 	  "name": "BatchLinks Downloader",
 	  "url": "https://github.com/etherealxx/batchlinks-webui.git",
 	  "description": "Batch-downloading of Checkpoints, LoRAs, LyCORIS, and Embeds from a variety of sources.",
 	  "long-description": "",
-	  "branch": "",
-    "commit": "",
+	  "branch": ""
   },
   {
     "name": "Easy Tag Insert",
     "url": "https://github.com/Haoming02/sd-webui-easy-tag-insert.git",
     "description": "UI button and panel to assist in inserting tags into prompts, useful for LoRA/LyCORIS.",
     "long-description": "",
-    "branch": "",
-    "commit": ""
+    "branch": ""
   },
   {
     "name": " LLuL - Local Latent upscaLer",
     "url": "https://github.com/phamhungd/Llul.git",
     "description": "Allows for upscaling latents locally, enhancing a selected region of your image. WORKING.",
     "long-description": "",
-    "branch": "oldver",
-    "commit": ""
+    "branch": "oldver"
   }  
 ]
