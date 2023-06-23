@@ -1,5 +1,57 @@
 [
   [
+    4331,
+    "2023-06-23T18:46:50.990Z",
+    "5.82 / 6.49 / 7.24",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "dreamshaper_6BakedVae.safetensors [c249d7853b]",
+    "emersonksc",
+    ""
+  ],
+  [
+    4330,
+    "2023-06-23T19:25:57.466Z",
+    "32.52 / 39.04 / 42.17",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 24GB",
+    "sdp-no-mem none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "user",
+    "7950X3D, 32GB 6200MHz, Extra steps"
+  ],
+  [
+    4329,
+    "2023-06-23T19:24:45.016Z",
+    "31.97 / 38.43 / 42.33",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 24GB",
+    "sdp none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "user",
+    "7950X3D, 32GB 6200MHz, Extra steps"
+  ],
+  [
+    4328,
+    "2023-06-23T19:22:55.641Z",
+    "32.14 / 39.45 / 42.98",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 24GB",
+    "xformers none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "user",
+    "7950X3D, 32GB 6200MHz, Extra steps"
+  ],
+  [
     4327,
     "2023-06-23T17:07:22.711Z",
     "24.02 / 35.2 / 39.54",
