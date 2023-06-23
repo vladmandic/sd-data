@@ -1,5 +1,31 @@
 [
   [
+    4340,
+    "2023-06-23T17:06:02.865Z",
+    "10.85 / 15.65 / 17.64",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.102.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev544 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "sd-v1-5-inpainting.ckpt [c6bbc15e32]",
+    "root",
+    ""
+  ],
+  [
+    4339,
+    "2023-06-23T17:02:28.733Z",
+    "10.67 / 15.34 / 17.46",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.102.1-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev544 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "none none",
+    "mdjrny-v4.safetensors [aba96b389d]",
+    "root",
+    ""
+  ],
+  [
     4338,
     "2023-06-23T23:59:07.943Z",
     "7.86 / 6.91 / 7.62",
