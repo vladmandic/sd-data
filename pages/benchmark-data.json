@@ -1,5 +1,44 @@
 [
   [
+    4375,
+    "2023-06-24T14:44:10.265Z",
+    "10.58 / 17.27 / 20.07",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.17134-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "bj",
+    ""
+  ],
+  [
+    4374,
+    "2023-06-24T14:19:50.019Z",
+    "9.81 / 11.53 / 12.12",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.1.0.dev20230623+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.5.30201-c1741e9b 16GB",
+    "Doggettx none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    "xfx 6950xt / max vram usage 59% (when benchmarks) / stable 512x768 + upscale 2x with rocm5.5"
+  ],
+  [
+    4373,
+    "2023-06-24T14:13:44.986Z",
+    "9.84 / 11.55 / 12.12",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.1.0.dev20230623+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.5.30201-c1741e9b 16GB",
+    "Doggettx none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    "xtx 6950xt / max vram usage 59% (when benchmarks) / stable 512x768 + upscale 2x with rocm5.5"
+  ],
+  [
     4372,
     "2023-06-24T14:00:18.733Z",
     "9.79 / 11.58 / 12.11",
