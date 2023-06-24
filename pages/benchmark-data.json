@@ -1,5 +1,31 @@
 [
   [
+    4378,
+    "2023-06-24T15:54:30.518Z",
+    "4.5 / 5.75 / 5.96 / 5.09 / 4.69",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.19 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "none none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "eagle",
+    ""
+  ],
+  [
+    4377,
+    "2023-06-24T14:37:42.275Z",
+    "0.22 / 0.32 / 0.45",
+    "updated:2023-06-21 hash:4f46f9bd url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.7",
+    "torch:2.0.0+cpu autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    " 0GB",
+    "sub-quadratic lowvram",
+    "abyssorangemix2_Hard.safetensors [e714ee20aa]",
+    "Administrator",
+    ""
+  ],
+  [
     4376,
     "2023-06-24T15:24:59.161Z",
     "14.33 / 18.18 / 20.46",
