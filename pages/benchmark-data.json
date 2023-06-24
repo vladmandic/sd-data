@@ -1,5 +1,18 @@
 [
   [
+    4386,
+    "2023-06-24T14:52:07.468Z",
+    "1.64 / 1.9 / 2.15",
+    "updated:2023-06-09 hash:59419bd6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.4",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21+6f0602f.d20230623 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "SD2\\FFUSION AI\\ffusionAISD21_512BetaBFGBuild0401.safetensors [382df72d4a]",
+    "Pechista",
+    "Model: FFUSION AI - SD 2.1 (ffusionAISD21_512BetaBFGBuild0401)"
+  ],
+  [
     4385,
     "2023-06-24T14:58:24.644Z",
     "13.2 / 16.72 / 18.74 / 20.25 / 21.29",
