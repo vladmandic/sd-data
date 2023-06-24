@@ -1,5 +1,44 @@
 [
   [
+    4364,
+    "2023-06-24T12:10:17.767Z",
+    "9.7 / 11.4 / 11.94",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6950 XT (1) hip:5.4.22803-474e8620 16GB",
+    "sdp none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    ""
+  ],
+  [
+    4363,
+    "2023-06-24T12:08:13.292Z",
+    "9.74 / 11.42 / 11.95",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6950 XT (1) hip:5.4.22803-474e8620 16GB",
+    "sdp-no-mem none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    ""
+  ],
+  [
+    4362,
+    "2023-06-24T12:04:03.343Z",
+    "9.72 / 11.4 / 11.95",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6950 XT (1) hip:5.4.22803-474e8620 16GB",
+    "Doggettx none",
+    "abyssorangemix3AOM3_aom3a1b.safetensors [5493a0ec49]",
+    "kgb",
+    ""
+  ],
+  [
     4361,
     "2023-06-24T10:41:48.863Z",
     "11.1 / 12.45 / 14.05",
