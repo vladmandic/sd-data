@@ -1,5 +1,18 @@
 [
   [
+    4376,
+    "2023-06-24T15:24:59.161Z",
+    "14.33 / 18.18 / 20.46",
+    "updated:2023-05-29 hash:9931e861 url:https://github.com/anapnoe/stable-diffusion-webui-ux.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "Reliberate_v10.safetensors [980cb713af]",
+    "Сергей",
+    ""
+  ],
+  [
     4375,
     "2023-06-24T14:44:10.265Z",
     "10.58 / 17.27 / 20.07",
