@@ -1,5 +1,44 @@
 [
   [
+    4432,
+    "2023-06-25T03:04:12.083Z",
+    "3.77 / 4.11 / 3.7 / 2.21 / 1.71",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "dreamshaper_5BakedVae.safetensors [a60cfaa90d]",
+    "Mirchi Seth",
+    ""
+  ],
+  [
+    4431,
+    "2023-06-25T01:47:17.181Z",
+    "0.6 / 1.05 / 1.76",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers lowvram",
+    "dreamshaper_5BakedVae.safetensors [a60cfaa90d]",
+    "Mirchi Seth",
+    ""
+  ],
+  [
+    4430,
+    "2023-06-25T02:57:45.396Z",
+    "3.8 / 4.14 / 3.71",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "dreamshaper_5BakedVae.safetensors [a60cfaa90d]",
+    "Mirchi Seth",
+    ""
+  ],
+  [
     4429,
     "2023-06-25T01:24:41.494Z",
     "3.6 / 3.86 / 3.48",
