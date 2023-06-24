@@ -1,5 +1,18 @@
 [
   [
+    4365,
+    "2023-06-24T11:36:34.485Z",
+    "7.16 / 7.52 / 8.75",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23486-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "mars",
+    ""
+  ],
+  [
     4364,
     "2023-06-24T12:10:17.767Z",
     "9.7 / 11.4 / 11.94",
