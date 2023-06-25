@@ -1,5 +1,18 @@
 [
   [
+    4489,
+    "2023-06-26T00:44:29.358Z",
+    "16.53 / 18.58 / 19.17",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "majicmixFantasy_v20.ckpt [d3c519673b]",
+    "robert",
+    ""
+  ],
+  [
     4488,
     "2023-06-26T06:12:13.320Z",
     "7.08 / 6.36 / 5.54",
