@@ -1,5 +1,19 @@
 [
   [
+    4452,
+    "2023-06-25T07:47:25.728Z",
+    "5.81 / 5.1 / 5.02",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.107+ python:3.10.12",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:Tesla T4 (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 15GB",
+    "xformers lowram",
+    "万象熔炉 ",
+    " Anything V5Ink.safetensors [7f96a1a9ca]",
+    "penecea",
+    ""
+  ],
+  [
     4451,
     "2023-06-25T14:04:06.186Z",
     "6.85 / 7.35 / 8.45",
