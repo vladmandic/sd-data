@@ -1,5 +1,31 @@
 [
   [
+    4488,
+    "2023-06-26T06:12:13.320Z",
+    "7.08 / 6.36 / 5.54",
+    "updated:2023-04-28 hash:3b6effe4 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "invokeai none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "vU",
+    ""
+  ],
+  [
+    4487,
+    "2023-05-15T11:48:53.722Z",
+    "4.9 / 7.77 / 9.74",
+    "updated:2023-04-28 hash:3b6effe4 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "civitai\\breakdomain_M2000.safetensors [3baa512068]",
+    "vU",
+    ""
+  ],
+  [
     4486,
     "2023-06-25T23:49:38.609Z",
     "12.5 / 25.54 / 40.55",
