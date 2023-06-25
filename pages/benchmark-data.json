@@ -1,5 +1,57 @@
 [
   [
+    4447,
+    "2023-06-25T11:58:32.293Z",
+    "10.03 / 7.48 / 8.77",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 11GB",
+    "Doggettx none",
+    "2.5D\\2.5D漫画风格NSFW（高饱和度）.safetensors [61f21f5915]",
+    "djjcyang",
+    ""
+  ],
+  [
+    4446,
+    "2023-06-24T23:52:41.664Z",
+    "1.01 / error / error",
+    "updated:2023-06-20 hash:c02ccc4f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 42 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast nohalf xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "sdp-no-mem medvram",
+    "mixProV4_v4.safetensors [61e23e57ea]",
+    "Niqqa",
+    ""
+  ],
+  [
+    4445,
+    "2023-06-25T11:42:04.460Z",
+    "11.55 / 15.86 / 21.72",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/featurize/stable-diffusion-webui/tree/HEAD",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-91-generic python:3.10.10",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_86) (8, 9) cuda:11.7 cudnn:8500 24GB",
+    "xformers none",
+    "AnythingV5Ink_v5PrtRE.safetensors [7f96a1a9ca]",
+    "penecea",
+    ""
+  ],
+  [
+    4444,
+    "2023-06-25T12:09:47.217Z",
+    "6.63 / 7.48 / 8.08",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB",
+    "xformers none",
+    "beautifulRealistic_brav5.safetensors [ac68270450]",
+    "hiro",
+    ""
+  ],
+  [
     4443,
     "2023-06-25T03:21:48.372Z",
     "7.5 / 7.75 / 9.16",
