@@ -1,5 +1,18 @@
 [
   [
+    4505,
+    "2023-06-26T12:08:11.022Z",
+    "0.54 / 0.55 / 0.51",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.10.10",
+    "torch:2.0.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "root",
+    ""
+  ],
+  [
     4504,
     "2023-06-26T11:20:16.757Z",
     "18.64 / 21.3 / 22.11 / 22.78 / 22.97",
