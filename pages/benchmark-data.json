@@ -1,5 +1,18 @@
 [
   [
+    4504,
+    "2023-06-26T11:20:16.757Z",
+    "18.64 / 21.3 / 22.11 / 22.78 / 22.97",
+    "updated:2023-06-16 hash:eae813bc url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.1.0.dev20230614+rocm5.5 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:Radeon RX 7900 XTX (1) hip:5.5.30201-c1741e9b 24GB",
+    "sdp none",
+    "[2D]CounterfeitV30_v30.safetensors [cbfba64e66]",
+    "mayuri",
+    "Token merging ratio: 0.9"
+  ],
+  [
     4503,
     "2023-06-25T18:21:19.835Z",
     "error",
