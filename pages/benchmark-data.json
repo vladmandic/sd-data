@@ -1,5 +1,57 @@
 [
   [
+    4525,
+    "2023-06-26T19:57:10.789Z",
+    "2.47 / 3.35 / 3.71",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    "xformers none",
+    "XpucT - Reliberate-inpainting.safetensors [c54f90e540]",
+    "user",
+    ""
+  ],
+  [
+    4524,
+    "2023-06-26T18:39:57.841Z",
+    "8.38 / 9.16 / 10.29 / 10.63 / 10.82",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "cinemaerospgV4_cinemaerospgV4UF.safetensors [81461c496e]",
+    "User",
+    ""
+  ],
+  [
+    4523,
+    "2023-06-26T18:38:59.619Z",
+    "8.41 / 9.04 / 10.33",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "cinemaerospgV4_cinemaerospgV4UF.safetensors [81461c496e]",
+    "User",
+    ""
+  ],
+  [
+    4522,
+    "2023-06-27T00:24:55.115Z",
+    "23.2 / 33.3 / 36.92 / 37.15 / 36.93",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "CQ",
+    ""
+  ],
+  [
     4521,
     "2023-06-26T23:25:27.229Z",
     "19.73 / 28.33 / 37.87",
