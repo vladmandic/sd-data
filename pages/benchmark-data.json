@@ -1,5 +1,44 @@
 [
   [
+    4503,
+    "2023-06-25T18:21:19.835Z",
+    "error",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Tone",
+    ""
+  ],
+  [
+    4502,
+    "2023-06-25T18:10:14.602Z",
+    "6.84",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev554 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Tone",
+    ""
+  ],
+  [
+    4501,
+    "2023-06-25T18:20:43.066Z",
+    "error",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Tone",
+    ""
+  ],
+  [
     4500,
     "2023-06-25T17:33:37.203Z",
     "6.95",
