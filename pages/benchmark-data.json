@@ -1,5 +1,44 @@
 [
   [
+    4590,
+    "2023-06-27T21:47:11.036Z",
+    "2.5 / 3.26 / 4.01",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "gameIconInstitute_v30.safetensors [c112297163]",
+    "niiwz",
+    ""
+  ],
+  [
+    4589,
+    "2023-06-27T23:18:59.840Z",
+    "15.85 / 30.28 / 42.23 / 43.84 / 41.77",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "v2-1_768-ema-pruned.safetensors [dcd690123c]",
+    "00aki",
+    ""
+  ],
+  [
+    4588,
+    "2023-06-27T23:13:59.914Z",
+    "16.59 / 29.64 / 41.13 / 41.27 / 40.5",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "anything-v4.5.ckpt [fbcf965a62]",
+    "00aki",
+    ""
+  ],
+  [
     4587,
     "2023-06-27T12:25:04.637Z",
     "14.92 / 16.12 / 17.41",
