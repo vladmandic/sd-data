@@ -1,5 +1,31 @@
 [
   [
+    4592,
+    "2023-06-28T01:05:43.203Z",
+    "13.72 / 19.07 / 20.14",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "v15PrunedEmaonly_v15PrunedEmaonly.safetensors [6ce0161689]",
+    "icaru",
+    ""
+  ],
+  [
+    4591,
+    "2023-06-28T00:39:17.328Z",
+    "13.55 / 18.21 / 19.73",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    " none",
+    "v15PrunedEmaonly_v15PrunedEmaonly.safetensors [6ce0161689]",
+    "icaru",
+    ""
+  ],
+  [
     4590,
     "2023-06-27T21:47:11.036Z",
     "2.5 / 3.26 / 4.01",
