@@ -1,5 +1,44 @@
 [
   [
+    4571,
+    "2023-06-27T21:05:58.606Z",
+    "19.04 / 23.77 / 25.84",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "hassakuHentaiModel_v12.safetensors [d3cd6ac55a]",
+    "munggu1010",
+    ""
+  ],
+  [
+    4570,
+    "2023-06-27T21:03:37.507Z",
+    "19.32 / 23.49 / 25.68",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "hassakuHentaiModel_v12.safetensors [d3cd6ac55a]",
+    "home",
+    ""
+  ],
+  [
+    4569,
+    "2023-06-27T19:57:25.982Z",
+    "20.13 / 33.06 / 41.03",
+    "updated:2023-06-27 hash:fab73f2e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.23486-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8901 24GB",
+    "xformers none",
+    "mid2.fp16.safetensors [1ec1537969]",
+    "maple",
+    ""
+  ],
+  [
     4568,
     "2023-06-27T19:40:05.784Z",
     "13.04 / 14.6 / 15.53",
