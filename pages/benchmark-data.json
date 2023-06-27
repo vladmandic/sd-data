@@ -1,5 +1,18 @@
 [
   [
+    4539,
+    "2023-06-26T22:26:14.143Z",
+    "0.16",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-47-generic python:3.10.7",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.21.dev554 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro M1000M (1) (sm_86) (5, 0) cuda:11.7 cudnn:8500 4GB",
+    "Doggettx lowvram",
+    "pornmasterAmateur_fullV2.safetensors [4aba1b55c0]",
+    "moment",
+    ""
+  ],
+  [
     4538,
     "2023-06-27T06:18:59.875Z",
     "0.57 / error / error",
