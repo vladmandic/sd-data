@@ -1,5 +1,31 @@
 [
   [
+    4677,
+    "2023-06-28T16:24:52.231Z",
+    "2.03 / 2.22 / 2.33 / 1.52 / error",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Instinct MI25 (1) hip:5.4.22803-474e8620 16GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "dqchuang",
+    ""
+  ],
+  [
+    4676,
+    "2023-06-28T16:22:11.466Z",
+    "2.07 / 2.25 / 1.51",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Instinct MI25 (1) hip:5.4.22803-474e8620 16GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "dqchuang",
+    ""
+  ],
+  [
     4675,
     "2023-06-28T21:18:16.110Z",
     "19.75 / 21.57 / 23.02",
