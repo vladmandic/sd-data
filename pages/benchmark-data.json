@@ -1,5 +1,18 @@
 [
   [
+    4660,
+    "2023-06-28T15:43:38.270Z",
+    "0.77 / 0.73 / 0.74 / 0.77 / 0.78",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.7 cudnn:8500 6GB",
+    "xformers none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "KARIM",
+    ""
+  ],
+  [
     4659,
     "2023-06-28T22:28:02.342Z",
     "15.55 / 17.82 / 20.32",
