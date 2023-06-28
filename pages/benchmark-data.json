@@ -1,5 +1,18 @@
 [
   [
+    4675,
+    "2023-06-28T21:18:16.110Z",
+    "19.75 / 21.57 / 23.02",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8900 12GB",
+    "xformers none",
+    "aZovyaPhotoreal_v2.safetensors [5594efef1c]",
+    "Pospo",
+    ""
+  ],
+  [
     4674,
     "2023-06-28T20:51:55.961Z",
     "4.74 / 5.35 / 5.78",
