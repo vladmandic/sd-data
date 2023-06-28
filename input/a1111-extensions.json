@@ -1750,6 +1750,35 @@
         "online"
       ],
       "added": "2023-06-25"
+    },
+    {
+      "name": "Pixel art",
+      "url": "https://github.com/mrreplicart/sd-webui-pixelart.git",
+      "description": "Extension that provides basic functionality for pixel art: downscaling, palette limiting, grayscale, black&white, ability to change image colors with custom color palette",
+      "tags": [
+        "script",
+        "editing",
+        "extras"
+      ],
+      "added": "2023-06-28"
+    },
+    {
+      "name": "Lobe Theme",
+      "url": "https://github.com/canisminor1990/sd-webui-lobe-theme.git",
+      "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
+      "added": "2023-06-28",
+      "tags": [
+        "UI related"
+      ]
+    },
+    {
+      "name": "Kitchen Theme",
+      "url": "https://github.com/canisminor1990/sd-webui-kitchen-theme-legacy.git",
+      "description": "Custom Theme.",
+      "added": "2023-02-28",
+      "tags": [
+        "UI related"
+      ]
     }
   ],
   "accept-ranges": "bytes",
@@ -1757,13 +1786,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "14697",
+  "content-length": "14906",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 28 Jun 2023 14:39:05 GMT",
-  "etag": "W/\"6f6ebfe2ced2960a1a213136b737de35d02fd5df8f40a642c257315e8a3a441d\"",
-  "expires": "Wed, 28 Jun 2023 14:44:05 GMT",
+  "date": "Wed, 28 Jun 2023 16:44:53 GMT",
+  "etag": "W/\"2e0261d494c0c165406b2263d5a3d8a8a5edf139248b730d5b05199a1f893bca\"",
+  "expires": "Wed, 28 Jun 2023 16:49:53 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -1771,10 +1800,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "5022479689fc0194d362d9e19dded7e3054b9230",
+  "x-fastly-request-id": "389517c465074ece6b3e5501f938bc8dbda3f500",
   "x-frame-options": "deny",
-  "x-github-request-id": "2890:4F8D:40D916:4DE692:649C4609",
-  "x-served-by": "cache-dfw-kdfw8210041-DFW",
-  "x-timer": "S1687963146.787628,VS0,VE120",
+  "x-github-request-id": "B258:2010:46CE4C:548818:649C6385",
+  "x-served-by": "cache-dfw-kdfw8210067-DFW",
+  "x-timer": "S1687970693.133527,VS0,VE106",
   "x-xss-protection": "1; mode=block"
 }
