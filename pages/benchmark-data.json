@@ -1,5 +1,31 @@
 [
   [
+    4630,
+    "2023-06-28T06:45:19.750Z",
+    "1.07 / 1.39 / 0.9 / 0.62 / 0.37",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "Msi",
+    ""
+  ],
+  [
+    4629,
+    "2023-06-27T21:01:49.138Z",
+    "7.67",
+    "",
+    "",
+    "torch: ",
+    " 8GB",
+    " ",
+    "2D comic - cartoon\\comicDiffusion_v2.ckpt [d3c225cbc2]",
+    "Tone",
+    ""
+  ],
+  [
     4628,
     "2023-06-27T21:59:39.313Z",
     "0.35 / 0.33 / 0.33",
