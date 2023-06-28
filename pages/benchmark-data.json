@@ -1,5 +1,44 @@
 [
   [
+    4665,
+    "2023-06-29T01:06:14.859Z",
+    "6.42 / 7.13 / 8.04",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "Lyriel_v1.safetensors [706b97b203]",
+    "LINDX",
+    ""
+  ],
+  [
+    4664,
+    "2023-06-28T12:39:54.629Z",
+    "2.05 / 2.24 / 2.11",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "srOmega_v3.safetensors [12f7957655]",
+    "flerndip",
+    "without xformers"
+  ],
+  [
+    4663,
+    "2023-06-29T01:15:43.347Z",
+    "28.1 / 32.61 / 36.44",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "(chik10+lo+xxm.safetensors [3d6a1d9c52]",
+    "Administrator",
+    ""
+  ],
+  [
     4662,
     "2023-06-29T00:11:27.702Z",
     "6.98 / 8.05 / 9.48",
