@@ -1,5 +1,31 @@
 [
   [
+    4662,
+    "2023-06-29T00:11:27.702Z",
+    "6.98 / 8.05 / 9.48",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 16GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "rog",
+    ""
+  ],
+  [
+    4661,
+    "2023-06-28T23:48:37.443Z",
+    "0.54 / 0.74 / 0.76",
+    "updated:2023-06-27 hash:394ffa7b0 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 with Max-Q Design (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "v1-5-pruned.safetensors [1a189f0be6]",
+    "WWang",
+    ""
+  ],
+  [
     4660,
     "2023-06-28T15:43:38.270Z",
     "0.77 / 0.73 / 0.74 / 0.77 / 0.78",
