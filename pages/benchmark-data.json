@@ -1,5 +1,57 @@
 [
   [
+    4719,
+    "2023-06-29T20:11:39.112Z",
+    "6.52 / 6.75 / 7.35",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "Doggettx none",
+    "epicrealism_pureEvolution.safetensors [62e2993f1d]",
+    "teherauto",
+    ""
+  ],
+  [
+    4718,
+    "2023-06-29T20:09:33.325Z",
+    "7.79 / 8.11 / 9.08",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "epicrealism_pureEvolution.safetensors [62e2993f1d]",
+    "teherauto",
+    ""
+  ],
+  [
+    4717,
+    "2023-06-29T20:06:16.407Z",
+    "7.75 / 7.99 / 8.95",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "epicrealism_pureEvolution.safetensors [62e2993f1d]",
+    "teherauto",
+    ""
+  ],
+  [
+    4716,
+    "2023-06-29T20:03:45.790Z",
+    "7.98 / 8.23 / 9.18",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "epicrealism_pureEvolution.safetensors [62e2993f1d]",
+    "teherauto",
+    ""
+  ],
+  [
     4715,
     "2023-06-30T00:38:21.833Z",
     "8.94 / 7.51 / 8.57",
