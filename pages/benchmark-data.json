@@ -1,5 +1,31 @@
 [
   [
+    4697,
+    "2023-06-29T15:38:08.535Z",
+    "8.97 / 9.56 / 9.75 / 9.96 / 10.29",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "moonfilm_filmGrain10.safetensors [88ea5a84a3]",
+    "yao",
+    ""
+  ],
+  [
+    4696,
+    "2023-06-29T15:14:29.731Z",
+    "6.94 / 7.37 / 8.0 / 8.27 / 8.45",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "Doggettx none",
+    "moonfilm_filmGrain10.safetensors [88ea5a84a3]",
+    "yaoya",
+    ""
+  ],
+  [
     4695,
     "2023-06-29T13:26:00.881Z",
     "8.18 / 8.76 / 9.79",
