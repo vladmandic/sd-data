@@ -1,5 +1,18 @@
 [
   [
+    4694,
+    "2023-06-29T11:54:15.816Z",
+    "5.28 / 2.56 / 2.68",
+    "updated:2023-06-27 hash:394ffa7b url:https://hub.fgit.ml/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.3.9-zen1-1-zen python:3.11.3",
+    "torch:2.0.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon VII (1) hip:5.4.22804- 16GB",
+    "sdp-no-mem none",
+    "theAllysMixIII_v10.safetensors [f427dd7a4f]",
+    "fjf",
+    ""
+  ],
+  [
     4693,
     "2023-06-29T03:46:54.424Z",
     "12.93 / 15.09 / 16.64 / 18.13 / 19.1",
