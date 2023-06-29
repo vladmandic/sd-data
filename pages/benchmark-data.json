@@ -1,5 +1,31 @@
 [
   [
+    4693,
+    "2023-06-29T03:46:54.424Z",
+    "12.93 / 15.09 / 16.64 / 18.13 / 19.1",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "1m4b00m3rbr0",
+    "I dont have any idea of what I'm doing"
+  ],
+  [
+    4692,
+    "2023-06-29T03:43:57.110Z",
+    "13.28 / 14.62 / 16.63",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 10GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "1m4b00m3rbr0",
+    "I dont have any idea of what I'm doing"
+  ],
+  [
     4691,
     "2023-06-28T19:35:24.098Z",
     "8.06 / 9.08 / 10.02 / 10.77 / 11.01",
