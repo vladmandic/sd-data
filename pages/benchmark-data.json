@@ -1,5 +1,31 @@
 [
   [
+    4712,
+    "2023-06-29T12:33:21.624Z",
+    "0.08 / 0.08 / 0.08 / 0.09 / 0.08",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:i386 system:Darwin release:20.6.0 python:3.10.11",
+    "torch:2.0.1 full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "admin",
+    ""
+  ],
+  [
+    4711,
+    "2023-06-29T23:11:38.474Z",
+    "4.63 / 5.02 / 5.85",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22623-SP0 python:3.10.8",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 8GB",
+    "xformers medvram",
+    "Chewy marshmallow candy_fp16.safetensors [0dd54428bd]",
+    "yorumei",
+    ""
+  ],
+  [
     4710,
     "2023-06-22T21:15:00.758Z",
     "6.32 / 7.95 / 10.02",
