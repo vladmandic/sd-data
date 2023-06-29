@@ -1,5 +1,31 @@
 [
   [
+    4715,
+    "2023-06-30T00:38:21.833Z",
+    "8.94 / 7.51 / 8.57",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "fycri",
+    ""
+  ],
+  [
+    4714,
+    "2023-06-29T12:23:07.094Z",
+    "5.65 / 5.01 / 5.85",
+    "updated:2023-06-29 hash:a9fa014e url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "ALL-Merged.safetensors [28b10d0328]",
+    "rodge",
+    ""
+  ],
+  [
     4713,
     "2023-06-22T00:12:46.532Z",
     "19.15 / 32.97 / 41.97",
