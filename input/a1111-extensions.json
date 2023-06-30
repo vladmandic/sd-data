@@ -1779,6 +1779,25 @@
       "tags": [
         "UI related"
       ]
+    },
+    {
+      "name": "IF_prompt_MKR",
+      "url": "https://github.com/if-ai/IF_prompt_MKR.git",
+      "description": "Creates prompts using a local LlMs via Oobabooga text webUI API",
+      "tags": [
+        "script",
+        "prompting"
+      ],
+      "added": "2023-06-30"
+    },
+    {
+      "name": "3D Editor",
+      "url": "https://github.com/jtydhr88/sd-webui-3d-editor.git",
+      "description": "3D modeling features (add/edit basic elements, load your custom model, modify scene and so on), then send screenshot to txt2img or img2img as your ControlNet's reference image, basing on ThreeJS editor.",
+      "tags": [
+        "tab"
+      ],
+      "added": "2023-06-30"
     }
   ],
   "accept-ranges": "bytes",
@@ -1786,13 +1805,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "14906",
+  "content-length": "15061",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 30 Jun 2023 06:42:04 GMT",
-  "etag": "W/\"2e0261d494c0c165406b2263d5a3d8a8a5edf139248b730d5b05199a1f893bca\"",
-  "expires": "Fri, 30 Jun 2023 06:47:04 GMT",
+  "date": "Fri, 30 Jun 2023 08:40:30 GMT",
+  "etag": "W/\"8f04a74371f250f31cd471ba194787734a0769497f7ea95c7cce86c6a702a775\"",
+  "expires": "Fri, 30 Jun 2023 08:45:30 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -1800,10 +1819,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "67baf22b6d4793e5abf8920681e93022cb2b833d",
+  "x-fastly-request-id": "cba52b3f7773c289806d94ee8e631a8f27efda84",
   "x-frame-options": "deny",
-  "x-github-request-id": "7A4C:3606:947B1F:ADA5A2:649E793B",
-  "x-served-by": "cache-sjc10082-SJC",
-  "x-timer": "S1688107324.822036,VS0,VE195",
+  "x-github-request-id": "14A6:5869:67FCC1:7A8557:649E94FE",
+  "x-served-by": "cache-bur-kbur8200058-BUR",
+  "x-timer": "S1688114430.274740,VS0,VE197",
   "x-xss-protection": "1; mode=block"
 }
