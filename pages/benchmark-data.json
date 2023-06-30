@@ -1,5 +1,31 @@
 [
   [
+    4756,
+    "2023-06-30T19:03:28.074Z",
+    "20.55 / 29.72 / 37.38",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "anyloraCheckpoint_novaeFp16.safetensors [00bafa0e71]",
+    "26440",
+    ""
+  ],
+  [
+    4755,
+    "2023-06-30T18:42:18.409Z",
+    "12.78 / 14.27 / 16.38",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "真实\\reliberate_v10_2.safetensors [980cb713af]",
+    "Administrator",
+    ""
+  ],
+  [
     4754,
     "2023-06-30T19:02:35.944Z",
     "13.89 / 15.14 / 17.61",
