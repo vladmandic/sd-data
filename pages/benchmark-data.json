@@ -1,5 +1,31 @@
 [
   [
+    4736,
+    "2023-06-30T14:38:54.423Z",
+    "8.15 / 8.62 / 9.17",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "限时独占︱墨幽人造人_v1010修剪.safetensors [dfab1a6123]",
+    "汪哲君",
+    ""
+  ],
+  [
+    4735,
+    "2023-06-30T14:20:56.940Z",
+    "1.12 / 1.2 / 1.26",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 Ti with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "tlz16",
+    ""
+  ],
+  [
     4734,
     "2023-06-30T13:58:44.525Z",
     "3.32 / 3.86 / 4.73",
