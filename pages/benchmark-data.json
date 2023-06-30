@@ -1,5 +1,44 @@
 [
   [
+    4773,
+    "2023-06-30T13:49:15.619Z",
+    "9.83 / 12.01 / 12.95",
+    "updated:2023-06-29 hash:a9fa014e url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "abyssorangemix2NSFW_abyssorangemix2Nsfw.safetensors [e892703c61]",
+    "keega",
+    ""
+  ],
+  [
+    4772,
+    "2023-06-30T13:43:50.034Z",
+    "9.45 / 11.64 / 12.78",
+    "updated:2023-06-29 hash:a9fa014e url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "abyssorangemix2NSFW_abyssorangemix2Nsfw.safetensors [e892703c61]",
+    "keega",
+    ""
+  ],
+  [
+    4771,
+    "2023-06-30T13:41:42.787Z",
+    "9.68 / 11.57 / 13.22",
+    "updated:2023-06-29 hash:a9fa014e url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "abyssorangemix2NSFW_abyssorangemix2Nsfw.safetensors [e892703c61]",
+    "keega",
+    ""
+  ],
+  [
     4770,
     "2023-07-01T02:08:14.851Z",
     "11.77 / 9.4 / 11.1",
