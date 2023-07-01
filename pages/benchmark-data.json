@@ -1,5 +1,31 @@
 [
   [
+    4809,
+    "2023-07-01T21:36:08.214Z",
+    "12.38 / 14.6 / 14.11 / 13.11 / 12.55",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "xformers none",
+    "AbsoluteMixV5-0.5.safetensors [f4de303304]",
+    "luc",
+    ""
+  ],
+  [
+    4808,
+    "2023-07-01T21:17:35.596Z",
+    "8.31 / 8.66 / 8.59",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "Doggettx none",
+    "AbsoluteMixV5-0.5.safetensors [f4de303304]",
+    "luc",
+    ""
+  ],
+  [
     4807,
     "2023-07-01T11:07:43.042Z",
     "18.3 / 28.94 / 35.9 / 35.89 / 35.66",
