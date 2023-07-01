@@ -1,5 +1,18 @@
 [
   [
+    4798,
+    "2023-07-01T22:38:17.376Z",
+    "30.46 / 30.82 / 36.02",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.9",
+    "torch:2.1.0.dev20230701+cu121 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 24GB",
+    "sdp none",
+    "漫画/Anything-V3.0.safetensors [10f0bd7ade]",
+    "aliu",
+    ""
+  ],
+  [
     4797,
     "2023-07-01T22:43:26.770Z",
     "7.49 / 9.59 / 11.32",
