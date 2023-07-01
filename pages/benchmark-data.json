@@ -1,5 +1,18 @@
 [
   [
+    4797,
+    "2023-07-01T22:43:26.770Z",
+    "7.49 / 9.59 / 11.32",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 16GB",
+    "xformers none",
+    "亚洲真人｜AWPortrait 1.1_v1.1.ckpt [d9eca6a4ed]",
+    "Administrator",
+    ""
+  ],
+  [
     4796,
     "2023-07-01T20:10:50.710Z",
     "error",
