@@ -1,5 +1,44 @@
 [
   [
+    4793,
+    "2023-07-01T22:11:53.899Z",
+    "33.42 / 40.0 / 42.2",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "user",
+    "7950X3D, 32GB 6200MHz, Extra steps, Driver 531.79"
+  ],
+  [
+    4792,
+    "2023-07-01T22:10:07.496Z",
+    "33.44 / 39.04 / 42.19",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "user",
+    "7950X3D, 32GB 6200MHz, Extra steps"
+  ],
+  [
+    4791,
+    "2023-07-01T20:23:01.417Z",
+    "2.01 / 2.19 / 2.24",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8902 8GB",
+    "none none",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "a1093",
+    ""
+  ],
+  [
     4790,
     "2023-07-01T20:16:41.012Z",
     "1.92 / 2.07 / 2.12",
