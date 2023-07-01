@@ -1,5 +1,44 @@
 [
   [
+    4796,
+    "2023-07-01T20:10:50.710Z",
+    "error",
+    "updated:2023-06-29 hash:a5bf452e url:https://github.com/lshqqytiger/stable-diffusion-webui-directml.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 42 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.9.12",
+    "torch:2.0.0+cpu autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic medvram",
+    "ChilloutMix\\chilloutmix_NiPrunedFp32Fix.safetensors",
+    "Fzo",
+    ""
+  ],
+  [
+    4795,
+    "2023-07-01T06:17:19.367Z",
+    "7.0 / 6.61 / 7.59",
+    "updated:2023-06-30 hash:634c98e3 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "epicrealism_newEra.safetensors [aa78bfa99c]",
+    "Lonn",
+    ""
+  ],
+  [
+    4794,
+    "2023-06-01T22:46:17.862Z",
+    "6.12 / 7.25 / 8.09",
+    "updated:2023-06-01 hash:561ebc61 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Lonn",
+    ""
+  ],
+  [
     4793,
     "2023-07-01T22:11:53.899Z",
     "33.42 / 40.0 / 42.2",
