@@ -1,5 +1,18 @@
 [
   [
+    4860,
+    "2023-07-02T23:57:48.167Z",
+    "8.29 / 9.32 / 9.59 / 9.63 / 9.6",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "marek",
+    ""
+  ],
+  [
     4859,
     "2023-07-03T05:40:13.087Z",
     "3.28 / 5.7 / 7.0",
