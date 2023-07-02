@@ -1,5 +1,18 @@
 [
   [
+    4859,
+    "2023-07-03T05:40:13.087Z",
+    "3.28 / 5.7 / 7.0",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-73-generic python:3.9.13",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers medvram",
+    "realisticAsiaDollPeeing_v10.ckpt [4dbf06e303]",
+    "mango",
+    ""
+  ],
+  [
     4858,
     "2023-07-02T21:55:09.988Z",
     "2.83 / 3.01 / 0.59",
