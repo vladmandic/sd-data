@@ -1,5 +1,57 @@
 [
   [
+    4816,
+    "2023-07-01T20:44:31.299Z",
+    "2.66 / 2.82 / 2.75",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    "none none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Billy",
+    ""
+  ],
+  [
+    4815,
+    "2023-07-01T20:33:14.735Z",
+    "14.9 / 17.11 / 19.26 / 20.28 / 20.81",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "SD\\v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "JamesM",
+    ""
+  ],
+  [
+    4814,
+    "2023-07-01T20:31:23.433Z",
+    "14.95 / 17.18 / 19.31",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "SD\\v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "JamesM",
+    ""
+  ],
+  [
+    4813,
+    "2023-07-01T20:29:53.042Z",
+    "15.16 / 16.69 / 19.11",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "theAlly\\theallysMixIV_v10.safetensors [7e49125818]",
+    "JamesM",
+    ""
+  ],
+  [
     4812,
     "2023-07-02T01:16:03.919Z",
     "4.78",
