@@ -1,5 +1,44 @@
 [
   [
+    4843,
+    "2023-07-02T17:52:16.323Z",
+    "1.68 / 2.11 / 2.22 / 2.57 / 2.24",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.4",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.21.dev556 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 11GB",
+    " medvram",
+    "Alenadreamlookai_stable-diffusion-v1-5_step_3100_db_9b2fdd3e_ckp_957a6673.safetensors [ecce71d257]",
+    "Alike",
+    ""
+  ],
+  [
+    4842,
+    "2023-07-02T17:56:59.935Z",
+    "8.74 / 9.5 / 11.0",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8902 8GB",
+    "xformers none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "kallemst",
+    ""
+  ],
+  [
+    4841,
+    "2023-07-02T23:48:47.915Z",
+    "20.3 / 20.59 / 20.69",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "moonfilm_filmGrain10.safetensors [88ea5a84a3]",
+    "ADSL",
+    ""
+  ],
+  [
     4840,
     "2023-07-02T23:40:07.686Z",
     "13.92 / 21.31 / 29.86",
