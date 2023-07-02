@@ -1,5 +1,18 @@
 [
   [
+    4861,
+    "2023-07-01T21:10:09.441Z",
+    "error / error / error",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 78 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 950M (1) (compute_37) (5, 0) cuda:11.8 cudnn:8800 4GB",
+    "Doggettx medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "20759",
+    ""
+  ],
+  [
     4860,
     "2023-07-02T23:57:48.167Z",
     "8.29 / 9.32 / 9.59 / 9.63 / 9.6",
