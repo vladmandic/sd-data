@@ -1,5 +1,31 @@
 [
   [
+    4882,
+    "2023-07-03T19:52:30.693Z",
+    "0.33 / 0.23 / 0.22",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "yanua",
+    ""
+  ],
+  [
+    4881,
+    "2023-07-03T20:59:07.098Z",
+    "15.33 / 5.91 / 6.27",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.1.0.dev20230616+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:Radeon RX 7900 XTX (1) hip:5.5.30201-c1741e9b 24GB",
+    "Doggettx none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "penny",
+    ""
+  ],
+  [
     4880,
     "2023-07-03T19:40:44.785Z",
     "1.11 / 1.21 / 1.24",
