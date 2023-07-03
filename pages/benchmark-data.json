@@ -1,5 +1,44 @@
 [
   [
+    4865,
+    "2023-07-03T10:38:00.699Z",
+    "15.98 / 18.32 / 19.33",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.0.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:Radeon RX 7900 XTX (1) hip:5.6.31061-8c743ae5d 24GB",
+    "Doggettx none",
+    "0.5(test-01) + 0.5(0.5(01) + 0.5(xricamix_V5625D)).safetensors [1b8d5736c4]",
+    "sjk",
+    ""
+  ],
+  [
+    4864,
+    "2023-07-03T10:25:16.963Z",
+    "16.12 / 6.05 / 6.54",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.0.1 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:Radeon RX 7900 XTX (1) hip:5.6.31061-8c743ae5d 24GB",
+    "Doggettx none",
+    "0.5(test-01) + 0.5(0.5(01) + 0.5(xricamix_V5625D)).safetensors [1b8d5736c4]",
+    "sjk",
+    ""
+  ],
+  [
+    4863,
+    "2023-07-03T09:28:47.672Z",
+    "15.75 / 17.16 / 19.14",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "AiRobot",
+    ""
+  ],
+  [
     4862,
     "2023-07-02T17:27:57.986Z",
     "24.27 / 30.73 / 34.93",
