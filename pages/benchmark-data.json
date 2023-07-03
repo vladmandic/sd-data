@@ -1,5 +1,57 @@
 [
   [
+    4880,
+    "2023-07-03T19:40:44.785Z",
+    "1.11 / 1.21 / 1.24",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "xformers medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "陳書緯",
+    ""
+  ],
+  [
+    4879,
+    "2023-07-03T20:14:22.176Z",
+    "27.47 / 33.36 / 37.13",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "0.7(_epicMixV4_aniV2) + 0.3(3D_awportrait_v10).safetensors [14119b48f8]",
+    "ky1e",
+    ""
+  ],
+  [
+    4878,
+    "2023-07-03T20:13:53.968Z",
+    "28.08 / 31.4 / 36.35",
+    "",
+    "",
+    "torch: ",
+    " 24GB",
+    " ",
+    "0.7(_epicMixV4_aniV2) + 0.3(3D_awportrait_v10).safetensors [14119b48f8]",
+    "ky1e",
+    ""
+  ],
+  [
+    4877,
+    "2023-07-03T20:12:34.778Z",
+    "27.95 / 31.61 / 35.88",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.8",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "0.7(_epicMixV4_aniV2) + 0.3(3D_awportrait_v10).safetensors [14119b48f8]",
+    "ky1e",
+    ""
+  ],
+  [
     4876,
     "2023-07-03T12:03:58.068Z",
     "27.55",
