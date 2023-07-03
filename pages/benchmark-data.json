@@ -1,5 +1,18 @@
 [
   [
+    4869,
+    "2023-07-03T09:05:11.048Z",
+    "3.64 / 4.39 / 4.93",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "CounterfeitV25_25.safetensors [a074b8864e]",
+    "vinic",
+    ""
+  ],
+  [
     4868,
     "2023-07-03T01:25:00.932Z",
     "5.51 / 5.56 / 6.0",
