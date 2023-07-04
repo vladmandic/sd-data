@@ -1,5 +1,18 @@
 [
   [
+    4975,
+    "2023-07-04T20:47:28.263Z",
+    "3.28 / 5.9 / 9.06 / 10.24 / 10.85",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.1",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 8GB",
+    "none medvram",
+    "cetusMix_Version35.safetensors [a611cf9c19]",
+    "John",
+    ""
+  ],
+  [
     4974,
     "2023-07-04T17:42:12.520Z",
     "4.91 / 4.4 / 4.49",
