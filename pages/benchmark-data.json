@@ -1,5 +1,57 @@
 [
   [
+    4974,
+    "2023-07-04T17:42:12.520Z",
+    "4.91 / 4.4 / 4.49",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "sd-v1-4.ckpt [fe4efff1e1]",
+    "Twana",
+    ""
+  ],
+  [
+    4973,
+    "2023-07-04T17:31:02.128Z",
+    "error / error / error",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "sd-v1-4.ckpt [fe4efff1e1]",
+    "Twana",
+    ""
+  ],
+  [
+    4972,
+    "2023-07-04T17:09:12.605Z",
+    "3.12 / 3.86 / 4.6 / 5.37 / 4.62",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast nohalf xformers:0.0.16rc425 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 8GB",
+    "xformers medvram",
+    "sd-v1-4.ckpt [fe4efff1e1]",
+    "Twana",
+    ""
+  ],
+  [
+    4971,
+    "2023-07-04T23:11:11.256Z",
+    "13.95 / 20.88 / 23.36",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 24GB",
+    "Doggettx none",
+    "hassakuHentaiModel_v12.safetensors [d3cd6ac55a]",
+    "lujunyang",
+    ""
+  ],
+  [
     4970,
     "2023-07-04T15:20:45.390Z",
     "7.61 / 9.25 / 9.0",
