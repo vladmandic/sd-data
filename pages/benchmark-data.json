@@ -1,5 +1,18 @@
 [
   [
+    4966,
+    "2023-07-04T19:03:12.481Z",
+    "16.95 / 20.13 / 21.79",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "全网独家 _ MoonMix Utopia 乌托邦_3.0.safetensors [305a85539d]",
+    "补循",
+    ""
+  ],
+  [
     4965,
     "2023-06-01T01:43:08.974Z",
     "20.91 / 36.51 / 53.88 / 57.74 / 61.62",
