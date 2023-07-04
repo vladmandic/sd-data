@@ -1,5 +1,31 @@
 [
   [
+    4969,
+    "2023-07-04T22:06:11.146Z",
+    "18.9 / 19.53 / 19.56",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "noosphere_v3.safetensors [3d6c130515]",
+    "Administrator",
+    ""
+  ],
+  [
+    4968,
+    "2023-07-04T16:52:37.809Z",
+    "9.07 / 11.37 / 12.76",
+    "updated:2023-07-02 hash:875d0db1 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "sdp none",
+    "сссс\\animeCARTOON_v10_(DPM++ SDE Karras).ckpt [c5321a0b10]",
+    "tigr-",
+    ""
+  ],
+  [
     4967,
     "2023-07-04T19:02:04.579Z",
     "0.1 / 0.1 / 1.37",
