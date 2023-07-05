@@ -1,5 +1,31 @@
 [
   [
+    5007,
+    "2023-07-05T18:58:55.150Z",
+    "8.38 / 11.18 / 12.32",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 22GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "dogvane",
+    ""
+  ],
+  [
+    5006,
+    "2023-07-05T20:36:25.095Z",
+    "1.13 / 1.55 / 1.4",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 6GB",
+    "xformers medvram",
+    "realisticVisionV30_v30VAE-inpainting.safetensors [5fcf931663]",
+    "lachy",
+    "medvram, xtransformers 0.20"
+  ],
+  [
     5005,
     "2023-07-05T19:04:20.289Z",
     "11.19 / 12.3 / 13.16",
