@@ -1,5 +1,44 @@
 [
   [
+    4985,
+    "2023-07-05T12:42:57.119Z",
+    "15.58 / 16.99 / 17.45",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 16GB",
+    "Doggettx none",
+    "建筑\\architecturerealmix_v10.ckpt [f65e517ae0]",
+    "SJ4Y",
+    ""
+  ],
+  [
+    4984,
+    "2023-07-05T12:42:03.756Z",
+    "21.54 / 24.14 / 24.81",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 16GB",
+    " none",
+    "建筑\\architecturerealmix_v10.ckpt [f65e517ae0]",
+    "SJ4Y",
+    ""
+  ],
+  [
+    4983,
+    "2023-07-05T12:43:28.520Z",
+    "21.13 / 23.92 / 24.85",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 16GB",
+    "xformers none",
+    "建筑\\architecturerealmix_v10.ckpt [f65e517ae0]",
+    "SJ4Y",
+    ""
+  ],
+  [
     4982,
     "2023-07-05T11:05:02.996Z",
     "8.14 / 8.71 / 9.15",
