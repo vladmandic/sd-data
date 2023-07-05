@@ -1,5 +1,57 @@
 [
   [
+    5027,
+    "2023-07-05T15:06:45.305Z",
+    "2.56 / 3.21 / 3.84",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.25393-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev560 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "xformers medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ptirt",
+    ""
+  ],
+  [
+    5026,
+    "2023-07-05T14:55:18.105Z",
+    "3.85 / 4.2 / 4.62",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.25393-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev560 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ptirt",
+    ""
+  ],
+  [
+    5025,
+    "2023-07-05T14:03:49.146Z",
+    "1.93",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.25393-SP0 python:3.11.1",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev560 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ptirt",
+    ""
+  ],
+  [
+    5024,
+    "2023-07-05T13:45:34.595Z",
+    "3.34 / 3.66 / 3.99 / 2.57 / 1.77",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.25393-SP0 python:3.11.1",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 6GB",
+    "none none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ptirt",
+    ""
+  ],
+  [
     5023,
     "2023-07-06T00:39:39.079Z",
     "0.58 / 1.09 / 1.97",
