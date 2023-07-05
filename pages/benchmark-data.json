@@ -1,5 +1,31 @@
 [
   [
+    5043,
+    "2023-07-06T02:05:17.117Z",
+    "33.12 / 39.48 / 43.21",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.1.20-060120-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "tom",
+    ""
+  ],
+  [
+    5042,
+    "2023-07-06T01:46:30.081Z",
+    "25.53 / 29.62 / 31.07",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.1.20-060120-generic python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "tom",
+    ""
+  ],
+  [
     5041,
     "2023-07-06T01:01:15.693Z",
     "22.13 / 26.52 / 30.14",
