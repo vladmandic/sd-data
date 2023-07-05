@@ -1,5 +1,44 @@
 [
   [
+    5013,
+    "2023-07-05T21:09:27.662Z",
+    "7.45 / 6.68 / 7.53",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "comix_v3.1_科幻plus_3.1.safetensors [960ba4b63d]",
+    "Administrator",
+    ""
+  ],
+  [
+    5012,
+    "2023-07-05T20:59:56.099Z",
+    "13.91 / 22.65 / 26.66",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 24GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "Administrator",
+    ""
+  ],
+  [
+    5011,
+    "2023-07-05T05:14:30.563Z",
+    "6.65 / 7.38 / 7.82 / 7.5 / 7.54",
+    "updated:2023-07-05 hash:98d48c05 url:https://github.com/xedis/automatic/tree/exif-tests",
+    "arch:x86_64 cpu: system:Linux release:6.4.1-arch1-1 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "none none",
+    "model-bk/2nd/xedis-v11.5.3.safetensors [1fe02d8428]",
+    "xedis",
+    ""
+  ],
+  [
     5010,
     "2023-07-05T13:07:09.454Z",
     "12.5 / 13.37 / 16.25",
