@@ -1,5 +1,31 @@
 [
   [
+    5090,
+    "2023-07-06T17:47:41.029Z",
+    "8.99 / 9.72 / 10.09",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "adams",
+    ""
+  ],
+  [
+    5089,
+    "2023-07-06T17:25:47.775Z",
+    "9.13 / 9.86 / 10.25",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "adams",
+    ""
+  ],
+  [
     5088,
     "2023-07-06T13:57:48.616Z",
     "13.99 / 15.82 / 17.72 / 18.63 / 19.03",
