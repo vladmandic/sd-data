@@ -1,5 +1,18 @@
 [
   [
+    5054,
+    "2023-07-06T11:21:35.474Z",
+    "13.75 / 15.69 / 20.3",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "tanghaiyang",
+    ""
+  ],
+  [
     5053,
     "2023-07-06T11:25:59.316Z",
     "25.96 / 28.75 / 31.96 / 32.49 / 31.69",
