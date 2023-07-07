@@ -1,5 +1,31 @@
 [
   [
+    5136,
+    "2023-07-07T18:51:03.937Z",
+    "0.65 / 0.63 / 0.77",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "Stable Diffusion v1.5 pruned emaonly ckpt.safetensors [6ce0161689]",
+    "xotheforest",
+    ""
+  ],
+  [
+    5135,
+    "2023-07-07T17:06:35.657Z",
+    "0.53 / 0.74 / 0.79",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "Doggettx none",
+    "photon_v1.safetensors [ec41bd2a82]",
+    "Oscar Solano",
+    ""
+  ],
+  [
     5134,
     "2023-07-08T02:56:16.936Z",
     "13.35 / 15.26 / 16.23",
