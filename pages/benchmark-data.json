@@ -1,5 +1,57 @@
 [
   [
+    5125,
+    "2023-07-08T00:09:30.757Z",
+    "8.43 / 9.55 / 10.12 / 4.73 / 4.76",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-76-generic python:3.10.9",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:AMD Radeon RX 6800 XT (1) hip:5.4.22803-474e8620 16GB",
+    "Doggettx none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "trah",
+    ""
+  ],
+  [
+    5124,
+    "2023-07-07T22:48:47.735Z",
+    "6.11 / 5.35 / 5.88 / 6.21 / 3.2",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "Automatic none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "Le Hieu",
+    ""
+  ],
+  [
+    5123,
+    "2023-07-07T23:49:04.623Z",
+    "17.08 / 21.64 / 26.0",
+    "app:stable-diffusion-webui updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 16GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    5122,
+    "2023-07-07T09:03:29.564Z",
+    "3.09 / 3.36 / 3.5",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA TITAN X (Pascal) (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "hassakuv13.XBYY.safetensors [7eb674963a]",
+    "Test1",
+    ""
+  ],
+  [
     5121,
     "2023-07-07T22:54:30.098Z",
     "20.01 / 32.19 / 40.42 / 40.56 / 38.18",
