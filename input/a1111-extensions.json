@@ -1828,6 +1828,15 @@
         "animation"
       ],
       "added": "2023-07-07"
+    },
+    {
+      "name": "Auto-Photoshop-StableDiffusion-Plugin",
+      "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin.git",
+      "description": "Adds API routes for Auto-Photoshop-StableDiffusion-Plugin",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-07-07"
     }
   ],
   "accept-ranges": "bytes",
@@ -1835,13 +1844,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "15274",
+  "content-length": "15329",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 07 Jul 2023 12:59:35 GMT",
-  "etag": "W/\"5739fd1f58881661b9750558ba3d58e188f23e1d15b90bda13fa0c7639afe240\"",
-  "expires": "Fri, 07 Jul 2023 13:04:35 GMT",
+  "date": "Fri, 07 Jul 2023 14:39:16 GMT",
+  "etag": "W/\"a280cac83484ecf64e85b5f08790b127804ea168cfac4d39b118266a6b175f14\"",
+  "expires": "Fri, 07 Jul 2023 14:44:16 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -1849,10 +1858,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "feada841458dd6fe3714d1f6b6c650d435df31e1",
+  "x-fastly-request-id": "3eb3076c24e3d1b5feaa0119d854ff4bc8fce834",
   "x-frame-options": "deny",
-  "x-github-request-id": "E328:75A1:64565C:7693F3:64A80C37",
-  "x-served-by": "cache-bur-kbur8200052-BUR",
-  "x-timer": "S1688734775.999943,VS0,VE221",
+  "x-github-request-id": "8340:77A1:97BF47:B11BBA:64A82393",
+  "x-served-by": "cache-dfw-kdfw8210125-DFW",
+  "x-timer": "S1688740756.947937,VS0,VE212",
   "x-xss-protection": "1; mode=block"
 }
