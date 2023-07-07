@@ -1,5 +1,18 @@
 [
   [
+    5095,
+    "2023-07-07T00:04:05.409Z",
+    "1.47 / 1.95 / 2.18",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "jakes",
+    ""
+  ],
+  [
     5094,
     "2023-07-07T07:22:32.813Z",
     "2.86 / 3.11 / 3.19",
