@@ -1,5 +1,31 @@
 [
   [
+    5097,
+    "2023-07-07T02:05:56.639Z",
+    "3.83 / 4.21 / error",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Chris",
+    ""
+  ],
+  [
+    5096,
+    "2023-07-07T07:10:28.342Z",
+    "12.62 / 16.52 / 18.72",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8900 10GB",
+    "xformers none",
+    "og-sd/v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "clopi",
+    ""
+  ],
+  [
     5095,
     "2023-07-07T00:04:05.409Z",
     "1.47 / 1.95 / 2.18",
