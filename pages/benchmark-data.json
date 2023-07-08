@@ -1,5 +1,18 @@
 [
   [
+    5186,
+    "2023-07-08T14:13:00.574Z",
+    "0.84 / 0.58 / 0.29",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.10.12",
+    "torch:2.0.1 autocast half xformers: diffusers:0.17.1 transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic none",
+    "reliberate_v10.safetensors [980cb713af]",
+    "oli",
+    ""
+  ],
+  [
     5185,
     "2023-07-08T18:46:56.599Z",
     "17.93 / 20.47 / 22.45 / 24.44 / 24.99",
