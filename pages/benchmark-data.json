@@ -1,5 +1,44 @@
 [
   [
+    5149,
+    "2023-07-07T22:22:30.791Z",
+    "16.38 / 21.2 / 24.08 / 22.79 / 24.2",
+    "updated:2023-07-01 hash:ab52ae92 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "Anime\\Extras Anime Models\\A-FormDesat_merongmix.safetensors [62f28ec51b]",
+    "Zheng",
+    ""
+  ],
+  [
+    5148,
+    "2023-04-23T23:46:14.069Z",
+    "16.1 / 17.27 / 20.64",
+    "updated:2023-04-23 hash:98adfb31 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "sdp none",
+    "Anime\\A-AOM3_A1B.safetensors [5493a0ec49]",
+    "Zheng",
+    ""
+  ],
+  [
+    5147,
+    "2023-07-08T13:14:49.026Z",
+    "8.36 / 8.84 / 9.41",
+    "app:stable-diffusion-webui updated:2023-05-14 hash:89f9faa6 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.19 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "Anything.ckpt [8712e20a5d]",
+    "qingh",
+    ""
+  ],
+  [
     5146,
     "2023-07-08T02:01:07.341Z",
     "error / error / error",
