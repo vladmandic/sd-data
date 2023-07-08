@@ -1,5 +1,31 @@
 [
   [
+    5182,
+    "2023-07-08T16:35:54.135Z",
+    "1.99 / 2.0 / 1.92",
+    "app:stable-diffusion-webui-directml.git updated:2023-07-07 hash:265d6264 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu full half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic medvram",
+    "uberRealisticPornMerge_urpmv12.ckpt [b55d3b5206]",
+    "do-it",
+    ""
+  ],
+  [
+    5181,
+    "2023-07-08T15:18:21.597Z",
+    "9.5 / 5.08 / 11.34",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.0.19-4-MANJARO python:3.11.3",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers: diffusers:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon RX 6900 XT (1) hip:5.4.22803-474e8620 16GB",
+    "Doggettx none",
+    "AbyssOrangeMix2_nsfw.safetensors [0873291ac5]",
+    "renny",
+    ""
+  ],
+  [
     5180,
     "2023-07-08T20:18:37.778Z",
     "1.51 / 1.89 / 2.03",
