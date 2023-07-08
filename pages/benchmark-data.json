@@ -1,5 +1,18 @@
 [
   [
+    5157,
+    "2023-07-08T07:47:16.986Z",
+    "5.32 / 2.91 / 5.76",
+    "updated:2023-07-07 hash:205b5164 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+gitb1dde16 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 13GB",
+    "sub-quadratic none",
+    "model.ckpt [89d59c3dde]",
+    "root",
+    ""
+  ],
+  [
     5156,
     "2023-07-08T14:53:48.193Z",
     "27.16 / 38.83 / 44.93 / 43.93 / 41.49",
