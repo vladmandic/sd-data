@@ -1,5 +1,44 @@
 [
   [
+    5185,
+    "2023-07-08T18:46:56.599Z",
+    "17.93 / 20.47 / 22.45 / 24.44 / 24.99",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "Anything-v4.5-pruned-mergedVae.safetensors [a504b5b137]",
+    "slonce",
+    ""
+  ],
+  [
+    5184,
+    "2023-07-08T18:46:26.693Z",
+    "17.94 / 20.56 / 22.89",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "Anything-v4.5-pruned-mergedVae.safetensors [a504b5b137]",
+    "slonce",
+    ""
+  ],
+  [
+    5183,
+    "2023-07-09T00:37:34.647Z",
+    "11.24 / 13.75 / 16.01",
+    "app:stable-diffusion-webui-education updated:2023-05-17 hash:5f33fc28 url:https://github.com/dayfly-life/stable-diffusion-webui-education/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-153-generic python:3.10.12",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.20 diffusers:0.18.0 transformers:4.25.1",
+    "device:Tesla V100-SXM2-32GB (1) (sm_86) (7, 0) cuda:11.7 cudnn:8500 32GB",
+    "Doggettx none",
+    "v6.safetensors [8bb8cf4512]",
+    "ubuntu",
+    ""
+  ],
+  [
     5182,
     "2023-07-08T16:35:54.135Z",
     "1.99 / 2.0 / 1.92",
