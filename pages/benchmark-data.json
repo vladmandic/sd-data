@@ -1,5 +1,18 @@
 [
   [
+    5233,
+    "2023-07-09T09:21:06.302Z",
+    "11.27 / 17.99 / 20.98 / 20.96 / 21.4",
+    "app:stable-diffusion-webui-ux.git updated:2023-06-28 hash:b5de227b url:https://github.com/anapnoe/stable-diffusion-webui-ux.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "V2.fp16x0.5+Vue-halfx0.5_cosineA.fp16.safetensors [0bb637e822]",
+    "vuebo",
+    ""
+  ],
+  [
     5232,
     "2023-07-09T23:03:46.576Z",
     "16.16 / 27.02 / 33.75",
