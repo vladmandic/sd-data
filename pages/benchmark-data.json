@@ -1,5 +1,18 @@
 [
   [
+    5204,
+    "2023-07-09T01:04:51.687Z",
+    "26.07 / 32.78 / 38.28",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "dreamlike-photoreal-2.0.safetensors [92970aa785]",
+    "-Y-",
+    "I like grilling and cats but not at the same time."
+  ],
+  [
     5203,
     "2023-07-09T10:04:52.335Z",
     "5.27 / 6.1 / 6.44",
