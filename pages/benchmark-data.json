@@ -1,5 +1,18 @@
 [
   [
+    5243,
+    "2023-07-09T20:39:55.638Z",
+    "error / error / error",
+    "app:SD.next updated:2023-07-09 hash:4b3cdb73 url:https://github.com/vladmandic/automatic/tree/diffusers",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast nohalf xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "diffusers Scaled-Dot-Product none",
+    "runwayml/stable-diffusion-v1-5",
+    "Administrator",
+    ""
+  ],
+  [
     5242,
     "2023-07-09T19:09:42.068Z",
     "20.73 / 34.86 / 41.5",
