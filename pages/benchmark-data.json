@@ -1,5 +1,18 @@
 [
   [
+    5203,
+    "2023-07-09T10:04:52.335Z",
+    "5.27 / 6.1 / 6.44",
+    "app:SD.next updated:2023-07-09 hash:d915d8d6 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:23.0.0 python:3.10.0",
+    "torch:2.0.1 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    " 0GB",
+    "original doggettx none",
+    "fashsion_20000.ckpt [037c320064]",
+    "ianjoicey",
+    "Apple M2 Ultra, 24 (16 performance and 8 efficiency),192 GB, 76 GPU cores"
+  ],
+  [
     5202,
     "2023-07-09T09:56:41.277Z",
     "4.84 / 4.17 / 5.78",
