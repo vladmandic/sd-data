@@ -1,5 +1,57 @@
 [
   [
+    5224,
+    "2023-07-09T13:41:04.562Z",
+    "11.39 / 11.56 / 12.14",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    5223,
+    "2023-07-09T16:59:06.398Z",
+    "0.07 / 0.27 / 0.07",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "xformers none",
+    "realisticVisionV30_v30Novae.safetensors",
+    "Anonymous",
+    ""
+  ],
+  [
+    5222,
+    "2023-07-05T22:22:39.258Z",
+    "0.13 / 0.43 / 0.17",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "xformers none",
+    "yiffymix_3.safetensors",
+    "Anonymous",
+    ""
+  ],
+  [
+    5221,
+    "2023-05-27T23:09:45.885Z",
+    "0.37 / 0.53 / 0.68 / 0.85 / 0.87",
+    "updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "xformers lowvram",
+    "heavenorangemix_v23.safetensors [a7c433adda]",
+    "asadf",
+    ""
+  ],
+  [
     5220,
     "2023-07-09T18:14:36.632Z",
     "15.97 / 28.85 / 39.93 / 39.74 / 38.93",
