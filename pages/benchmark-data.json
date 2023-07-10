@@ -1,5 +1,18 @@
 [
   [
+    5250,
+    "2023-07-10T00:54:27.796Z",
+    "error",
+    "updated:2023-07-02 hash:714e97f0 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu full nohalf xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    " 0GB",
+    "sdp medvram",
+    "beautifulRealistic_brav5.safetensors [ac68270450]",
+    "yf_w",
+    "with max Negative Guidance minimum sigma"
+  ],
+  [
     5249,
     "2023-07-09T15:38:53.385Z",
     "11.52 / 13.15 / 15.63 / 17.58 / 18.66",
