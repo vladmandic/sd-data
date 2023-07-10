@@ -1,5 +1,57 @@
 [
   [
+    5256,
+    "2023-07-05T02:28:26.031Z",
+    "3.47 / 3.9 / 4.44 / 4.62 / 0.56",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "sdp-no-mem medvram",
+    "liberty_main.safetensors [8634d80dec]",
+    "KorbenDallas",
+    ""
+  ],
+  [
+    5255,
+    "2023-07-10T15:23:09.398Z",
+    "11.81 / 18.14 / 21.77",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Automatic none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "shdavid",
+    "superheroes"
+  ],
+  [
+    5254,
+    "2023-07-10T15:18:57.401Z",
+    "11.49 / 18.75 / 21.5",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Automatic none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "shdavid",
+    ""
+  ],
+  [
+    5253,
+    "2023-07-10T15:17:06.874Z",
+    "12.54 / 18.34 / 21.38",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Automatic none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "David",
+    ""
+  ],
+  [
     5252,
     "2023-07-10T13:58:14.788Z",
     "2.2 / 2.37 / 2.46",
