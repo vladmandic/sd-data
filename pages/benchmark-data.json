@@ -1,5 +1,18 @@
 [
   [
+    5299,
+    "2023-07-11T00:42:01.743Z",
+    "2.46 / 2.56 / 2.63",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "Automatic none",
+    "tmndMix_tmndMixVPruned.safetensors [d9f11471a8]",
+    "Fajar63",
+    ""
+  ],
+  [
     5298,
     "2023-07-11T00:49:47.332Z",
     "18.5 / 19.52 / 18.63",
