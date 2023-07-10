@@ -1,5 +1,31 @@
 [
   [
+    5278,
+    "2023-07-10T16:35:13.089Z",
+    "8.76 / 9.53 / 10.5",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "Marduc",
+    ""
+  ],
+  [
+    5277,
+    "2023-07-10T22:19:52.211Z",
+    "6.95 / 7.47 / 8.36",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "bylaf",
+    ""
+  ],
+  [
     5276,
     "2023-07-10T17:01:58.925Z",
     "2.04 / 2.38 / 1.94",
