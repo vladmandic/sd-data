@@ -1,5 +1,44 @@
 [
   [
+    5267,
+    "2023-07-10T22:08:54.363Z",
+    "6.53 / 3.07 / 4.79",
+    "updated:2023-06-29 hash:a9fa014e url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+gitb1dde16 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 13GB",
+    "sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "arcsd",
+    ""
+  ],
+  [
+    5266,
+    "2023-07-10T12:32:26.766Z",
+    "17.49 / 28.28 / 39.93",
+    "app:stable-diffusion-webui.git updated:2023-07-07 hash:5eb2333 url:https://github.com/Jackstrawcd/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-100-generic python:3.10.9",
+    "torch:2.0.0 autocast half xformers:0.0.19 diffusers:0.14.0 transformers:4.26.0",
+    "device:NVIDIA A100-SXM4-80GB (1) (compute_37) (8, 0) cuda:11.7 cudnn:8500 79GB",
+    "xformers none",
+    "mothmix_v141.safetensors [01d7873f41]",
+    "root",
+    ""
+  ],
+  [
+    5265,
+    "2023-07-10T21:31:19.517Z",
+    "7.27 / 7.84 / 9.27",
+    "app:SD.next updated:2023-07-09 hash:7452cee6 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 11GB",
+    "original sdp none",
+    "Yesmix_v15.safetensors [f713bab753]",
+    "e_hr1",
+    ""
+  ],
+  [
     5264,
     "2023-07-10T20:31:09.456Z",
     "6.82",
