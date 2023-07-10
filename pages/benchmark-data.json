@@ -1,5 +1,18 @@
 [
   [
+    5252,
+    "2023-07-10T13:58:14.788Z",
+    "2.2 / 2.37 / 2.46",
+    "app:stable-diffusion-webui.git updated:2023-07-07 hash:6e36b2ff url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-76-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:11.8 cudnn:8700 8GB",
+    "xformers none",
+    "meinahentai_v4.safetensors [8145104977]",
+    "wall",
+    ""
+  ],
+  [
     5251,
     "2023-07-10T09:54:47.386Z",
     "12.35 / 18.04 / 18.64",
