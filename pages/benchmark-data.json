@@ -1,5 +1,57 @@
 [
   [
+    5308,
+    "2023-07-10T21:41:09.600Z",
+    "12.95 / 18.21 / 20.52 / 17.65 / 18.65",
+    "app:SD.next updated:2023-07-10 hash:75a8c1f9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "mindrage",
+    ""
+  ],
+  [
+    5307,
+    "2023-07-10T21:40:20.684Z",
+    "12.67 / 17.85 / 20.48",
+    "app:SD.next updated:2023-07-10 hash:75a8c1f9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "mindrage",
+    ""
+  ],
+  [
+    5306,
+    "2023-07-10T21:28:52.537Z",
+    "26.87 / 36.4 / 38.97 / 34.65 / 35.67",
+    "app:automatic.git updated:2023-07-10 hash:6466d3cb url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.1.0.dev20230615+cu121 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 24GB",
+    "original sdp-no-mem none",
+    "MyModels\\indigoFurryabyssDreamlikeDungeonsinkAnimatedV3V3c.safetensors [8b88eb4dfc]",
+    "Zeth",
+    ""
+  ],
+  [
+    5305,
+    "2023-07-10T21:27:15.243Z",
+    "21.8 / 19.54 / 25.84",
+    "app:automatic.git updated:2023-07-10 hash:6466d3cb url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.1.0.dev20230615+cu121 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 24GB",
+    "original sdp-no-mem none",
+    "MyModels\\indigoFurryabyssDreamlikeDungeonsinkAnimatedV3V3c.safetensors [8b88eb4dfc]",
+    "Zeth",
+    ""
+  ],
+  [
     5304,
     "2023-07-11T02:19:02.568Z",
     "4.69 / 4.98 / 5.13",
