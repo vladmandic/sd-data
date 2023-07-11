@@ -1,5 +1,18 @@
 [
   [
+    5304,
+    "2023-07-11T02:19:02.568Z",
+    "4.69 / 4.98 / 5.13",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:AMD Radeon RX 6600 XT (1) hip:5.4.22803-474e8620 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "kanw",
+    ""
+  ],
+  [
     5303,
     "2023-07-10T22:45:20.049Z",
     "error / error / error / error / error",
