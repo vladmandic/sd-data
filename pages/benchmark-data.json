@@ -1,5 +1,44 @@
 [
   [
+    5329,
+    "2023-07-11T19:06:28.038Z",
+    "12.28 / 12.57 / 15.8",
+    "updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "none none",
+    "ghostmix_v20Bakedvae.safetensors [e3edb8a26f]",
+    "Administrator",
+    ""
+  ],
+  [
+    5328,
+    "2023-07-09T00:33:36.397Z",
+    "13.73 / 14.83 / 16.42",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    5327,
+    "2023-07-11T16:16:27.401Z",
+    "2.17 / 2.43 / 2.68",
+    "app:automatic.git updated:2023-06-19 hash:23452378 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.9.6",
+    "torch:2.0.1 Autocast half xformers: diffusers:0.16.1 transformers:4.30.2",
+    " 0GB",
+    "Original doggettx none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "root",
+    ""
+  ],
+  [
     5326,
     "2023-07-11T09:55:37.633Z",
     "3.91 / 6.23 / 11.11",
