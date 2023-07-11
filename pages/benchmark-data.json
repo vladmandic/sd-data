@@ -1,5 +1,18 @@
 [
   [
+    5352,
+    "2023-07-11T23:07:42.295Z",
+    "0.65 / 0.56 / 0.54",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:i386 system:Darwin release:22.5.0 python:3.10.12",
+    "torch:2.0.1 autocast half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "Automatic none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "miguel",
+    ""
+  ],
+  [
     5351,
     "2023-07-11T22:39:57.487Z",
     "5.54 / 7.62 / 9.16",
