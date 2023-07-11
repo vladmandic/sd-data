@@ -1,5 +1,31 @@
 [
   [
+    5326,
+    "2023-07-11T09:55:37.633Z",
+    "3.91 / 6.23 / 11.11",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.27.4",
+    "device:Quadro RTX 5000 (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 16GB",
+    "xformers medvram",
+    "fluffyrock_e67TerminalSnrE40/fluffyrock_e67TerminalSnrE40.safetensors [8cab7ddc7e]",
+    "root",
+    ""
+  ],
+  [
+    5325,
+    "2023-07-11T15:55:15.968Z",
+    "0.25",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22623-SP0 python:3.10.4",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 4GB",
+    "xformers medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "gokha",
+    ""
+  ],
+  [
     5324,
     "2023-07-11T10:09:52.549Z",
     "6.6 / 7.26 / 3.92 / 2.25 / 0.85",
