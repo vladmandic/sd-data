@@ -1,5 +1,44 @@
 [
   [
+    5311,
+    "2023-07-11T11:11:42.892Z",
+    "4.44 / 5.71 / 6.68",
+    "app:stable-diffusion-webui updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    5310,
+    "2023-07-11T10:58:52.470Z",
+    "4.97 / 5.92 / 6.55",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB",
+    "Automatic medvram",
+    "AWPainting_v1.0.safetensors [bbe83e01df]",
+    "Chris",
+    ""
+  ],
+  [
+    5309,
+    "2023-07-10T19:46:02.983Z",
+    "6.75 / 7.68 / 8.34 / 8.77 / 8.97",
+    "app:stable-diffusion-webui.git updated:2022-10-10 hash:45fbd1c url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.3.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB",
+    "xformers none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "pickle",
+    ""
+  ],
+  [
     5308,
     "2023-07-10T21:41:09.600Z",
     "12.95 / 18.21 / 20.52 / 17.65 / 18.65",
