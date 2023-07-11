@@ -1379,7 +1379,7 @@
       "name": "Composable LoRA",
       "url": "https://github.com/a2569875/stable-diffusion-webui-composable-lora.git",
       "description": "Enables using AND keyword(composable diffusion) to limit LoRAs to subprompts. Useful when paired with Latent Couple extension.",
-      "added": "2023-06-23",
+      "added": "2023-02-25",
       "tags": [
         "manipulations"
       ],
@@ -1658,8 +1658,7 @@
       "description": "This extension converts images into blocks and creates schematics for easy importing into Minecraft using the Litematica mod.",
       "added": "2023-02-11",
       "tags": [
-        "tab",
-        "online"
+        "tab"
       ],
       "full_name": "fropych/mine-diffusion",
       "github_description": null,
@@ -2905,7 +2904,7 @@
       "name": "sd-webui-roop",
       "url": "https://github.com/s0md3v/sd-webui-roop",
       "description": "Enable face swapping with reference image.",
-      "added": "2023-06-18",
+      "added": "2023-06-09",
       "tags": [
         "editing",
         "manipulations"
@@ -3194,13 +3193,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "31615",
+  "content-length": "31612",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Tue, 11 Jul 2023 06:42:30 GMT",
-  "etag": "W/\"dbe1cc9f62397063a8e91cb4c95f37390a26c0fac40483fcfa2b0a3b8b87d67f\"",
-  "expires": "Tue, 11 Jul 2023 06:47:30 GMT",
+  "date": "Tue, 11 Jul 2023 08:42:03 GMT",
+  "etag": "W/\"fb6fdd8df47c06ae6c64275a445d72033bbb631a8d95f8922b14f42cbba4594d\"",
+  "expires": "Tue, 11 Jul 2023 08:47:03 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3208,10 +3207,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "0410dc38a24918509fb3440b9df127f7c7701567",
+  "x-fastly-request-id": "1de97b61300ac812f5f68d5377a5d4e05122552c",
   "x-frame-options": "deny",
-  "x-github-request-id": "1250:8ED0:1F7731:257A03:64ACF9D6",
-  "x-served-by": "cache-iad-kiad7000121-IAD",
-  "x-timer": "S1689057750.111440,VS0,VE77",
+  "x-github-request-id": "198A:2E22:215BB9:2714A9:64AD15DB",
+  "x-served-by": "cache-dfw-kdfw8210108-DFW",
+  "x-timer": "S1689064923.353051,VS0,VE155",
   "x-xss-protection": "1; mode=block"
 }
