@@ -1,5 +1,18 @@
 [
   [
+    5351,
+    "2023-07-11T22:39:57.487Z",
+    "5.54 / 7.62 / 9.16",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "xformers medvram",
+    "MixSummerSolstice_v10.safetensors [1ae2137e6f]",
+    "FatMa",
+    ""
+  ],
+  [
     5350,
     "2023-07-11T22:29:36.554Z",
     "1.56 / 1.93 / 2.32",
