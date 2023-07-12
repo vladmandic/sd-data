@@ -1,5 +1,44 @@
 [
   [
+    5369,
+    "2023-07-12T09:59:55.449Z",
+    "2.16 / 2.01 / 2.04",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.10.12",
+    "torch:2.0.1 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "tianyc",
+    ""
+  ],
+  [
+    5368,
+    "2023-07-12T15:35:33.079Z",
+    "21.45 / 25.02 / 27.27 / 27.38 / 28.41",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "Doggettx none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "msi",
+    ""
+  ],
+  [
+    5367,
+    "2023-07-12T04:15:48.745Z",
+    "0.77",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 30 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.23493-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 4GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "razid",
+    ""
+  ],
+  [
     5366,
     "2023-07-12T14:56:15.009Z",
     "20.26 / 21.42 / 24.64 / 24.51 / 24.77",
