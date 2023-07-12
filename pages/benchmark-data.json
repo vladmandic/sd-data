@@ -1,5 +1,57 @@
 [
   [
+    5356,
+    "2023-07-12T02:48:45.215Z",
+    "3.2 / 2.93 / 3.23",
+    "app:SD.next updated:2023-07-12 hash:562ca332 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "original sdp none",
+    "Stable Diffusion v1.5.ckpt [cc6cb27103]",
+    "Pechista",
+    ""
+  ],
+  [
+    5355,
+    "2023-07-11T19:22:34.110Z",
+    "6.9 / 6.02 / 6.65",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "kamxJuggernaut.safetensors [e7165a9ba4]",
+    "Kam Castle",
+    ""
+  ],
+  [
+    5354,
+    "2023-07-07T11:51:49.359Z",
+    "5.67",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "xformers none",
+    "berkXzovaya.safetensors [4564031de4]",
+    "Kam Castle",
+    ""
+  ],
+  [
+    5353,
+    "2023-07-07T08:23:53.750Z",
+    "0.78",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 6GB",
+    "Automatic medvram",
+    "berkXzovaya.safetensors [4564031de4]",
+    "Kam Castle",
+    ""
+  ],
+  [
     5352,
     "2023-07-11T23:07:42.295Z",
     "0.65 / 0.56 / 0.54",
