@@ -1,5 +1,57 @@
 [
   [
+    5403,
+    "2023-07-12T23:09:50.377Z",
+    "14.56 / 16.45 / 17.41",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "alex",
+    ""
+  ],
+  [
+    5402,
+    "2023-06-30T23:59:35.472Z",
+    "14.07 / 16.36 / 17.31",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "alex",
+    ""
+  ],
+  [
+    5401,
+    "2023-06-05T23:00:38.869Z",
+    "14.3 / 16.18 / 17.14",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-43-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "cyberrealistic_v31.safetensors [03363589fe]",
+    "alex",
+    ""
+  ],
+  [
+    5400,
+    "2023-06-04T22:02:05.925Z",
+    "11.35 / 12.35 / 12.48",
+    "updated:2023-06-01 hash:b6af0a38 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-43-generic python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 12GB",
+    "Doggettx none",
+    "abyssorangemix3AOM3_aom3.safetensors [d124fc18f0]",
+    "alex",
+    ""
+  ],
+  [
     5399,
     "2023-07-13T04:59:53.346Z",
     "10.97 / 17.9 / 28.79",
