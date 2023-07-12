@@ -1,5 +1,18 @@
 [
   [
+    5393,
+    "2023-07-13T00:02:42.540Z",
+    "17.1 / 19.22 / 21.1",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev556 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "Automatic none",
+    "moonfilm_filmGrain20.safetensors [fe54b5d04d]",
+    "ALDIE",
+    ""
+  ],
+  [
     5392,
     "2023-07-12T23:49:04.935Z",
     "4.19 / 5.19 / 6.14",
