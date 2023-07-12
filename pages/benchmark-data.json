@@ -1,5 +1,18 @@
 [
   [
+    5363,
+    "2023-07-12T06:58:37.802Z",
+    "6.18 / 5.62 / 6.39",
+    "app:SD.next updated:2023-07-12 hash:562ca332 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "krapa",
+    ""
+  ],
+  [
     5362,
     "2023-07-12T10:52:43.639Z",
     "0.94 / 0.85 / 0.81",
