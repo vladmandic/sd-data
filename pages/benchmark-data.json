@@ -1,5 +1,44 @@
 [
   [
+    5366,
+    "2023-07-12T14:56:15.009Z",
+    "20.26 / 21.42 / 24.64 / 24.51 / 24.77",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.0",
+    "torch:2.0.0+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 22GB",
+    "Doggettx none",
+    "3D卡通\\ipDESIGN3D_v11.safetensors [7d77e2c55f]",
+    "fengfengfeng",
+    ""
+  ],
+  [
+    5365,
+    "2023-07-12T14:50:29.082Z",
+    "20.63 / 23.58 / 24.64",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.0",
+    "torch:2.0.0+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 22GB",
+    "Doggettx none",
+    "3D卡通\\ipDESIGN3D_v11.safetensors [7d77e2c55f]",
+    "fengfengfeng",
+    ""
+  ],
+  [
+    5364,
+    "2023-07-12T14:47:37.926Z",
+    "20.39 / 22.65 / 24.12",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.0",
+    "torch:2.0.0+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 22GB",
+    "Doggettx none",
+    "3D卡通\\ipDESIGN3D_v11.safetensors [7d77e2c55f]",
+    "Administrator",
+    ""
+  ],
+  [
     5363,
     "2023-07-12T06:58:37.802Z",
     "6.18 / 5.62 / 6.39",
