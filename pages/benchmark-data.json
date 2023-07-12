@@ -1,5 +1,44 @@
 [
   [
+    5392,
+    "2023-07-12T23:49:04.935Z",
+    "4.19 / 5.19 / 6.14",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "b真人\\tunedmixl_v4101.safetensors [5a663e8b2e]",
+    "Administrator",
+    ""
+  ],
+  [
+    5391,
+    "2023-07-12T20:31:55.086Z",
+    "0.7 / 0.74 / error / error / error",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu full nohalf xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "Doggettx medvram",
+    "darkSushiMixMix_225D.safetensors [cca17b08da]",
+    "depter",
+    ""
+  ],
+  [
+    5390,
+    "2023-07-12T18:31:01.196Z",
+    "4.98 / 7.82 / 11.15",
+    "app:SD.next updated:2023-07-12 hash:de2c239c url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 12GB",
+    "original xformers medvram",
+    "neatnessFluffyFurMix_v30FullClassical.safetensors [47b65d20c0]",
+    "chocolate",
+    ""
+  ],
+  [
     5389,
     "2023-07-12T14:25:24.951Z",
     "6.1 / 6.44 / 7.15",
