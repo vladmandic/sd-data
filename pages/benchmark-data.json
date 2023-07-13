@@ -1,5 +1,31 @@
 [
   [
+    5424,
+    "2023-07-13T08:07:20.938Z",
+    "8.46 / 10.46 / 11.82",
+    "app:SD.next updated:2023-07-12 hash:6947776d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "original sdp none",
+    "realdosmix_.safetensors [0d27c62ffa]",
+    "CYPHER",
+    ""
+  ],
+  [
+    5423,
+    "2023-07-13T08:03:10.882Z",
+    "7.79 / 7.5 / 8.7",
+    "app:SD.next updated:2023-07-12 hash:6947776d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 8GB",
+    "original sdp none",
+    "realdosmix_.safetensors [0d27c62ffa]",
+    "CYPHER",
+    ""
+  ],
+  [
     5422,
     "2023-07-13T17:27:12.623Z",
     "16.43 / 27.26 / 38.95",
