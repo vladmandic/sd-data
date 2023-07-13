@@ -1,5 +1,57 @@
 [
   [
+    5435,
+    "2023-07-13T16:35:11.665Z",
+    "3.95 / 4.23 / 4.34 / 4.43 / 4.47",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB",
+    "V1 - original v1 none",
+    "1dreamshaper_7.safetensors [ed989d673d]",
+    "burak",
+    ""
+  ],
+  [
+    5434,
+    "2023-07-03T02:04:36.878Z",
+    "error",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:unavailable accelerate:0.19.0 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 12GB",
+    " none",
+    "emmaWatsonLora_v1.safetensors [81c9c1ecce]",
+    "burak",
+    ""
+  ],
+  [
+    5433,
+    "2023-07-13T09:41:08.635Z",
+    "6.43 / 7.57 / 8.48",
+    "updated:2023-07-07 hash:205b5164 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "FD_test_idea.safetensors [34579faa4f]",
+    "poopfart",
+    "pffffrt"
+  ],
+  [
+    5432,
+    "2023-07-13T09:37:43.005Z",
+    "6.38 / 5.94 / 6.87",
+    "updated:2023-07-07 hash:205b5164 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3060 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "FD_test_idea.safetensors [34579faa4f]",
+    "salda",
+    ""
+  ],
+  [
     5431,
     "2023-07-13T20:14:11.061Z",
     "6.74 / 7.46 / 8.56",
