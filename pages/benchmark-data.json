@@ -1,5 +1,18 @@
 [
   [
+    5436,
+    "2023-07-13T23:17:03.714Z",
+    "8.2 / 8.69 / 9.25",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8903 10GB",
+    "xformers none",
+    "meinapastel_v6Pastel.safetensors [6292dd40d6]",
+    "wodus",
+    ""
+  ],
+  [
     5435,
     "2023-07-13T16:35:11.665Z",
     "3.95 / 4.23 / 4.34 / 4.43 / 4.47",
