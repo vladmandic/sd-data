@@ -1,5 +1,31 @@
 [
   [
+    5476,
+    "2023-07-14T15:37:49.066Z",
+    "6.28 / 8.5 / 10.01",
+    "app:SD.next updated:2023-07-14 hash:558b71f0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+gitb1dde16 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "billy",
+    ""
+  ],
+  [
+    5475,
+    "2023-07-14T15:35:06.247Z",
+    "6.28 / 2.99 / 4.86",
+    "app:SD.next updated:2023-07-14 hash:558b71f0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+gitb1dde16 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "billy",
+    ""
+  ],
+  [
     5474,
     "2023-07-14T12:25:35.813Z",
     "8.85 / 9.46 / 10.39",
