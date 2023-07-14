@@ -3209,6 +3209,17 @@
       "created_at": "2023-07-11T06:56:21Z",
       "default_branch_commit_sha": "6cf0f329599a19254bde91d2916af7ac90025090",
       "commit_time": "2023-07-14T03:57:22Z"
+    },
+    {
+      "name": "ComfyUI Tab",
+      "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
+      "description": "Embed ComfyUI in its own tab for convenience",
+      "tags": [
+        "script",
+        "tab",
+        "UI related"
+      ],
+      "added": "2023-07-14"
     }
   ],
   "accept-ranges": "bytes",
@@ -3216,13 +3227,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "31791",
+  "content-length": "31856",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 14 Jul 2023 12:59:52 GMT",
-  "etag": "W/\"6f459426c14aaf4afa5d97352a095773e0e398338ba381355262e9622dfe7fff\"",
-  "expires": "Fri, 14 Jul 2023 13:04:52 GMT",
+  "date": "Fri, 14 Jul 2023 14:39:03 GMT",
+  "etag": "W/\"da7a776346a3d8fea7c0be225e9d762f4032336194f6bc13da71cd5ffb3a1a41\"",
+  "expires": "Fri, 14 Jul 2023 14:44:03 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3230,10 +3241,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "67c211f528faf9ab219e082947ef0363e48a021c",
+  "x-fastly-request-id": "2fef005f83f2acdc3afd30e350795cb95d4b1753",
   "x-frame-options": "deny",
-  "x-github-request-id": "4370:3225:10EEB38:1393A3A:64B146C8",
-  "x-served-by": "cache-dfw-kdfw8210047-DFW",
-  "x-timer": "S1689339592.221909,VS0,VE116",
+  "x-github-request-id": "7D88:4E04:CABCC0:F11512:64B15E07",
+  "x-served-by": "cache-iad-kiad7000121-IAD",
+  "x-timer": "S1689345544.859630,VS0,VE109",
   "x-xss-protection": "1; mode=block"
 }
