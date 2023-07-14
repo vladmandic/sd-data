@@ -3220,6 +3220,15 @@
         "UI related"
       ],
       "added": "2023-07-14"
+    },
+    {
+      "name": "GPU temperature protection",
+      "url": "https://github.com/w-e-w/stable-diffusion-webui-GPU-temperature-protection.git",
+      "description": "Pause image generation when GPU is to hot",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-07-14"
     }
   ],
   "accept-ranges": "bytes",
@@ -3227,13 +3236,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "31856",
+  "content-length": "31916",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 14 Jul 2023 16:43:41 GMT",
-  "etag": "W/\"da7a776346a3d8fea7c0be225e9d762f4032336194f6bc13da71cd5ffb3a1a41\"",
-  "expires": "Fri, 14 Jul 2023 16:48:41 GMT",
+  "date": "Fri, 14 Jul 2023 18:41:13 GMT",
+  "etag": "W/\"7431e381394df60da62e98567155952ea9ec435ef181cd58805b63dd499da8de\"",
+  "expires": "Fri, 14 Jul 2023 18:46:13 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3241,10 +3250,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "90fee1a9c1bd7d97402bbf4f7def31faf74df7b6",
+  "x-fastly-request-id": "ccd178790519f3cee5dea1e394f15cceb6d6a511",
   "x-frame-options": "deny",
-  "x-github-request-id": "4FBC:4B12:D1B440:F5C657:64B17B3D",
-  "x-served-by": "cache-sjc10062-SJC",
-  "x-timer": "S1689353022.817964,VS0,VE178",
+  "x-github-request-id": "FD42:2FD6:5B970A:6A7B32:64B196C9",
+  "x-served-by": "cache-bur-kbur8200167-BUR",
+  "x-timer": "S1689360073.251174,VS0,VE206",
   "x-xss-protection": "1; mode=block"
 }
