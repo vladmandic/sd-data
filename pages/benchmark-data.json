@@ -1,5 +1,18 @@
 [
   [
+    5513,
+    "2023-07-14T15:07:30.632Z",
+    "12.61 / 13.53 / 15.05",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.23 10GB",
+    "sdp none",
+    "alabasterBlend_v10.safetensors [43381b29f9]",
+    "davies",
+    ""
+  ],
+  [
     5512,
     "2023-07-15T01:32:52.841Z",
     "14.64 / 16.0 / 17.43",
