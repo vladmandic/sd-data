@@ -1,5 +1,31 @@
 [
   [
+    5467,
+    "2023-07-13T21:09:38.135Z",
+    "4.14 / 6.43 / 8.7",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "xformers medvram",
+    "absolutereality_v16.safetensors [be1d90c4ab]",
+    "Wisam",
+    ""
+  ],
+  [
+    5466,
+    "2023-07-13T23:47:29.317Z",
+    "7.38 / 5.73 / 4.7",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "Doggettx none",
+    "meinapastel_v6Pastel.safetensors [6292dd40d6]",
+    "anon",
+    ""
+  ],
+  [
     5465,
     "2023-07-13T21:23:40.856Z",
     "1.72 / 1.4 / 1.54",
