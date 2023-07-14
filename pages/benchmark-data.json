@@ -1,5 +1,18 @@
 [
   [
+    5516,
+    "2023-07-14T22:47:01.506Z",
+    "0.27 / 0.5 / 0.88",
+    "app:stable-diffusion-webui-directml.git updated:2023-07-07 hash:265d6264 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu full nohalf xformers: diffusers:0.18.2 transformers:4.25.1",
+    " 0GB",
+    "sub-quadratic lowvram",
+    "cyberrealistic_v31.safetensors [03363589fe]",
+    "do-it",
+    ""
+  ],
+  [
     5515,
     "2023-07-14T22:02:53.959Z",
     "6.72 / 7.56 / 8.13 / 7.63 / 8.38",
