@@ -1,5 +1,31 @@
 [
   [
+    5497,
+    "2023-07-14T13:42:43.065Z",
+    "6.33 / 7.13 / 7.96",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "sdp none",
+    "AbsoluteReality\\absolutereality_v16.safetensors [e948ca5dc4]",
+    "user",
+    ""
+  ],
+  [
+    5496,
+    "2023-07-14T20:40:06.313Z",
+    "4.96 / 5.55 / 5.94",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.23 12GB",
+    "Doggettx none",
+    "nreal2un.safetensors [e75450615f]",
+    "se193-21",
+    ""
+  ],
+  [
     5495,
     "2023-07-14T17:52:47.717Z",
     "1.74 / 2.01 / 2.13",
