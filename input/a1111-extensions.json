@@ -3269,6 +3269,15 @@
         "UI related"
       ],
       "added": "2023-07-15"
+    },
+    {
+      "name": "Latent Upscale",
+      "url": "https://github.com/feynlee/latent-upscale.git",
+      "description": "Provides more options for latent upscale in img2img, surpassing those offered by Hires Fix for the txt2img process.",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-07-15"
     }
   ],
   "accept-ranges": "bytes",
@@ -3276,13 +3285,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "32309",
+  "content-length": "32394",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 15 Jul 2023 20:38:23 GMT",
-  "etag": "W/\"8bec3b1ed9fb38c5ea9cc13659f3978e5235e44e2174e5546cdb0d914e70cf9f\"",
-  "expires": "Sat, 15 Jul 2023 20:43:23 GMT",
+  "date": "Sat, 15 Jul 2023 22:38:19 GMT",
+  "etag": "W/\"e5b356899634b3d9095459a1479ad791e42fdecb8dfd006c29053573fa162a3d\"",
+  "expires": "Sat, 15 Jul 2023 22:43:19 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3290,10 +3299,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "1adf9463d5d8fc7ef4b1094eeb0693ec010023d7",
+  "x-fastly-request-id": "2d99fa418f946763e95a6ace0b3c4647799c50f3",
   "x-frame-options": "deny",
-  "x-github-request-id": "ACDC:2F6C:169B26B:1A36E9F:64B303BF",
-  "x-served-by": "cache-iad-kiad7000104-IAD",
-  "x-timer": "S1689453503.262716,VS0,VE91",
+  "x-github-request-id": "2874:1B3A:36E805:417E89:64B31FD9",
+  "x-served-by": "cache-sjc1000108-SJC",
+  "x-timer": "S1689460699.199675,VS0,VE151",
   "x-xss-protection": "1; mode=block"
 }
