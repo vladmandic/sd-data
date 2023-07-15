@@ -1,5 +1,18 @@
 [
   [
+    5538,
+    "2023-07-14T14:31:33.427Z",
+    "6.85 / 7.48 / 8.46 / 8.83 / 8.61",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8902 driver:536.40 12GB",
+    "Automatic none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "BigCat",
+    ""
+  ],
+  [
     5537,
     "2023-07-14T22:47:46.640Z",
     "19.72 / 27.58 / 30.08 / 30.13 / 29.87",
