@@ -3,7 +3,7 @@
     "script": "a general extension that adds functionality",
     "localization": "a localization extension that translates web ui into another language",
     "tab": "adds a tab",
-    "dropdown": "adds a dropbear in the ui",
+    "dropdown": "adds a dropdown in the ui",
     "ads": "contains ads",
     "installed": "an extension that is already installed",
     "training": "new type of training / assists with training.",
@@ -3229,6 +3229,15 @@
         "script"
       ],
       "added": "2023-07-14"
+    },
+    {
+      "name": "zoom-image",
+      "url": "https://github.com/viyiviyi/stable-diffusion-webui-zoomimage.git",
+      "description": "Pan and Zoom for fullscreen image viewer with mouse and gesture.",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-07-15"
     }
   ],
   "accept-ranges": "bytes",
@@ -3236,13 +3245,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "31916",
+  "content-length": "31978",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 15 Jul 2023 03:18:53 GMT",
-  "etag": "W/\"7431e381394df60da62e98567155952ea9ec435ef181cd58805b63dd499da8de\"",
-  "expires": "Sat, 15 Jul 2023 03:23:53 GMT",
+  "date": "Sat, 15 Jul 2023 04:40:32 GMT",
+  "etag": "W/\"9692205c22d1a0f85444095064aef5deeb54452d8464a8dda6f3c62928c7d893\"",
+  "expires": "Sat, 15 Jul 2023 04:45:32 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3250,10 +3259,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "27f65f45d7cc589f78bf7dda73786017fa3a71bf",
+  "x-fastly-request-id": "80c9a90da471ab341eaabc225cf626c5a48166be",
   "x-frame-options": "deny",
-  "x-github-request-id": "AC40:424A:15484CF:185D55C:64B2101D",
-  "x-served-by": "cache-iad-kiad7000148-IAD",
-  "x-timer": "S1689391134.851027,VS0,VE81",
+  "x-github-request-id": "ACF4:6223:56432E:649B0D:64B22340",
+  "x-served-by": "cache-dfw-kdfw8210102-DFW",
+  "x-timer": "S1689396033.788364,VS0,VE92",
   "x-xss-protection": "1; mode=block"
 }
