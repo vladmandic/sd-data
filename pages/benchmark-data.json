@@ -1,5 +1,57 @@
 [
   [
+    5576,
+    "2023-07-15T14:06:01.708Z",
+    "10.11 / 11.78 / 13.37 / 13.87 / 14.25",
+    "app:stable-diffusion-webui.git updated:2022-10-10 hash:45fbd1c url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.3.0 transformers:4.25.1",
+    "device:NVIDIA RTX A4000 (2) (compute_37) (8, 6) cuda:11.7 cudnn:8500 16GB",
+    "xformers none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "pickle",
+    ""
+  ],
+  [
+    5575,
+    "2023-07-15T16:42:06.586Z",
+    "2.78 / 3.32 / 4.12",
+    "app:SD.next updated:2023-07-15 hash:55c02690 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 21 Model 2 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "diffusers xFormers lowvram",
+    "stabilityai/stable-diffusion-xl-base-0.9 [33ed1ed850]",
+    "symbiotic",
+    ""
+  ],
+  [
+    5574,
+    "2023-06-24T11:26:52.531Z",
+    "2.21 / 3.22 / 4.76",
+    "updated:2023-06-22 hash:b80fcca9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 21 Model 2 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.0+cu118 Autocast half xformers:0.0.20 accelerate:0.20.3 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 12GB",
+    "xformers medvram",
+    "moonfilm_filmGrain10.safetensors [88ea5a84a3]",
+    "symbiot",
+    ""
+  ],
+  [
+    5573,
+    "2023-07-16T02:31:54.404Z",
+    "10.76 / 9.44 / 10.6",
+    "app:automatic.git updated:2023-07-15 hash:55c02690 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-25-generic python:3.10.12",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers: transformers:",
+    "device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 8GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "anwar",
+    ""
+  ],
+  [
     5572,
     "2023-07-15T22:23:01.500Z",
     "0.18 / 0.27 / 0.43",
