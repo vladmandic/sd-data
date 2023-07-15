@@ -1,5 +1,18 @@
 [
   [
+    5562,
+    "2023-07-10T17:43:12.918Z",
+    "0.46",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 4GB",
+    "xformers lowvram",
+    "crosskemonoFurryModel_crosskemono25.safetensors [167e5bcb37]",
+    "Fid",
+    ""
+  ],
+  [
     5561,
     "2023-07-15T13:02:15.912Z",
     "17.88 / 20.62 / 22.49",
