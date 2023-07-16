@@ -1,5 +1,31 @@
 [
   [
+    5635,
+    "2023-07-17T00:47:50.747Z",
+    "8.47 / 9.23 / 10.56",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:535.98 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "NiceW",
+    ""
+  ],
+  [
+    5634,
+    "2023-07-17T00:15:39.131Z",
+    "3.67 / 2.02 / 2.05",
+    "app:SD.next updated:2023-07-16 hash:0f81cfc2 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:AMD Radeon RX 6600 XT (1) hip:5.4.22803-474e8620 8GB",
+    "original sub-quadratic none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "xdd",
+    ""
+  ],
+  [
     5633,
     "2023-07-16T11:46:14.870Z",
     "0.83 / 0.81 / 0.47",
