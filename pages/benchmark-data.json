@@ -1,5 +1,57 @@
 [
   [
+    5640,
+    "2023-07-15T23:51:22.096Z",
+    "6.3 / 3.99 / 6.06",
+    "app:automatic.git updated:2023-07-15 hash:55c02690 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Intel(R) Graphics [0x56a1] (1) ipex:1.13.120+xpu 8GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "czoneboy",
+    ""
+  ],
+  [
+    5639,
+    "2023-07-17T02:21:07.781Z",
+    "0.25 / 0.44 / 0.37",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:535.98 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "RYGTX",
+    ""
+  ],
+  [
+    5638,
+    "2023-07-17T03:18:19.139Z",
+    "18.35 / 19.42 / 19.9",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver:536.40 12GB",
+    "sdp-no-mem none",
+    "AbyssOrangeMix2_sfw.safetensors [038ba203d8]",
+    "zhsqp",
+    ""
+  ],
+  [
+    5637,
+    "2023-07-17T03:12:36.687Z",
+    "18.33 / 19.78 / 19.97",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver:536.40 12GB",
+    "xformers none",
+    "AbyssOrangeMix2_sfw.safetensors [038ba203d8]",
+    "zhsqp",
+    ""
+  ],
+  [
     5636,
     "2023-07-17T03:08:03.926Z",
     "18.31 / 19.21 / 18.34",
