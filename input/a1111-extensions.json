@@ -647,7 +647,8 @@
       "description": "Extension for an improved UI/UX. Find your cozy spot on Auto1111's webui!.",
       "added": "2023-05-02",
       "tags": [
-        "UI related"
+        "UI related",
+        "online"
       ],
       "full_name": "Nevysha/Cozy-Nest",
       "github_description": "A collection of tweak to improve Auto1111 UI//UX",
@@ -2677,14 +2678,13 @@
     {
       "name": "Miaoshouai Assistant",
       "url": "https://github.com/miaoshouai/miaoshouai-assistant.git",
-      "description": "Miaoshouai Assistant allows you to enhance your automatic1111 webui user experience, including updating boot settings, managing and downloading your models, prompts from a single tab.",
+      "description": "Miaoshouai Assistant allows you to enhance your automatic1111 webui user experience, including updating boot settings, freeup vram, managing and downloading your models from civitai.com and liandange.com, generate prompts from chatgpt all through a single tab.",
       "added": "2023-05-18",
       "tags": [
         "tab",
         "models",
         "UI related",
-        "online",
-        "ads"
+        "online"
       ],
       "full_name": "miaoshouai/miaoshouai-assistant",
       "github_description": "MiaoshouAI Assistant for Automatic1111 Webui",
@@ -3001,7 +3001,8 @@
       "description": "The modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme.",
       "added": "2023-06-28",
       "tags": [
-        "UI related"
+        "UI related",
+        "online"
       ],
       "full_name": "canisminor1990/sd-webui-lobe-theme",
       "github_description": "🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme",
@@ -3017,7 +3018,8 @@
       "description": "Custom Theme.",
       "added": "2023-02-28",
       "tags": [
-        "UI related"
+        "UI related",
+        "online"
       ],
       "full_name": "canisminor1990/sd-webui-kitchen-theme-legacy",
       "github_description": "[Legacy] 🧿 Kitchen theme for stable diffusion webui，Kitchen Theme has moved into maintenance mode!  Recommend using Lobe Theme for more custom features",
@@ -3285,13 +3287,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "32394",
+  "content-length": "32422",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 15 Jul 2023 22:38:19 GMT",
-  "etag": "W/\"e5b356899634b3d9095459a1479ad791e42fdecb8dfd006c29053573fa162a3d\"",
-  "expires": "Sat, 15 Jul 2023 22:43:19 GMT",
+  "date": "Sun, 16 Jul 2023 02:29:09 GMT",
+  "etag": "W/\"13186738686c1af23b0c75bddbcc89d02b770c7ddd503e2a2f3f0d4c30e30126\"",
+  "expires": "Sun, 16 Jul 2023 02:34:09 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3299,10 +3301,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "2d99fa418f946763e95a6ace0b3c4647799c50f3",
+  "x-fastly-request-id": "260cf2ff08de652a16d42f2ef1d1ed10de4d556b",
   "x-frame-options": "deny",
-  "x-github-request-id": "2874:1B3A:36E805:417E89:64B31FD9",
-  "x-served-by": "cache-sjc1000108-SJC",
-  "x-timer": "S1689460699.199675,VS0,VE151",
+  "x-github-request-id": "5674:3AFE:17B048:1C4409:64B355F5",
+  "x-served-by": "cache-sjc10063-SJC",
+  "x-timer": "S1689474550.786648,VS0,VE182",
   "x-xss-protection": "1; mode=block"
 }
