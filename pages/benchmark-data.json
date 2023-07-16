@@ -1,5 +1,31 @@
 [
   [
+    5618,
+    "2023-07-16T16:58:42.097Z",
+    "4.36 / 5.37 / 6.31",
+    "app:stable-diffusion-webui updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "17817",
+    ""
+  ],
+  [
+    5617,
+    "2023-07-16T09:34:00.958Z",
+    "15.0 / 28.2 / 40.47",
+    "app:SD.next updated:2023-07-15 hash:55c02690 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "maso",
+    ""
+  ],
+  [
     5616,
     "2023-07-16T03:31:36.210Z",
     "17.03 / 18.89 / 19.0 / 17.52 / 17.6",
