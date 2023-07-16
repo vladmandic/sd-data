@@ -1,5 +1,31 @@
 [
   [
+    5616,
+    "2023-07-16T03:31:36.210Z",
+    "17.03 / 18.89 / 19.0 / 17.52 / 17.6",
+    "app:SD.next updated:2023-07-15 hash:e2b33b81 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "original xformers none",
+    "absolutereality_v16.safetensors [be1d90c4ab]",
+    "timbe",
+    ""
+  ],
+  [
+    5615,
+    "2023-07-16T03:30:41.820Z",
+    "16.19 / 13.9 / 14.74",
+    "app:SD.next updated:2023-07-15 hash:e2b33b81 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "original xformers none",
+    "absolutereality_v16.safetensors [be1d90c4ab]",
+    "timbe",
+    ""
+  ],
+  [
     5614,
     "2023-07-16T14:21:02.362Z",
     "7.97 / 8.92 / 9.73",
