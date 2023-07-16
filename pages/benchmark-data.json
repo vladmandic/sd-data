@@ -1,5 +1,44 @@
 [
   [
+    5614,
+    "2023-07-16T14:21:02.362Z",
+    "7.97 / 8.92 / 9.73",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:536.40 8GB",
+    "xformers none",
+    "perfectWorld_v4Baked.safetensors [24a393500f]",
+    "Vesper Hao Long",
+    ""
+  ],
+  [
+    5613,
+    "2023-07-16T15:17:32.645Z",
+    "12.39 / 13.99 / 15.68",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "bj",
+    ""
+  ],
+  [
+    5612,
+    "2023-07-16T14:15:40.831Z",
+    "8.07 / 8.97 / 9.84 / 8.31 / 8.55",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:536.40 8GB",
+    "xformers none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Vesper Hao Long",
+    ""
+  ],
+  [
     5611,
     "2023-07-16T13:54:49.229Z",
     "0.47 / 0.52 / 0.56",
