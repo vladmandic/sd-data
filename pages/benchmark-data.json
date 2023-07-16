@@ -1,5 +1,57 @@
 [
   [
+    5633,
+    "2023-07-16T11:46:14.870Z",
+    "0.83 / 0.81 / 0.47",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.23 8GB",
+    "xformers none",
+    "cyberrealistic_v32.safetensors [9584e2c050]",
+    "Xavyr",
+    ""
+  ],
+  [
+    5632,
+    "2023-07-16T10:45:55.816Z",
+    "7.82 / 8.76 / 9.21",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8",
+    "torch:2.0.1+cu118 full nohalf xformers: diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "Automatic none",
+    "protogenX34Photorealism_protogenX34.safetensors [44f90a0972]",
+    "brain",
+    ""
+  ],
+  [
+    5631,
+    "2023-07-16T19:35:55.480Z",
+    "error / error / error",
+    "app:SD.next updated:2023-07-16 hash:0f81cfc2 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.10.10",
+    "torch:2.0.1 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    " 0GB",
+    "original doggettx none",
+    "absolutereality_v1 (2).safetensors [bfea7e18e2]",
+    "root",
+    ""
+  ],
+  [
+    5630,
+    "2023-07-16T23:24:41.691Z",
+    "9.32 / 10.13 / 11.91",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.40 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "LeadersYang",
+    ""
+  ],
+  [
     5629,
     "2023-07-16T16:58:34.356Z",
     "6.86 / 8.3 / 10.33 / 11.92 / 12.94",
