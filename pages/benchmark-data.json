@@ -1,5 +1,31 @@
 [
   [
+    5642,
+    "2023-07-16T11:25:20.880Z",
+    "7.71 / 8.93 / 9.6 / 10.1 / 10.31",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:git@github.com:AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "Automatic none",
+    "dreamshaper_631BakedVae\\dreamshaper_631BakedVae.safetensors [853e7e85c4]",
+    "kwipe",
+    ""
+  ],
+  [
+    5641,
+    "2023-07-16T14:25:18.081Z",
+    "0.52",
+    "app:stable-diffusion-webui-directml updated:2023-05-29 hash:5e48f300 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu full nohalf xformers:0.0.17 diffusers: transformers:4.25.1",
+    " 0GB",
+    "InvokeAI medvram",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "Prometheus",
+    ""
+  ],
+  [
     5640,
     "2023-07-15T23:51:22.096Z",
     "6.3 / 3.99 / 6.06",
