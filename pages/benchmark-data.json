@@ -1,5 +1,18 @@
 [
   [
+    5685,
+    "2023-07-17T17:28:14.814Z",
+    "1.23 / 1.64 / 2.07 / 2.7 / 1.99",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "Automatic none",
+    "animeModel_UpdateV10ImUsing.safetensors [6d85dfa786]",
+    "Mirrlo",
+    ""
+  ],
+  [
     5684,
     "2023-07-17T22:44:15.873Z",
     "0.2 / 0.29 / 0.43",
