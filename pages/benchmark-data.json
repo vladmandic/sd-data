@@ -1,5 +1,18 @@
 [
   [
+    5684,
+    "2023-07-17T22:44:15.873Z",
+    "0.2 / 0.29 / 0.43",
+    "app:stable-diffusion-webui updated:2023-02-20 hash:0cc0ee1b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 (1) (compute_37) (6, 1) cuda:11.7 cudnn:8500 driver:536.40 2GB",
+    "xformers lowvram",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "mopol",
+    ""
+  ],
+  [
     5683,
     "2023-07-17T14:56:47.457Z",
     "0.54 / 0.53 / 0.64",
