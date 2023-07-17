@@ -1,5 +1,44 @@
 [
   [
+    5678,
+    "2023-07-17T16:02:34.170Z",
+    "6.05 / 5.22 / 5.5",
+    "app:stable-diffusion-webui.git updated:2023-07-06 hash:953abbc8 url:https://github.com/PNuwa/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.109+ python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:Tesla T4 (2) (sm_90) (7, 5) cuda:11.8 cudnn:8700 driver:470.161.03 470.161.03 15GB",
+    "Automatic lowram",
+    "zx-A-9-half.safetensors",
+    "root",
+    ""
+  ],
+  [
+    5677,
+    "2023-06-14T01:53:41.958Z",
+    "12.84 / 16.37 / 19.61",
+    "updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23471-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "xformers none",
+    "bra_v5.safetensors [ac68270450]",
+    "zongk",
+    ""
+  ],
+  [
+    5676,
+    "2023-06-22T14:05:56.239Z",
+    "9.9 / 11.62 / 12.14",
+    "updated:2023-06-05 hash:baf6946e url:https://gitee.com/k7212519/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.9.5",
+    "torch:2.1.0.dev20230620+rocm5.5 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.5.30201-c1741e9b 16GB",
+    "Doggettx none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "root",
+    ""
+  ],
+  [
     5675,
     "2023-07-17T18:45:41.610Z",
     "9.78 / 10.52 / 12.04",
