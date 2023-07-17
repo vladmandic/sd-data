@@ -1,5 +1,44 @@
 [
   [
+    5683,
+    "2023-07-17T14:56:47.457Z",
+    "0.54 / 0.53 / 0.64",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:Quadro P2000 with Max-Q Design (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:471.41 4GB",
+    "xformers medvram",
+    "f222.ckpt [9e2c6ceff3]",
+    "angrygnome",
+    ""
+  ],
+  [
+    5682,
+    "2023-07-17T14:47:13.451Z",
+    "error / 0.67 / error",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:Quadro P2000 with Max-Q Design (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:471.41 4GB",
+    "xformers none",
+    "f222.ckpt [9e2c6ceff3]",
+    "jdeamicis",
+    ""
+  ],
+  [
+    5681,
+    "2023-07-17T19:22:09.894Z",
+    "3.34 / 4.31 / 5.46",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev544 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "xformers medvram",
+    "photon_v1.safetensors [ec41bd2a82]",
+    "root",
+    ""
+  ],
+  [
     5680,
     "2023-07-18T00:59:12.822Z",
     "6.38 / 3.84 / 5.85",
