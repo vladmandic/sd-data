@@ -1,5 +1,18 @@
 [
   [
+    5648,
+    "2023-07-17T13:27:26.736Z",
+    "11.61 / 16.66 / 18.57",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "tianx",
+    ""
+  ],
+  [
     5647,
     "2023-07-17T01:54:25.845Z",
     "0.5 / 0.81 / 1.21",
