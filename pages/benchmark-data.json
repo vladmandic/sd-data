@@ -1,5 +1,31 @@
 [
   [
+    5651,
+    "2023-07-17T17:34:10.796Z",
+    "0.97 / 0.92 / 0.46",
+    "app:stable-diffusion-webui.git updated:2023-07-17 hash:abc88034 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8902 driver:536.40 6GB",
+    "xformers none",
+    "AnythingV5Ink_ink.safetensors [a1535d0a42]",
+    "nemunote",
+    ""
+  ],
+  [
+    5650,
+    "2023-07-17T17:30:58.941Z",
+    "0.97",
+    "app:stable-diffusion-webui.git updated:2023-07-17 hash:abc88034 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8902 driver:536.40 6GB",
+    "xformers none",
+    "AnythingV5Ink_ink.safetensors [a1535d0a42]",
+    "Sho",
+    ""
+  ],
+  [
     5649,
     "2023-07-17T15:25:52.566Z",
     "0.67 / 0.73 / 0.77",
