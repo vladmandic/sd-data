@@ -1,5 +1,31 @@
 [
   [
+    5680,
+    "2023-07-18T00:59:12.822Z",
+    "6.38 / 3.84 / 5.85",
+    "app:automatic.git updated:2023-07-17 hash:11cc14e5 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Intel(R) Graphics [0x56a1] (1) ipex:1.13.120+xpu 8GB",
+    "original sub-quadratic none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "czoneboy",
+    ""
+  ],
+  [
+    5679,
+    "2023-07-17T23:50:10.758Z",
+    "4.54 / 4.91 / 5.27",
+    "app:stable-diffusion-webui updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:528.24 12GB",
+    "Doggettx none",
+    "indigoFurryMix_v45Hybrid.safetensors [a023e2f477]",
+    "TORYT",
+    ""
+  ],
+  [
     5678,
     "2023-07-17T16:02:34.170Z",
     "6.05 / 5.22 / 5.5",
