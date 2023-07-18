@@ -3293,6 +3293,15 @@
       "created_at": "2023-06-29T23:49:27Z",
       "default_branch_commit_sha": "b9f75f44de15170a38b195692cff28246846da7d",
       "commit_time": "2023-07-17T21:55:32Z"
+    },
+    {
+      "name": "sd-history-slider",
+      "url": "https://github.com/LucasMali/sd-history-slider",
+      "description": "A slider change the prompt based on the history of what was used.",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-07-18"
     }
   ],
   "accept-ranges": "bytes",
@@ -3300,13 +3309,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "32567",
+  "content-length": "32630",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Tue, 18 Jul 2023 16:43:57 GMT",
-  "etag": "W/\"5016f88b385eba93f0cc63f485be0792a0f6892ca6d913d85e7cd9d77d23e3cc\"",
-  "expires": "Tue, 18 Jul 2023 16:48:57 GMT",
+  "date": "Tue, 18 Jul 2023 18:40:49 GMT",
+  "etag": "W/\"cd332415dfc4c82743189ab810a884cf5d85b9ace6f29efb7e09b377cf5c6616\"",
+  "expires": "Tue, 18 Jul 2023 18:45:49 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3314,10 +3323,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "7a98f8edd7ed580b84b848be9693de72be051c28",
+  "x-fastly-request-id": "5a1bae52753b61d9b40ec4ea9a02134a4b7b79ac",
   "x-frame-options": "deny",
-  "x-github-request-id": "F03A:3583:F4655:1118F0:64B6C14D",
-  "x-served-by": "cache-iad-kiad7000125-IAD",
-  "x-timer": "S1689698637.236960,VS0,VE95",
+  "x-github-request-id": "F756:3A0F:106F7D:133F6B:64B6DCB1",
+  "x-served-by": "cache-dfw-kdfw8210124-DFW",
+  "x-timer": "S1689705650.753411,VS0,VE133",
   "x-xss-protection": "1; mode=block"
 }
