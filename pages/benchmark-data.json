@@ -1,5 +1,57 @@
 [
   [
+    5719,
+    "2023-07-18T13:54:18.965Z",
+    "7.43 / 7.84 / 9.06",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "Doggettx none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "itsno",
+    ""
+  ],
+  [
+    5718,
+    "2023-07-18T13:53:41.642Z",
+    "7.32 / 8.53 / 8.59",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "Doggettx none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "itsno",
+    ""
+  ],
+  [
+    5717,
+    "2023-07-18T13:52:01.786Z",
+    "5.91 / 6.39 / 7.04",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "Doggettx none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "itsno",
+    ""
+  ],
+  [
+    5716,
+    "2023-07-18T13:50:08.817Z",
+    "6.3 / 7.89 / 8.31",
+    "app:stable-diffusion-webui.git updated:2023-03-14 hash:a9fed7c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "Doggettx none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "itsno",
+    ""
+  ],
+  [
     5715,
     "2023-07-18T10:17:56.854Z",
     "0.37 / 0.05 / 0.03",
