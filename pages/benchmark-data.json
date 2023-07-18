@@ -1,5 +1,57 @@
 [
   [
+    5703,
+    "2023-07-18T12:46:43.025Z",
+    "14.62 / 12.31 / 15.78 / 17.28 / 18.06",
+    "app:automatic.git updated:2023-07-17 hash:88794e37 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.1.0.dev20230628+cu121 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:545.31 10GB",
+    "original sdp none",
+    "1.5\\anime\\meinamix_meinaV10.safetensors [d967bcae4a]",
+    "Razunter",
+    ""
+  ],
+  [
+    5702,
+    "2023-07-18T08:22:39.779Z",
+    "15.11 / 13.28 / 14.94",
+    "app:SD.next updated:2023-07-17 hash:c71467e7 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1038-aws python:3.10.12",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:525.85.12 22GB",
+    "original xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ubuntu",
+    ""
+  ],
+  [
+    5701,
+    "2023-07-18T08:02:33.928Z",
+    "14.82 / 17.23 / 18.32",
+    "app:SD.next updated:2023-07-17 hash:c71467e7 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1038-aws python:3.10.12",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:525.85.12 22GB",
+    "original sdp none",
+    "clarity_2.safetensors [8a02392904]",
+    "ubuntu",
+    ""
+  ],
+  [
+    5700,
+    "2023-07-18T07:31:57.091Z",
+    "14.83 / 11.89 / 14.13",
+    "app:SD.next updated:2023-07-17 hash:c71467e7 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1038-aws python:3.10.12",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:525.85.12 22GB",
+    "original sdp none",
+    "clarity_2.safetensors [8a02392904]",
+    "ubuntu",
+    ""
+  ],
+  [
     5699,
     "2023-07-18T03:28:16.946Z",
     "19.32 / 21.16 / 22.8",
