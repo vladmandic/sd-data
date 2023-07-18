@@ -1,5 +1,31 @@
 [
   [
+    5688,
+    "2023-07-17T23:10:33.020Z",
+    "7.98 / 9.18 / 9.95 / 10.35 / 10.32",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:git@github.com:AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "Automatic none",
+    "KiwieRealistic_v6.safetensors [6b5318908d]",
+    "kwipe",
+    ""
+  ],
+  [
+    5687,
+    "2023-07-17T22:09:22.959Z",
+    "1.57 / 9.94 / 10.72",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "Doggettx none",
+    "CounterfeitV30_v30.safetensors [cbfba64e66]",
+    "capta",
+    ""
+  ],
+  [
     5686,
     "2023-07-18T10:48:03.379Z",
     "0.22 / 0.26 / 0.29",
