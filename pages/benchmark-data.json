@@ -1,5 +1,44 @@
 [
   [
+    5722,
+    "2023-07-18T22:05:56.054Z",
+    "9.8 / 12.62 / 15.15 / 17.22 / 18.49",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.1 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.41 12GB",
+    "xformers medvram",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Larus",
+    ""
+  ],
+  [
+    5721,
+    "2023-07-18T22:01:03.587Z",
+    "9.39 / 12.63 / 15.15 / 16.9 / 18.12",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.1 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.41 12GB",
+    "xformers medvram",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Larus",
+    ""
+  ],
+  [
+    5720,
+    "2023-07-18T21:28:41.923Z",
+    "5.01 / 4.29 / 4.84",
+    "app:SD.next updated:2023-07-18 hash:debec28b url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "freeb",
+    ""
+  ],
+  [
     5719,
     "2023-07-18T13:54:18.965Z",
     "7.43 / 7.84 / 9.06",
