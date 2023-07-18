@@ -1,5 +1,18 @@
 [
   [
+    5706,
+    "2023-07-18T20:41:35.684Z",
+    "20.26 / 29.33 / 38.3",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/automatic1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.25 24GB",
+    "Automatic none",
+    "cyberrealistic_v32.safetensors [9584e2c050]",
+    "Anton",
+    ""
+  ],
+  [
     5705,
     "2023-07-18T17:39:38.841Z",
     "4.01 / 4.42 / 5.5",
