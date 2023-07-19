@@ -1,5 +1,18 @@
 [
   [
+    5790,
+    "2023-07-19T13:04:45.065Z",
+    "9.07",
+    "app:SD.next updated:2023-07-18 hash:0a083c24 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:535.98 8GB",
+    "original sdp none",
+    "_Photoreal\\aZovyaPhotoreal_v2.safetensors [5594efef1c]",
+    "User",
+    ""
+  ],
+  [
     5789,
     "2023-07-19T17:36:33.805Z",
     "13.92 / 24.84 / 35.57",
