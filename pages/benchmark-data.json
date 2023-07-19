@@ -1,5 +1,18 @@
 [
   [
+    5829,
+    "2023-07-19T22:06:01.392Z",
+    "7.63 / 6.52 / 6.74",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "xformers none",
+    "cetusMix_Whalefall2.safetensors [876b4c7ba5]",
+    "FoxyCrafty",
+    ""
+  ],
+  [
     5828,
     "2023-07-20T01:38:13.386Z",
     "0.15 / 0.17 / 0.17",
