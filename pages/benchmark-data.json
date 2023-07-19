@@ -1,5 +1,31 @@
 [
   [
+    5769,
+    "2023-07-19T13:50:43.148Z",
+    "3.37 / 4.13 / 4.13",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:528.66 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "YG",
+    ""
+  ],
+  [
+    5768,
+    "2023-07-18T22:47:37.569Z",
+    "14.17 / 26.91 / 39.26 / 38.97 / 37.75",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-76-generic python:3.10.9",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_86) (8, 9) cuda:11.7 cudnn:8901 driver:530.30.02 24GB",
+    "Automatic none",
+    "comicsVision_v21.safetensors [bcec89588a]",
+    "skookie",
+    ""
+  ],
+  [
     5767,
     "2023-07-18T23:04:53.522Z",
     "9.14 / 9.24 / 9.82 / 10.33 / 10.61",
