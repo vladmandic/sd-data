@@ -1,5 +1,18 @@
 [
   [
+    5828,
+    "2023-07-20T01:38:13.386Z",
+    "0.15 / 0.17 / 0.17",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:528.49 6GB",
+    "xformers lowvram",
+    "schExcelsior_v20.safetensors [ee5e7d0285]",
+    "buiqu",
+    ""
+  ],
+  [
     5827,
     "2023-07-20T02:43:21.249Z",
     "17.51 / 27.75 / 32.73",
