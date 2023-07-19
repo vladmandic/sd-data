@@ -1,5 +1,44 @@
 [
   [
+    5735,
+    "2023-07-19T12:31:52.107Z",
+    "10.97 / 19.0 / 28.47 / 29.08 / 29.82",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.23493-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "xformers none",
+    "niji3dstyle_v10.safetensors [9295fca822]",
+    "HolyCrapDooD",
+    "First"
+  ],
+  [
+    5734,
+    "2023-07-19T03:13:44.221Z",
+    "0.68 / 0.69 / 0.69",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu autocast half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "Doggettx none",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "Andrey",
+    ""
+  ],
+  [
+    5733,
+    "2023-07-19T03:05:14.083Z",
+    "0.69 / 0.73 / error",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu autocast half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "Doggettx none",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "Anon",
+    ""
+  ],
+  [
     5732,
     "2023-07-19T00:29:41.832Z",
     "2.58 / 3.36 / 3.83",
