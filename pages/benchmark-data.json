@@ -1,5 +1,31 @@
 [
   [
+    5855,
+    "2023-07-20T23:56:00.792Z",
+    "1.63 / 1.62 / 1.63",
+    "app:stable-diffusion-webui updated:2023-07-18 hash:eb7c9b58 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD",
+    "arch:arm64 cpu:arm system:Darwin release:22.5.0 python:3.10.12",
+    "torch:2.1.0.dev20230703 autocast half xformers: diffusers:0.16.1 transformers:4.30.2",
+    " 0GB",
+    "Automatic none",
+    "sd_xl_base_0.9.safetensors [1f69731261]",
+    "decade.tw",
+    "m2_max_32g"
+  ],
+  [
+    5854,
+    "2023-07-20T22:22:42.407Z",
+    "5.53 / 6.01 / 6.45 / 4.08 / 0.6",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 6GB",
+    "xformers none",
+    "dvarchMultiPrompt_dvarchExterior.safetensors [481bdbda71]",
+    "khacl",
+    ""
+  ],
+  [
     5853,
     "2023-07-21T00:46:59.162Z",
     "8.51 / 7.6 / 8.28",
