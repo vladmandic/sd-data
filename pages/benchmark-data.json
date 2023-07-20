@@ -1,5 +1,18 @@
 [
   [
+    5853,
+    "2023-07-21T00:46:59.162Z",
+    "8.51 / 7.6 / 8.28",
+    "app:SD.next updated:2023-07-19 hash:e002652a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Full nohalf xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:528.49 24GB",
+    "original sdp none",
+    "Realistic Vision 4.safetensors [afcc6a9cac]",
+    "no one in particular",
+    ""
+  ],
+  [
     5852,
     "2023-07-20T21:40:44.117Z",
     "15.35 / 16.22 / 17.91",
