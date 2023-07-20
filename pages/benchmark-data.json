@@ -1,5 +1,31 @@
 [
   [
+    5845,
+    "2023-07-20T15:29:53.603Z",
+    "22.73 / 25.0 / 30.78",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.19 diffusers:0.16.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "2\\AbyssOrangeMix2_sfw.safetensors [038ba203d8]",
+    "1",
+    ""
+  ],
+  [
+    5844,
+    "2023-07-20T14:12:21.468Z",
+    "0.58 / 0.21 / 0.64",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:535.98 4GB",
+    "xformers medvram",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "Nhat Minh",
+    ""
+  ],
+  [
     5843,
     "2023-07-20T14:50:47.356Z",
     "error / error / error",
