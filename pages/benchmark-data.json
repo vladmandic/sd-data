@@ -1,5 +1,44 @@
 [
   [
+    5839,
+    "2023-07-19T22:39:23.469Z",
+    "11.51 / 14.15 / 16.41 / 17.32 / 17.67",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 12GB",
+    "Automatic none",
+    "MIX-Pro-V4.safetensors [61e23e57ea]",
+    "mferr",
+    ""
+  ],
+  [
+    5838,
+    "2023-07-19T22:28:18.672Z",
+    "11.71 / 14.19 / 16.55",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 12GB",
+    "xformers none",
+    "MIX-Pro-V4.safetensors [61e23e57ea]",
+    "mferr",
+    ""
+  ],
+  [
+    5837,
+    "2023-07-20T11:48:43.184Z",
+    "8.78 / 12.35 / 14.13",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.25 10GB",
+    "xformers none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors",
+    "FunGame2",
+    ""
+  ],
+  [
     5836,
     "2023-07-20T11:05:52.568Z",
     "error / error / error",
