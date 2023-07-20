@@ -1,5 +1,31 @@
 [
   [
+    5852,
+    "2023-07-20T21:40:44.117Z",
+    "15.35 / 16.22 / 17.91",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.19 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.40 12GB",
+    "xformers none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "DH",
+    ""
+  ],
+  [
+    5851,
+    "2023-07-20T21:20:43.389Z",
+    "10.05 / 10.54 / 12.18",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:535.98 8GB",
+    "xformers none",
+    "realisticVisionV40_v40VAE.safetensors [afcc6a9cac]",
+    "Administrator",
+    ""
+  ],
+  [
     5850,
     "2023-07-20T20:31:40.608Z",
     "6.53 / 8.25 / 9.78",
