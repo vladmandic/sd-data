@@ -1,5 +1,18 @@
 [
   [
+    5848,
+    "2023-07-20T12:41:04.587Z",
+    "8.12 / 9.82 / 10.72",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:536.67 16GB",
+    "xformers none",
+    "ttpTheTentacle_v10.safetensors [18ab444d76]",
+    "voigt",
+    ""
+  ],
+  [
     5847,
     "2023-07-20T17:05:21.603Z",
     "6.57 / 8.28 / 9.65 / 6.19 / 7.55",
