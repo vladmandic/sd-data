@@ -1,5 +1,18 @@
 [
   [
+    5849,
+    "2023-07-20T19:26:05.496Z",
+    "9.78 / 11.2 / 14.78",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.23 12GB",
+    "Automatic none",
+    "国风3.2.safetensors [2537d1a815]",
+    "Chaney2023",
+    ""
+  ],
+  [
     5848,
     "2023-07-20T12:41:04.587Z",
     "8.12 / 9.82 / 10.72",
