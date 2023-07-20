@@ -1,5 +1,18 @@
 [
   [
+    5847,
+    "2023-07-20T17:05:21.603Z",
+    "6.57 / 8.28 / 9.65 / 6.19 / 7.55",
+    "app:SD.next updated:2023-07-18 hash:0a083c24 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-41-generic python:3.10.6",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Intel(R) Arc(TM) A750 Graphics (1) ipex:1.13.120+xpu 8GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "adc-dgpu-test",
+    ""
+  ],
+  [
     5846,
     "2023-07-20T16:10:52.917Z",
     "20.82 / 29.18 / 35.85",
