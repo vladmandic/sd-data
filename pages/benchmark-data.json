@@ -1,5 +1,57 @@
 [
   [
+    5868,
+    "2023-07-21T00:00:28.410Z",
+    "5.83 / 5.96 / 6.27",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8",
+    "torch:1.13.1+cu116 autocast half xformers:0.0.16+bc08bbc.d20230125 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.6 cudnn:8302 driver:536.67 12GB",
+    "Automatic none",
+    "projectUnrealEngine5_v30.safetensors [b587885eb2]",
+    "TahaJafar",
+    ""
+  ],
+  [
+    5867,
+    "2023-07-20T16:54:45.520Z",
+    "24.81 / 27.95 / 31.53",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:528.02 24GB",
+    "xformers none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "GIGABITCH",
+    ""
+  ],
+  [
+    5866,
+    "2023-07-20T16:21:46.913Z",
+    "16.04 / 24.81 / 30.52",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:528.02 24GB",
+    "xformers none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "GIGABITCH",
+    ""
+  ],
+  [
+    5865,
+    "2023-07-20T16:18:04.955Z",
+    "16.46 / 25.6 / 29.0 / 27.7 / 27.41",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:528.02 24GB",
+    "xformers none",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "GIGABITCH",
+    ""
+  ],
+  [
     5864,
     "2023-07-21T00:49:56.876Z",
     "16.37 / 21.22 / 25.26",
