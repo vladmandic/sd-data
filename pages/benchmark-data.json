@@ -1,5 +1,31 @@
 [
   [
+    5841,
+    "2023-07-20T12:34:59.342Z",
+    "9.02 / 9.34 / 10.59",
+    "app:byteartist-stable-diffusion-webui.git updated:2023-05-09 hash:9edeaf5 url:git@code.byted.org:us-cv/byteartist-stable-diffusion-webui.git/tree/HEAD",
+    "arch:x86_64 cpu: system:Linux release:5.4.143.bsk.7-amd64 python:3.9.2",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA A10 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:470.129.06 22GB",
+    "Automatic none",
+    "lora_base/anime.ckpt [af7dfd7a82]",
+    "root",
+    ""
+  ],
+  [
+    5840,
+    "2023-07-20T12:18:42.957Z",
+    "9.99 / 10.79 / 12.29",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA RTX A4000 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 15GB",
+    "xformers none",
+    "真实系：realisticVisionV20_v20.safetensors [e6415c4892]",
+    "User",
+    ""
+  ],
+  [
     5839,
     "2023-07-19T22:39:23.469Z",
     "11.51 / 14.15 / 16.41 / 17.32 / 17.67",
