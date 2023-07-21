@@ -1,5 +1,44 @@
 [
   [
+    5920,
+    "2023-07-21T16:53:30.507Z",
+    "18.22 / 20.58 / 22.46",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 24GB",
+    "xformers none",
+    "Photon_v1.safetensors [ec41bd2a82]",
+    "mm",
+    ""
+  ],
+  [
+    5919,
+    "2023-07-21T16:43:09.522Z",
+    "error / error / error",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21+b14e67d.d20230721 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 24GB",
+    "xformers none",
+    "Photon_v1.safetensors [ec41bd2a82]",
+    "mm",
+    ""
+  ],
+  [
+    5918,
+    "2023-07-21T16:30:17.685Z",
+    "15.01 / 16.46 / 17.63",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 24GB",
+    "Doggettx none",
+    "Photon_v1.safetensors [ec41bd2a82]",
+    "mm",
+    ""
+  ],
+  [
     5917,
     "2023-07-21T06:19:26.448Z",
     "11.39 / 12.99 / 12.96 / 12.72 / 12.74",
