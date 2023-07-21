@@ -1,5 +1,57 @@
 [
   [
+    5924,
+    "2023-07-22T00:07:17.600Z",
+    "3.08 / 4.06 / 0.62",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.25905-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.67 6GB",
+    "Doggettx medvram",
+    "AbyssOrangeMix2_sfw.ckpt [f75b19923f]",
+    "mc133",
+    ""
+  ],
+  [
+    5923,
+    "2023-07-21T11:37:22.240Z",
+    "14.29 / 17.1 / 19.57",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "lnl",
+    ""
+  ],
+  [
+    5922,
+    "2023-07-21T11:35:03.337Z",
+    "14.1 / 14.33 / 19.77",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "lnl",
+    ""
+  ],
+  [
+    5921,
+    "2023-07-21T11:23:55.749Z",
+    "14.03 / 16.78 / 19.51",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.18 24GB",
+    "sdp-no-mem none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "lnl",
+    ""
+  ],
+  [
     5920,
     "2023-07-21T16:53:30.507Z",
     "18.22 / 20.58 / 22.46",
