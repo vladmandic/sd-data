@@ -1,5 +1,57 @@
 [
   [
+    5932,
+    "2023-07-22T02:10:12.898Z",
+    "9.14 / 9.3 / 9.12",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.40 8GB",
+    "xformers none",
+    "真实系：deliberate_v2.safetensors [9aba26abdf]",
+    "Admin",
+    ""
+  ],
+  [
+    5931,
+    "2023-07-21T11:36:40.786Z",
+    "6.63 / 7.53 / 8.18",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "xformers none",
+    "dream2reality_v10.safetensors [3eabdd94e2]",
+    "swhan",
+    ""
+  ],
+  [
+    5930,
+    "2023-07-21T11:30:58.123Z",
+    "6.67 / 7.5 / 8.14",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "xformers none",
+    "dream2reality_v10.safetensors [3eabdd94e2]",
+    "swhan",
+    ""
+  ],
+  [
+    5929,
+    "2023-07-21T13:26:52.412Z",
+    "11.12 / 13.04 / 10.59",
+    "app:SD.next updated:2023-07-19 hash:e002652a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.25 11GB",
+    "original sdp none",
+    "aZovyaRPGArtistTools_v3VAE.safetensors [8c4042921a]",
+    "Alex",
+    ""
+  ],
+  [
     5928,
     "2023-07-21T19:46:07.345Z",
     "3.54 / 4.02 / 4.53",
