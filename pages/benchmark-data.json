@@ -1,5 +1,31 @@
 [
   [
+    5917,
+    "2023-07-21T06:19:26.448Z",
+    "11.39 / 12.99 / 12.96 / 12.72 / 12.74",
+    "app:automatic.git updated:2023-07-21 hash:d962383b url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Lonn",
+    ""
+  ],
+  [
+    5916,
+    "2023-07-21T06:13:41.608Z",
+    "11.33 / 13.0 / 12.97 / 12.74 / 12.77",
+    "app:automatic.git updated:2023-07-21 hash:d962383b url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Lonn",
+    ""
+  ],
+  [
     5915,
     "2023-07-21T21:49:16.171Z",
     "26.36 / 34.03 / 39.04",
