@@ -1,5 +1,57 @@
 [
   [
+    5928,
+    "2023-07-21T19:46:07.345Z",
+    "3.54 / 4.02 / 4.53",
+    "app:SD.next updated:2023-07-21 hash:b31fa986 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "original Scaled-Dot-Product medvram",
+    "abyssorangemix3AOM3_aom3a3.safetensors [eb4099ba9c]",
+    "Kai",
+    ""
+  ],
+  [
+    5927,
+    "2023-07-14T16:30:06.255Z",
+    "3.23",
+    "app:SD.next updated:2023-07-14 hash:558b71f0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "original xformers medvram",
+    "abyssorangemix3AOM3_aom3a3.safetensors [eb4099ba9c]",
+    "Kai",
+    ""
+  ],
+  [
+    5926,
+    "2023-07-14T16:13:14.908Z",
+    "2.21",
+    "app:SD.next updated:2023-07-14 hash:558b71f0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "original sub-quadratic medvram",
+    "abyssorangemix3AOM3_aom3a3.safetensors [eb4099ba9c]",
+    "Kai",
+    ""
+  ],
+  [
+    5925,
+    "2023-07-14T16:08:34.574Z",
+    "3.2",
+    "app:SD.next updated:2023-07-14 hash:558b71f0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "original sdp medvram",
+    "abyssorangemix3AOM3_aom3a3.safetensors [eb4099ba9c]",
+    "Kai",
+    ""
+  ],
+  [
     5924,
     "2023-07-22T00:07:17.600Z",
     "3.08 / 4.06 / 0.62",
