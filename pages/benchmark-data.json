@@ -1,5 +1,31 @@
 [
   [
+    5873,
+    "2023-07-21T01:28:27.909Z",
+    "15.17 / 14.0 / 16.3",
+    "app:SD.next updated:2023-07-20 hash:db1976b3 url:https://github.com/vladmandic/automatic/tree/HEAD",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "original Scaled-Dot-Product none",
+    "Art\\deliberate_v2.safetensors [9aba26abdf]",
+    "Emperor",
+    ""
+  ],
+  [
+    5872,
+    "2023-07-21T07:22:25.556Z",
+    "6.32 / 7.13 / 8.12",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "realisticVisionV40_v40VAE.safetensors [e9d3cedc4b]",
+    "timegonow",
+    ""
+  ],
+  [
     5871,
     "2023-07-20T19:02:48.809Z",
     "7.33 / 6.19 / 7.04 / 7.49 / 7.59",
