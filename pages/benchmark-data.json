@@ -1,5 +1,18 @@
 [
   [
+    5983,
+    "2023-07-22T17:13:44.619Z",
+    "24.18 / 33.19 / 36.98 / 37.04 / 36.83",
+    "app:SD.next updated:2023-07-21 hash:511a8cbb url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "original xformers none",
+    "abyssorangemix2_Hard.safetensors [cadf2c6654]",
+    "umbra",
+    ""
+  ],
+  [
     5982,
     "2023-07-22T16:51:15.469Z",
     "19.63 / 21.95 / 23.41 / 24.06 / 24.07",
