@@ -3342,6 +3342,15 @@
       "created_at": "2023-07-18T02:59:45Z",
       "default_branch_commit_sha": "88a04c329e07654fe3f389aeaebda1df5fff5c9f",
       "commit_time": "2023-07-20T06:18:38Z"
+    },
+    {
+      "name": "Dynamic Javascript",
+      "url": "https://github.com/pmcculler/sd-dynamic-javascript",
+      "description": "Embed Javascript code blocks in positive and negative prompts.",
+      "tags": [
+        "prompting"
+      ],
+      "added": "2023-07-22"
     }
   ],
   "accept-ranges": "bytes",
@@ -3349,13 +3358,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "33065",
+  "content-length": "33129",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 22 Jul 2023 12:49:50 GMT",
-  "etag": "W/\"3fdb5d6068feb405ef1558765ffe568786866232872a587ed7c20bb6f1c25e6f\"",
-  "expires": "Sat, 22 Jul 2023 12:54:50 GMT",
+  "date": "Sat, 22 Jul 2023 14:38:30 GMT",
+  "etag": "W/\"0214abdb4f4273acc51b850f2dd90771cf9afe95c2a0e78f959526cc15fd16c6\"",
+  "expires": "Sat, 22 Jul 2023 14:43:30 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3363,10 +3372,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "7622ceebe365fc2b5302cc43778b1259a3ea5c24",
+  "x-fastly-request-id": "4f08e582b94052defb5ee20ae68c680c994f566e",
   "x-frame-options": "deny",
-  "x-github-request-id": "741A:27EE:7E8A5:96DC1:64BBD06D",
-  "x-served-by": "cache-iad-kiad7000150-IAD",
-  "x-timer": "S1690030190.200719,VS0,VE82",
+  "x-github-request-id": "B6B2:3789:BD93EA:E037B9:64BBE9E6",
+  "x-served-by": "cache-bur-kbur8200127-BUR",
+  "x-timer": "S1690036710.175330,VS0,VE207",
   "x-xss-protection": "1; mode=block"
 }
