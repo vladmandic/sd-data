@@ -1,5 +1,31 @@
 [
   [
+    5940,
+    "2023-07-22T14:53:25.724Z",
+    "0.21 / 0.37 / 0.59",
+    "app:automatic.git updated:2023-07-21 hash:511a8cbb url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers: diffusers:0.18.2 transformers:4.30.2",
+    " 0GB",
+    "original sub-quadratic lowvram",
+    "yayoi_mix_v11.safetensors [2fdef0e003]",
+    "SUGIYAMA-MAIN",
+    ""
+  ],
+  [
+    5939,
+    "2023-07-02T20:10:28.282Z",
+    "0.18 / 0.33 / 0.56",
+    "updated:2023-07-01 hash:ab52ae92 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    " 0GB",
+    "sub-quadratic lowvram",
+    "AbyssHellVer3-no-ema.safetensors [011995961e]",
+    "SUGIYAMA-MAIN",
+    ""
+  ],
+  [
     5938,
     "2023-07-22T09:08:56.532Z",
     "15.48 / 16.09 / 17.5",
