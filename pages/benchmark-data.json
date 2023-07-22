@@ -1,5 +1,18 @@
 [
   [
+    5979,
+    "2023-07-22T20:07:33.630Z",
+    "1.26 / 1.02 / 1.08",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce GTX 1060 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:531.68 6GB",
+    "original sdp none",
+    "absolutereality_v16.safetensors [e948ca5dc4]",
+    "zack8",
+    ""
+  ],
+  [
     5978,
     "2023-07-23T01:27:50.468Z",
     "1.02 / 1.27 / 1.44",
