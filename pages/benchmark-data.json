@@ -1,5 +1,31 @@
 [
   [
+    5950,
+    "2023-07-22T12:03:28.431Z",
+    "14.82 / 19.5 / 21.94 / 23.06 / 23.87",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.23 12GB",
+    "xformers none",
+    "analogMadness_v50.safetensors [f968fc436a]",
+    "xhorst",
+    ""
+  ],
+  [
+    5949,
+    "2023-07-22T17:17:48.915Z",
+    "0.21 / 0.24 / 0.25",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:i386 system:Darwin release:22.5.0 python:3.10.10",
+    "torch:2.0.1 autocast half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "anthony",
+    ""
+  ],
+  [
     5948,
     "2023-07-22T08:58:50.375Z",
     "12.91 / 14.45 / 15.31",
