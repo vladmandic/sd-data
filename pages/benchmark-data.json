@@ -1,5 +1,31 @@
 [
   [
+    5986,
+    "2023-07-23T09:33:40.144Z",
+    "7.05 / 6.37 / 7.14",
+    "app:automatic.git updated:2023-07-22 hash:e491813e url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:535.98 12GB",
+    "original xformers none",
+    "agelesnate_v12-fp16.safetensors [5020acd92a]",
+    "shi6a",
+    ""
+  ],
+  [
+    5985,
+    "2023-07-22T19:05:08.268Z",
+    "0.6 / 0.61 / 0.52 / error / error",
+    "app:stable-diffusion-webui-directml updated:2023-07-02 hash:714e97f0 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu autocast half xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "AnythingV5Ink_v32Ink.safetensors [a1535d0a42]",
+    "CAi",
+    "This test is for a comparison"
+  ],
+  [
     5984,
     "2023-07-23T07:47:21.762Z",
     "1.01 / 1.3 / 1.42",
