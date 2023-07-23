@@ -1,5 +1,18 @@
 [
   [
+    6019,
+    "2023-07-23T21:33:15.579Z",
+    "7.06 / 7.82 / 8.4",
+    "app:stable-diffusion-webui updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.16rc425 diffusers: transformers:4.25.1",
+    "error:cuDNN version incompatibility: PyTorch was compiled against (8, 7, 0) but found runtime version (8, 5, 0). PyTorch already comes bundled with cuDNN. One option to resolving this error is to ensure PyTorch can find the bundled cuDNN. 8GB",
+    "Doggettx none",
+    "[realistic]_revAnimated_v122.safetensors [4199bcdd14]",
+    "user",
+    ""
+  ],
+  [
     6018,
     "2023-07-23T11:20:24.458Z",
     "0.16 / 0.15 / 0.14",
