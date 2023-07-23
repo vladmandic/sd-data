@@ -1,5 +1,18 @@
 [
   [
+    5987,
+    "2023-07-22T19:32:10.695Z",
+    "0.14 / 0.15 / 0.15 / 0.15 / 0.15",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 full nohalf xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "AnythingV5Ink_v32Ink.safetensors [a1535d0a42]",
+    "CAi2",
+    "Test of CPU side"
+  ],
+  [
     5986,
     "2023-07-23T09:33:40.144Z",
     "7.05 / 6.37 / 7.14",
