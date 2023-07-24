@@ -1,5 +1,57 @@
 [
   [
+    6060,
+    "2023-07-24T15:59:53.485Z",
+    "9.24 / 10.67 / 11.24",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.3.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "xformers none",
+    "AnythingV5_v5PrtRE.safetensors [7f96a1a9ca]",
+    "penecea",
+    "haixingyun"
+  ],
+  [
+    6059,
+    "2023-07-24T15:56:35.087Z",
+    "8.98 / 10.79 / 11.56 / 11.54 / 11.36",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.3.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "xformers none",
+    "AnythingV5_v5PrtRE.safetensors [7f96a1a9ca]",
+    "penecea",
+    "haixingyun"
+  ],
+  [
+    6058,
+    "2023-07-24T15:55:50.165Z",
+    "8.47 / 9.69 / 10.96",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.8",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.3.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.79 8GB",
+    "xformers none",
+    "AnythingV5_v5PrtRE.safetensors [7f96a1a9ca]",
+    "penecea",
+    ""
+  ],
+  [
+    6057,
+    "2023-07-24T09:38:24.703Z",
+    "1.06 / 1.81 / 2.68",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-76-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA RTX A2000 Laptop GPU (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 4GB",
+    "xformers lowvram",
+    "meinamix_meinaV11.safetensors [54ef3e3610]",
+    "lmn",
+    ""
+  ],
+  [
     6056,
     "2023-07-24T09:41:14.163Z",
     "8.14 / 9.2 / 10.13",
