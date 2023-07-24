@@ -1,5 +1,18 @@
 [
   [
+    6084,
+    "2023-07-24T23:16:02.019Z",
+    "0.56 / 0.7 / 0.55",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "xformers medvram",
+    "cuteCartoon_v10.safetensors [d3a0fbfe0a]",
+    "NightChaser",
+    ""
+  ],
+  [
     6083,
     "2023-07-25T04:00:12.112Z",
     "2.09 / 2.88 / 3.33 / 3.78 / 2.14",
