@@ -3212,13 +3212,14 @@
       "commit_time": "2023-07-21T08:48:40Z"
     },
     {
-      "name": "ComfyUI Tab",
+      "name": "ComfyUI",
       "url": "https://github.com/ModelSurge/sd-webui-comfyui.git",
-      "description": "Embed ComfyUI in its own tab for convenience",
+      "description": "Embed ComfyUI workflows in different sections of the Webui",
       "tags": [
         "script",
         "tab",
-        "UI related"
+        "UI related",
+        "manipulations"
       ],
       "added": "2023-07-14",
       "full_name": "ModelSurge/sd-webui-comfyui",
@@ -3358,6 +3359,15 @@
       "created_at": "2023-07-21T21:08:54Z",
       "default_branch_commit_sha": "7ce580f74fe4c4c23a76866b306348b5ae185c3c",
       "commit_time": "2023-07-22T14:10:04Z"
+    },
+    {
+      "name": "Simplified Chinese Language Pack",
+      "url": "https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN.git",
+      "description": "Display WebUI interface in Simplified Chinese",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-07-24"
     }
   ],
   "accept-ranges": "bytes",
@@ -3365,13 +3375,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "33203",
+  "content-length": "33301",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 23 Jul 2023 22:38:12 GMT",
-  "etag": "W/\"5455f521b6e5c6929762f5d53795127eb852286250a3e7b8d0fae50e865f394a\"",
-  "expires": "Sun, 23 Jul 2023 22:43:12 GMT",
+  "date": "Mon, 24 Jul 2023 01:52:17 GMT",
+  "etag": "W/\"1bac47dc131978792ae8e686cafa3abdb12734b60d78bbdfa7c17d77af3e41f3\"",
+  "expires": "Mon, 24 Jul 2023 01:57:17 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3379,10 +3389,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "14bb101cda1fbd299739b858c5e1828d06bc0d8c",
+  "x-fastly-request-id": "770f8a532f51de19a1447512eb024701ac1ace34",
   "x-frame-options": "deny",
-  "x-github-request-id": "84E4:1783:1744D86:1B7084A:64BDABD4",
-  "x-served-by": "cache-iad-kiad7000102-IAD",
-  "x-timer": "S1690151892.028437,VS0,VE117",
+  "x-github-request-id": "DF66:3789:FA4611:12A53BF:64BDD951",
+  "x-served-by": "cache-sjc1000096-SJC",
+  "x-timer": "S1690163537.414310,VS0,VE163",
   "x-xss-protection": "1; mode=block"
 }
