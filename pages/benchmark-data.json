@@ -1,5 +1,44 @@
 [
   [
+    6079,
+    "2023-07-19T02:49:56.923Z",
+    "3.81 / error / error",
+    "app:SD.next updated:2023-07-18 hash:0a083c24 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers: diffusers:0.18.2 transformers:4.30.2",
+    " 0GB",
+    "original doggettx none",
+    "cineDiffusion_v3.safetensors [1c43e88a5e]",
+    "hink",
+    ""
+  ],
+  [
+    6078,
+    "2023-07-24T10:58:08.964Z",
+    "5.87 / 5.84 / error",
+    "app:SD.next updated:2023-07-25 hash:33d814e3 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers: diffusers:0.18.2 transformers:4.30.2",
+    " 0GB",
+    "original sdp none",
+    "realisticVisionV40VAE.safetensors [e9d3cedc4b]",
+    "lonestar",
+    ""
+  ],
+  [
+    6077,
+    "2023-07-17T01:58:55.532Z",
+    "4.39 / 4.16 / 2.9",
+    "app:SD.next updated:2023-07-16 hash:da11f32d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast nohalf xformers: diffusers:0.18.2 transformers:4.30.2",
+    " 0GB",
+    "original sub-quadratic none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "hink",
+    ""
+  ],
+  [
     6076,
     "2023-07-24T23:03:42.511Z",
     "10.33 / 10.63 / 12.19",
