@@ -1,5 +1,44 @@
 [
   [
+    6048,
+    "2023-07-23T20:21:08.928Z",
+    "6.0 / 6.97 / 6.98 / 6.82 / 6.49",
+    "app:stable-diffusion-webui.git updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.7 cudnn:8500 driver:531.79 6GB",
+    "xformers none",
+    "6500XemixlyX.ckpt [a990e359b7]",
+    "Jengibre",
+    ""
+  ],
+  [
+    6047,
+    "2023-07-23T20:16:02.580Z",
+    "5.52 / 4.69 / 5.18",
+    "app:stable-diffusion-webui.git updated:2023-03-29 hash:22bcc7be url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.7 cudnn:8500 driver:531.79 6GB",
+    "xformers none",
+    "6500XemixlyX.ckpt [a990e359b7]",
+    "Jengibre",
+    ""
+  ],
+  [
+    6046,
+    "2023-07-24T00:30:18.240Z",
+    "4.95 / 7.14 / 8.94 / 9.91 / 10.43",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.9.13",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.18+c7cf593.d20230401 diffusers:0.18.1 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 3070 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.7 cudnn:8500 driver:531.61 8GB",
+    "xformers none",
+    "goofballMix_v2Baked.safetensors [d8df7e2346]",
+    "dades",
+    ""
+  ],
+  [
     6045,
     "2023-07-24T05:27:38.228Z",
     "31.96 / 37.3 / 43.02",
