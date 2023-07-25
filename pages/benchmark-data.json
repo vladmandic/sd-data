@@ -1,5 +1,31 @@
 [
   [
+    6118,
+    "2023-07-26T00:04:58.275Z",
+    "13.71 / 14.54 / 16.12 / 16.42 / 16.78",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver: 12GB",
+    "Automatic none",
+    "ametrineREDUX_v20.safetensors [49fad5ace5]",
+    "PC",
+    ""
+  ],
+  [
+    6117,
+    "2023-07-25T23:34:38.490Z",
+    "16.99 / 16.99 / 18.37",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.67 12GB",
+    "xformers none",
+    "pornmasterPro_fullV4.safetensors [c88ec65342]",
+    "5210370",
+    ""
+  ],
+  [
     6116,
     "2023-07-25T11:08:15.461Z",
     "21.45 / 29.5 / 36.34 / 37.46 / 37.21",
