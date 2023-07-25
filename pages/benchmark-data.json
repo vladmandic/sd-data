@@ -1,5 +1,57 @@
 [
   [
+    6122,
+    "2023-07-25T19:04:13.813Z",
+    "5.75 / 5.99 / 5.39",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "snorch",
+    ""
+  ],
+  [
+    6121,
+    "2023-07-25T19:04:03.757Z",
+    "11.83 / 13.64 / 14.2",
+    "app:SD.next updated:2023-07-25 hash:aa62f6d8 url:https://github.com/vladmandic/automatic/tree/HEAD",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 11GB",
+    "original sdp none",
+    "AnythingV5Ink_ink.safetensors [a1535d0a42]",
+    "itsbt",
+    ""
+  ],
+  [
+    6120,
+    "2023-07-25T18:56:29.374Z",
+    "11.91 / 9.68 / 11.05",
+    "app:SD.next updated:2023-07-25 hash:aa62f6d8 url:https://github.com/vladmandic/automatic/tree/HEAD",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 11GB",
+    "original sdp none",
+    "coffeensfw_v10.safetensors [ed47f47f0a]",
+    "itsbt",
+    ""
+  ],
+  [
+    6119,
+    "2023-07-26T00:37:29.881Z",
+    "8.53 / 9.15 / 10.64",
+    "app:stable-diffusion-webui updated:2023-07-25 hash:a3ddf464 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.23506-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:545.37 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "admin",
+    ""
+  ],
+  [
     6118,
     "2023-07-26T00:04:58.275Z",
     "13.71 / 14.54 / 16.12 / 16.42 / 16.78",
