@@ -1,5 +1,18 @@
 [
   [
+    6098,
+    "2023-07-25T15:12:35.599Z",
+    "7.59 / 10.3 / 12.62",
+    "updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers medvram",
+    "首发推荐｜SHMILY梦幻水彩_v1.0.safetensors [e17b592277]",
+    "Edwin",
+    ""
+  ],
+  [
     6097,
     "2023-07-25T02:22:06.395Z",
     "13.87 / 24.17 / 33.31",
