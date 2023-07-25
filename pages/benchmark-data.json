@@ -1,5 +1,57 @@
 [
   [
+    6088,
+    "2023-07-24T18:38:43.421Z",
+    "14.36 / 17.52 / 18.9 / 19.05 / 18.1",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev574 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "AnythingV5V3_v5PrtRE.safetensors [7f96a1a9ca]",
+    "SoughtSl",
+    ""
+  ],
+  [
+    6087,
+    "2023-07-25T01:10:34.977Z",
+    "0.25 / 0.26 / 0.3",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-76-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 750 (1) (sm_90) (5, 0) cuda:11.8 cudnn:8700 driver: 2GB",
+    "Doggettx lowvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "",
+    ""
+  ],
+  [
+    6086,
+    "2023-07-24T18:13:27.937Z",
+    "7.96 / 9.99 / 12.03 / 16.17 / 17.65",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 driver:536.67 12GB",
+    "xformers none",
+    "AnythingV5V3_v5PrtRE.safetensors [7f96a1a9ca]",
+    "SoughtSl",
+    ""
+  ],
+  [
+    6085,
+    "2023-07-25T01:11:16.088Z",
+    "2.35 / 2.61 / 2.54",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.5-arch1-1 python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:11.8 cudnn:8700 driver:535.86.05 11GB",
+    "Doggettx none",
+    "cyberrealistic_v32.safetensors [9584e2c050]",
+    "luc",
+    ""
+  ],
+  [
     6084,
     "2023-07-24T23:16:02.019Z",
     "0.56 / 0.7 / 0.55",
