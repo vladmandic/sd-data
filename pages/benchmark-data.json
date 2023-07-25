@@ -1,5 +1,18 @@
 [
   [
+    6092,
+    "2023-07-25T05:47:47.883Z",
+    "9.12 / 9.64 / 10.65",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.18.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "Doggettx none",
+    "porubac.ckpt [5861e145b1]",
+    "glavu",
+    ""
+  ],
+  [
     6091,
     "2023-07-25T11:02:35.536Z",
     "7.8 / 8.13 / 6.39",
