@@ -1,5 +1,31 @@
 [
   [
+    6102,
+    "2023-07-20T13:00:54.758Z",
+    "17.23 / 27.78 / 38.9",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.1 transformers:4.27.4",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.40 24GB",
+    "xformers none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "zhong",
+    ""
+  ],
+  [
+    6101,
+    "2023-07-09T03:09:12.448Z",
+    "17.32 / 27.27 / 36.61",
+    "app:stable-diffusion-webui updated:2023-06-27 hash:394ffa7b url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 24GB",
+    "xformers none",
+    "Test007_pose001.safetensors [dba5de106f]",
+    "zhong",
+    ""
+  ],
+  [
     6100,
     "2023-07-25T17:35:18.566Z",
     "5.4 / 5.37 / 5.14",
