@@ -1,5 +1,31 @@
 [
   [
+    6128,
+    "2023-07-25T23:06:35.877Z",
+    "11.8 / 13.19 / 14.16 / 14.65 / 15.01",
+    "app:automatic.git updated:2023-07-25 hash:35a6a657 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.4-zen1-1-zen python:3.10.12",
+    "torch:2.1.0+gitf353d17 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:AMD Radeon RX 7900 XTX (1) hip:5.6.31061-8c743ae5d 24GB",
+    "original sub-quadratic none",
+    "model.ckpt [fe4efff1e1]",
+    "dasug",
+    ""
+  ],
+  [
+    6127,
+    "2023-07-25T23:03:49.987Z",
+    "11.57 / 13.1 / 14.11",
+    "app:automatic.git updated:2023-07-25 hash:35a6a657 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.4-zen1-1-zen python:3.10.12",
+    "torch:2.1.0+gitf353d17 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:AMD Radeon RX 7900 XTX (1) hip:5.6.31061-8c743ae5d 24GB",
+    "original sub-quadratic none",
+    "model.ckpt [fe4efff1e1]",
+    "dasug",
+    ""
+  ],
+  [
     6126,
     "2023-07-25T16:42:51.197Z",
     "6.49 / 9.47 / 10.75",
