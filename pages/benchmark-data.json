@@ -1,5 +1,57 @@
 [
   [
+    6188,
+    "2023-07-26T11:33:31.888Z",
+    "11.09 / 14.02 / 13.86 / 13.62 / 13.62",
+    "app:automatic.git updated:2023-07-25 hash:6c02e6a2 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.6-76060206-generic python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.86.05 16GB",
+    "original xformers none",
+    "qgoPromptingreal_qgoPromptingrealV1.safetensors [c4625c7cd3]",
+    "None",
+    "Thunderbolt 3 eGPU"
+  ],
+  [
+    6187,
+    "2023-07-26T11:24:47.204Z",
+    "11.48 / 13.6 / 13.69 / 12.44 / 12.54",
+    "app:automatic.git updated:2023-07-25 hash:6c02e6a2 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.6-76060206-generic python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.86.05 16GB",
+    "original sdp none",
+    "qgoPromptingreal_qgoPromptingrealV1.safetensors [c4625c7cd3]",
+    "pop",
+    ""
+  ],
+  [
+    6186,
+    "2023-07-26T11:12:59.895Z",
+    "8.48 / 8.96 / 8.89",
+    "app:automatic.git updated:2023-07-25 hash:6c02e6a2 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.6-76060206-generic python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.86.05 16GB",
+    "original invokeai none",
+    "qgoPromptingreal_qgoPromptingrealV1.safetensors [c4625c7cd3]",
+    "pop",
+    ""
+  ],
+  [
+    6185,
+    "2023-07-26T10:54:13.940Z",
+    "8.8 / 9.28 / 9.11",
+    "app:automatic.git updated:2023-07-25 hash:6c02e6a2 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.6-76060206-generic python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.86.05 16GB",
+    "original doggettx none",
+    "qgoPromptingreal_qgoPromptingrealV1.safetensors [c4625c7cd3]",
+    "pop",
+    "egpu"
+  ],
+  [
     6184,
     "2023-07-27T00:02:59.608Z",
     "7.22 / 6.34 / 7.12",
