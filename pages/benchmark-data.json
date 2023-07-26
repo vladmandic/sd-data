@@ -1,5 +1,57 @@
 [
   [
+    6139,
+    "2023-07-26T09:52:31.391Z",
+    "5.48 / 4.67 / 5.32",
+    "app:SD.next updated:2023-07-25 hash:02fe6161 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-46-generic python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:525.85.12 6GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "morrisc",
+    ""
+  ],
+  [
+    6138,
+    "2023-07-24T14:26:44.046Z",
+    "0.17 / 0.22 / 0.39 / error / error",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.4.3-060403-generic python:3.11.4",
+    "torch:2.0.1+rocm5.4.2 full nohalf xformers: diffusers: transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.4.22803-474e8620 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "winston",
+    ""
+  ],
+  [
+    6137,
+    "2023-07-26T09:08:55.675Z",
+    "0.57 / 0.52 / 0.49",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.4.6-060406-generic python:3.11.4",
+    "torch:2.0.1+rocm5.4.2 full nohalf xformers: diffusers: transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.4.22803-474e8620 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "winston",
+    ""
+  ],
+  [
+    6136,
+    "2023-07-26T07:48:45.821Z",
+    "0.42 / 0.38 / 0.4",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.4.6-060406-generic python:3.11.4",
+    "torch:2.0.1+rocm5.4.2 full nohalf xformers: diffusers: transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.4.22803-474e8620 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "winston",
+    ""
+  ],
+  [
     6135,
     "2023-07-26T07:08:51.227Z",
     "13.26 / 19.65 / 23.8",
