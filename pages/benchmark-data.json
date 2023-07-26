@@ -1,5 +1,31 @@
 [
   [
+    6193,
+    "2023-07-26T23:53:04.777Z",
+    "16.05 / 18.28 / 21.1",
+    "app:SD.next updated:2023-07-26 hash:ccdf91a0 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast nohalf xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.25 24GB",
+    "diffusers Scaled-Dot-Product none",
+    "stabilityai/stable-diffusion-xl-base-1.0 [eef8a746a4]",
+    "Phaneron",
+    ""
+  ],
+  [
+    6192,
+    "2023-07-27T00:42:20.982Z",
+    "4.18 / 4.47 / 5.78",
+    "app:SD.next updated:2023-07-15 hash:e2b33b81 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "diffusers Scaled-Dot-Product medvram",
+    "stabilityai/stable-diffusion-xl-base-1.0 [eef8a746a4]",
+    "Hell-2k",
+    ""
+  ],
+  [
     6191,
     "2023-07-14T21:42:06.281Z",
     "4.12 / 4.68 / 5.33",
