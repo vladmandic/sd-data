@@ -1,5 +1,31 @@
 [
   [
+    6184,
+    "2023-07-27T00:02:59.608Z",
+    "7.22 / 6.34 / 7.12",
+    "app:automatic.git updated:2023-07-22 hash:e491813e url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:535.98 12GB",
+    "original xformers none",
+    "agelesnate_v121.safetensors [082f4f7811]",
+    "shi6a",
+    ""
+  ],
+  [
+    6183,
+    "2023-07-26T22:07:47.554Z",
+    "2.52 / 1.96 / 2.09",
+    "app:stable-diffusion-webui updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.6.0 python:3.10.12",
+    "torch:2.0.1 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    " 0GB",
+    "InvokeAI none",
+    "写实/bra_v5.safetensors [ac68270450]",
+    "weiwei",
+    ""
+  ],
+  [
     6182,
     "2023-07-26T21:41:16.093Z",
     "7.44 / 7.89 / 8.24",
