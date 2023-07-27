@@ -1,5 +1,57 @@
 [
   [
+    6198,
+    "2023-07-26T21:22:50.066Z",
+    "21.38 / 33.91 / 38.05",
+    "app:SD.next updated:2023-07-26 hash:2ee4c88a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 driver:536.67 24GB",
+    "original sdp-no-mem none",
+    "cetusMix_Whalefall2.safetensors [876b4c7ba5]",
+    "Kaeli",
+    ""
+  ],
+  [
+    6197,
+    "2023-07-26T21:19:04.242Z",
+    "19.43 / 31.13 / 35.17",
+    "app:SD.next updated:2023-07-26 hash:2ee4c88a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 driver:536.67 24GB",
+    "original sdp-no-mem none",
+    "darkSushiMixMix_225D.safetensors [cca17b08da]",
+    "Kaeli",
+    ""
+  ],
+  [
+    6196,
+    "2023-07-26T21:16:07.586Z",
+    "19.45 / 30.81 / 34.99",
+    "app:SD.next updated:2023-07-26 hash:2ee4c88a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 driver:536.67 24GB",
+    "original sdp-no-mem none",
+    "darkSushiMixMix_225D.safetensors [cca17b08da]",
+    "Kaeli",
+    ""
+  ],
+  [
+    6195,
+    "2023-07-26T21:14:33.863Z",
+    "19.34 / 18.71 / 25.66",
+    "app:SD.next updated:2023-07-26 hash:2ee4c88a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8902 driver:536.67 24GB",
+    "original sdp-no-mem none",
+    "darkSushiMixMix_225D.safetensors [cca17b08da]",
+    "Kaeli",
+    ""
+  ],
+  [
     6194,
     "2023-07-26T15:37:42.614Z",
     "0.4 / 0.25 / 0.24 / 0.22 / 0.22",
