@@ -1,5 +1,57 @@
 [
   [
+    6214,
+    "2023-07-27T10:57:45.210Z",
+    "2.75 / 3.52 / 4.42 / 5.42 / 6.84",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 10GB",
+    "xformers medvram",
+    "realisticVisionV40_v40VAE.safetensors [e9d3cedc4b]",
+    "MAMMOUTH",
+    ""
+  ],
+  [
+    6213,
+    "2023-07-27T11:17:17.897Z",
+    "1.61 / 2.14 / 2.36 / 2.76 / 1.57",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.10.2 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers none",
+    "MeghindoMerged.ckpt [2add404c3a]",
+    "meghi",
+    ""
+  ],
+  [
+    6212,
+    "2023-07-27T16:15:06.688Z",
+    "5.25 / 4.97 / 5.4",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:531.29 8GB",
+    "xformers none",
+    "chikmix_V3.safetensors [ae7c062145]",
+    "coh",
+    ""
+  ],
+  [
+    6211,
+    "2023-07-27T11:07:03.062Z",
+    "1.65 / 2.15 / 2.38 / 2.8 / 2.53",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.10.2 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers none",
+    "MeghindoMerged.ckpt [2add404c3a]",
+    "meghi",
+    ""
+  ],
+  [
     6210,
     "2023-07-27T15:43:33.041Z",
     "27.14 / 35.4 / 40.41",
