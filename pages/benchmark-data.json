@@ -1,5 +1,31 @@
 [
   [
+    6229,
+    "2023-07-27T17:42:17.965Z",
+    "6.37 / 5.75 / 6.3 / 6.62 / 6.75",
+    "app:SD.next updated:2023-07-28 hash:18279db9 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "original sdp none",
+    "hassakuHentaiModel_v13.safetensors [7eb674963a]",
+    "Victor",
+    ""
+  ],
+  [
+    6228,
+    "2023-07-27T23:09:13.215Z",
+    "6.36 / 7.19 / 7.38",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Qihoysa",
+    ""
+  ],
+  [
     6227,
     "2023-07-27T16:26:52.475Z",
     "7.14 / 6.04 / 6.82",
