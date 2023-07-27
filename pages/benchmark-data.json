@@ -1,5 +1,18 @@
 [
   [
+    6245,
+    "2023-07-27T14:57:11.417Z",
+    "0.1 / 0.1 / 0.1",
+    "app:SD.next updated:2023-07-27 hash:86a0cb5f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-78-generic python:3.10.6",
+    "torch:2.0.1+rocm5.4.2 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    " 0GB",
+    "original doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "opinsky",
+    ""
+  ],
+  [
     6244,
     "2023-07-27T15:31:00.386Z",
     "18.76 / 33.37 / 42.0 / 35.69 / 35.47",
