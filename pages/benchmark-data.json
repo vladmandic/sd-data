@@ -1,5 +1,18 @@
 [
   [
+    6205,
+    "2023-07-27T08:51:29.546Z",
+    "2.27 / 2.35 / 1.32",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230724+rocm5.5 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:Radeon RX Vega (1) hip:5.5.30201-c1741e9b 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ice",
+    ""
+  ],
+  [
     6204,
     "2023-07-26T23:09:59.665Z",
     "12.02 / 10.96 / 12.4",
