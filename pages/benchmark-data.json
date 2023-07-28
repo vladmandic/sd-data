@@ -1,5 +1,57 @@
 [
   [
+    6261,
+    "2023-07-28T07:37:18.790Z",
+    "8.83 / 9.69 / 10.43",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver: 8GB",
+    "xformers none",
+    "realisticVisionV50_v50VAE.safetensors [d7fc69397d]",
+    "admin",
+    ""
+  ],
+  [
+    6260,
+    "2023-07-28T07:36:29.296Z",
+    "8.47 / 8.96 / 10.44",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver: 8GB",
+    "xformers none",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "admin",
+    ""
+  ],
+  [
+    6259,
+    "2023-07-28T07:30:18.382Z",
+    "8.73 / 9.66 / 10.49",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver: 8GB",
+    "xformers none",
+    "reliberate_v10.safetensors [980cb713af]",
+    "admin",
+    ""
+  ],
+  [
+    6258,
+    "2023-07-28T07:24:41.010Z",
+    "8.68 / 6.39 / 7.11",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver: 8GB",
+    "xformers none",
+    "uberRealisticPornMerge_urpmv13Inpainting.safetensors [fe06753eee]",
+    "admin",
+    ""
+  ],
+  [
     6257,
     "2023-07-28T04:07:24.571Z",
     "16.72 / 19.17 / 20.53",
