@@ -1,5 +1,57 @@
 [
   [
+    6314,
+    "2023-07-28T23:49:13.920Z",
+    "0.48 / 0.91 / 1.64",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers medvram",
+    "ghostmix_v20Bakedvae.safetensors [e3edb8a26f]",
+    "ledhe",
+    ""
+  ],
+  [
+    6313,
+    "2023-07-29T06:39:56.284Z",
+    "7.19 / 6.61 / 6.67",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:522.25 8GB",
+    "xformers none",
+    "首发推荐 _ 真实亚洲面孔_2.0.safetensors [2f6b29d5a4]",
+    "Administrator",
+    ""
+  ],
+  [
+    6312,
+    "2023-07-29T06:35:02.950Z",
+    "5.91 / 5.2 / 6.53",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:522.25 8GB",
+    "xformers none",
+    "首发推荐 _ 真实亚洲面孔_2.0.safetensors [2f6b29d5a4]",
+    "Administrator",
+    ""
+  ],
+  [
+    6311,
+    "2023-07-28T15:27:21.181Z",
+    "11.83 / 14.7 / 16.39",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "reliberate_v10.safetensors [980cb713af]",
+    "jaspe",
+    ""
+  ],
+  [
     6310,
     "2023-07-28T15:31:52.762Z",
     "0.26 / 0.2 / error",
