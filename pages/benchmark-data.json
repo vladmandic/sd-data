@@ -1,5 +1,18 @@
 [
   [
+    6295,
+    "2023-07-28T18:51:29.138Z",
+    "0.25",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.40 4GB",
+    "Automatic none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "somedude79",
+    ""
+  ],
+  [
     6294,
     "2023-07-28T20:18:22.654Z",
     "3.51 / 3.76 / 3.79",
