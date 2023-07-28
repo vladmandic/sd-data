@@ -1,5 +1,57 @@
 [
   [
+    6302,
+    "2023-07-29T00:08:34.425Z",
+    "3.55 / 4.38 / 5.13",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "wu-sh",
+    ""
+  ],
+  [
+    6301,
+    "2023-07-28T23:41:05.457Z",
+    "3.49 / 3.89 / 12.06",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:527.99 4GB",
+    "xformers medvram",
+    "cetusMix_Whalefall2.safetensors [876b4c7ba5]",
+    "任春超",
+    ""
+  ],
+  [
+    6300,
+    "2023-07-28T23:31:43.316Z",
+    "6.28 / 5.76 / 5.59",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:Tesla T4 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 16GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    6299,
+    "2023-07-28T15:09:23.287Z",
+    "4.74 / 3.36 / 3.9",
+    "app:automatic.git updated:2023-07-28 hash:77de9cd0 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:Intel(R) Graphics [0x5691] (1) ipex:1.13.120+xpu 12GB",
+    "original sub-quadratic none",
+    "必备模型｜ChilloutMix_Chilloutmix-Ni-pruned-fp32-fix.safetensors [fc2511737a]",
+    "root",
+    ""
+  ],
+  [
     6298,
     "2023-07-28T22:28:53.702Z",
     "error / error / error",
