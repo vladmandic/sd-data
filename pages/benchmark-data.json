@@ -1,5 +1,44 @@
 [
   [
+    6309,
+    "2023-07-28T14:21:35.152Z",
+    "6.74 / 9.02 / 9.3",
+    "app:SD.next updated:2023-07-27 hash:7b35f78d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "diffusers xFormers none",
+    "originals\\sdxl_v10.safetensors",
+    "Corn",
+    ""
+  ],
+  [
+    6308,
+    "2023-07-28T14:15:57.203Z",
+    "6.14 / 8.19 / 8.44",
+    "app:SD.next updated:2023-07-27 hash:7b35f78d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "diffusers Scaled-Dot-Product none",
+    "originals\\sdxl_v10.safetensors",
+    "Corn",
+    ""
+  ],
+  [
+    6307,
+    "2023-07-28T14:09:20.560Z",
+    "5.76 / 6.76 / 7.08",
+    "app:SD.next updated:2023-07-27 hash:7b35f78d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "diffusers Scaled-Dot-Product none",
+    "originals\\sdxl_v10.safetensors",
+    "Corn",
+    ""
+  ],
+  [
     6306,
     "2023-07-28T21:54:20.492Z",
     "8.05 / 8.71 / 9.15",
