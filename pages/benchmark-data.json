@@ -1,5 +1,44 @@
 [
   [
+    6249,
+    "2023-07-28T01:40:41.065Z",
+    "17.41 / 19.88 / 19.64 / 20.33 / 19.91",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "RealCyberVison.ckpt [3c26110632]",
+    "Dan",
+    ""
+  ],
+  [
+    6248,
+    "2023-07-28T01:29:13.957Z",
+    "16.49 / 18.22 / 20.4",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "RealCyberVison.ckpt [3c26110632]",
+    "Dan",
+    ""
+  ],
+  [
+    6247,
+    "2023-07-27T20:39:08.322Z",
+    "1.03 / 0.97 / 1.2",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 3GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:531.30 3GB",
+    "xformers medvram",
+    "sd-1.4.ckpt [fe4efff1e1]",
+    "cosci",
+    "--api --no-half-vae --medvram --listen --enable-insecure-extension-access --disable-nan-check --xformers"
+  ],
+  [
     6246,
     "2023-07-28T06:13:31.512Z",
     "6.18 / 5.96 / 6.39",
