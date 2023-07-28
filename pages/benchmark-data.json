@@ -1,5 +1,31 @@
 [
   [
+    6257,
+    "2023-07-28T04:07:24.571Z",
+    "16.72 / 19.17 / 20.53",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "Dan",
+    ""
+  ],
+  [
+    6256,
+    "2023-07-28T02:32:40.828Z",
+    "0.32 / 0.48 / 0.75",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1060 3GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:531.30 3GB",
+    "xformers lowvram",
+    "sd-1.4.ckpt [fe4efff1e1]",
+    "cosci",
+    "--api --no-half-vae --lowvram --listen --enable-insecure-extension-access --disable-nan-check --xformers"
+  ],
+  [
     6255,
     "2023-07-28T10:03:22.647Z",
     "7.85 / 6.82 / 7.4",
