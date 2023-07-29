@@ -1,5 +1,31 @@
 [
   [
+    6316,
+    "2023-07-28T22:04:05.656Z",
+    "13.5 / 15.16 / 16.62 / 16.6 / 16.84",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 12GB",
+    "sdp none",
+    "bb95FurryMix_v100.safetensors [fd926f7598]",
+    "ImNotNil",
+    ""
+  ],
+  [
+    6315,
+    "2023-07-29T03:01:55.831Z",
+    "10.98 / 10.64 / 10.66",
+    "",
+    "",
+    "torch: ",
+    " 10GB",
+    "diffusers",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "malo",
+    ""
+  ],
+  [
     6314,
     "2023-07-28T23:49:13.920Z",
     "0.48 / 0.91 / 1.64",
