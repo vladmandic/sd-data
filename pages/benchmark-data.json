@@ -1,5 +1,44 @@
 [
   [
+    6363,
+    "2023-07-29T18:52:50.610Z",
+    "13.2 / 16.38 / 18.83 / 20.18 / 21.08",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA RTX A4500 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.25 20GB",
+    "sdp-no-mem none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "weasel",
+    ""
+  ],
+  [
+    6362,
+    "2023-07-29T18:35:27.728Z",
+    "12.85 / 17.65 / 20.22 / 21.79 / 22.6",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA RTX A4500 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.25 20GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "weasel",
+    ""
+  ],
+  [
+    6361,
+    "2023-07-29T16:24:10.630Z",
+    "12.62 / 16.19 / 18.76 / 20.18 / 21.07",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA RTX A4500 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.29 20GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "weasel",
+    ""
+  ],
+  [
     6360,
     "2023-07-29T18:01:52.300Z",
     "8.85 / 13.35 / 21.2",
