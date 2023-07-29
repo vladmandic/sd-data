@@ -1,5 +1,31 @@
 [
   [
+    6369,
+    "2023-07-30T04:17:20.107Z",
+    "6.26 / 9.11 / 10.48",
+    "app:automatic.git updated:2023-07-28 hash:18279db9 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:4.18.0-425.19.2.el8_7.x86_64 python:3.9.16",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "root",
+    ""
+  ],
+  [
+    6368,
+    "2023-07-30T04:12:18.717Z",
+    "6.36 / 9.1 / 10.5",
+    "app:automatic.git updated:2023-07-28 hash:18279db9 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:4.18.0-425.19.2.el8_7.x86_64 python:3.9.16",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "root",
+    ""
+  ],
+  [
     6367,
     "2023-07-29T21:56:20.037Z",
     "0.37",
