@@ -1,5 +1,31 @@
 [
   [
+    6336,
+    "2023-07-29T09:33:54.231Z",
+    "7.43 / 9.78 / 10.62",
+    "app:SD.next updated:2023-07-29 hash:42c6147a url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230727+rocm5.5 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:Radeon RX 7900 XTX (1) hip:5.5.30201-c1741e9b 24GB",
+    "original sub-quadratic medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "john",
+    ""
+  ],
+  [
+    6335,
+    "2023-07-29T09:12:11.225Z",
+    "2.91 / 2.82 / 3.1",
+    "app:SD.next updated:2023-07-27 hash:86a0cb5f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    " 0GB",
+    "diffusers Doggettx's none",
+    "sd_xl_base_1.0_0.9vae.safetensors",
+    "grey3",
+    ""
+  ],
+  [
     6334,
     "2023-07-29T09:06:53.115Z",
     "18.95 / 23.54 / 25.6",
