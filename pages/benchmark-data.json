@@ -1,5 +1,31 @@
 [
   [
+    6428,
+    "2023-07-30T16:34:13.767Z",
+    "6.26 / 7.46 / 9.33",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers medvram",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "Matt",
+    ""
+  ],
+  [
+    6427,
+    "2023-07-31T00:02:43.899Z",
+    "1.01 / 1.84 / 3.26",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers lowvram",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "Sascha",
+    ""
+  ],
+  [
     6426,
     "2023-07-31T00:06:34.978Z",
     "10.68 / 8.96 / 2.17",
