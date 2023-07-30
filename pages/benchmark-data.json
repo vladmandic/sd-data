@@ -1,5 +1,44 @@
 [
   [
+    6387,
+    "2023-07-30T08:50:19.510Z",
+    "4.01 / 4.65 / 5.71",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (2) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67  536.67 12GB",
+    "xformers medvram",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "glefrancois",
+    ""
+  ],
+  [
+    6386,
+    "2023-07-30T09:36:57.748Z",
+    "6.23 / 7.03 / 7.7",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev575 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:532.03 12GB",
+    "xformers none",
+    "RealisticVision_V3.0.safetensors [51ecfa5096]",
+    "Cold",
+    ""
+  ],
+  [
+    6385,
+    "2023-07-30T14:30:35.740Z",
+    "19.43 / 23.43 / 24.77 / 25.29 / 26.17",
+    "app:automatic.git updated:2023-07-24 hash:11f08c1a url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230729+rocm5.6 Autocast half xformers: diffusers:0.18.2 transformers:4.30.2",
+    "device:Radeon RX 7900 XTX (1) hip:5.6.31061-8c743ae5d 24GB",
+    "original sdp none",
+    "[-]v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "mayuri",
+    ""
+  ],
+  [
     6384,
     "2023-07-29T22:25:48.851Z",
     "4.06 / 3.89 / 4.38",
