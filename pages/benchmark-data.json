@@ -1,5 +1,31 @@
 [
   [
+    6426,
+    "2023-07-31T00:06:34.978Z",
+    "10.68 / 8.96 / 2.17",
+    "app: updated:2023-07-30 hash:84456740 url:https://github.com/vladmandic/automatic//tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "original sdp none",
+    "stableckpt\\animesfw-latest\\model.ckpt [80df01df1b]",
+    "rober",
+    ""
+  ],
+  [
+    6425,
+    "2023-07-31T00:10:32.110Z",
+    "9.51 / 11.04 / 11.68",
+    "app:stable-diffusion-webui-directml updated:2023-07-30 hash:4873e6aa url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230730+rocm5.6 autocast half xformers: diffusers:0.19.3 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.6.31061-8c743ae5d 16GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "kara",
+    "AMD 6950 XT , ubuntu 22.04.2 , rocm5.6 , lshqqytiger fork default settings."
+  ],
+  [
     6424,
     "2023-07-30T23:02:29.826Z",
     "15.43 / 19.93 / 22.41 / 23.82 / 24.47",
