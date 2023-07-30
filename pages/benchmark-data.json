@@ -1,5 +1,44 @@
 [
   [
+    6390,
+    "2023-07-30T09:06:59.424Z",
+    "32.21 / 38.77 / 44.15",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.7-arch1-1 python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.86.05 24GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ohmi",
+    ""
+  ],
+  [
+    6389,
+    "2023-07-30T16:59:22.181Z",
+    "9.99 / 12.02 / 14.62",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 24GB",
+    "xformers none",
+    "realisticVisionV20_v20.safetensors [e6415c4892]",
+    "Administrator",
+    ""
+  ],
+  [
+    6388,
+    "2023-07-30T03:25:04.595Z",
+    "0.19 / 0.16 / 0.14",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:535.98 8GB",
+    "Doggettx none",
+    "sdXL_v10.safetensors [31e35c80fc]",
+    "micha",
+    ""
+  ],
+  [
     6387,
     "2023-07-30T08:50:19.510Z",
     "4.01 / 4.65 / 5.71",
