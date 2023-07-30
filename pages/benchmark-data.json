@@ -1,5 +1,31 @@
 [
   [
+    6420,
+    "2023-07-31T02:21:24.003Z",
+    "10.23 / 10.76 / 12.41",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:526.47 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    6419,
+    "2023-07-30T20:16:32.895Z",
+    "5.52 / 8.36 / 10.0 / 5.82 / 7.64",
+    "app:SD.next updated:2023-07-28 hash:a32bf083 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.6",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "divineelegancemix_V6.safetensors [0d5db2f3ed]",
+    "void",
+    ""
+  ],
+  [
     6418,
     "2023-07-31T02:20:29.501Z",
     "error / error / error",
