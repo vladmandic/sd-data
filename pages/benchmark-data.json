@@ -1,5 +1,31 @@
 [
   [
+    6401,
+    "2023-07-30T22:49:48.537Z",
+    "15.5 / 26.28 / 33.87 / 33.66 / 32.16",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:531.79 24GB",
+    "xformers none",
+    "majicmixRealistic_betterV2V25.safetensors [d7e2ac2f4a]",
+    "Vsir",
+    ""
+  ],
+  [
+    6400,
+    "2023-07-30T22:47:53.111Z",
+    "15.47 / 22.96 / 32.24",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:531.79 24GB",
+    "xformers none",
+    "majicmixRealistic_betterV2V25.safetensors [d7e2ac2f4a]",
+    "Vsir",
+    ""
+  ],
+  [
     6399,
     "2023-07-30T21:23:38.965Z",
     "6.01 / 11.35 / 12.85",
