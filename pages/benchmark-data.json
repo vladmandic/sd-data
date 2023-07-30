@@ -1,5 +1,31 @@
 [
   [
+    6382,
+    "2023-07-29T22:51:09.963Z",
+    "8.59 / 8.42 / 9.0",
+    "app:SD.next updated:2023-07-30 hash:acc8233f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.14 12GB",
+    "diffusers Scaled-Dot-Product none",
+    "stabilityai/stable-diffusion-xl-base-1.0 [eef8a746a4]",
+    "machi",
+    ""
+  ],
+  [
+    6381,
+    "2023-04-20T18:48:54.150Z",
+    "14.11 / 15.34 / 17.27",
+    "updated:2023-04-20 hash:df424d6d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 Autocast half xformers:unavailable accelerate:0.18.0 transformers:4.26.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 12GB",
+    "sdp none",
+    "Anime-Special\\LigneClaireAnime-ClipFix.safetensors [c4b23c16ce]",
+    "machi",
+    ""
+  ],
+  [
     6380,
     "2023-07-30T11:06:53.193Z",
     "26.16 / 32.22 / 37.71",
