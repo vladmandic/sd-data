@@ -3392,6 +3392,15 @@
       "created_at": "2023-07-24T21:27:53Z",
       "default_branch_commit_sha": "8577d0186de6d5fefdc785121fd6d03ab83505cc",
       "commit_time": "2023-07-26T15:54:48Z"
+    },
+    {
+      "name": "Style Selector for SDXL 1.0",
+      "url": "https://github.com/ahgsql/StyleSelectorXL.git",
+      "description": "a Automatic1111 Extension allows users to select and apply different styles to their inputs using SDXL 1.0.",
+      "tags": [
+        "prompting"
+      ],
+      "added": "2023-07-30"
     }
   ],
   "accept-ranges": "bytes",
@@ -3399,13 +3408,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "33555",
+  "content-length": "33634",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 30 Jul 2023 02:42:14 GMT",
-  "etag": "W/\"291c9519d7bf8e38f5f71761bf26535f4df637e0267724560c92a2e9d9bfbeab\"",
-  "expires": "Sun, 30 Jul 2023 02:47:14 GMT",
+  "date": "Sun, 30 Jul 2023 04:38:07 GMT",
+  "etag": "W/\"90cacd89b2a8c7d613457a1ff543811ab3a858a33c6bc5f1fe70d8067fc7ebaf\"",
+  "expires": "Sun, 30 Jul 2023 04:43:07 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3413,10 +3422,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "d08a91b15235413ab0a5b17a6dfebd53e519ca03",
+  "x-fastly-request-id": "30f7fe30ec7cb630224708e1254e3199ce961288",
   "x-frame-options": "deny",
-  "x-github-request-id": "B690:63BD:3D49B8:4A5181:64C5CE06",
-  "x-served-by": "cache-sjc10040-SJC",
-  "x-timer": "S1690684935.519485,VS0,VE275",
+  "x-github-request-id": "20AA:066B:409E0C:4E9DB0:64C5E92A",
+  "x-served-by": "cache-iad-kiad7000027-IAD",
+  "x-timer": "S1690691887.020108,VS0,VE112",
   "x-xss-protection": "1; mode=block"
 }
