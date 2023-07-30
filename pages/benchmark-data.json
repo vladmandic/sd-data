@@ -1,5 +1,31 @@
 [
   [
+    6398,
+    "2023-07-30T14:47:49.000Z",
+    "27.2 / 40.72 / 46.74 / 44.89 / 44.28",
+    "app:SD.next updated:2023-07-30 hash:01804025 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "original sdp none",
+    "mdjrny-v4.ckpt [5d5ad06cc2]",
+    "hellp",
+    ""
+  ],
+  [
+    6397,
+    "2023-07-30T14:44:16.105Z",
+    "12.72 / 20.54 / 24.48 / 26.64 / 27.13",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "Rae",
+    ""
+  ],
+  [
     6396,
     "2023-07-30T13:40:36.568Z",
     "9.26 / 16.71 / 22.07 / 23.86 / 23.84",
