@@ -1,5 +1,44 @@
 [
   [
+    6439,
+    "2023-07-31T10:20:40.399Z",
+    "0.98 / 1.1 / 1.19",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.25381-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 6GB",
+    "xformers medvram",
+    "PrimeMix_v2.safetensors [71d9cd52ff]",
+    "Administrator",
+    ""
+  ],
+  [
+    6438,
+    "2023-07-31T10:22:19.309Z",
+    "19.23 / 19.83 / 21.48",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.67 12GB",
+    "xformers none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Administrator",
+    ""
+  ],
+  [
+    6437,
+    "2023-07-31T10:17:01.522Z",
+    "1.0 / 1.01 / 1.1",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.25381-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 6GB",
+    "xformers medvram",
+    "PrimeMix_v2.safetensors [71d9cd52ff]",
+    "Administrator",
+    ""
+  ],
+  [
     6436,
     "2023-07-31T09:27:49.528Z",
     "0.53 / 0.57 / 0.6",
