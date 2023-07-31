@@ -1,5 +1,31 @@
 [
   [
+    6468,
+    "2023-07-31T18:04:59.931Z",
+    "2.77 / 4.03 / 5.57",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.67 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "13720",
+    ""
+  ],
+  [
+    6467,
+    "2023-07-31T12:03:38.485Z",
+    "2.38 / 2.55 / 2.83",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230724+rocm5.5 autocast nohalf xformers: diffusers: transformers:4.25.1",
+    "device:Radeon RX Vega (1) hip:5.5.30201-c1741e9b 8GB",
+    "Doggettx medvram",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ice",
+    ""
+  ],
+  [
     6466,
     "2023-07-31T09:43:34.935Z",
     "3.98 / 4.29 / 4.29",
