@@ -1,5 +1,57 @@
 [
   [
+    6490,
+    "2023-08-01T01:06:23.565Z",
+    "1.43 / 1.62 / 1.73",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.19.3 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver:531.61 6GB",
+    "xformers medvram",
+    "B\\majicMIX realistic_v6.safetensors [e4a30e4607]",
+    "Nao",
+    ""
+  ],
+  [
+    6489,
+    "2023-07-29T01:50:52.937Z",
+    "1.4 / 1.47 / 1.57",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd9 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver:531.61 6GB",
+    "xformers medvram",
+    "B\\majicMIX realistic_v6.safetensors [e4a30e4607]",
+    "Nao",
+    ""
+  ],
+  [
+    6488,
+    "2023-07-20T11:43:16.489Z",
+    "1.51 / 1.52 / 1.49",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e11 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver:531.61 6GB",
+    "xformers none",
+    "B\\majicMIX realistic_v6.safetensors [e4a30e4607]",
+    "Naoli",
+    ""
+  ],
+  [
+    6487,
+    "2023-07-20T14:06:19.074Z",
+    "1.36 / 1.41 / 1.52",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e11 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8902 driver:531.61 6GB",
+    "xformers medvram",
+    "B\\majicMIX realistic_v6.safetensors [e4a30e4607]",
+    "Naoli",
+    ""
+  ],
+  [
     6486,
     "2023-07-31T10:03:52.509Z",
     "5.07 / 8.97 / 15.58",
