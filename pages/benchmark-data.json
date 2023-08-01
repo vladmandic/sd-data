@@ -1,5 +1,57 @@
 [
   [
+    6502,
+    "2023-08-01T12:16:41.498Z",
+    "16.81 / 22.09 / 30.78",
+    "app:SD.next updated:2023-08-01 hash:80b83405 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "original sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "Garyf",
+    ""
+  ],
+  [
+    6501,
+    "2023-08-01T13:12:25.708Z",
+    "24.05 / 28.44 / 28.92",
+    "updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "firework",
+    ""
+  ],
+  [
+    6500,
+    "2023-07-05T19:08:59.164Z",
+    "11.19 / 12.3 / 13.13",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 autocast nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "firework",
+    ""
+  ],
+  [
+    6499,
+    "2023-07-05T19:06:54.844Z",
+    "11.6 / 12.92 / 13.69",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-284.18.1.el9_2.x86_64 python:3.9.16",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 16GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "firework",
+    ""
+  ],
+  [
     6498,
     "2023-08-01T11:21:07.657Z",
     "29.2 / 35.84 / 41.59",
