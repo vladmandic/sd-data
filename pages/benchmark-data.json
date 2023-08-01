@@ -1,5 +1,44 @@
 [
   [
+    6506,
+    "2023-08-01T06:45:28.299Z",
+    "14.32 / 24.93 / 35.63",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-73-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21+278460b.d20230714 diffusers: transformers:4.25.1",
+    "device:NVIDIA H100 PCIe (1) (sm_90) (9, 0) cuda:11.8 cudnn:8700 driver:525.105.17 79GB",
+    "sdp-no-mem medvram",
+    "epiCRealism/epicrealism_pureEvolutionV4.safetensors [445ffb5195]",
+    "gunnerman2",
+    ""
+  ],
+  [
+    6505,
+    "2023-08-01T06:44:04.452Z",
+    "6.23 / 11.0 / 18.32",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-73-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21+278460b.d20230714 diffusers: transformers:4.25.1",
+    "device:NVIDIA H100 PCIe (1) (sm_90) (9, 0) cuda:11.8 cudnn:8700 driver:525.105.17 79GB",
+    "sdp-no-mem medvram",
+    "epiCRealism/epicrealism_pureEvolutionV4.safetensors [445ffb5195]",
+    "gunnerman2",
+    ""
+  ],
+  [
+    6504,
+    "2023-08-01T06:18:59.461Z",
+    "2.85 / 5.44 / 8.41 / 8.77 / 8.94",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-1029-aws python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:520.61.05 22GB",
+    "Automatic none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "ubuntu",
+    ""
+  ],
+  [
     6503,
     "2023-08-01T13:39:25.457Z",
     "1.55 / 1.59 / 1.64",
