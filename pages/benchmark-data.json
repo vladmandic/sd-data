@@ -1,5 +1,18 @@
 [
   [
+    6509,
+    "2023-08-01T17:37:55.474Z",
+    "2.94 / 3.24 / 3.39",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:Tesla P40 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 22GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
     6508,
     "2023-08-01T16:56:40.554Z",
     "8.69 / 9.08 / 10.14",
