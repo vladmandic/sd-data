@@ -1,5 +1,44 @@
 [
   [
+    6495,
+    "2023-08-01T01:50:01.070Z",
+    "error / error / error",
+    "app:SD.next updated:2023-08-01 hash:80b83405 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "original xFormers medvram",
+    "model.ckpt",
+    "Admin",
+    ""
+  ],
+  [
+    6494,
+    "2023-07-31T18:57:49.969Z",
+    "3.44 / 6.67 / 13.06 / 15.97 / 16.22",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "Automatic none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "TheMelonGod",
+    ""
+  ],
+  [
+    6493,
+    "2023-07-31T19:46:31.460Z",
+    "11.56 / 14.83 / 17.4 / 18.69 / 19.47",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA RTX A4500 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 20GB",
+    "sdp-no-mem none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "weasel",
+    ""
+  ],
+  [
     6492,
     "2023-08-01T06:10:01.794Z",
     "7.82 / 8.41 / 8.86",
