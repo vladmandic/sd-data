@@ -1,5 +1,18 @@
 [
   [
+    6503,
+    "2023-08-01T13:39:25.457Z",
+    "1.55 / 1.59 / 1.64",
+    "updated:2023-06-19 hash:23452378 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.6.0 python:3.10.9",
+    "torch:2.0.1 Autocast half xformers:unavailable accelerate:0.20.3 transformers:4.26.1",
+    " 0GB",
+    "doggettx none",
+    "dreamshaper_5BakedVae.safetensors [a60cfaa90d]",
+    "root",
+    ""
+  ],
+  [
     6502,
     "2023-08-01T12:16:41.498Z",
     "16.81 / 22.09 / 30.78",
