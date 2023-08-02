@@ -1,5 +1,44 @@
 [
   [
+    6516,
+    "2023-08-02T07:36:37.693Z",
+    "12.68 / 14.78 / 16.59",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "beautifulRealistic_v60.safetensors [bc2f30f4ad]",
+    "me",
+    ""
+  ],
+  [
+    6515,
+    "2023-08-02T01:06:17.607Z",
+    "9.43 / 8.31 / 9.14",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers none",
+    "aZovyaRPGArtistTools_v3VAE.safetensors [8c4042921a]",
+    "irian",
+    ""
+  ],
+  [
+    6514,
+    "2023-07-25T19:40:40.395Z",
+    "5.46 / 4.84 / 5.56",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "irian",
+    ""
+  ],
+  [
     6513,
     "2023-08-02T01:59:09.404Z",
     "23.44 / 30.23 / 36.87",
