@@ -1,5 +1,31 @@
 [
   [
+    6564,
+    "2023-08-02T14:44:07.480Z",
+    "2.05 / 2.91 / 3.2 / 3.6 / 3.67",
+    "",
+    "",
+    "torch: ",
+    " 8GB",
+    "",
+    "1.5\\Base-Deliberate-v2.safetensors [9aba26abdf]",
+    "mikey",
+    "w/ --xformers --opt-split-attention"
+  ],
+  [
+    6563,
+    "2023-08-02T14:12:48.688Z",
+    "2.0 / 2.78 / 3.07",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "Doggettx none",
+    "1.5\\Base-Deliberate-v2.safetensors [9aba26abdf]",
+    "mikey",
+    ""
+  ],
+  [
     6562,
     "2023-08-03T00:32:52.096Z",
     "10.7 / 11.5 / 13.42",
