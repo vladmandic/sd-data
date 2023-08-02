@@ -1,5 +1,31 @@
 [
   [
+    6521,
+    "2023-07-30T22:16:34.251Z",
+    "13.88 / 16.5 / 20.89",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:535.98 24GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Virgo",
+    ""
+  ],
+  [
+    6520,
+    "2023-08-01T21:19:06.428Z",
+    "1.69 / 2.35 / 2.56 / 2.76 / 2.34",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "Doggettx none",
+    "realisticVisionV50_v50VAE.safetensors [d7fc69397d]",
+    "davidtcito",
+    ""
+  ],
+  [
     6519,
     "2023-08-02T09:08:04.007Z",
     "19.43 / 28.16 / 39.35",
