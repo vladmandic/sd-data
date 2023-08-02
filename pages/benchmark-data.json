@@ -1,5 +1,57 @@
 [
   [
+    6526,
+    "2023-08-02T13:53:53.519Z",
+    "7.94 / 8.59 / 9.23",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20.dev526 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "xformers none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "craze",
+    ""
+  ],
+  [
+    6525,
+    "2023-08-02T08:39:33.696Z",
+    "3.71 / 4.14 / 4.58",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.68 12GB",
+    "xformers none",
+    "sd_xl_refiner_1.0.safetensors [7440042bbd]",
+    "USER",
+    ""
+  ],
+  [
+    6524,
+    "2023-08-02T02:33:25.809Z",
+    "8.67 / 10.44 / 10.53",
+    "app:SD.next updated:2023-07-31 hash:2cf40140 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.68 8GB",
+    "original sdp none",
+    "ghostmix_v20Bakedvae.safetensors [e3edb8a26f]",
+    "CYPHER",
+    ""
+  ],
+  [
+    6523,
+    "2023-08-02T13:12:00.081Z",
+    "12.55 / 16.34 / 22.07",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-60-generic python:3.10.10",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.17 diffusers:0.16.1 transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_86) (8, 9) cuda:11.7 cudnn:8500 driver:525.89.02 24GB",
+    "Automatic none",
+    "二次元/CounterfeitV30_v30.safetensors [cbfba64e66]",
+    "sh",
+    ""
+  ],
+  [
     6522,
     "2023-08-02T00:20:42.279Z",
     "8.23",
