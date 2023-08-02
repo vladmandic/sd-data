@@ -1,5 +1,18 @@
 [
   [
+    6528,
+    "2023-08-02T16:26:06.539Z",
+    "8.2 / 8.86 / 10.17",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "2.5D：Guofeng3 V32.ckpt [0bb33c7041]",
+    "wind",
+    ""
+  ],
+  [
     6527,
     "2023-08-02T14:27:26.065Z",
     "4.72 / 6.12 / 7.16",
