@@ -1,5 +1,57 @@
 [
   [
+    6542,
+    "2023-08-02T20:25:04.232Z",
+    "0.59 / 0.69 / 0.73",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.18362-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 960 (1) (compute_37) (5, 2) cuda:11.8 cudnn:8700 driver:466.11 4GB",
+    "Doggettx none",
+    "sd-v1-4.ckpt [fe4efff1e1]",
+    "ABC",
+    ""
+  ],
+  [
+    6541,
+    "2023-08-02T22:51:04.401Z",
+    "10.49 / 11.11 / 13.08",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "Realistic Vision V4.0_V4.0.safetensors [ab5d1ecdb2]",
+    "Administrator",
+    ""
+  ],
+  [
+    6540,
+    "2023-08-02T22:07:55.923Z",
+    "0.18 / 0.25 / 0.32",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:516.59 4GB",
+    "Doggettx lowvram",
+    "2.5D：Guofeng3 V32.ckpt [0bb33c7041]",
+    "cbcpw",
+    ""
+  ],
+  [
+    6539,
+    "2023-08-02T23:17:21.479Z",
+    "6.43 / 8.49 / 9.95",
+    "app:SD.next updated:2023-07-31 hash:8ffaea76 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.12",
+    "torch:1.13.0a0+git6c9b55e Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:1.13.120+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "billy",
+    ""
+  ],
+  [
     6538,
     "2023-08-02T21:40:44.171Z",
     "3.82 / 5.26 / 6.05",
