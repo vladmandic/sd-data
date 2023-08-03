@@ -1,5 +1,18 @@
 [
   [
+    6633,
+    "2023-08-04T02:16:16.677Z",
+    "0.54 / 0.49 / 0.59",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd9 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:Quadro P1000 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.25 4GB",
+    "xformers medvram",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "AAAAA",
+    ""
+  ],
+  [
     6632,
     "2023-08-03T17:33:37.440Z",
     "7.2 / 8.03 / 8.47 / 8.7 / 8.98",
