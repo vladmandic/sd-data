@@ -1,5 +1,31 @@
 [
   [
+    6643,
+    "2023-08-04T05:21:16.404Z",
+    "16.71 / 17.95 / 19.94",
+    "",
+    "",
+    "torch: ",
+    " 12GB",
+    "",
+    "meinaunreal_v41.safetensors [613844c3d2]",
+    "restu",
+    ""
+  ],
+  [
+    6642,
+    "2023-08-04T05:16:58.968Z",
+    "16.73 / 18.53 / 19.85",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver: 12GB",
+    "Automatic none",
+    "meinaunreal_v41.safetensors [613844c3d2]",
+    "restu",
+    ""
+  ],
+  [
     6641,
     "2023-08-04T05:06:36.340Z",
     "17.96 / 20.05 / 21.69",
