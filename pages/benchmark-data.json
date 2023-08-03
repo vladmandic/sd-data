@@ -1,5 +1,44 @@
 [
   [
+    6610,
+    "2023-08-03T20:12:49.838Z",
+    "23.01 / 34.17 / 41.57 / 41.75 / 39.88",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.40 24GB",
+    "xformers none",
+    "AnythingV5Ink_ink.safetensors [a1535d0a42]",
+    "hongd",
+    ""
+  ],
+  [
+    6609,
+    "2023-08-03T19:18:54.092Z",
+    "12.65 / 28.15 / 40.12",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver:536.67 24GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "LYF2000",
+    ""
+  ],
+  [
+    6608,
+    "2023-08-03T17:35:01.731Z",
+    "19.34 / 27.95 / 36.64",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:531.79 24GB",
+    "xformers none",
+    "wutongV1.safetensors [86618977ac]",
+    "LYF2000",
+    ""
+  ],
+  [
     6607,
     "2023-08-03T13:26:58.512Z",
     "5.56 / 6.01 / 6.21 / 6.36 / 6.44",
