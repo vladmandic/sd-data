@@ -1,5 +1,31 @@
 [
   [
+    6607,
+    "2023-08-03T13:26:58.512Z",
+    "5.56 / 6.01 / 6.21 / 6.36 / 6.44",
+    "app:stable-diffusion-webui.git updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.6-1-MANJARO python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.86.05 6GB",
+    "Doggettx none",
+    "cyberrealistic_v30.safetensors [661697d235]",
+    "anton",
+    ""
+  ],
+  [
+    6606,
+    "2023-08-03T13:25:09.271Z",
+    "5.52 / 5.92 / 6.19",
+    "app:stable-diffusion-webui.git updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.6-1-MANJARO python:3.11.3",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.86.05 6GB",
+    "Doggettx none",
+    "cyberrealistic_v30.safetensors [661697d235]",
+    "anton",
+    ""
+  ],
+  [
     6605,
     "2023-08-03T16:44:46.526Z",
     "0.6",
