@@ -1,5 +1,18 @@
 [
   [
+    6589,
+    "2023-08-03T13:12:53.401Z",
+    "6.23 / 7.29 / 7.53",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:536.67 16GB",
+    "xformers none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "AI",
+    ""
+  ],
+  [
     6588,
     "2023-08-02T21:50:53.714Z",
     "11.11 / 11.0 / 12.2",
