@@ -1,5 +1,44 @@
 [
   [
+    6592,
+    "2023-08-03T13:17:27.363Z",
+    "1.35",
+    "app:stable-diffusion-webui.git updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 16 Model 5 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.17.1 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1070 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver: 8GB",
+    "xformers lowram",
+    "deliberate_v2.safetensors [9aba26abdf]",
+    "JAG",
+    ""
+  ],
+  [
+    6591,
+    "2023-08-03T14:15:13.956Z",
+    "1.08 / 1.21 / 1.37",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 44 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "95659",
+    ""
+  ],
+  [
+    6590,
+    "2023-08-03T14:13:13.310Z",
+    "3.63 / 3.9 / 3.84",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.17 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:536.67 11GB",
+    "xformers none",
+    "revAnimated_v11.safetensors [d725be5d18]",
+    "111",
+    ""
+  ],
+  [
     6589,
     "2023-08-03T13:12:53.401Z",
     "6.23 / 7.29 / 7.53",
