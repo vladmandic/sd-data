@@ -1,5 +1,18 @@
 [
   [
+    6662,
+    "2023-08-03T21:08:56.776Z",
+    "3.32 / 1.28 / 1.38",
+    "app:SD.next updated:2023-07-27 hash:7b35f78d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.0 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3090 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.25 24GB",
+    "original sdp none",
+    "realisticVisionV20_v20.safetensors [e6415c4892]",
+    "xzx",
+    ""
+  ],
+  [
     6661,
     "2023-08-04T12:06:14.318Z",
     "16.01 / 25.22 / 33.64",
