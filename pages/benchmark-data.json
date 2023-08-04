@@ -1,5 +1,57 @@
 [
   [
+    6701,
+    "2023-08-04T16:34:00.134Z",
+    "4.6 / 5.2 / 5.81",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-26-generic python:3.10.12",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (sm_86) (7, 5) cuda:11.7 cudnn:8500 driver:535.86.05 8GB",
+    "xformers medvram",
+    "Deliberate/deliberate_v2.safetensors [9aba26abdf]",
+    "ben",
+    ""
+  ],
+  [
+    6700,
+    "2023-08-04T16:29:38.005Z",
+    "4.65 / 4.71 / 5.41",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-26-generic python:3.10.12",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2070 (1) (sm_86) (7, 5) cuda:11.7 cudnn:8500 driver:535.86.05 8GB",
+    "xformers medvram",
+    "Veronica Test 1.safetensors [3ee68b852f]",
+    "ben",
+    ""
+  ],
+  [
+    6699,
+    "2023-08-05T00:19:09.779Z",
+    "11.07 / 12.69 / 13.42",
+    "app:stable-diffusion-webui-directml updated:2023-08-02 hash:3f69a46a url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-26-generic python:3.10.12",
+    "torch:2.1.0.dev20230730+rocm5.6 autocast half xformers: diffusers:0.19.3 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.6.31061-8c743ae5d 16GB",
+    "Doggettx none",
+    "revAnimated_v122.safetensors [4199bcdd14]",
+    "kara",
+    "RX 6950 XT"
+  ],
+  [
+    6698,
+    "2023-08-01T02:18:08.033Z",
+    "4.46 / 6.33 / 6.54",
+    "app:stable-diffusion-webui-directml updated:2023-08-01 hash:ed20ba7f url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.1.0.dev20230730+rocm5.6 autocast half xformers: diffusers:0.19.3 transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.6.31061-8c743ae5d 16GB",
+    "Doggettx none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "kara",
+    ""
+  ],
+  [
     6697,
     "2023-08-04T14:05:10.204Z",
     "8.39 / 9.35 / 10.53",
