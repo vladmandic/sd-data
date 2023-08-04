@@ -1,5 +1,18 @@
 [
   [
+    6697,
+    "2023-08-04T14:05:10.204Z",
+    "8.39 / 9.35 / 10.53",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "sdp none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "Andrew",
+    ""
+  ],
+  [
     6696,
     "2023-08-04T13:30:21.858Z",
     "16.85 / 18.99 / 21.36 / 22.38 / 22.68",
