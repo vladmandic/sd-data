@@ -1,5 +1,31 @@
 [
   [
+    6703,
+    "2023-08-04T23:59:25.149Z",
+    "1.46 / 1.19 / 1.28",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.21.dev578 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:531.79 6GB",
+    "Automatic none",
+    "realisticVisionV50_v50VAE.safetensors [d7fc69397d]",
+    "Atitude",
+    ""
+  ],
+  [
+    6702,
+    "2023-08-04T22:48:43.828Z",
+    "0.61 / 0.6 / 0.74",
+    "app:stable-diffusion-webui.git updated:2023-05-14 hash:89f9faa6 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1050 Ti (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:531.68 4GB",
+    "xformers medvram",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "klofiks",
+    ""
+  ],
+  [
     6701,
     "2023-08-04T16:34:00.134Z",
     "4.6 / 5.2 / 5.81",
