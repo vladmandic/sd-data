@@ -1,5 +1,31 @@
 [
   [
+    6669,
+    "2023-08-04T08:25:19.211Z",
+    "5.36 / 5.7 / 6.24",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "Doggettx none",
+    "majicmixRealistic_betterV2V25.safetensors [d7e2ac2f4a]",
+    "LucsComp",
+    ""
+  ],
+  [
+    6668,
+    "2023-08-04T20:17:20.653Z",
+    "6.51 / 7.13 / 7.97",
+    "app:stable-diffusion-webui updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:531.79 12GB",
+    "Automatic none",
+    "真人AI\\chilloutmix_.safetensors [a757fe8b3d]",
+    "Administrator",
+    ""
+  ],
+  [
     6667,
     "2023-08-04T17:47:45.456Z",
     "11.05 / 8.73 / 10.37 / 12.91 / 11.77",
