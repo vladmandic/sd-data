@@ -1,5 +1,18 @@
 [
   [
+    6646,
+    "2023-08-04T09:59:22.812Z",
+    "5.28 / 7.88 / 9.52",
+    "app:SD.next updated:2023-08-03 hash:5f5a564d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.90.1-microsoft-standard-WSL2 python:3.10.12",
+    "torch:2.0.1a0+cxx11.abi Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Graphics [0x56a0] (1) ipex:2.0.110+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "billy",
+    ""
+  ],
+  [
     6645,
     "2023-08-04T09:32:41.753Z",
     "5.78 / 7.42 / 9.64",
