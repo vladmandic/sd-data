@@ -3458,6 +3458,25 @@
       "created_at": "2023-07-28T12:02:58Z",
       "default_branch_commit_sha": "6bbffe85db81897b9c89bd449dd301cd2c073277",
       "commit_time": "2023-07-30T19:34:49Z"
+    },
+    {
+      "name": "sd-webui-deoldify",
+      "url": "https://github.com/SpenserCai/sd-webui-deoldify",
+      "description": "DeOldify for Stable Diffusion WebUI:Colorize of old photos, based on deoldify",
+      "added": "2023-08-04",
+      "tags": [
+        "script",
+        "extras"
+      ]
+    },
+    {
+      "name": "Depth map library and poser",
+      "url": "https://github.com/jexom/sd-webui-depth-lib.git",
+      "description": "Depth map library for use with the Control Net extension",
+      "tags": [
+        "tab"
+      ],
+      "added": "2023-08-04"
     }
   ],
   "accept-ranges": "bytes",
@@ -3465,13 +3484,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "34166",
+  "content-length": "34290",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 03 Aug 2023 22:38:10 GMT",
-  "etag": "W/\"082ba50fa6bcb3c36423e9e8e19ff4450253b96f500c9bf3e25b7a32e89106cb\"",
-  "expires": "Thu, 03 Aug 2023 22:43:10 GMT",
+  "date": "Fri, 04 Aug 2023 01:45:50 GMT",
+  "etag": "W/\"4b17d15f78549758ff690faee6c19d092de8e125f5ee1129c752030bf5246d40\"",
+  "expires": "Fri, 04 Aug 2023 01:50:50 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3479,10 +3498,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "2ff73ddb5101481d22d3d69121d2a7f180e970cf",
+  "x-fastly-request-id": "ab4c775eb73e5b7deea1047a63773f29c15178c1",
   "x-frame-options": "deny",
-  "x-github-request-id": "5706:14DE:5417:6088:64CC2C4F",
-  "x-served-by": "cache-sjc10042-SJC",
-  "x-timer": "S1691102290.688156,VS0,VE358",
+  "x-github-request-id": "BCAA:6A50:5754E:695F7:64CC584E",
+  "x-served-by": "cache-dfw-kdfw8210130-DFW",
+  "x-timer": "S1691113550.302076,VS0,VE194",
   "x-xss-protection": "1; mode=block"
 }
