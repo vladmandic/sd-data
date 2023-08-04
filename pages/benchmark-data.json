@@ -1,5 +1,31 @@
 [
   [
+    6645,
+    "2023-08-04T09:32:41.753Z",
+    "5.78 / 7.42 / 9.64",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.7",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (2) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.23  536.23 8GB",
+    "xformers medvram",
+    "20_Vox-mix2.5m.safetensors [04b49bd681]",
+    "user",
+    ""
+  ],
+  [
+    6644,
+    "2023-08-04T02:41:25.051Z",
+    "7.28 / 9.22 / 10.77",
+    "app:SD.next updated:2023-08-03 hash:5f5a564d url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.7-arch1-2 python:3.10.12",
+    "torch:2.0.1a0+cxx11.abi Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+xpu 16GB",
+    "diffusers Sub-quadratic none",
+    "SD1.5/meinapastel_v6Pastel.safetensors [6292dd40d6]",
+    "disty",
+    ""
+  ],
+  [
     6643,
     "2023-08-04T05:21:16.404Z",
     "16.71 / 17.95 / 19.94",
