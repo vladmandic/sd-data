@@ -1,5 +1,18 @@
 [
   [
+    6733,
+    "2023-08-05T21:40:59.586Z",
+    "11.04",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-26-generic python:3.10.12",
+    "torch:2.1.0.dev20230804+rocm5.6 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:AMD Radeon Graphics (1) hip:5.6.31061-8c743ae5d 16GB",
+    "sdp-no-mem none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "kara",
+    ""
+  ],
+  [
     6732,
     "2023-08-05T14:02:06.874Z",
     "4.88 / 5.49 / 6.65",
