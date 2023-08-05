@@ -1,5 +1,44 @@
 [
   [
+    6726,
+    "2023-08-05T20:49:57.008Z",
+    "6.57 / 7.36 / 8.21 / 8.77 / 8.92",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "Thai Ha",
+    ""
+  ],
+  [
+    6725,
+    "2023-08-03T21:58:38.181Z",
+    "error / error / error",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:Quadro K4000 (1) (compute_37) (3, 0) cuda:11.8 cudnn:8800 driver:474.44 3GB",
+    "Doggettx lowvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
+    6724,
+    "2023-08-05T21:44:00.258Z",
+    "12.46 / 15.84 / 20.07",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.67 24GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
     6723,
     "2023-08-05T13:49:14.307Z",
     "1.13 / 1.07 / 1.34",
