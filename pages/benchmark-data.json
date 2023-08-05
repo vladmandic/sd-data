@@ -1,5 +1,31 @@
 [
   [
+    6736,
+    "2023-08-06T01:22:07.549Z",
+    "8.09 / 9.44 / 10.32",
+    "app:SD.next updated:2023-08-01 hash:80b83405 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "original sdp none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "Fad",
+    ""
+  ],
+  [
+    6735,
+    "2023-08-06T01:18:49.911Z",
+    "7.23",
+    "app:SD.next updated:2023-08-01 hash:80b83405 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.40 8GB",
+    "original sdp none",
+    "epicrealism_pureEvolutionV3.safetensors [52484e6845]",
+    "Fad",
+    ""
+  ],
+  [
     6734,
     "2023-08-05T22:19:20.569Z",
     "12.38 / 19.34 / 26.03",
