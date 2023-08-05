@@ -1,5 +1,44 @@
 [
   [
+    6712,
+    "2023-08-05T13:35:51.133Z",
+    "error",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 24GB",
+    "xformers none",
+    "SDXL 1.0 ArienMixXL 亚洲人像 亚洲人像_V1.0.safetensors [d05d48f72b]",
+    "86182",
+    ""
+  ],
+  [
+    6711,
+    "2023-08-05T13:11:16.954Z",
+    "12.0 / 16.68 / 19.78",
+    "app:stable-diffusion-webui.git updated:2023-07-11 hash:f865d3e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-144-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "chilloutmix-inpainting.safetensors.inpainting.ckpt [9206311350]",
+    "root",
+    ""
+  ],
+  [
+    6710,
+    "2023-07-02T18:21:29.247Z",
+    "13.13 / 17.14 / 19.61",
+    "updated:2023-06-27 hash:394ffa7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-107-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA RTX A5000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "AnythingV5_v5PrtRE.safetensors [7f96a1a9ca]",
+    "root",
+    ""
+  ],
+  [
     6709,
     "2023-08-05T12:49:28.612Z",
     "0.19",
