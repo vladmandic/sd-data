@@ -1,5 +1,31 @@
 [
   [
+    6728,
+    "2023-08-05T23:06:34.175Z",
+    "8.93 / 9.67 / 11.24",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "cetusMix_Whalefall2.safetensors",
+    "qiyan",
+    ""
+  ],
+  [
+    6727,
+    "2023-08-06T00:01:07.190Z",
+    "14.18 / 16.06 / 17.1",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 12GB",
+    "xformers none",
+    "xxmix9realistic_v40.safetensors [18ed2b6c48]",
+    "Hyeonjin",
+    ""
+  ],
+  [
     6726,
     "2023-08-05T20:49:57.008Z",
     "6.57 / 7.36 / 8.21 / 8.77 / 8.92",
