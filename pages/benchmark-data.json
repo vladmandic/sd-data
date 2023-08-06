@@ -1,5 +1,44 @@
 [
   [
+    6745,
+    "2023-08-06T04:11:32.023Z",
+    "23.25 / 38.16 / 43.85 / 42.29 / 42.53",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "absolutereality_v16.safetensors [be1d90c4ab]",
+    "aluminium",
+    ""
+  ],
+  [
+    6744,
+    "2023-08-06T04:06:28.164Z",
+    "18.88 / 34.68 / 42.57 / 41.96 / 42.35",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "photon_v1.safetensors [ec41bd2a82]",
+    "aluminium",
+    ""
+  ],
+  [
+    6743,
+    "2023-08-06T09:36:13.835Z",
+    "0.31 / 0.12 / 0.1",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:Quadro K2200 (1) (compute_37) (5, 0) cuda:11.8 cudnn:8800 driver:536.67 4GB",
+    "Doggettx medvram",
+    "meinamix_meinaV10.safetensors [77b7dc4ef0]",
+    "Administrator",
+    ""
+  ],
+  [
     6742,
     "2023-08-06T07:43:09.597Z",
     "19.32 / 22.5 / 22.39",
