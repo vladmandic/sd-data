@@ -1,5 +1,57 @@
 [
   [
+    6845,
+    "2023-08-07T22:51:54.798Z",
+    "6.15 / 8.05 / 9.6 / 11.37 / 12.15",
+    "app:automatic.git updated:2023-08-06 hash:dc739b9f url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.12",
+    "torch:2.0.0a0+gitc6a572f Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+gitba7f6c1 13GB",
+    "original sub-quadratic none",
+    "majicmixRealistic_betterV2V25.safetensors [d7e2ac2f4a]",
+    "nuullll",
+    "native windows bf16"
+  ],
+  [
+    6844,
+    "2023-08-07T22:15:54.445Z",
+    "5.95 / 6.72 / 7.15",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:1.12.1+cu113 autocast half xformers:0.0.14.dev0 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.3 cudnn:8302 driver:536.67 16GB",
+    "Doggettx none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Jeerf",
+    ""
+  ],
+  [
+    6843,
+    "2023-08-07T22:09:59.098Z",
+    "5.06 / 7.82 / 9.35 / 11.12 / 12.07",
+    "app:automatic.git updated:2023-08-06 hash:dc739b9f url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.12",
+    "torch:2.0.0a0+gitc6a572f Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+gitba7f6c1 13GB",
+    "original sub-quadratic none",
+    "majicmixRealistic_betterV2V25.safetensors [d7e2ac2f4a]",
+    "nuullll",
+    "native windows fp16"
+  ],
+  [
+    6842,
+    "2023-08-07T22:11:14.122Z",
+    "8.48 / 12.73 / 17.92",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "NFFoX",
+    ""
+  ],
+  [
     6841,
     "2023-08-07T20:20:46.708Z",
     "14.56 / 19.69 / 21.58",
