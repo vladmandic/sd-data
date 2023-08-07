@@ -1,5 +1,18 @@
 [
   [
+    6832,
+    "2023-08-07T12:58:46.393Z",
+    "1.07",
+    "app:SD.next updated:2023-08-07 hash:dd441273 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.0+cpu Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    " 0GB",
+    "original sub-quadratic none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "Mentaloh",
+    ""
+  ],
+  [
     6831,
     "2023-08-07T12:04:19.538Z",
     "1.15 / 1.03 / 1.4",
