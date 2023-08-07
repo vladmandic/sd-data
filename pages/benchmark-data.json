@@ -1,5 +1,57 @@
 [
   [
+    6810,
+    "2023-08-07T09:42:28.138Z",
+    "3.54 / 5.47 / 8.29",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 Ti Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:526.98 8GB",
+    "xformers medvram",
+    "watermash_v3.safetensors [4124d91132]",
+    "wyjeo",
+    ""
+  ],
+  [
+    6809,
+    "2023-08-07T09:27:25.155Z",
+    "23.39 / 25.46 / 28.38 / 28.04 / 27.17",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8900 driver:535.54.03 16GB",
+    "xformers none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "sd2",
+    ""
+  ],
+  [
+    6808,
+    "2023-08-07T08:15:21.836Z",
+    "2.29 / 2.51 / 2.58",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:536.40 8GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "HaoYi",
+    ""
+  ],
+  [
+    6807,
+    "2023-08-07T08:12:09.651Z",
+    "1.47 / 1.56 / 1.64",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 6GB",
+    "xformers medvram",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
     6806,
     "2023-08-07T06:45:40.240Z",
     "0.24 / 0.4 / 0.56",
