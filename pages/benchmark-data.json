@@ -1,5 +1,44 @@
 [
   [
+    6865,
+    "2023-08-07T22:21:35.321Z",
+    "2.05 / 2.93 / 3.26",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (2) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67  536.67 8GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "svod-",
+    ""
+  ],
+  [
+    6864,
+    "2023-08-07T22:18:33.083Z",
+    "2.05 / 2.92 / 3.24",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (2) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67  536.67 8GB",
+    "xformers none",
+    "dreamshaper_7.safetensors [ed989d673d]",
+    "svod-",
+    ""
+  ],
+  [
+    6863,
+    "2023-08-07T22:10:31.025Z",
+    "2.06 / 2.93 / 3.26",
+    "",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (2) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:536.67  536.67 8GB",
+    "xformers none",
+    "realisticVisionV30_v30VAE.safetensors [a8e08b582e]",
+    "svod-",
+    ""
+  ],
+  [
     6862,
     "2023-08-07T22:05:07.619Z",
     "2.06 / 2.94 / 3.26",
