@@ -1,5 +1,57 @@
 [
   [
+    6821,
+    "2023-08-07T15:45:42.737Z",
+    "6.2 / 8.35 / 10.08 / 11.84 / 12.8",
+    "app:SD.next updated:2023-08-06 hash:dc739b9f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.8-2-cachyos python:3.10.12",
+    "torch:2.0.1a0+cxx11.abi Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "user",
+    "Thanks vladmandic and Disty0"
+  ],
+  [
+    6820,
+    "2023-08-07T15:32:30.694Z",
+    "6.2 / 8.29 / 10.04 / 11.86 / 12.75",
+    "app:SD.next updated:2023-08-06 hash:dc739b9f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.8-2-cachyos python:3.10.12",
+    "torch:2.0.1a0+cxx11.abi Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "user",
+    "Thanks vladmandic and Disty0"
+  ],
+  [
+    6819,
+    "2023-08-07T15:20:34.168Z",
+    "6.29 / 8.31 / 10.06 / 11.81 / 12.74",
+    "app:SD.next updated:2023-08-06 hash:dc739b9f url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu: system:Linux release:6.4.8-2-cachyos python:3.10.12",
+    "torch:2.0.1a0+cxx11.abi Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.0.110+xpu 16GB",
+    "original sub-quadratic none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "user",
+    ""
+  ],
+  [
+    6818,
+    "2023-08-07T14:29:22.994Z",
+    "23.3 / 25.04 / 28.27 / 27.88 / 27.2",
+    "app:stable-diffusion-webui.git updated:2023-07-25 hash:a3ddf464 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8900 driver:535.54.03 16GB",
+    "xformers none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "sd2",
+    ""
+  ],
+  [
     6817,
     "2023-08-07T10:00:50.520Z",
     "1.97 / 2.14 / 2.27",
