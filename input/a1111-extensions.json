@@ -3462,11 +3462,13 @@
     {
       "name": "sd-webui-deoldify",
       "url": "https://github.com/SpenserCai/sd-webui-deoldify",
-      "description": "DeOldify for Stable Diffusion WebUI:Colorize of old photos, based on deoldify",
+      "description": "DeOldify for Stable Diffusion WebUI:Colorize of old photos and old video, based on deoldify",
       "added": "2023-08-04",
       "tags": [
         "script",
-        "extras"
+        "extras",
+        "tab",
+        "animation"
       ],
       "full_name": "SpenserCai/sd-webui-deoldify",
       "github_description": "DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos. It is based on deoldify.",
@@ -3510,13 +3512,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "34565",
+  "content-length": "34578",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 07 Aug 2023 12:03:31 GMT",
-  "etag": "W/\"0aae8f93d5175153740716ef9a3193241d112ba9c042bec25c03cd2d6f47ca04\"",
-  "expires": "Mon, 07 Aug 2023 12:08:31 GMT",
+  "date": "Mon, 07 Aug 2023 12:52:50 GMT",
+  "etag": "W/\"9ec4cb35efe894bb30aabcce2d89481f7986f1e7c22c32a203aef589f6d84d8d\"",
+  "expires": "Mon, 07 Aug 2023 12:57:50 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3524,10 +3526,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "bba476a06268b4259ee5c7c7cda4616c1852fd1c",
+  "x-fastly-request-id": "361afcffb43bf0ac466c05017aaf63209da8a3ab",
   "x-frame-options": "deny",
-  "x-github-request-id": "3EBE:2FFB:2EEE6:3675C:64D0DD8C",
-  "x-served-by": "cache-dfw-kdfw8210139-DFW",
-  "x-timer": "S1691409812.570702,VS0,VE134",
+  "x-github-request-id": "D10E:4A06:68ACB:77CFA:64D0E916",
+  "x-served-by": "cache-dfw-kdfw8210074-DFW",
+  "x-timer": "S1691412770.071119,VS0,VE193",
   "x-xss-protection": "1; mode=block"
 }
