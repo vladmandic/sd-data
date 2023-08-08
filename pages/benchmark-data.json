@@ -1,5 +1,31 @@
 [
   [
+    6878,
+    "2023-08-08T15:00:15.055Z",
+    "12.06 / 14.28 / 15.87",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-50-generic python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8900 driver:535.54.03 16GB",
+    "xformers none",
+    "sd_xl_base_1.0.safetensors [a6f87b8587]",
+    "sd2",
+    ""
+  ],
+  [
+    6877,
+    "2023-08-08T13:41:01.946Z",
+    "11.53 / 16.99 / 19.96",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 12GB",
+    "xformers none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Administrator",
+    ""
+  ],
+  [
     6876,
     "2023-08-08T12:16:47.623Z",
     "10.27 / 13.35 / 21.11 / 22.81 / 22.91",
