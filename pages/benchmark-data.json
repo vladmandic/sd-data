@@ -1,5 +1,57 @@
 [
   [
+    6889,
+    "2023-08-08T13:59:54.397Z",
+    "1.09 / 1.54 / 0.51",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:536.67 8GB",
+    "xformers medvram",
+    "sd_xl_base_1.0_0.9vae.safetensors [e6bb9ea85b]",
+    "Simon",
+    ""
+  ],
+  [
+    6888,
+    "2023-08-08T14:45:51.831Z",
+    "29.38 / 40.43 / 45.02",
+    "app:SD.next updated:2023-08-08 hash:ff2d8466 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "diffusers Scaled-Dot-Product none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Red",
+    ""
+  ],
+  [
+    6887,
+    "2023-08-08T14:27:07.436Z",
+    "error / error / error",
+    "app:SD.next updated:2023-08-08 hash:ff2d8466 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "diffusers xformers none",
+    "v1-5-pruned-emaonly.ckpt [cc6cb27103]",
+    "Red",
+    ""
+  ],
+  [
+    6886,
+    "2023-08-08T13:43:26.599Z",
+    "18.05 / 31.52 / 33.11",
+    "app:SD.next updated:2023-08-08 hash:ff2d8466 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "original sdp none",
+    "lofi_V1Fp16.safetensors [b38c9d6e67]",
+    "Red",
+    ""
+  ],
+  [
     6885,
     "2023-08-08T19:35:58.408Z",
     "4.4",
