@@ -1,5 +1,44 @@
 [
   [
+    6898,
+    "2023-08-08T23:00:45.340Z",
+    "24.85 / 32.02 / 34.58 / 34.83 / 33.69",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver:536.67 24GB",
+    "xformers none",
+    "architecturerealmix_v10.ckpt [f65e517ae0]",
+    "ZZ",
+    ""
+  ],
+  [
+    6897,
+    "2023-08-08T22:20:36.246Z",
+    "23.66 / 33.48 / 35.0",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.14.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.40 24GB",
+    "xformers none",
+    "aZovyaPhotoreal_v2.safetensors [dde3b17c05]",
+    "ZZ",
+    ""
+  ],
+  [
+    6896,
+    "2023-08-08T10:42:41.253Z",
+    "1.91 / 1.8 / 2.1 / 1.99 / 2.13",
+    "app:stable-diffusion-webui updated:2023-08-07 hash:01997f45 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev",
+    "arch:x86_64 cpu: system:Linux release:6.4.8-zen1-1-zen python:3.11.3",
+    "torch:2.0.1+cu117 autocast half xformers:0.0.21.dev577 diffusers:0.16.1 transformers:4.27.4",
+    "device:Tesla P40 (1) (sm_86) (6, 1) cuda:11.7 cudnn:8500 driver:535.86.05 535.86.05 24GB",
+    "Doggettx none",
+    "dreamshaperXL10_alpha2Xl10.safetensors [0f1b80cfe8]",
+    "rat",
+    ""
+  ],
+  [
     6895,
     "2023-08-08T13:59:45.850Z",
     "4.59 / 4.36 / 4.52",
