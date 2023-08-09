@@ -1,5 +1,18 @@
 [
   [
+    6920,
+    "2023-08-09T05:27:06.148Z",
+    "8.61 / 9.35 / 10.6",
+    "app:SD.next updated:2023-08-07 hash:9d17cf4c url:https://github.com/vladmandic/automatic/tree/HEAD",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:531.68 8GB",
+    "original sdp none",
+    "ddosmix_V2.safetensors [53da46c440]",
+    "CYPHER",
+    ""
+  ],
+  [
     6919,
     "2023-08-09T16:19:07.095Z",
     "12.38 / 14.07 / 16.25 / 16.27 / 15.67",
