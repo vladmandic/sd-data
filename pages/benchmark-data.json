@@ -1,5 +1,57 @@
 [
   [
+    6935,
+    "2023-08-09T21:54:58.008Z",
+    "5.11 / 5.48 / 5.53",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 driver:536.67 12GB",
+    "Doggettx none",
+    "yiffymix_3.safetensors [3cea5ea114]",
+    "bluetoothlessra",
+    ""
+  ],
+  [
+    6934,
+    "2023-08-09T19:15:09.629Z",
+    "0.06 / 0.05 / 0.37",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 full nohalf xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "anything-v5-PrtRE.safetensors [7f96a1a9ca]",
+    "Lenovo",
+    ""
+  ],
+  [
+    6933,
+    "2023-08-09T09:29:55.857Z",
+    "25.09 / 30.51 / 36.0",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:535.98 24GB",
+    "sdp none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "andvari",
+    ""
+  ],
+  [
+    6932,
+    "2023-08-09T09:28:27.677Z",
+    "18.92 / 23.58 / 25.65",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:535.98 24GB",
+    "Doggettx none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "andvari",
+    ""
+  ],
+  [
     6931,
     "2023-08-08T23:13:16.131Z",
     "10.42 / 13.41 / 14.67",
