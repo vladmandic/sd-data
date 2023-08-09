@@ -1,5 +1,57 @@
 [
   [
+    6918,
+    "2023-08-09T14:56:34.889Z",
+    "13.27 / 13.93 / 16.17",
+    "updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 10GB",
+    "xformers none",
+    "SHMILY油画风.safetensors [05c3da2b4e]",
+    "Administrator",
+    ""
+  ],
+  [
+    6917,
+    "2023-08-09T15:42:03.661Z",
+    "13.58 / 25.01 / 33.03",
+    "app:stable-diffusion-webui.git updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 24GB",
+    "xformers none",
+    "majicmixRealistic_v5.safetensors [33c9f6dfcb]",
+    "hongju",
+    ""
+  ],
+  [
+    6916,
+    "2023-05-30T13:44:31.911Z",
+    "17.68 / 30.16 / 35.46",
+    "updated:2023-05-27 hash:20ae71fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "hongju",
+    ""
+  ],
+  [
+    6915,
+    "2023-08-09T14:37:28.791Z",
+    "4.28 / 5.2 / 6.16",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:1.12.1+cu113 autocast half xformers:0.0.14.dev0 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 3060 Ti (1) (compute_37) (8, 6) cuda:11.3 cudnn:8302 driver:528.49 8GB",
+    "xformers medvram",
+    "darkSushiMixMix_brighterPruned.safetensors [099e07547a]",
+    "Administrator",
+    ""
+  ],
+  [
     6914,
     "2023-08-09T05:57:03.043Z",
     "5.8 / 10.06 / 9.16",
