@@ -1,5 +1,18 @@
 [
   [
+    6913,
+    "2023-08-09T02:45:25.322Z",
+    "3.48 / 3.91 / 3.65",
+    "app:stable-diffusion-webui updated:2023-07-11 hash:f865d3e1 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-78-generic python:3.10.12",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.18.2 transformers:4.25.1",
+    "device:Tesla P100-PCIE-16GB (1) (sm_90) (6, 0) cuda:11.8 cudnn:8700 driver:535.54.03 16GB",
+    "xformers none",
+    "cyberrealistic_v32.safetensors [9584e2c050]",
+    "alexandreprates",
+    ""
+  ],
+  [
     6912,
     "2023-08-09T04:19:35.032Z",
     "8.1 / 7.18 / 8.06",
