@@ -1,5 +1,44 @@
 [
   [
+    6930,
+    "2023-08-09T14:14:01.940Z",
+    "5.45 / 7.52 / 9.16",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "xformers medvram",
+    "SD 1.5\\realisticVisionV51_v51VAE.safetensors [15012c538f]",
+    "bernd",
+    ""
+  ],
+  [
+    6929,
+    "2023-08-09T14:09:01.714Z",
+    "8.44 / 8.55 / 8.34",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "Doggettx none",
+    "SD 1.5\\realisticVisionV51_v51VAE.safetensors [15012c538f]",
+    "bernd",
+    ""
+  ],
+  [
+    6928,
+    "2023-08-09T19:57:20.194Z",
+    "9.31 / 8.14 / 9.01",
+    "updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1",
+    "device:Quadro RTX 5000 with Max-Q Design (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 8GB",
+    "xformers none",
+    "墨幽人造人_v1040.safetensors [0b9e46a0b0]",
+    "actionchen",
+    ""
+  ],
+  [
     6927,
     "2023-08-09T05:01:15.838Z",
     "8.18 / 7.25 / 8.0",
