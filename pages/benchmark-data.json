@@ -1,5 +1,18 @@
 [
   [
+    6914,
+    "2023-08-09T05:57:03.043Z",
+    "5.8 / 10.06 / 9.16",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-144-generic python:3.10.12",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.29.2",
+    "device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:525.105.17 24GB",
+    "Doggettx none",
+    "sd_xl_base_1.0.safetensors [31e35c80fc]",
+    "root",
+    ""
+  ],
+  [
     6913,
     "2023-08-09T02:45:25.322Z",
     "3.48 / 3.91 / 3.65",
