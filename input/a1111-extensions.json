@@ -3563,6 +3563,15 @@
       "created_at": "2022-10-22T10:51:13Z",
       "default_branch_commit_sha": "c7d49e18398a95f2d13e2e4c063fe2f63fc2a432",
       "commit_time": "2023-07-30T20:08:05Z"
+    },
+    {
+      "name": "SD Ratio Lock",
+      "url": "https://github.com/bit9labs/sd-ratio-lock.git",
+      "description": "Locks image aspect ratio",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-08-09"
     }
   ],
   "accept-ranges": "bytes",
@@ -3570,13 +3579,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "35135",
+  "content-length": "35177",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 09 Aug 2023 20:38:28 GMT",
-  "etag": "W/\"04ecf47f24d7a6cf19f6a4d912fd08bd23f32783239ebb464ab5512dcbbf238c\"",
-  "expires": "Wed, 09 Aug 2023 20:43:28 GMT",
+  "date": "Wed, 09 Aug 2023 22:38:26 GMT",
+  "etag": "W/\"e3b994bc31771e1b0a63789177843cb02f3fb13bdbeeb56016b085b0ca6f05dd\"",
+  "expires": "Wed, 09 Aug 2023 22:43:26 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3584,10 +3593,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "ff6ec3b18319bdb03e07c749a8b337638acdad9d",
+  "x-fastly-request-id": "22aac92b9274726cd980132353eba0fde618a14d",
   "x-frame-options": "deny",
-  "x-github-request-id": "1B32:6191:38400:40897:64D3F943",
-  "x-served-by": "cache-dfw-kdfw8210118-DFW",
-  "x-timer": "S1691613508.932984,VS0,VE206",
+  "x-github-request-id": "62AE:555B:54E09:645E2:64D41561",
+  "x-served-by": "cache-iad-kiad7000162-IAD",
+  "x-timer": "S1691620706.320368,VS0,VE98",
   "x-xss-protection": "1; mode=block"
 }
