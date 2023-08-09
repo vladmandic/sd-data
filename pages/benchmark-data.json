@@ -1,5 +1,31 @@
 [
   [
+    6938,
+    "2023-08-09T16:46:41.961Z",
+    "5.95 / 9.69 / 11.12",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-1029-aws python:3.10.12",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 driver:535.54.03 22GB",
+    "sdp none",
+    "sd_xl_base_1.0.safetensors",
+    "ubuntu",
+    ""
+  ],
+  [
+    6937,
+    "2023-06-29T11:44:44.593Z",
+    "14.66 / 16.26 / 17.63",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-1025-aws python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA A10G (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 22GB",
+    "sdp none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "ubuntu",
+    ""
+  ],
+  [
     6936,
     "2023-08-09T22:34:48.515Z",
     "4.92 / 4.39 / 4.48",
