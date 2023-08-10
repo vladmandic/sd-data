@@ -1,5 +1,18 @@
 [
   [
+    6974,
+    "2023-08-10T19:10:30.059Z",
+    "0.14 / 0.12 / 0.12",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:arm64 cpu:arm system:Darwin release:22.6.0 python:3.10.12",
+    "torch:2.0.1 full nohalf xformers: diffusers: transformers:4.25.1",
+    " 0GB",
+    "InvokeAI none",
+    "xrikishisUnstable_alpha60Anime.safetensors [2d4d5cdd00]",
+    "anon1905",
+    ""
+  ],
+  [
     6973,
     "2023-08-10T14:10:30.475Z",
     "9.74 / 8.35 / 9.82",
