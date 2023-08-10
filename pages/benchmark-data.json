@@ -1,5 +1,31 @@
 [
   [
+    6971,
+    "2023-08-10T13:41:08.847Z",
+    "7.41 / 8.57 / 4.74 / 8.99 / 9.5",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.67 11GB",
+    "Doggettx none",
+    "majicmixRealistic_v6.safetensors [e4a30e4607]",
+    "Deep",
+    ""
+  ],
+  [
+    6970,
+    "2023-08-10T19:11:04.366Z",
+    "25.1 / 35.48 / 40.13",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.12",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8903 driver:536.99 24GB",
+    "sdp-no-mem none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "OH WONJU",
+    ""
+  ],
+  [
     6969,
     "2023-08-10T18:30:03.706Z",
     "15.31 / 24.8 / 34.61",
