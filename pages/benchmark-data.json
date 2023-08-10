@@ -1,5 +1,44 @@
 [
   [
+    6986,
+    "2023-08-10T22:34:12.114Z",
+    "15.29 / 22.89 / 24.34",
+    "app:stable-diffusion-webui.git updated:2023-07-30 hash:0af4127f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/hires_checkpoint",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "xformers none",
+    "v1-5-pruned.ckpt [e1441589a6]",
+    "Bra2ha",
+    ""
+  ],
+  [
+    6985,
+    "2023-08-10T22:29:41.110Z",
+    "15.35 / 20.81 / 23.76",
+    "app:stable-diffusion-webui.git updated:2023-07-30 hash:0af4127f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/hires_checkpoint",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "xformers none",
+    "dreamshaper_8.safetensors [879db523c3]",
+    "Bra2ha",
+    ""
+  ],
+  [
+    6984,
+    "2023-08-10T22:22:20.463Z",
+    "5.73",
+    "app:stable-diffusion-webui.git updated:2023-07-30 hash:0af4127f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/hires_checkpoint",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.0+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.67 16GB",
+    "xformers none",
+    "zavychromaxl_b1.safetensors [c0d2d5e678]",
+    "Bra2ha",
+    ""
+  ],
+  [
     6983,
     "2023-08-10T14:23:04.525Z",
     "5.69 / 5.83 / 5.91",
