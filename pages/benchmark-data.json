@@ -1,5 +1,44 @@
 [
   [
+    6953,
+    "2023-08-10T12:52:48.318Z",
+    "18.95 / 23.44 / 28.52",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.14.0 transformers:4.30.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.23 24GB",
+    "sdp-no-mem none",
+    "2.0D\\abysshellmaple_v10.ckpt [0134f9690f]",
+    "ningb",
+    ""
+  ],
+  [
+    6952,
+    "2023-07-02T23:27:34.476Z",
+    "30.69 / 37.73 / 42.8",
+    "updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.18.0 transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB",
+    "sdp-no-mem none",
+    "2.5D\\lemoncreami_v10.safetensors [27866b1fcf]",
+    "ningb",
+    ""
+  ],
+  [
+    6951,
+    "2023-07-19T23:35:38.519Z",
+    "24.14 / 34.04 / 39.19",
+    "app:stable-diffusion-webui.git updated:2023-06-27 hash:394ffa7b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.14.0 transformers:4.30.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.23 24GB",
+    "sdp-no-mem none",
+    "2.5D\\@test003fp16.ckpt [fce40d0b50]",
+    "ningb",
+    ""
+  ],
+  [
     6950,
     "2023-08-10T12:01:00.849Z",
     "1.58 / 2.39 / 2.5",
