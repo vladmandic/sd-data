@@ -1,5 +1,18 @@
 [
   [
+    6945,
+    "2023-08-09T23:49:00.580Z",
+    "8.96 / 7.75 / 8.62",
+    "app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd9 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2",
+    "device:NVIDIA GeForce RTX 2080 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:536.23 8GB",
+    "Automatic none",
+    "chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]",
+    "Administrator",
+    ""
+  ],
+  [
     6944,
     "2023-08-09T16:03:05.988Z",
     "7.92 / 9.04 / 10.21",
