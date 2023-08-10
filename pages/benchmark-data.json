@@ -1,5 +1,31 @@
 [
   [
+    6983,
+    "2023-08-10T14:23:04.525Z",
+    "5.69 / 5.83 / 5.91",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.99 8GB",
+    "xformers none",
+    "icomix_V05\\icomix_V05.safetensors [1b0dc651e8]",
+    "joechamm",
+    ""
+  ],
+  [
+    6982,
+    "2023-08-10T14:20:55.954Z",
+    "5.77 / 5.81 / 5.92",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.99 8GB",
+    "xformers none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "joechamm",
+    ""
+  ],
+  [
     6981,
     "2023-08-10T13:40:34.153Z",
     "5.61",
