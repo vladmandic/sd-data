@@ -1,5 +1,18 @@
 [
   [
+    6958,
+    "2023-08-10T14:57:59.271Z",
+    "23.08 / 34.56 / 39.13",
+    "",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.9",
+    "torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:531.79 24GB",
+    "xformers none",
+    "AnythingV5_v5PrtRE.safetensors [7f96a1a9ca]",
+    "admin",
+    ""
+  ],
+  [
     6957,
     "2023-08-09T23:57:12.160Z",
     "0.48 / 0.5 / 0.35",
