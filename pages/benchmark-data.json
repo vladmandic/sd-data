@@ -1,5 +1,57 @@
 [
   [
+    6950,
+    "2023-08-10T12:01:00.849Z",
+    "1.58 / 2.39 / 2.5",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:1.13.1+cu116 autocast half xformers:0.0.16 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.6 cudnn:8302 driver:536.67 8GB",
+    "xformers none",
+    "YORRL final.safetensors [a34ccc8195]",
+    "FLPL",
+    ""
+  ],
+  [
+    6949,
+    "2023-08-09T23:01:30.762Z",
+    "9.42 / 10.52 / 11.08",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:git@github.com:AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD",
+    "arch:x86_64 cpu:AMD Ryzen 9 5900X 12-Core Processor system:Linux release:6.4.8-x86_64-xanmod1 python:3.11.4",
+    "torch:2.0.0a0 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:AMD Radeon RX 6800 XT (1) hip:5.6.31061- 16GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "pppig",
+    ""
+  ],
+  [
+    6948,
+    "2023-08-09T18:29:36.307Z",
+    "0.49 / 0.58 / 0.64",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 autocast half xformers: diffusers: transformers:4.25.1",
+    "device:GRID M60-8Q (1) (compute_37) (5, 2) cuda:11.8 cudnn:8700 driver:527.41 24GB",
+    "Doggettx none",
+    "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "m40-user",
+    ""
+  ],
+  [
+    6947,
+    "2023-08-10T11:34:24.131Z",
+    "1.58 / 2.31 / 2.56",
+    "app:stable-diffusion-webui.git updated:2023-07-27 hash:68f336b url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9",
+    "torch:1.13.1+cu116 autocast half xformers:0.0.16 diffusers: transformers:4.25.1",
+    "device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.6 cudnn:8302 driver:536.67 8GB",
+    "xformers none",
+    "xeroxrealmix_v35.safetensors [d7700eac56]",
+    "FLPL",
+    ""
+  ],
+  [
     6946,
     "2023-08-10T09:01:03.146Z",
     "2.13 / 2.35 / 2.52",
