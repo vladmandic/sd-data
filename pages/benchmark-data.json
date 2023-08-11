@@ -1,5 +1,31 @@
 [
   [
+    6989,
+    "2023-08-10T19:00:55.771Z",
+    "9.97 / 12.32 / 12.2 / 10.16 / 10.37",
+    "app:automatic.git updated:2023-08-08 hash:417ef540 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers:0.0.20 diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.99 16GB",
+    "original xformers none",
+    "Anything-v4.5-pruned-mergedVae.ckpt [a9ea6564b8]",
+    "pewpew",
+    ""
+  ],
+  [
+    6988,
+    "2023-08-10T18:54:03.351Z",
+    "10.48 / 9.06 / 9.8",
+    "app:automatic.git updated:2023-08-08 hash:417ef540 url:https://github.com/vladmandic/automatic.git/tree/master",
+    "arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.99 16GB",
+    "original sdp none",
+    "Anything-v4.5-pruned-mergedVae.ckpt [a9ea6564b8]",
+    "orang",
+    ""
+  ],
+  [
     6987,
     "2023-08-10T20:08:25.657Z",
     "6.02 / 2.96 / 3.05",
