@@ -1,5 +1,18 @@
 [
   [
+    6987,
+    "2023-08-10T20:08:25.657Z",
+    "6.02 / 2.96 / 3.05",
+    "app:SD.next updated:2023-08-08 hash:417ef540 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:x86_64 cpu:x86_64 system:Linux release:6.2.0-26-generic python:3.10.12",
+    "torch:2.1.0.dev20230810+rocm5.6 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:AMD Radeon RX 6700 XT (1) hip:5.6.31061-8c743ae5d 12GB",
+    "original sdp none",
+    "cyberrealistic_v32.safetensors [9584e2c050]",
+    "mario",
+    ""
+  ],
+  [
     6986,
     "2023-08-10T22:34:12.114Z",
     "15.29 / 22.89 / 24.34",
