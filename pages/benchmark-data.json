@@ -1,5 +1,18 @@
 [
   [
+    6996,
+    "2023-08-11T00:00:53.655Z",
+    "6.87 / 5.99 / 6.37",
+    "app:SD.next updated:2023-08-08 hash:417ef540 url:https://github.com/vladmandic/automatic/tree/master",
+    "arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6",
+    "torch:2.0.1+cu118 Autocast half xformers: diffusers:0.19.3 transformers:4.31.0",
+    "device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:536.99 8GB",
+    "original sdp none",
+    "v1_5\\v1-5-pruned-emaonly.safetensors [6ce0161689]",
+    "joechamm",
+    ""
+  ],
+  [
     6995,
     "2023-08-11T11:50:43.107Z",
     "14.69 / 16.45 / 18.12",
