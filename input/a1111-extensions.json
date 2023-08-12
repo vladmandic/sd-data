@@ -3607,6 +3607,15 @@
         "online"
       ],
       "added": "2023-08-12"
+    },
+    {
+      "name": "zh_Hant Localization",
+      "url": "https://github.com/bluelovers/stable-diffusion-webui-localization-zh_Hant.git",
+      "description": "Traditional Chinese localization (mixin zh_TW and zh_Hans)",
+      "tags": [
+        "localization"
+      ],
+      "added": "2023-08-12"
     }
   ],
   "accept-ranges": "bytes",
@@ -3614,13 +3623,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "35456",
+  "content-length": "35526",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 12 Aug 2023 08:38:26 GMT",
-  "etag": "W/\"a5affec8fedb86f1b34b8f4a58a9cfd2224956b095e0bc22cae1c236c8a24de6\"",
-  "expires": "Sat, 12 Aug 2023 08:43:26 GMT",
+  "date": "Sat, 12 Aug 2023 10:38:13 GMT",
+  "etag": "W/\"00f7827f6ab9e2ac707b9ae3961c89bf9503b708a31c546ac8365605c19f98d0\"",
+  "expires": "Sat, 12 Aug 2023 10:43:13 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3628,10 +3637,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "1f0eb23cadc8cf872e61010f88aa10aa0600f48b",
+  "x-fastly-request-id": "97dc7f97f6e05b5d7977c12e5bf166447d1b5096",
   "x-frame-options": "deny",
-  "x-github-request-id": "E70A:7F17:9A5762:B8F697:64D74501",
-  "x-served-by": "cache-dfw-kdfw8210123-DFW",
-  "x-timer": "S1691829506.276509,VS0,VE206",
+  "x-github-request-id": "B4F8:0CAF:277970:2FF5D6:64D76115",
+  "x-served-by": "cache-dfw-kdfw8210057-DFW",
+  "x-timer": "S1691836694.788293,VS0,VE107",
   "x-xss-protection": "1; mode=block"
 }
