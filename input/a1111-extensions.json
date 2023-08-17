@@ -3700,9 +3700,9 @@
       "commit_time": "2023-07-29T14:55:24Z"
     },
     {
-      "name": "sdwebui-leave-warining",
-      "url": "https://github.com/w-e-w/sdwebui-leave-warining.git",
-      "description": "Adds a pop-up warning when you try to \"leave\" or \"reload\" the web page",
+      "name": "Webpage close confirmation dialogue",
+      "url": "https://github.com/w-e-w/sdwebui-close-confirmation-dialogue.git",
+      "description": "Adds a confirmation dialogue when you try to \"close\" leave\" or \"reload\" the webpage",
       "tags": [
         "UI related"
       ],
@@ -3714,13 +3714,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "36445",
+  "content-length": "36460",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 17 Aug 2023 18:38:29 GMT",
-  "etag": "W/\"11c6b16a092da4f7bfb420655d1add51056586d9de692112cfd06da4e7c7c31b\"",
-  "expires": "Thu, 17 Aug 2023 18:43:29 GMT",
+  "date": "Thu, 17 Aug 2023 20:38:22 GMT",
+  "etag": "W/\"2f43db75225188a49f79e06754afea83319db7b97a94d0697f60e3dd003e6f0f\"",
+  "expires": "Thu, 17 Aug 2023 20:43:22 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3728,10 +3728,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "3ec0e398fd456c62973af521bb5e084eb0a84c20",
+  "x-fastly-request-id": "04f41589be5eec4aa5a33ee14fad8ba928b9ea82",
   "x-frame-options": "deny",
-  "x-github-request-id": "5512:14B8:2E1FD9:365D4E:64DE6924",
-  "x-served-by": "cache-iad-kiad7000114-IAD",
-  "x-timer": "S1692297509.285614,VS0,VE114",
+  "x-github-request-id": "9998:1CAE:43731:4F322:64DE853D",
+  "x-served-by": "cache-iad-kiad7000111-IAD",
+  "x-timer": "S1692304702.921834,VS0,VE255",
   "x-xss-protection": "1; mode=block"
 }
