@@ -3698,6 +3698,15 @@
       "created_at": "2023-07-20T18:40:21Z",
       "default_branch_commit_sha": "a2c1eb305c7588b912f0a7cf16f86825360de7e0",
       "commit_time": "2023-07-29T14:55:24Z"
+    },
+    {
+      "name": "sdwebui-leave-warining",
+      "url": "https://github.com/w-e-w/sdwebui-leave-warining.git",
+      "description": "Adds a pop-up warning when you try to \"leave\" or \"reload\" the web page",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-08-17"
     }
   ],
   "accept-ranges": "bytes",
@@ -3705,13 +3714,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "36371",
+  "content-length": "36445",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 17 Aug 2023 16:39:08 GMT",
-  "etag": "W/\"da4a91476ca99f16a95bac4f150bd75f780a72bc11959de571ae1c54fb72d73b\"",
-  "expires": "Thu, 17 Aug 2023 16:44:08 GMT",
+  "date": "Thu, 17 Aug 2023 18:38:29 GMT",
+  "etag": "W/\"11c6b16a092da4f7bfb420655d1add51056586d9de692112cfd06da4e7c7c31b\"",
+  "expires": "Thu, 17 Aug 2023 18:43:29 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3719,10 +3728,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "af322392e47c98c75309479bae11938d8b58d490",
+  "x-fastly-request-id": "3ec0e398fd456c62973af521bb5e084eb0a84c20",
   "x-frame-options": "deny",
-  "x-github-request-id": "B4C8:9BF2:161446:195750:64DE4D2C",
-  "x-served-by": "cache-iad-kiad7000173-IAD",
-  "x-timer": "S1692290349.670149,VS0,VE86",
+  "x-github-request-id": "5512:14B8:2E1FD9:365D4E:64DE6924",
+  "x-served-by": "cache-iad-kiad7000114-IAD",
+  "x-timer": "S1692297509.285614,VS0,VE114",
   "x-xss-protection": "1; mode=block"
 }
