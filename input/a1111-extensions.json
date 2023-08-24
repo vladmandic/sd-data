@@ -3724,6 +3724,17 @@
         "tab"
       ],
       "added": "2023-08-24"
+    },
+    {
+      "name": "CivitAI Browser Plus",
+      "url": "https://github.com/BlafKing/sd-civitai-browser-plus.git",
+      "description": "This extension allows you to browse and download any model from CivitAi without leaving WebUI!",
+      "tags": [
+        "script",
+        "tab",
+        "online"
+      ],
+      "added": "2023-08-24"
     }
   ],
   "accept-ranges": "bytes",
@@ -3731,13 +3742,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "36581",
+  "content-length": "36653",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 24 Aug 2023 20:38:31 GMT",
-  "etag": "W/\"ac1cf3a1f41e227ff26df4c6990a93fab823974678b805218afe1196b0d23242\"",
-  "expires": "Thu, 24 Aug 2023 20:43:31 GMT",
+  "date": "Thu, 24 Aug 2023 22:38:30 GMT",
+  "etag": "W/\"32bc3f3f0b6369b4ddbbea0f0b7e68729388d1c748e611114b238df801fb33eb\"",
+  "expires": "Thu, 24 Aug 2023 22:43:30 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3745,10 +3756,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "005f739aabfc9546eefc98d1284123603efeaf78",
+  "x-fastly-request-id": "12adaef499ff5dda4492ed78ebfd39246747ca75",
   "x-frame-options": "deny",
-  "x-github-request-id": "83B4:57FA:3AFD:4679:64E7BFC7",
-  "x-served-by": "cache-iad-kiad7000106-IAD",
-  "x-timer": "S1692909512.505138,VS0,VE92",
+  "x-github-request-id": "192A:724D:1524B3:18CCA7:64E7DBE5",
+  "x-served-by": "cache-bur-kbur8200153-BUR",
+  "x-timer": "S1692916710.859430,VS0,VE227",
   "x-xss-protection": "1; mode=block"
 }
