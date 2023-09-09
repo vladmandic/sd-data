@@ -3793,6 +3793,20 @@
         "UI related",
         "online"
       ]
+    },
+    {
+      "name": "Scenario loader",
+      "url": "https://github.com/Chaest/sd-webui-sc-loader.git",
+      "description": "A series of tool to make it easier to create images.",
+      "tags": [
+        "script",
+        "tab",
+        "dropdown",
+        "UI related",
+        "prompting",
+        "extras"
+      ],
+      "added": "2023-09-09"
     }
   ],
   "accept-ranges": "bytes",
@@ -3800,13 +3814,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "37273",
+  "content-length": "37343",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 09 Sep 2023 01:29:58 GMT",
-  "etag": "W/\"c700800ce62e6eae425fe662432af4bfff2002ebc46c0cc696cf4cf05a7b7600\"",
-  "expires": "Sat, 09 Sep 2023 01:34:58 GMT",
+  "date": "Sat, 09 Sep 2023 02:38:29 GMT",
+  "etag": "W/\"ae88bb7548e885706c3013ab8170b9b7023f316936f45b6524fec950e8c0adb6\"",
+  "expires": "Sat, 09 Sep 2023 02:43:29 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3814,10 +3828,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "d4c717c4a449169f17a9711925fc8694798fc12c",
+  "x-fastly-request-id": "f38437c198b8f03f0f6a03511ce3240539c34e30",
   "x-frame-options": "deny",
-  "x-github-request-id": "843C:3A54:6146:79A4:64FBCA96",
-  "x-served-by": "cache-iad-kiad7000127-IAD",
-  "x-timer": "S1694222999.610522,VS0,VE85",
+  "x-github-request-id": "137A:30C3:304E8:3C21E:64FBDAA4",
+  "x-served-by": "cache-iad-kiad7000042-IAD",
+  "x-timer": "S1694227109.358883,VS0,VE93",
   "x-xss-protection": "1; mode=block"
 }
