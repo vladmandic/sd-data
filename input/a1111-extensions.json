@@ -3199,7 +3199,7 @@
     {
       "name": "GPU temperature protection",
       "url": "https://github.com/w-e-w/stable-diffusion-webui-GPU-temperature-protection.git",
-      "description": "Pause image generation when GPU is to hot",
+      "description": "Pause image generation when GPU is to hot, suppots NVIDIA & AMD GPUs",
       "tags": [
         "script"
       ],
@@ -3838,6 +3838,16 @@
       "created_at": "2023-03-27T16:56:08Z",
       "default_branch_commit_sha": "dec69488c6ad9ca1840fc57bb6d1cb8008b8bd6d",
       "commit_time": "2023-09-13T18:44:52Z"
+    },
+    {
+      "name": "Model Mixer",
+      "url": "https://github.com/wkpark/sd-webui-model-mixer.git",
+      "description": "Checkpoint Model Mixer/Merger extension - merges models without saving a merged model, and is used for image generation. Support Merge Block Weights, XYZ plots, etc.",
+      "tags": [
+        "models",
+        "manipulations"
+      ],
+      "added": "2023-09-16"
     }
   ],
   "accept-ranges": "bytes",
@@ -3845,13 +3855,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "37687",
+  "content-length": "37828",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 15 Sep 2023 22:38:21 GMT",
-  "etag": "W/\"f1e69c4c67728b56088cbcf7aecd1ce9eeeb5b1a8e5f61cf3dfdc6304e87a782\"",
-  "expires": "Fri, 15 Sep 2023 22:43:21 GMT",
+  "date": "Sat, 16 Sep 2023 01:31:03 GMT",
+  "etag": "W/\"ab98210c6d2bdbe9eff1d7bcc0f4acf4b478a880e3ff7687758a757717d9ed04\"",
+  "expires": "Sat, 16 Sep 2023 01:36:03 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3859,10 +3869,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "4dc6b60b79ced119fb45fd98571ab3bd310e7972",
+  "x-fastly-request-id": "036ac7c7bc70e056969d8edc322315d7aeda642c",
   "x-frame-options": "deny",
-  "x-github-request-id": "23DE:326E:43484B:51B313:6504DCAF",
-  "x-served-by": "cache-iad-kcgs7200057-IAD",
-  "x-timer": "S1694817502.857311,VS0,VE80",
+  "x-github-request-id": "0D52:0CF2:48D33D:569185:65050557",
+  "x-served-by": "cache-bur-kbur8200064-BUR",
+  "x-timer": "S1694827864.600361,VS0,VE364",
   "x-xss-protection": "1; mode=block"
 }
