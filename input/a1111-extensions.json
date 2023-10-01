@@ -3889,6 +3889,40 @@
       "created_at": "2023-02-27T09:23:15Z",
       "default_branch_commit_sha": "3faa1a7e759fda91e1015a41b5774eadbf269ddc",
       "commit_time": "2023-09-25T17:36:54Z"
+    },
+    {
+      "name": "EasyPhoto",
+      "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto.git",
+      "description": "Support easy photo generation with an online-trained LoRA model that guarantees high-quality output images closely relevant to the input.",
+      "tags": [
+        "script",
+        "tab",
+        "training",
+        "manipulations"
+      ],
+      "added": "2023-10-01"
+    },
+    {
+      "name": "sd-webui-rich-text",
+      "url": "https://github.com/songweige/sd-webui-rich-text.git",
+      "description": "An extension allows using a rich-text editor for text-to-image generation (https://github.com/songweige/rich-text-to-image).",
+      "tags": [
+        "tab",
+        "UI related",
+        "prompting",
+        "editing",
+        "manipulations"
+      ],
+      "added": "2023-10-01"
+    },
+    {
+      "name": "sd-webui-bg-mask",
+      "url": "https://github.com/Scholar01/sd-webui-bg-mask.git",
+      "description": "Generate a mask for the image background",
+      "tags": [
+        "editing"
+      ],
+      "added": "2023-09-30"
     }
   ],
   "accept-ranges": "bytes",
@@ -3896,13 +3930,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "38249",
+  "content-length": "38460",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 01 Oct 2023 12:48:28 GMT",
-  "etag": "W/\"1049c4e522cd9c13c44a2a337e047d9fd6b516d730765dc62a479a5344bace34\"",
-  "expires": "Sun, 01 Oct 2023 12:53:28 GMT",
+  "date": "Sun, 01 Oct 2023 14:38:14 GMT",
+  "etag": "W/\"942ec6b3874f6dba815a8fb13daabebe978d2a0495132ba45b62687a450478ae\"",
+  "expires": "Sun, 01 Oct 2023 14:43:14 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3910,10 +3944,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "8e13c1c88dd4200a0d4b44056e62f2d4643f8102",
+  "x-fastly-request-id": "f7303fc89f65fb25c5952e5cc705cfcce3487239",
   "x-frame-options": "deny",
-  "x-github-request-id": "4272:197C:AEF538:D909B3:65196A9B",
-  "x-served-by": "cache-bur-kbur8200053-BUR",
-  "x-timer": "S1696164508.305985,VS0,VE265",
+  "x-github-request-id": "1952:49A6:C3B031:F44E82:65198455",
+  "x-served-by": "cache-iad-kiad7000168-IAD",
+  "x-timer": "S1696171094.280051,VS0,VE163",
   "x-xss-protection": "1; mode=block"
 }
