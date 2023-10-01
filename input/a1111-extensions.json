@@ -3923,6 +3923,18 @@
         "editing"
       ],
       "added": "2023-09-30"
+    },
+    {
+      "name": "Ranbooru",
+      "url": "https://github.com/Inzaniak/sd-webui-ranbooru.git",
+      "description": "Get random prompts from different boorus with a lot of creative features to influence the prompts. Works with txt2img and img2img",
+      "tags": [
+        "script",
+        "dropdown",
+        "prompting",
+        "online"
+      ],
+      "added": "2023-10-01"
     }
   ],
   "accept-ranges": "bytes",
@@ -3930,13 +3942,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "38460",
+  "content-length": "38551",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 01 Oct 2023 14:38:14 GMT",
-  "etag": "W/\"942ec6b3874f6dba815a8fb13daabebe978d2a0495132ba45b62687a450478ae\"",
-  "expires": "Sun, 01 Oct 2023 14:43:14 GMT",
+  "date": "Sun, 01 Oct 2023 16:38:28 GMT",
+  "etag": "W/\"d08971df9f3152b9386754e99cf6a9fe46f79753e47877258c1daed9ddb1744c\"",
+  "expires": "Sun, 01 Oct 2023 16:43:28 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3944,10 +3956,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "f7303fc89f65fb25c5952e5cc705cfcce3487239",
+  "x-fastly-request-id": "1a9ba5f04ab30a9f7003b17cc9d58d7954793da0",
   "x-frame-options": "deny",
-  "x-github-request-id": "1952:49A6:C3B031:F44E82:65198455",
-  "x-served-by": "cache-iad-kiad7000168-IAD",
-  "x-timer": "S1696171094.280051,VS0,VE163",
+  "x-github-request-id": "F524:5500:C14FED:F5DA82:6519A083",
+  "x-served-by": "cache-dfw-kdfw8210057-DFW",
+  "x-timer": "S1696178309.633818,VS0,VE216",
   "x-xss-protection": "1; mode=block"
 }
