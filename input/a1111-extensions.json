@@ -3935,6 +3935,17 @@
         "online"
       ],
       "added": "2023-10-01"
+    },
+    {
+      "name": "CivBrowser",
+      "url": "https://github.com/SignalFlagZ/sd-webui-civbrowser.git",
+      "description": "Extension to search and download Civitai models in multiple tabs. Save model information. Send sample infotext to txt2img.",
+      "tags": [
+        "script",
+        "tab",
+        "online"
+      ],
+      "added": "2023-10-02"
     }
   ],
   "accept-ranges": "bytes",
@@ -3942,13 +3953,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "38555",
+  "content-length": "38643",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 02 Oct 2023 16:40:44 GMT",
-  "etag": "W/\"d45eef55ce2689c7baa143ab016c965efa8e4d8613315c26b452ecf4a1a0b3e8\"",
-  "expires": "Mon, 02 Oct 2023 16:45:44 GMT",
+  "date": "Mon, 02 Oct 2023 18:39:20 GMT",
+  "etag": "W/\"9cf315ecdfc8f20719150e24943d7dc650e759cf829d22f4db91a4d5fed3efb9\"",
+  "expires": "Mon, 02 Oct 2023 18:44:20 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -3956,10 +3967,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "d242186d3f9f29a94dca874af69f76c4351ad3a2",
+  "x-fastly-request-id": "5f2f29d0107427d0586572d71791e7fc8159d8c9",
   "x-frame-options": "deny",
-  "x-github-request-id": "5B3E:24D8:157B83:19A13D:651AF289",
-  "x-served-by": "cache-iad-kcgs7200171-IAD",
-  "x-timer": "S1696264845.764463,VS0,VE112",
+  "x-github-request-id": "6492:102E:5A51B:710C8:651B0E58",
+  "x-served-by": "cache-iad-kcgs7200178-IAD",
+  "x-timer": "S1696271961.568313,VS0,VE104",
   "x-xss-protection": "1; mode=block"
 }
