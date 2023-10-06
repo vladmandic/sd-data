@@ -114,7 +114,7 @@ async function main() {
       const hash = items.pop().trim(); // remove entry hash
       if (hashes.includes(hash)) continue; // check for duplicates
       const perf = items[1].split('/').map((i) => i.trim());
-      if (isNaN(perf[0])) continue; // no valid performance data
+      if (perf.len < 1 || isNaN(perf[0])) continue; // no valid performance data
       hashes.push(hash);
       items.pop(); // remove system hash
       let date = items[0].split(' ');
