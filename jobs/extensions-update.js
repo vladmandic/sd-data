@@ -112,6 +112,7 @@ async function getDetails(extension) {
 
 async function curate(data) {
   const dir = fs.readdirSync(listsFolder);
+  const curated = data;
   for (const f of dir.sort()) {
     if (!f.endsWith('.json')) {
       log('curation file not-json:', f);
@@ -129,14 +130,14 @@ async function curate(data) {
     log('curation file:', f, { entries: length });
     for (let ext of list) {
       if (!ext.url) continue;
-      if (ext.url('.git')) ext.url = name.replace('.git', '');
-      const i = data.findIndex((e) => e.url === ext.url);
-      if (ext.url !== data[i]?.url) ext = await getDetails(ext);
-      if (i > -1) data[i] = { ...data[i], ...ext };
-      else data.push(ext); // only append extensions with url
+      if (ext.url.endsWith('.git')) ext.url = ext.url.replace('.git', '');
+      const i = curated.findIndex((e) => e.url === ext.url);
+      if (ext.url !== curated[i]?.url) ext = await getDetails(ext);
+      if (i > -1) curated[i] = { ...data[i], ...ext };
+      else curated.push(ext); // only append extensions with url
     }
   }
-  return data;
+  return curated;
 }
 
 async function main() {
