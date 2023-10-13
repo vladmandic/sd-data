@@ -136,6 +136,7 @@ async function curate(data) {
       if (ext.url.endsWith('.git')) ext.url = ext.url.replace('.git', '');
       const i = curated.findIndex((e) => e.url === ext.url);
       if (ext.url !== curated[i]?.url) newData = await getDetails(ext);
+      else newData = {};
       if (i > -1) {
         curated[i] = { ...curated[i], ...newData, ...ext };
         ammended += 1;
@@ -145,6 +146,12 @@ async function curate(data) {
       }
     }
     log('curation file:', f, { entries, appended, ammended });
+  }
+  for (const i in curated) {
+    if (!curated[i].name || curated[i].name === '') {
+      const arr = curated[i].url?.split('/') || ['unknown'];
+      curated[i].name = arr[arr.length - 1];
+    }
   }
   return curated;
 }
