@@ -6,6 +6,7 @@
 const fs = require('fs');
 const console = require('console');
 
+let rateLimited = false;
 const origin = 'https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui-extensions/master/index.json';
 const originFile = '../input/a1111-extensions.json';
 const outputFile = '../pages/extensions.json';
@@ -35,10 +36,10 @@ const logger = new console.Console({
 });
 
 const log = (...args) => logger.log(...args);
-let rateLimited = false;
 
 const http = async (url) => {
   try {
+    if (rateLimited) return {};
     const res = await fetch(url, { method: 'GET', headers });
     if (res.status !== 200) {
       const limit = parseInt(res.headers.get('x-ratelimit-remaining') || '0');
@@ -119,23 +120,31 @@ async function curate(data) {
       continue;
     }
     let list = [];
-    let length = 0;
+    let entries = 0;
+    let appended = 0;
+    let ammended = 0;
+    let newData = {};
     try {
       list = JSON.parse(fs.readFileSync(`${listsFolder}/${f}`, 'utf8'));
-      length = list.length;
+      entries = list.length;
     } catch (e) {
       log('curation file error:', f, e);
       continue;
     }
-    log('curation file:', f, { entries: length });
-    for (let ext of list) {
+    for (const ext of list) {
       if (!ext.url) continue;
       if (ext.url.endsWith('.git')) ext.url = ext.url.replace('.git', '');
       const i = curated.findIndex((e) => e.url === ext.url);
-      if (ext.url !== curated[i]?.url) ext = await getDetails(ext);
-      if (i > -1) curated[i] = { ...data[i], ...ext };
-      else curated.push(ext); // only append extensions with url
+      if (ext.url !== curated[i]?.url) newData = await getDetails(ext);
+      if (i > -1) {
+        curated[i] = { ...curated[i], ...newData, ...ext };
+        ammended += 1;
+      } else {
+        curated.push(ext);
+        appended += 1;
+      }
     }
+    log('curation file:', f, { entries, appended, ammended });
   }
   return curated;
 }
@@ -154,7 +163,7 @@ async function main() {
   fs.writeFileSync(originFile, JSON.stringify(index, null, 2));
 
   const extensions = index?.extensions || [];
-  log(`analyzing extensions: ${extensions.length}`);
+  log('analyzing extensions:', { entries: extensions.length });
 
   const promises = [];
   for (const e of extensions) {
