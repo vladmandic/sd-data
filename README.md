@@ -39,16 +39,24 @@ Used to create:
 
 JSON format of files in `lists` is array of objects with following properties:
 
-- `url`: url of the extension, required
-- `name`: name of the extension, optional
-- `description`: description of the extension, optional
-- `notes`: notes about the extension, optional
+- `url`: url of the extension, required  
+- `name`: name of the extension, optional  
+- `description`: description of the extension, optional  
+- `branch`: specify which branch to use if not default  
+- `note`: notes about the extension, optional  
+  used as hint value in sdnext ui  
 - `status`: status of the extension, optional
-  - 0: unknown
-  - 1: ok in all scenarios
-  - 2: ok with backend:original, but not backend:diffusers
-  - 3: ok with backend:diffusers, but not backend:original
-  - 4: not supported
+  - **0**: unknown (gray)
+  - **1**: fully supported (green)
+  - **2**: working with *backend:original*, but not *backend:diffusers* (orange)
+  - **3**: working with *backend:diffusers*, but not *backend:original* (orange)
+  - **4**: custom value, will use `note` field (blue)
+  - **5**: unsupported (red)
+
+Additionally, SD.Next UI will mark extensions without status with:
+
+- (light-blue): local install without known github url  
+- (purple): likely unmaintained extension  
 
 Other properties are filled dynamically based on information from the git repository
 
