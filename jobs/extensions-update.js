@@ -129,6 +129,7 @@ async function curate(data) {
     log('curation file:', f, { entries: length });
     for (let ext of list) {
       if (!ext.url) continue;
+      if (ext.url('.git')) ext.url = name.replace('.git', '');
       const i = data.findIndex((e) => e.url === ext.url);
       if (ext.url !== data[i]?.url) ext = await getDetails(ext);
       if (i > -1) data[i] = { ...data[i], ...ext };
