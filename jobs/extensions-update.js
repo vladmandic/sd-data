@@ -62,7 +62,7 @@ const http = async (url) => {
 };
 
 async function getDetails(extension) {
-  if (!extension.url) return extension;
+  if (!extension.url || rateLimited) return extension;
   return new Promise(async (resolve) => { // eslint-disable-line no-async-promise-executor
     let name = extension.url.replace('https://github.com/', '');
     if (name.endsWith('.git')) name = name.replace('.git', '');
