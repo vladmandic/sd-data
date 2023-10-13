@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Latentshop",
+    "url": "https://github.com/muerrilla/stable-diffusion-Latentshop.git",
+    "description": "Color correction and much more.",
+    "long-description": "",
+    "branch": ""
+  },
+  {
+    "name": "Face Editor",
+    "url": "https://github.com/ototadana/sd-face-editor.git",
+    "description": "Repairs bad faces, neck, head, and hair.",
+    "long-description": "",
+    "branch": ""
+  },
+  {
+    "name": "LLuL - Local Latent upscaLer",
+    "url": "https://github.com/phamhungd/Llul.git",
+    "description": "WORKING fork",
+    "long-description": "Allows for upscaling latents locally, enhancing a selected region of your image.",
+    "branch": "oldver"
+  }
+]

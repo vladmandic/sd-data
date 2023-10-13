@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://github.com/vladmandic/sd-extension-system-info",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-nudenet",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-chainner",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-steps-animation",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-aesthetic-scorer",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-aesthetic-gradient",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-system-info",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-system-info",
+    "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-rembg",
+    "note": "fork of <https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg>",
+    "status": 1
+  }
+]

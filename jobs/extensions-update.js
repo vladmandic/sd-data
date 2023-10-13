@@ -63,7 +63,7 @@ async function getDetails(extension) {
     if (name.endsWith('.git')) name = name.replace('.git', '');
     const ext = {
       name: extension.name,
-      url: extension.url,
+      url: extension.url.replace('.git', ''),
       description: extension.description?.substring(0, 64) || '',
       tags: extension.tags || '',
       added: new Date(extension.added) || new Date(),
@@ -96,7 +96,7 @@ async function getDetails(extension) {
         ext.updated = h.array?.[0]?.commit?.author?.date || ext.pushed; // timestamp of last commit
         const commits = 1 + parseInt(h.link?.match(/\d+/g).pop() || '0'); // extract total commit count from headers pagination data
         ext.commits = commits;
-        ext.status = '';
+        ext.status = 0;
         ext.note = '';
         // log(`extension ok: ${name}`);
         resolve(ext);
@@ -107,8 +107,7 @@ async function getDetails(extension) {
 
 async function curate(data) {
   const dir = fs.readdirSync(listsFolder);
-  const output = data;
-  for (const f of dir) {
+  for (const f of dir.sort()) {
     if (!f.endsWith('.json')) {
       log('curation file not-json:', f);
       continue;
@@ -124,23 +123,14 @@ async function curate(data) {
     }
     log('curation file:', f, { entries: length });
     for (let ext of list) {
-      if (!ext.name) continue;
-      const existing = data.find((e) => e.name === ext.name);
-      if (ext.url && (ext.url !== existing?.url)) {
-        ext = await getDetails(ext);
-      }
-      if (existing) {
-        existing.status = ext.status;
-        existing.note = ext.note;
-        existing.url = ext.url || existing.url;
-      } else if (ext.url) {
-        data.push(ext); // only append extensions with url
-      } else {
-        log(`curate error: ${f}/${ext.name}`);
-      }
+      if (!ext.url) continue;
+      const i = data.findIndex((e) => e.url === ext.url);
+      if (ext.url !== data[i]?.url) ext = await getDetails(ext);
+      if (i > -1) data[i] = { ...data[i], ...ext };
+      else data.push(ext); // only append extensions with url
     }
   }
-  return output;
+  return data;
 }
 
 async function main() {
@@ -182,6 +172,7 @@ async function main() {
   details.length = Math.min(parseInt(process.argv[3] || 100000), details.length);
   details = await curate(details);
 
+  log(`writing extensions: ${details.length} ${outputFile}`);
   fs.writeFileSync(outputFile, JSON.stringify(details, null, 2));
 }
 

@@ -31,11 +31,26 @@ Used to create:
 
 - Folder `lists` can contain any number of additional JSON files  
   *those are only files that should be manually edited*
-- Structure of each JSON file should always be array of objects  
-  where each object at least has a `name` property  
-- If `name` is matched to a known name from master list, master list data is updated with info from the object  
-- If `name` is not matched, master list is appended with the object  
-- if object has `url` property, additional data is fetched about it using github api
+- Each found file is used in order of priorities
+- Each entry can be used to **update** existing entry or **append** a new one  
+  - if `url` is matched to a known url from master list, master list data is updated with info from the object  
+  - if `url` is not matched, master list is appended with the object  
+  - if object has `url` property, additional data is fetched about it using github api
+
+JSON format of files in `lists` is array of objects with following properties:
+
+- `url`: url of the extension, required
+- `name`: name of the extension, optional
+- `description`: description of the extension, optional
+- `notes`: notes about the extension, optional
+- `status`: status of the extension, optional
+  - 0: unknown
+  - 1: ok in all scenarios
+  - 2: ok with backend:original, but not backend:diffusers
+  - 3: ok with backend:diffusers, but not backend:original
+  - 4: not supported
+
+Other properties are filled dynamically based on information from the git repository
 
 ### Extensions viewer
 
