@@ -35,14 +35,19 @@ const logger = new console.Console({
 });
 
 const log = (...args) => logger.log(...args);
+let rateLimited = false;
 
 const http = async (url) => {
   try {
     const res = await fetch(url, { method: 'GET', headers });
     if (res.status !== 200) {
       const limit = parseInt(res.headers.get('x-ratelimit-remaining') || '0');
-      if (limit === 0) log(`ratelimit: ${url} used=${res.headers.get('x-ratelimit-used')} remaining=${res.headers.get('x-ratelimit-remaining')} reset=${res.headers.get('x-ratelimit-reset')}`, new Date(1000 * parseInt(res.headers.get('x-ratelimit-reset') || '0'))); // eslint-disable-line
-      else log(`fetch error: ${res.status} ${res.statusText} ${url}`);
+      if (limit === 0) {
+        log(`ratelimit: ${url} used=${res.headers.get('x-ratelimit-used')} remaining=${res.headers.get('x-ratelimit-remaining')} reset=${res.headers.get('x-ratelimit-reset')}`, new Date(1000 * parseInt(res.headers.get('x-ratelimit-reset') || '0'))); // eslint-disable-line
+        rateLimited = true;
+      } else {
+        log(`fetch error: ${res.status} ${res.statusText} ${url}`);
+      }
       return {};
     }
     const text = await res.text();
@@ -171,9 +176,12 @@ async function main() {
   }
   details.length = Math.min(parseInt(process.argv[3] || 100000), details.length);
   details = await curate(details);
-
-  log(`writing extensions: ${details.length} ${outputFile}`);
-  fs.writeFileSync(outputFile, JSON.stringify(details, null, 2));
+  if (rateLimited) {
+    log('skipping final write as were rate limited');
+  } else {
+    log(`writing extensions: ${details.length} ${outputFile}`);
+    fs.writeFileSync(outputFile, JSON.stringify(details, null, 2));
+  }
 }
 
 main();
