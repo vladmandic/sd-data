@@ -177,7 +177,7 @@ async function main() {
   details.length = Math.min(parseInt(process.argv[3] || 100000), details.length);
   details = await curate(details);
   if (rateLimited) {
-    log('skipping final write as were rate limited');
+    log('skipping final write due to rate limit');
   } else {
     log(`writing extensions: ${details.length} ${outputFile}`);
     fs.writeFileSync(outputFile, JSON.stringify(details, null, 2));
