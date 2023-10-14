@@ -80,13 +80,13 @@ async function getDetails(extension) {
     } else {
       let r = {};
       if (name.startsWith('http')) {
-        log(`extension not github: ${name}`);
+        log('extension not github:', { name });
         resolve(ext);
-      } else {
-        r = await http(`https://api.github.com/repos/${name}`);
+        return;
       }
+      r = await http(`https://api.github.com/repos/${name}`);
       if (!r.full_name) {
-        log(`extension error: ${name}`);
+        log('extension error:', { name });
         resolve(ext);
       } else {
         ext.created = new Date(r.created_at);
@@ -191,13 +191,9 @@ async function curate(data) {
 async function main() {
   // const repos = await githubRepositories();
   log('action:', { repo: process.env.GITHUB_REPOSITORY, action: process.env.GITHUB_ACTION });
-  if (process.env.GITHUB_TOKEN) {
-    log('using github token');
-    headers['authorization'] = `token ${process.env.GITHUB_TOKEN}`;
-  } else {
-    log('no github token set so low rate limiting will apply');
-  }
-  log(`fetching extensions index: ${origin}`);
+  log('github token:', { token: !!process.env.GITHUB_TOKEN });
+  if (process.env.GITHUB_TOKEN) headers['authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+  log('fetching extensions index:', { url: origin });
   const index = await http(origin);
   fs.writeFileSync(originFile, JSON.stringify(index, null, 2));
 
@@ -230,7 +226,7 @@ async function main() {
   if (rateLimited) {
     log('skipping final write due to rate limit');
   } else {
-    log(`writing extensions: ${details.length} ${outputFile}`);
+    log('writing extensions:', { entries: details.length, file: outputFile });
     fs.writeFileSync(outputFile, JSON.stringify(details, null, 2));
   }
 }
