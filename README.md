@@ -52,6 +52,7 @@ JSON format of files in `lists` is array of objects with following properties:
   - **3**: working with *backend:diffusers*, but not *backend:original* (orange)
   - **4**: custom value, will use `note` field (blue)
   - **5**: unsupported (red)
+  - **6**: discovered via github search, but not in index (red)
 
 Additionally, SD.Next UI will mark extensions without status with:
 

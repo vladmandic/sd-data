@@ -92,7 +92,7 @@ async function getDetails(extension) {
         ext.created = new Date(r.created_at);
         ext.pushed = new Date(r.pushed_at); // timestamp of last any update
         ext.name = r.name;
-        ext.long = r.full_name;
+        ext.long = r.full_name || r.name;
         ext.description = (r.description || extension.description).substring(0, 200);
         ext.size = r.size;
         ext.stars = r.stargazers_count;
@@ -109,6 +109,38 @@ async function getDetails(extension) {
       }
     }
   });
+}
+
+async function discover(data) {
+  const search = await http('https://api.github.com/search/repositories?q=stable-diffusion-webui-plugin&per_page=100&sort=updated&order=desc');
+  if (!search || !search.items || search.items.length === 0) return [];
+  if (!data) data = JSON.parse(fs.readFileSync(outputFile));
+  let discovered = 0;
+  for (const r of search.items) {
+    const ext = {
+      name: r.name,
+      url: r.clone_url.replace('.git', ''),
+      description: r.description?.substring(0, 200) || '',
+      tags: '',
+      created: new Date(r.created_at),
+      pushed: new Date(r.pushed_at),
+      updated: new Date(r.updated_at),
+      long: r.full_name,
+      size: r.size,
+      stars: r.stargazers_count,
+      issues: r.open_issues_count,
+      branch: r.default_branch,
+      note: '',
+      status: 6,
+    };
+    const existing = data.find((e) => e.url === ext.url);
+    if (!existing) {
+      discovered++;
+      data.push(ext);
+    }
+  }
+  log('discovered extensions:', { entries: discovered });
+  return data;
 }
 
 async function curate(data) {
@@ -193,6 +225,7 @@ async function main() {
     }
   }
   details.length = Math.min(parseInt(process.argv[3] || 100000), details.length);
+  details = await discover(details);
   details = await curate(details);
   if (rateLimited) {
     log('skipping final write due to rate limit');
