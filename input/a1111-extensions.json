@@ -3991,6 +3991,42 @@
         "manipulations"
       ],
       "added": "2023-10-17"
+    },
+    {
+      "name": "NegPiP",
+      "url": "https://github.com/hako-mikan/sd-webui-negpip.git",
+      "description": "Enable negative strength in the prompt. This will have a stronger effect than a negative prompt.",
+      "tags": [
+        "manipulations"
+      ],
+      "added": "2023-10-17"
+    },
+    {
+      "name": "CD(Color/Detail) Tuner",
+      "url": "https://github.com/hako-mikan/sd-webui-cd-tuner.git",
+      "description": "Adjust color tone, brightness, and level of detailing using a different mechanism of LoRA or ADtailer",
+      "tags": [
+        "manipulations"
+      ],
+      "added": "2023-10-17"
+    },
+    {
+      "name": "DevDark theme",
+      "url": "https://github.com/devdarktheme/stable-diffusion-webui-devdark.git",
+      "description": "Custom css based on Catppuccin, enable / disabled via extensions tab.",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-10-17"
+    },
+    {
+      "name": "auxiliary API",
+      "url": "https://github.com/aria1th/webui-model-uploader.git",
+      "description": "Adds API routes for uploading, removing, syncing models and etc",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-10-17"
     }
   ],
   "accept-ranges": "bytes",
@@ -3998,13 +4034,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "39070",
+  "content-length": "39356",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Tue, 17 Oct 2023 16:41:14 GMT",
-  "etag": "W/\"5d02eae628509f4f69141950b986591ea15bf5c653f1a7a434a8c1e445ddaabd\"",
-  "expires": "Tue, 17 Oct 2023 16:46:14 GMT",
+  "date": "Tue, 17 Oct 2023 18:39:57 GMT",
+  "etag": "W/\"6f6e56f4bc517aaf6c1631ed598ffd11a657a3660b6a57e0d6b93abdb12d0a45\"",
+  "expires": "Tue, 17 Oct 2023 18:44:57 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4012,10 +4048,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "77c9315d144d4a58494a8b360736c4132d820ed2",
+  "x-fastly-request-id": "ea51fa19dc81ba6e92c28694a600b50284c35812",
   "x-frame-options": "deny",
-  "x-github-request-id": "558A:1034:180879:1CCBE1:652EB929",
-  "x-served-by": "cache-iad-kcgs7200021-IAD",
-  "x-timer": "S1697560874.297002,VS0,VE120",
+  "x-github-request-id": "794C:1068:2C7DD1:34B291:652ED4FD",
+  "x-served-by": "cache-iad-kcgs7200039-IAD",
+  "x-timer": "S1697567998.803740,VS0,VE97",
   "x-xss-protection": "1; mode=block"
 }
