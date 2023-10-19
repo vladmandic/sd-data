@@ -4079,6 +4079,25 @@
       "created_at": "2023-06-18T19:47:02Z",
       "default_branch_commit_sha": "44811e02edca8359c76572f4f54ca06d49538531",
       "commit_time": "2023-10-18T21:33:19Z"
+    },
+    {
+      "name": "TensorRT",
+      "url": "https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT",
+      "description": "TensorRT acceleration for Stable Diffusion on NVIDIA RTX GPUs.",
+      "tags": [
+        "tab",
+        "models"
+      ],
+      "added": "2023-10-19"
+    },
+    {
+      "name": "encrypt-image",
+      "url": "https://github.com/viyiviyi/sd-encrypt-image.git",
+      "description": "Encrypt and save the image to the disk to reduce the risk of account suspension when storing images in public clouds. When installing and starting, you need to add the parameter --encrypt-pass=your password.",
+      "tags": [
+        "script"
+      ],
+      "added": "2023-10-19"
     }
   ],
   "accept-ranges": "bytes",
@@ -4086,13 +4105,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "39864",
+  "content-length": "40062",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 19 Oct 2023 12:53:35 GMT",
-  "etag": "W/\"b038143adfb12dc43c4d63976f2287b98d226acbf5ea015988c1d88618585c70\"",
-  "expires": "Thu, 19 Oct 2023 12:58:35 GMT",
+  "date": "Thu, 19 Oct 2023 14:38:22 GMT",
+  "etag": "W/\"91bfa415dfa3bac11932e75aaa529e9736914b7ecc56e5c8dd285104a8eb40b9\"",
+  "expires": "Thu, 19 Oct 2023 14:43:22 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4100,10 +4119,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "ae6f43b353ec15fefe17f1950d432a7356fed08a",
+  "x-fastly-request-id": "8c4aa9f297568cf6c3f11f4c4b3fdeae62e5e711",
   "x-frame-options": "deny",
-  "x-github-request-id": "91F0:960E:DC0AD:1132FA:653126CC",
-  "x-served-by": "cache-sjc10023-SJC",
-  "x-timer": "S1697720016.538418,VS0,VE204",
+  "x-github-request-id": "4E74:6FF2:371C9D:435416:65313F5E",
+  "x-served-by": "cache-iad-kcgs7200048-IAD",
+  "x-timer": "S1697726302.029620,VS0,VE116",
   "x-xss-protection": "1; mode=block"
 }
