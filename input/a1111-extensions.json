@@ -4122,6 +4122,15 @@
         "extras"
       ],
       "added": "2023-10-22"
+    },
+    {
+      "name": "Latent Consistency Models",
+      "url": "https://github.com/0xbitches/sd-webui-lcm.git",
+      "description": "Generate high quality images in just 4 steps. Run Latent Consistency Models with Automatic1111.",
+      "tags": [
+        "tab"
+      ],
+      "added": "2023-10-22"
     }
   ],
   "accept-ranges": "bytes",
@@ -4129,13 +4138,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "40301",
+  "content-length": "40366",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 22 Oct 2023 14:38:18 GMT",
-  "etag": "W/\"fb2783e296c87737420ea403052ded9810d15e6b6b1b9aadfdb48e5b94a270fe\"",
-  "expires": "Sun, 22 Oct 2023 14:43:18 GMT",
+  "date": "Sun, 22 Oct 2023 16:38:45 GMT",
+  "etag": "W/\"30f180285d40528f8570027840e5292b12679e7b784491b4fd1e56315e312f59\"",
+  "expires": "Sun, 22 Oct 2023 16:43:45 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4143,10 +4152,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "0a5a01ece1064a9187567708a4af49d764ccafc0",
+  "x-fastly-request-id": "b366bb928e6d91a732e252431c66ea7ea5e0bf93",
   "x-frame-options": "deny",
-  "x-github-request-id": "81C4:1C29:44E6E8:561F3F:653533D9",
-  "x-served-by": "cache-iad-kcgs7200143-IAD",
-  "x-timer": "S1697985498.366790,VS0,VE91",
+  "x-github-request-id": "AA5C:96D7:40EA15:529A39:65355015",
+  "x-served-by": "cache-sjc10048-SJC",
+  "x-timer": "S1697992725.281392,VS0,VE219",
   "x-xss-protection": "1; mode=block"
 }
