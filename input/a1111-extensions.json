@@ -4112,6 +4112,16 @@
       "created_at": "2023-10-08T05:19:28Z",
       "default_branch_commit_sha": "8675d6a36b5fb521c4e441db1c476351ccaec272",
       "commit_time": "2023-10-22T04:28:55Z"
+    },
+    {
+      "name": "NudeNet NSFW Censor",
+      "url": "https://github.com/w-e-w/sd-webui-nudenet-nsfw-censor.git",
+      "description": "Customizable detection and censoring of NSFW portions within an image using NudeNet.",
+      "tags": [
+        "editing",
+        "extras"
+      ],
+      "added": "2023-10-22"
     }
   ],
   "accept-ranges": "bytes",
@@ -4119,13 +4129,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "40221",
+  "content-length": "40301",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 22 Oct 2023 08:38:36 GMT",
-  "etag": "W/\"effbf21dc8d5b1786be7bf66d35599a84831715a51e96c6abccd77fd70066c67\"",
-  "expires": "Sun, 22 Oct 2023 08:43:36 GMT",
+  "date": "Sun, 22 Oct 2023 10:38:31 GMT",
+  "etag": "W/\"fb2783e296c87737420ea403052ded9810d15e6b6b1b9aadfdb48e5b94a270fe\"",
+  "expires": "Sun, 22 Oct 2023 10:43:31 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4133,10 +4143,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "483ad5a8ee202a2b82700a20881208f4bf582a23",
+  "x-fastly-request-id": "006bbfc32d9edc0ee1a576e957c0ab96b0c907b3",
   "x-frame-options": "deny",
-  "x-github-request-id": "802C:3E02:CF8A7:10DB1E:6534DF8B",
-  "x-served-by": "cache-dfw-kdfw8210104-DFW",
-  "x-timer": "S1697963916.938690,VS0,VE168",
+  "x-github-request-id": "C4B8:4577:BF839:F7171:6534FB99",
+  "x-served-by": "cache-dfw-kdfw8210133-DFW",
+  "x-timer": "S1697971111.797647,VS0,VE240",
   "x-xss-protection": "1; mode=block"
 }
