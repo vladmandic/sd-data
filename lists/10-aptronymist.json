@@ -1,23 +1,119 @@
 [
-  {
-    "name": "Latentshop",
-    "url": "https://github.com/muerrilla/stable-diffusion-Latentshop.git",
-    "description": "Color correction and much more.",
-    "long-description": "",
-    "branch": ""
-  },
-  {
-    "name": "Face Editor",
-    "url": "https://github.com/ototadana/sd-face-editor.git",
-    "description": "Repairs bad faces, neck, head, and hair.",
-    "long-description": "",
-    "branch": ""
-  },
-  {
-    "name": "LLuL - Local Latent upscaLer",
-    "url": "https://github.com/phamhungd/Llul.git",
-    "description": "WORKING fork",
-    "long-description": "Allows for upscaling latents locally, enhancing a selected region of your image.",
-    "branch": "oldver"
-  }
+    {
+        "name": "Face Editor (SDNext Branch)",
+        "url": "https://github.com/ototadana/sd-face-editor.git",
+        "description": "Repairs bad faces, neck, head, and hair.",
+        "long-description": "",
+        "note": "SDNext Specific Branch",
+        "branch": "sd.next",
+        "status": 2
+    },
+    {
+        "name": "Prompt-all-in-one",
+        "url": "https://github.com/Physton/sd-webui-prompt-all-in-one.git",
+        "description": "This extention is aimed at improving the user experience of the prompt/negative prompt input box.",
+        "long-description": "Extension that aims to improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface, provides automatic translation, history and collection functions, and supports multiple languages to meet the needs of different users.",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Model Keyword",
+        "url": "https://github.com/mix1009/model-keyword.git",
+        "description": "Extension to autofill keywords for custom models and LoRAs.",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Openpose Editor",
+        "url": "https://github.com/fkunn1326/openpose-editor.git",
+        "description": "Openpose Editor",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 2
+    },
+    {
+        "name": "Self Attention Guidance (SAG) - SLAPaper fork",
+        "url": "https://github.com/SLAPaper/sd_webui_SAG.git",
+        "description": "SLAPaper's Implementation of Self Attention Guidance with Auto thresholding.",
+        "long-description": "",
+        "note": "Forked from:<https://github.com/hnmr293/sd_webui_SAG>",
+        "branch": "",
+        "status": 2
+    },
+    {
+        "name": "Self Attention Guidance (SAG)",
+        "url": "https://github.com/hnmr293/sd_webui_SAG.git",
+        "description": "Original Implementation of Self Attention Guidance.",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 2
+    },
+    {
+        "name": "Adetailer",
+        "url": "https://github.com/Bing-su/adetailer.git",
+        "description": "Auto detection, masking, and inpainting with several detection models.",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Tag Autocomplete",
+        "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
+        "description": "Booru style tag autocompletion for prompts.",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Infinite Image Browsing",
+        "url": "https://github.com/zanllp/sd-webui-infinite-image-browsing.git",
+        "description": "A fast and powerful image/video browser for Stable Diffusion",
+        "long-description": "It's not just an image browser, but also a powerful image manager. Precise image search combined with multi-selection operations allows for filtering/archiving/packaging, greatly increasing efficiency.",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Style Selector XL",
+        "url": "https://github.com/ahgsql/StyleSelectorXL.git",
+        "description": "Extension allows users to select and apply different styles to their inputs using SDXL 1.0.",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Dynamic Prompts",
+        "url": "https://github.com/adieyal/sd-dynamic-prompts.git",
+        "description": "A custom script for stable diffusion webuis for random prompt generation",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "One Button Prompt",
+        "url": "https://github.com/AIrjen/OneButtonPrompt.git",
+        "description": "One Button Prompt is a tool/script for beginners who have problems writing a good prompt, or advanced users who want to get inspired",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "Reactor Force",
+        "url": "https://github.com/Gourieff/sd-webui-reactor-force.git",
+        "description": "Fast and Simple Face Swap Extension with NVIDIA GPU Support",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 1
+    }
 ]
