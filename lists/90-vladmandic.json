@@ -35,5 +35,10 @@
     "url": "https://github.com/vladmandic/sd-extension-rembg",
     "note": "fork of <https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg>",
     "status": 1
+  },
+  {
+    "url": "https://github.com/vladmandic/sd-extension-promptgen",
+    "note": "fork of <https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen>",
+    "status": 1
   }
 ]
