@@ -4138,6 +4138,16 @@
         "manipulations"
       ],
       "added": "2023-11-01"
+    },
+    {
+      "name": "sd-webui-facefusion",
+      "url": "https://github.com/diffus-me/sd-webui-facefusion",
+      "description": "Video face swapper and enhancer.",
+      "tags": [
+        "tab",
+        "editing"
+      ],
+      "added": "2023-11-01"
     }
   ],
   "accept-ranges": "bytes",
@@ -4145,13 +4155,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "40521",
+  "content-length": "40570",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 01 Nov 2023 12:49:33 GMT",
-  "etag": "W/\"99306deda3c8ce57cb55d4c302eccf63f1ddf5fa46f33ddc4377dc5df3f36643\"",
-  "expires": "Wed, 01 Nov 2023 12:54:33 GMT",
+  "date": "Wed, 01 Nov 2023 16:38:30 GMT",
+  "etag": "W/\"943b26e3dcc07ef88f60618d8bf4beef6cad6aaab2d8c6eacfb3fa687c06407a\"",
+  "expires": "Wed, 01 Nov 2023 16:43:30 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4159,10 +4169,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "eec43b65aa935905eb2936ae6e480840efac8621",
+  "x-fastly-request-id": "a12b051aa576e3bf61e05efc9d21f16f259875f6",
   "x-frame-options": "deny",
-  "x-github-request-id": "4B98:9AD6:5065A0:62A18F:6542495C",
-  "x-served-by": "cache-pdx12329-PDX",
-  "x-timer": "S1698842973.967318,VS0,VE161",
+  "x-github-request-id": "3F58:1E87:95735F:B50772:65427F05",
+  "x-served-by": "cache-iad-kiad7000126-IAD",
+  "x-timer": "S1698856710.037374,VS0,VE104",
   "x-xss-protection": "1; mode=block"
 }
