@@ -4128,6 +4128,16 @@
       "created_at": "2023-10-22T11:53:48Z",
       "default_branch_commit_sha": "fc5b0eb36627af1d25b2247f00fc22e3db9503c3",
       "commit_time": "2023-10-26T10:33:14Z"
+    },
+    {
+      "name": "CADS",
+      "url": "https://github.com/v0xie/sd-webui-cads.git",
+      "description": "CADS greatly increases diversity of generated images by adding scheduled noise to the conditioning at inference time; an implementation of the novel method described in arXiv:2310.17347 [cs.CV].",
+      "tags": [
+        "dropdown",
+        "manipulations"
+      ],
+      "added": "2023-11-01"
     }
   ],
   "accept-ranges": "bytes",
@@ -4135,13 +4145,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "40380",
+  "content-length": "40521",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 01 Nov 2023 08:35:23 GMT",
-  "etag": "W/\"caeb79b31d879e685c85bdede35fd9aae0a0c5431858746db77fb7ce75fba247\"",
-  "expires": "Wed, 01 Nov 2023 08:40:23 GMT",
+  "date": "Wed, 01 Nov 2023 12:49:33 GMT",
+  "etag": "W/\"99306deda3c8ce57cb55d4c302eccf63f1ddf5fa46f33ddc4377dc5df3f36643\"",
+  "expires": "Wed, 01 Nov 2023 12:54:33 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4149,10 +4159,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "fce8fbd0ebaac86d800ea546c3ffd28a882476aa",
+  "x-fastly-request-id": "eec43b65aa935905eb2936ae6e480840efac8621",
   "x-frame-options": "deny",
-  "x-github-request-id": "E69A:0D4A:B833F4:E3A070:65420DC9",
-  "x-served-by": "cache-bur-kbur8200042-BUR",
-  "x-timer": "S1698827724.586331,VS0,VE239",
+  "x-github-request-id": "4B98:9AD6:5065A0:62A18F:6542495C",
+  "x-served-by": "cache-pdx12329-PDX",
+  "x-timer": "S1698842973.967318,VS0,VE161",
   "x-xss-protection": "1; mode=block"
 }
