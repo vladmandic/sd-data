@@ -4162,6 +4162,27 @@
       "created_at": "2023-09-25T08:13:53Z",
       "default_branch_commit_sha": "c49c6dcfc6ce75ff09cad762cbedc7a2d28c0b7b",
       "commit_time": "2023-11-02T04:34:07Z"
+    },
+    {
+      "name": "Hotshot-XL-Automatic1111",
+      "url": "https://github.com/hotshotco/Hotshot-XL-Automatic1111.git",
+      "description": "State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL",
+      "tags": [
+        "tab",
+        "animation"
+      ],
+      "added": "2023-11-03"
+    },
+    {
+      "name": "Inpaint difference",
+      "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
+      "description": "Use the difference between 2 images to generate an inpaint mask. Adds a new operation mode.",
+      "tags": [
+        "tab",
+        "dropdown",
+        "manipulations"
+      ],
+      "added": "2023-11-03"
     }
   ],
   "accept-ranges": "bytes",
@@ -4169,13 +4190,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "40779",
+  "content-length": "40937",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 03 Nov 2023 08:35:19 GMT",
-  "etag": "W/\"0c883cb8051239c368bfc22e8aecbd738832eb8ee7c8954591468a74f9129cad\"",
-  "expires": "Fri, 03 Nov 2023 08:40:19 GMT",
+  "date": "Fri, 03 Nov 2023 12:50:15 GMT",
+  "etag": "W/\"959b538fe2f037db2579740e2c16010dbb8ff87b84b1d4cf6f1b1e9ebaacb872\"",
+  "expires": "Fri, 03 Nov 2023 12:55:15 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4183,10 +4204,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "92288eaa54f025d185ae364ed6d52633da4a9dd7",
+  "x-fastly-request-id": "7d7b0fed96b2ca14851f066cedd95f5ed56ad88e",
   "x-frame-options": "deny",
-  "x-github-request-id": "B8F8:101E:5E5369:74D86F:6544B0C3",
-  "x-served-by": "cache-iad-kcgs7200033-IAD",
-  "x-timer": "S1699000519.856073,VS0,VE164",
+  "x-github-request-id": "175A:6621:89402:A5D27:6544EC86",
+  "x-served-by": "cache-dfw-kdfw8210086-DFW",
+  "x-timer": "S1699015815.083927,VS0,VE252",
   "x-xss-protection": "1; mode=block"
 }
