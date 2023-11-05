@@ -4214,6 +4214,18 @@
       "created_at": "2023-10-15T18:49:12Z",
       "default_branch_commit_sha": "48281458a0407093e3967f777d986441d53a34db",
       "commit_time": "2023-11-03T21:07:53Z"
+    },
+    {
+      "name": "FaceChain",
+      "url": "https://github.com/modelscope/facechain.git",
+      "description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin. With a minimum of 1 portrait-photo, you can create a Digital-Twin of your own and start generating personal portraits in different settings ",
+      "tags": [
+        "script",
+        "tab",
+        "training",
+        "online"
+      ],
+      "added": "2023-11-05"
     }
   ],
   "accept-ranges": "bytes",
@@ -4221,13 +4233,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "41302",
+  "content-length": "41437",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 05 Nov 2023 01:37:43 GMT",
-  "etag": "W/\"2fdf32f6a7d2158adf30c7df34b777d1cf0dc7cf4a5d1866f8d7c074c69ef853\"",
-  "expires": "Sun, 05 Nov 2023 01:42:43 GMT",
+  "date": "Sun, 05 Nov 2023 04:34:59 GMT",
+  "etag": "W/\"6c1eab84d6f86cff5ab7e815f95475956584ae8aa48dc87ba79be57c825e20c3\"",
+  "expires": "Sun, 05 Nov 2023 04:39:59 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4235,10 +4247,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "e8afaa5d1e377b04a94d741ea69bdfe5426bc724",
+  "x-fastly-request-id": "178ddddd213425da38929b5244e72857f97859e4",
   "x-frame-options": "deny",
-  "x-github-request-id": "6414:3249:2DAE56:39DD42:6546F1E5",
-  "x-served-by": "cache-dfw-kdfw8210044-DFW",
-  "x-timer": "S1699148263.348596,VS0,VE151",
+  "x-github-request-id": "A2EA:8582:34750E:42232D:65471B72",
+  "x-served-by": "cache-sjc10064-SJC",
+  "x-timer": "S1699158899.343598,VS0,VE247",
   "x-xss-protection": "1; mode=block"
 }
