@@ -4307,6 +4307,15 @@
       "created_at": "2023-11-09T23:58:42Z",
       "default_branch_commit_sha": "07c06240b1e685dee8be2b0eeee19ec44d746e32",
       "commit_time": "2023-11-12T22:04:12Z"
+    },
+    {
+      "name": "SD Web UI Modal Info",
+      "url": "https://github.com/luminouspear/sd-webui-modal-info.git",
+      "description": "Displays prompt information when image is in full screen.",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-11-13"
     }
   ],
   "accept-ranges": "bytes",
@@ -4314,13 +4323,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "42284",
+  "content-length": "42347",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 13 Nov 2023 12:50:29 GMT",
-  "etag": "W/\"a66400f63073b2d324664a88c084c1daab1ee148b4cb66fdc83e0728027f3d8f\"",
-  "expires": "Mon, 13 Nov 2023 12:55:29 GMT",
+  "date": "Mon, 13 Nov 2023 16:39:06 GMT",
+  "etag": "W/\"e9ea801a298146966dfe2e4ac84dfbbc3c7c7a406b7ceafd49d1459de01b8abd\"",
+  "expires": "Mon, 13 Nov 2023 16:44:06 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4328,10 +4337,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "df2bfc7451ae8a8d49eadf0ee2f65979c1f63878",
+  "x-fastly-request-id": "1dc9e4c07d568a84d2911959f1c659e92fa7fd05",
   "x-frame-options": "deny",
-  "x-github-request-id": "AE14:2EAF:2B72D:3CF35:65521B94",
-  "x-served-by": "cache-chi-kigq8000039-CHI",
-  "x-timer": "S1699879829.912912,VS0,VE301",
+  "x-github-request-id": "E864:4EBE:14B4D2:1821E1:65525125",
+  "x-served-by": "cache-dfw-kdfw8210127-DFW",
+  "x-timer": "S1699893546.347850,VS0,VE263",
   "x-xss-protection": "1; mode=block"
 }
