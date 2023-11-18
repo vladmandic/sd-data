@@ -4323,6 +4323,25 @@
       "created_at": "2023-11-04T03:45:33Z",
       "default_branch_commit_sha": "8150cc2cb6b4f70b5a208ee3572eabc9fc8ebd8b",
       "commit_time": "2023-11-13T15:24:49Z"
+    },
+    {
+      "name": "A Person Mask Generator",
+      "url": "https://github.com/djbielejeski/a-person-mask-generator.git",
+      "description": "Extension for Automatic1111 to automatically create masks for Background/Hair/Body/Face/Clothes in Img2Img",
+      "tags": [
+        "script",
+        "editing"
+      ],
+      "added": "2023-11-18"
+    },
+    {
+      "name": "Style variables",
+      "url": "https://github.com/SirVeggie/extension-style-vars",
+      "description": "Use existing styles as variables in prompts",
+      "tags": [
+        "prompting"
+      ],
+      "added": "2023-11-18"
     }
   ],
   "accept-ranges": "bytes",
@@ -4330,13 +4349,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "42365",
+  "content-length": "42511",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 18 Nov 2023 01:35:40 GMT",
-  "etag": "W/\"3b9a3b4b8b81dc8669bd5414d20041b2dc3c5c405eedda39a2a579a304a5ebb8\"",
-  "expires": "Sat, 18 Nov 2023 01:40:40 GMT",
+  "date": "Sat, 18 Nov 2023 04:35:48 GMT",
+  "etag": "W/\"4609c672d4b8f430530ff6647f6ddb70c9dac49f80da930694ce5518afa24d13\"",
+  "expires": "Sat, 18 Nov 2023 04:40:48 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4344,10 +4363,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "4154d3ce6a5114121c6aaf95afb8301d50bd9311",
+  "x-fastly-request-id": "9c596009ca64a197c3b9036a2d62d2b24c3553f0",
   "x-frame-options": "deny",
-  "x-github-request-id": "DE6C:72EE:25F622:2DDC54:655814EC",
-  "x-served-by": "cache-chi-kigq8000101-CHI",
-  "x-timer": "S1700271340.143796,VS0,VE389",
+  "x-github-request-id": "687E:2876:2FAD69:3A180A:65583F24",
+  "x-served-by": "cache-iad-kcgs7200020-IAD",
+  "x-timer": "S1700282149.906476,VS0,VE93",
   "x-xss-protection": "1; mode=block"
 }
