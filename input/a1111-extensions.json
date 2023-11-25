@@ -4372,6 +4372,15 @@
       "created_at": "2023-06-18T19:48:32Z",
       "default_branch_commit_sha": "2d3332d94ffac0943bd35a1943924ed4650c6e63",
       "commit_time": "2023-11-23T18:15:06Z"
+    },
+    {
+      "name": "Tiny Cards",
+      "url": "https://github.com/SenshiSentou/sd-webui-tinycards.git",
+      "description": "Adds a simple zoom slider with grow-on-hover to the \"extra network\" cards (hypernetworks, TIs, checkpoints, and LoRAs)",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-11-25"
     }
   ],
   "accept-ranges": "bytes",
@@ -4379,13 +4388,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "42782",
+  "content-length": "42889",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 25 Nov 2023 12:46:27 GMT",
-  "etag": "W/\"e66a613a9b69d9eca327261c2dde8f771a5106f00cac80316a83712b12f4d914\"",
-  "expires": "Sat, 25 Nov 2023 12:51:27 GMT",
+  "date": "Sat, 25 Nov 2023 16:36:43 GMT",
+  "etag": "W/\"08206ce78d3cd971d3f74e36165b09ee762b18c29e28cae97782cba6218d31c1\"",
+  "expires": "Sat, 25 Nov 2023 16:41:43 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4393,10 +4402,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "1b5ba9d2403ed16ecde1e65753b01c04637bfb5c",
+  "x-fastly-request-id": "73d3fc485b9d104aecdc197c483323db218b5cac",
   "x-frame-options": "deny",
-  "x-github-request-id": "DD30:3876:8E880F:B06239:6561ECA2",
-  "x-served-by": "cache-chi-kigq8000089-CHI",
-  "x-timer": "S1700916387.832751,VS0,VE283",
+  "x-github-request-id": "1120:7873:8A2A8E:AE787C:6562229A",
+  "x-served-by": "cache-chi-kigq8000042-CHI",
+  "x-timer": "S1700930203.964572,VS0,VE436",
   "x-xss-protection": "1; mode=block"
 }
