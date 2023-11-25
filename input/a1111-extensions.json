@@ -4381,6 +4381,16 @@
         "UI related"
       ],
       "added": "2023-11-25"
+    },
+    {
+      "name": "µ Detection Detailer",
+      "url": "https://github.com/wkpark/uddetailer.git",
+      "description": "µ Detection Detailer. Fork of ddetailer. Supports bbox/segment object detection, auto-mask and inpainting using mmdetection, mediapipe and ultralytics. also supports ControlNet.",
+      "tags": [
+        "editing",
+        "manipulations"
+      ],
+      "added": "2023-11-25"
     }
   ],
   "accept-ranges": "bytes",
@@ -4388,13 +4398,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "42889",
+  "content-length": "43000",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 25 Nov 2023 16:36:43 GMT",
-  "etag": "W/\"08206ce78d3cd971d3f74e36165b09ee762b18c29e28cae97782cba6218d31c1\"",
-  "expires": "Sat, 25 Nov 2023 16:41:43 GMT",
+  "date": "Sat, 25 Nov 2023 20:35:09 GMT",
+  "etag": "W/\"4910fa4224fb16da7a77aa7b8b68725a938d22f3a3c33c943373bf2ba8aad3dc\"",
+  "expires": "Sat, 25 Nov 2023 20:40:09 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4402,10 +4412,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "73d3fc485b9d104aecdc197c483323db218b5cac",
+  "x-fastly-request-id": "de51cdf4033ac2781b8d1b1daee12bb97d5c9ff1",
   "x-frame-options": "deny",
-  "x-github-request-id": "1120:7873:8A2A8E:AE787C:6562229A",
-  "x-served-by": "cache-chi-kigq8000042-CHI",
-  "x-timer": "S1700930203.964572,VS0,VE436",
+  "x-github-request-id": "BB88:0C8C:B2C784:D83BCF:65625A7D",
+  "x-served-by": "cache-sjc1000098-SJC",
+  "x-timer": "S1700944509.282443,VS0,VE636",
   "x-xss-protection": "1; mode=block"
 }
