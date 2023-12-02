@@ -4447,6 +4447,25 @@
         "prompting"
       ],
       "added": "2023-12-01"
+    },
+    {
+      "name": "sd-webui-breadcrumbs",
+      "url": "https://github.com/ThereforeGames/sd-webui-breadcrumbs.git",
+      "description": "Adds a breadcrumb trail and makes improvements to the Quicksettings menu.",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2023-12-02"
+    },
+    {
+      "name": "Kohaku-NAI",
+      "url": "https://github.com/KohakuBlueleaf/Kohaku-NAI",
+      "description": "A NovelAI client built for SD-WebUI.",
+      "tags": [
+        "script",
+        "online"
+      ],
+      "added": "2023-12-02"
     }
   ],
   "accept-ranges": "bytes",
@@ -4454,13 +4473,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "43734",
+  "content-length": "43848",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 02 Dec 2023 01:33:19 GMT",
-  "etag": "W/\"bcf0f0729416eef96ee482f67df43cc876eb562dcc08eea913b16134bbf4df12\"",
-  "expires": "Sat, 02 Dec 2023 01:38:19 GMT",
+  "date": "Sat, 02 Dec 2023 04:35:22 GMT",
+  "etag": "W/\"2250d6e5d9c94c9e7bb5205ef014f3c679b8a8536188337798b522b09967e55d\"",
+  "expires": "Sat, 02 Dec 2023 04:40:22 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4468,10 +4487,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "91f4bd0c7cd2f877e0b05313f3eb57756e4c228d",
+  "x-fastly-request-id": "f9b4ee53c2fec0092fce8dd962fefb1462a8e3f8",
   "x-frame-options": "deny",
-  "x-github-request-id": "B01C:5069:3969D5:47EB2F:656A895D",
-  "x-served-by": "cache-iad-kcgs7200127-IAD",
-  "x-timer": "S1701480799.448941,VS0,VE112",
+  "x-github-request-id": "82BA:3463:627B3C:7C7EFE:656AB40A",
+  "x-served-by": "cache-bur-kbur8200053-BUR",
+  "x-timer": "S1701491722.461972,VS0,VE300",
   "x-xss-protection": "1; mode=block"
 }
