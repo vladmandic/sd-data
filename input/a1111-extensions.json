@@ -695,7 +695,8 @@
       "description": "Implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.",
       "added": "2022-11-01",
       "tags": [
-        "prompting"
+        "prompting",
+        "online"
       ],
       "full_name": "adieyal/sd-dynamic-prompts",
       "github_description": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
@@ -4504,6 +4505,15 @@
       "created_at": "2023-11-06T10:09:24Z",
       "default_branch_commit_sha": "2c9132e0a00904f3c8f0f8a57d0e7cf2ed6cff8f",
       "commit_time": "2023-12-06T19:05:18Z"
+    },
+    {
+      "name": "Color Correction Extras",
+      "url": "https://github.com/light-and-ray/sd-webui-color-correction-extras.git",
+      "description": "Adds native color correction feature into \"Extras\" tab",
+      "tags": [
+        "extras"
+      ],
+      "added": "2023-12-09"
     }
   ],
   "accept-ranges": "bytes",
@@ -4511,13 +4521,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "44264",
+  "content-length": "44323",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 08 Dec 2023 20:35:36 GMT",
-  "etag": "W/\"726a571369071190bea737cb3f45a3ecb4f0567d7995591d72212021ed6acff1\"",
-  "expires": "Fri, 08 Dec 2023 20:40:36 GMT",
+  "date": "Sat, 09 Dec 2023 01:35:05 GMT",
+  "etag": "W/\"d59ce8b038716baa13493ff6962d01d9f7a6814f14265cff488df2e5c5536b2b\"",
+  "expires": "Sat, 09 Dec 2023 01:40:05 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4525,10 +4535,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "cd65af6d037fa6ffb05c79e9590e873b344fa69d",
+  "x-fastly-request-id": "ee88bfd8040af0177f0b960f76d8cf4b0e6198cd",
   "x-frame-options": "deny",
-  "x-github-request-id": "A2C8:5A34:34332A:4127DF:65737E18",
-  "x-served-by": "cache-iad-kiad7000111-IAD",
-  "x-timer": "S1702067736.287059,VS0,VE116",
+  "x-github-request-id": "4B10:412C:4989F5:58EF8B:6573C449",
+  "x-served-by": "cache-iad-kcgs7200164-IAD",
+  "x-timer": "S1702085706.542952,VS0,VE100",
   "x-xss-protection": "1; mode=block"
 }
