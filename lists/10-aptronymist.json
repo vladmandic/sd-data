@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Face Editor (SDNext Branch)",
         "url": "https://github.com/ototadana/sd-face-editor.git",
         "description": "Repairs bad faces, neck, head, and hair.",
@@ -113,6 +112,105 @@
         "description": "Fast and Simple Face Swap Extension with NVIDIA GPU Support",
         "long-description": "",
         "note": "",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "ReActor",
+        "url": "https://github.com/Gourieff/sd-webui-reactor.git",
+        "description": "Fast and Simple FaceSwap Extension with improvements; No NSFW filter",
+        "long-description": "",
+        "note": "Errors (harmless?) if using CUDA - Set to CPU",
+        "branch": "",
+        "status": 1
+    },
+    {
+        "name": "LCM for SD WebUI",
+        "url": "https://github.com/0xbitches/sd-webui-lcm.git",
+        "description": "Latent Consistency Model extension",
+        "long-description": "",
+        "note": "LCM is built-in, Do not use.",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "Kohya Hires Fix",
+        "url": "https://github.com/wcde/sd-webui-kohya-hiresfix.git",
+        "description": "Kohya Hires.fix",
+        "long-description": "",
+        "note": "extension from https://gist.github.com/kohya-ss/3f774da220df102548093a7abc8538ed",
+        "branch": "",
+        "status": 2
+    },
+    {
+        "name": "Roop",
+        "url": "https://github.com/s0md3v/sd-webui-roop.git",
+        "description": "face-replacement (censored version)",
+        "long-description": "",
+        "note": "Use ReActor or FaceSwapLab instead",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "TensorRT",
+        "url": "https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT.git",
+        "description": "nVidia's TensorRT extension - Don't use",
+        "long-description": "",
+        "note": "SDNext's Stable-fast is better",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "SadTalker",
+        "url": "https://github.com/OpenTalker/SadTalker.git",
+        "description": "Talking Face Animations",
+        "long-description": "",
+        "note": "",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "EasyPhoto",
+        "url": "https://github.com/aigc-apps/sd-webui-EasyPhoto.git",
+        "description": "Smart AI Photo Generator",
+        "long-description": "",
+        "note": "Lots of errors",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "FaceChain",
+        "url": "https://github.com/modelscope/facechain.git",
+        "description": "FaceChain is for generating your Digital-Twin",
+        "long-description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin",
+        "note": "not working but under investigation",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "Kindinsky for a1111",
+        "url": "https://github.com/MMqd/kandinsky-for-automatic1111.git",
+        "description": "Embeded app for Kindinsky - Don't use - SDNext has better native Kandinsky",
+        "long-description": "",
+        "note": "Don't use - SDNext has integrated (and better) Kandinsky support",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "TinyCards",
+        "url": "https://github.com/SenshiSentou/sd-webui-tinycards.git",
+        "description": "Adds a zoom slider to the extra tabs card in a1111",
+        "long-description": "",
+        "note": "Likely incompatible with SDNext. Don't use.",
+        "branch": "",
+        "status": 5
+    },
+    {
+        "name": "NegPiP - Negative Prompt-in-Prompt",
+        "url": "https://github.com/hako-mikan/sd-webui-negpip.git",
+        "description": "Enables Negative Prompts in Prompt and vice versa",
+        "long-description": "enhances prompts and cross-attention, Permits negative prompts in prompts and positive prompts in negative.",
+        "note": "Very powerful, Aptro's Thumbs up!",
         "branch": "",
         "status": 1
     }
