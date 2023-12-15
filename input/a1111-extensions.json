@@ -4532,6 +4532,16 @@
         "UI related"
       ],
       "added": "2023-12-15"
+    },
+    {
+      "name": "Agent Attention",
+      "url": "https://github.com/v0xie/sd-webui-agentattention.git",
+      "description": "Speed up image generation and improve image quality using Agent Attention! An unofficial implementation of the method in arXiv:2312.08874 [cs.CV]",
+      "tags": [
+        "dropdown",
+        "manipulations"
+      ],
+      "added": "2023-12-15"
     }
   ],
   "accept-ranges": "bytes",
@@ -4539,13 +4549,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "44461",
+  "content-length": "44534",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 15 Dec 2023 08:36:28 GMT",
-  "etag": "W/\"2f88839b8728b270891ca00f323a6a69437e6f04b54c36d27d0f4ac1a2f379fd\"",
-  "expires": "Fri, 15 Dec 2023 08:41:28 GMT",
+  "date": "Fri, 15 Dec 2023 12:50:04 GMT",
+  "etag": "W/\"fe1f93b0c6fd58c5163eacdad44b8de99fbf79b2635ac7f641ca83e8a212c4a2\"",
+  "expires": "Fri, 15 Dec 2023 12:55:04 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4553,10 +4563,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "f1dd97a7520b07739ec1d04f640998e2f8346e1a",
+  "x-fastly-request-id": "f7c65e640b9a76cd91c805e4b362cbfd44e522ed",
   "x-frame-options": "deny",
-  "x-github-request-id": "B116:6C35:3BC1CF:495F31:657C100B",
-  "x-served-by": "cache-iad-kcgs7200078-IAD",
-  "x-timer": "S1702629388.071479,VS0,VE114",
+  "x-github-request-id": "ED7C:4A8E:460B41:567648:657C4B78",
+  "x-served-by": "cache-iad-kcgs7200065-IAD",
+  "x-timer": "S1702644604.165885,VS0,VE127",
   "x-xss-protection": "1; mode=block"
 }
