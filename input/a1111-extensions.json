@@ -4475,10 +4475,11 @@
     {
       "name": "Replacer - fast inpaint",
       "url": "https://github.com/light-and-ray/sd-webui-replacer.git",
-      "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything",
+      "description": "Adds a tab for fast inpaint image by detection prompt. Requires sd-webui-segment-anything. It also useful for batch inpaint, and inpaint in video with stable diffusion",
       "tags": [
         "tab",
-        "editing"
+        "editing",
+        "animation"
       ],
       "added": "2023-12-06",
       "full_name": "light-and-ray/sd-webui-replacer",
@@ -4701,13 +4702,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "46081",
+  "content-length": "46113",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 15 Jan 2024 08:37:24 GMT",
-  "etag": "W/\"12ad201c49536161c323d61a13e1d67f7fcfd888585bc87fe5afe1d845304faa\"",
-  "expires": "Mon, 15 Jan 2024 08:42:24 GMT",
+  "date": "Mon, 15 Jan 2024 12:51:17 GMT",
+  "etag": "W/\"21fd49150e10d4862f6ce0d84209f1df515adb30545a38889a98c68f359af87b\"",
+  "expires": "Mon, 15 Jan 2024 12:56:17 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4715,10 +4716,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "0a9ac439da9ccd6bb3252de99fe034a9f6949b72",
+  "x-fastly-request-id": "3e3c05b08a67a03493b16b2378726e08462516e8",
   "x-frame-options": "deny",
-  "x-github-request-id": "78D0:89C2:1A621E:211693:65A4EEC3",
-  "x-served-by": "cache-iad-kcgs7200088-IAD",
-  "x-timer": "S1705307844.121638,VS0,VE108",
+  "x-github-request-id": "F44C:6DF3:2B6A87:344D59:65A52A44",
+  "x-served-by": "cache-iad-kcgs7200177-IAD",
+  "x-timer": "S1705323077.011241,VS0,VE101",
   "x-xss-protection": "1; mode=block"
 }
