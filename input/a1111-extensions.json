@@ -4170,7 +4170,7 @@
       "description": "Use the difference between 2 images to generate an inpaint mask. Adds a new operation mode.",
       "tags": [
         "tab",
-        "dropdown",
+        "UI related",
         "manipulations"
       ],
       "added": "2023-11-03",
@@ -4706,9 +4706,9 @@
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 20 Jan 2024 16:38:23 GMT",
-  "etag": "W/\"915f5cbd0e30546316d6a54f7402f6ec0c34e410fe21a3a3590f6a12e5992488\"",
-  "expires": "Sat, 20 Jan 2024 16:43:23 GMT",
+  "date": "Sat, 20 Jan 2024 20:35:39 GMT",
+  "etag": "W/\"84bc41bbf682c71cd0523e8d6cc2c63ff39d29fb3a6a379b4167b813be8450fd\"",
+  "expires": "Sat, 20 Jan 2024 20:40:39 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4716,10 +4716,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "1dba835c818f5b190ef2b260d65c9458c010b313",
+  "x-fastly-request-id": "df94b34af9b07a10ffa69fa651d2ad8f2b0b2e93",
   "x-frame-options": "deny",
-  "x-github-request-id": "7818:87C1:1C9D6D6:22182C9:65ABF6FD",
-  "x-served-by": "cache-iad-kcgs7200063-IAD",
-  "x-timer": "S1705768704.578236,VS0,VE80",
+  "x-github-request-id": "CE80:685F:1CE7AE0:2243C01:65AC2E9A",
+  "x-served-by": "cache-chi-kigq8000028-CHI",
+  "x-timer": "S1705782939.151750,VS0,VE148",
   "x-xss-protection": "1; mode=block"
 }
