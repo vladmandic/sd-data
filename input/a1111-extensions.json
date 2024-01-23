@@ -4695,6 +4695,18 @@
       "created_at": "2024-01-14T07:25:05Z",
       "default_branch_commit_sha": "72356a7dd8d35e332277199fedaa77144295ce77",
       "commit_time": "2024-01-18T04:32:18Z"
+    },
+    {
+      "name": "Video in Extras tab",
+      "url": "https://github.com/light-and-ray/sd-webui-video-extras-tab.git",
+      "description": "This extension is needed to process video frame by frame inside extras tab.",
+      "tags": [
+        "tab",
+        "editing",
+        "animation",
+        "extras"
+      ],
+      "added": "2024-01-23"
     }
   ],
   "accept-ranges": "bytes",
@@ -4702,13 +4714,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "46160",
+  "content-length": "46224",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Tue, 23 Jan 2024 08:37:28 GMT",
-  "etag": "W/\"a2beac628f4fc166853212407bbe84c54fe110c907c7c0b48835ea72a39e8754\"",
-  "expires": "Tue, 23 Jan 2024 08:42:28 GMT",
+  "date": "Tue, 23 Jan 2024 12:51:26 GMT",
+  "etag": "W/\"dc1a7865d492271c928e83c6546dd1e396487d90e003aef39b6686f1e778065f\"",
+  "expires": "Tue, 23 Jan 2024 12:56:26 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4716,10 +4728,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "6d17fc02af3b5178e4c46dcfcff52e8044ecea8f",
+  "x-fastly-request-id": "fc01433f4220c11da6bb0562a8acecb9d9948220",
   "x-frame-options": "deny",
-  "x-github-request-id": "3398:0D5F:1773D5:1DDE08:65AF7AC8",
-  "x-served-by": "cache-bur-kbur8200056-BUR",
-  "x-timer": "S1705999048.056161,VS0,VE400",
+  "x-github-request-id": "C772:1C9F:413348:4D1968:65AFB64C",
+  "x-served-by": "cache-iad-kcgs7200111-IAD",
+  "x-timer": "S1706014286.051586,VS0,VE113",
   "x-xss-protection": "1; mode=block"
 }
