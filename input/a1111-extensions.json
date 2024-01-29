@@ -1720,22 +1720,6 @@
       "commit_time": "2022-12-11T13:57:13Z"
     },
     {
-      "name": "DAAM",
-      "url": "https://github.com/toriato/stable-diffusion-webui-daam.git",
-      "description": "DAAM stands for Diffusion Attentive Attribution Maps. Enter the attention text (must be a string contained in the prompt) and run. An overlapping image with a heatmap for each attention will be generated along with the original image.",
-      "added": "2022-12-02",
-      "tags": [
-        "science"
-      ],
-      "full_name": "toriato/stable-diffusion-webui-daam",
-      "github_description": "DAAM for Stable Diffusion Web UI",
-      "stars": 86,
-      "default_branch": "master",
-      "created_at": "2023-01-21T10:01:19Z",
-      "default_branch_commit_sha": "0906c850fb70d7e4b296f9449763d48fa8d1e687",
-      "commit_time": "2023-01-26T04:20:48Z"
-    },
-    {
       "name": "Dump U-Net",
       "url": "https://github.com/hnmr293/stable-diffusion-webui-dumpunet.git",
       "description": "View different layers, observe U-Net feature maps. Image generation by giving different prompts for each block of the unet: https://note.com/kohya_ss/n/n93b7c01b0547",
@@ -4732,6 +4716,15 @@
       "created_at": "2023-11-03T11:09:28Z",
       "default_branch_commit_sha": "f1d7cca779ce582cf506d5f4915149296aa8762d",
       "commit_time": "2024-01-23T17:27:54Z"
+    },
+    {
+      "name": "DAAM",
+      "url": "https://github.com/kousw/stable-diffusion-webui-daam.git",
+      "description": "DAAM stands for Diffusion Attentive Attribution Maps. Enter the attention text (must be a string contained in the prompt) and run. An overlapping image with a heatmap for each attention will be generated along with the original image.",
+      "added": "2022-12-02",
+      "tags": [
+        "science"
+      ]
     }
   ],
   "accept-ranges": "bytes",
@@ -4739,13 +4732,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "46361",
+  "content-length": "46312",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 29 Jan 2024 08:36:16 GMT",
-  "etag": "W/\"26042b59ccb999671d9e740e9a6c49b60b7e752c99e1282610989f0f0b60fd1a\"",
-  "expires": "Mon, 29 Jan 2024 08:41:16 GMT",
+  "date": "Mon, 29 Jan 2024 12:45:49 GMT",
+  "etag": "W/\"8b89bf2b10c3d5df31f25ff5bc3161fc3da6bbb91b151c94228cf7da4c4f9c41\"",
+  "expires": "Mon, 29 Jan 2024 12:50:49 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4753,10 +4746,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "731aba4f0a36da3a68c8623d2d24a774ed48a5ff",
+  "x-fastly-request-id": "26bb5e9fc7b228710bf7e4de9052ab05356df942",
   "x-frame-options": "deny",
-  "x-github-request-id": "30C2:2211:90A192:B3A642:65B76374",
-  "x-served-by": "cache-chi-kigq8000037-CHI",
-  "x-timer": "S1706517376.485249,VS0,VE113",
+  "x-github-request-id": "C448:0815:6D5DF9:9418F7:65B79DFC",
+  "x-served-by": "cache-bur-kbur8200045-BUR",
+  "x-timer": "S1706532349.992441,VS0,VE285",
   "x-xss-protection": "1; mode=block"
 }
