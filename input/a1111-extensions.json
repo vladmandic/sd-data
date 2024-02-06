@@ -4744,6 +4744,15 @@
         "extras"
       ],
       "added": "2024-02-06"
+    },
+    {
+      "name": "Stable Diffusion Database Manager",
+      "url": "https://github.com/nicholas-ooi/stable-diffusion-database-manager.git",
+      "description": "Supports generating of images individually or in batches and insert them into one or multiple databases.",
+      "tags": [
+        "script"
+      ],
+      "added": "2024-02-06"
     }
   ],
   "accept-ranges": "bytes",
@@ -4751,13 +4760,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "46492",
+  "content-length": "46572",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Tue, 06 Feb 2024 12:45:53 GMT",
-  "etag": "W/\"e65610b33f4089bd70183c4e01fd4d511321b315da8213ad187936789533afb4\"",
-  "expires": "Tue, 06 Feb 2024 12:50:53 GMT",
+  "date": "Tue, 06 Feb 2024 16:36:23 GMT",
+  "etag": "W/\"aa9e340b9ed41355a799cc7720642cf2ce373f4cf4dbb6d0106c5e163f0c47ec\"",
+  "expires": "Tue, 06 Feb 2024 16:41:23 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4765,10 +4774,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "86850e7775810e3ec8b2b2a15be74f5beffd0baa",
+  "x-fastly-request-id": "91bd5484ead275ac5078e7563ee35ac048a636e3",
   "x-frame-options": "deny",
-  "x-github-request-id": "1934:9DBD:11A34:19B29:65C229FE",
-  "x-served-by": "cache-bur-kbur8200117-BUR",
-  "x-timer": "S1707223553.416780,VS0,VE264",
+  "x-github-request-id": "BB88:0AC8:9A543:B85BF:65C26007",
+  "x-served-by": "cache-chi-kigq8000048-CHI",
+  "x-timer": "S1707237384.714338,VS0,VE261",
   "x-xss-protection": "1; mode=block"
 }
