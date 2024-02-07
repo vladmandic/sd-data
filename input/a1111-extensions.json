@@ -4767,6 +4767,18 @@
       "created_at": "2023-08-27T19:33:09Z",
       "default_branch_commit_sha": "8f56b1224a11f28194c5a4f06d31a5da0b91324e",
       "commit_time": "2024-01-29T09:20:14Z"
+    },
+    {
+      "name": "RPG-DiffusionMaster",
+      "url": "https://github.com/zydxt/sd-webui-rpg-diffusionmaster",
+      "description": "Implementation of WebUI extension for RPG-DiffusionMaster. Utilizing the capabilities of the LLM model to generate Regional Prompts for better generation results.",
+      "tags": [
+        "script",
+        "dropdown",
+        "prompting",
+        "online"
+      ],
+      "added": "2024-02-07"
     }
   ],
   "accept-ranges": "bytes",
@@ -4774,13 +4786,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "46702",
+  "content-length": "46793",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 07 Feb 2024 12:45:34 GMT",
-  "etag": "W/\"0f8666799541293287ed065bfd00c6284970c904a7ea2a43fa93dafff965c13f\"",
-  "expires": "Wed, 07 Feb 2024 12:50:34 GMT",
+  "date": "Wed, 07 Feb 2024 16:37:08 GMT",
+  "etag": "W/\"f92de3915b00a8bdbafc3c454f0078f680261c568223688df42790ce244e26ea\"",
+  "expires": "Wed, 07 Feb 2024 16:42:08 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4788,10 +4800,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "8df408ae616f89b201217852d546870e5710be93",
+  "x-fastly-request-id": "21aa89d5b7620584c664e8869bf525d48e2a19f8",
   "x-frame-options": "deny",
-  "x-github-request-id": "F9A0:5CE6:72042:8AC3E:65C37B6D",
-  "x-served-by": "cache-iad-kcgs7200128-IAD",
-  "x-timer": "S1707309934.094992,VS0,VE87",
+  "x-github-request-id": "DA72:6C1A:31532A:3BE242:65C3B1B4",
+  "x-served-by": "cache-iad-kcgs7200081-IAD",
+  "x-timer": "S1707323828.113082,VS0,VE146",
   "x-xss-protection": "1; mode=block"
 }
