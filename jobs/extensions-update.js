@@ -93,7 +93,7 @@ async function getDetails(extension) {
         ext.pushed = new Date(r.pushed_at); // timestamp of last any update
         ext.name = r.name;
         ext.long = r.full_name || r.name;
-        ext.description = (r.description || extension.description).substring(0, 200);
+        ext.description = (r.description || extension.description || '').substring(0, 200);
         ext.size = r.size;
         ext.stars = r.stargazers_count;
         ext.issues = r.open_issues_count;
@@ -173,7 +173,7 @@ async function curate(data) {
         curated[i] = { ...curated[i], ...newData, ...ext };
         ammended += 1;
       } else {
-        curated.push(ext);
+        curated.push({ ...newData, ...ext });
         appended += 1;
       }
     }
