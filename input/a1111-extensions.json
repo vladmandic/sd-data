@@ -4835,6 +4835,15 @@
       "created_at": "2024-02-11T09:48:56Z",
       "default_branch_commit_sha": "a00d23ceba0bc60176d7dbae4f9021e4eefa6097",
       "commit_time": "2024-02-11T14:26:03Z"
+    },
+    {
+      "name": "Custom AutoLaunch",
+      "url": "https://github.com/w-e-w/sd-webui-custom-autolaunch.git",
+      "description": "AutoLaunch WebUI in non-default browser",
+      "tags": [
+        "script"
+      ],
+      "added": "2024-02-18"
     }
   ],
   "accept-ranges": "bytes",
@@ -4842,13 +4851,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "47344",
+  "content-length": "47395",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 18 Feb 2024 12:43:43 GMT",
-  "etag": "W/\"4acdb8f9e446ce5cb266c819579320c8ee10b4da5101e1a9454c25763348f455\"",
-  "expires": "Sun, 18 Feb 2024 12:48:43 GMT",
+  "date": "Sun, 18 Feb 2024 16:36:17 GMT",
+  "etag": "W/\"5e435cac415f360ce23016af74c3c41c3ee23b8ce6642c6b2dd1d4daf130bb29\"",
+  "expires": "Sun, 18 Feb 2024 16:41:17 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -4856,10 +4865,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "babaefb328733a9b0330abd95473e38fa4f5be0a",
+  "x-fastly-request-id": "48ffd61016d575a3aca1103f8c09229d65090ed4",
   "x-frame-options": "deny",
-  "x-github-request-id": "5658:834F:12A6810:15F9214:65D1FB7E",
-  "x-served-by": "cache-iad-kcgs7200129-IAD",
-  "x-timer": "S1708260224.731642,VS0,VE87",
+  "x-github-request-id": "90C0:9953:9F695D:C39C80:65D23201",
+  "x-served-by": "cache-iad-kcgs7200073-IAD",
+  "x-timer": "S1708274178.884117,VS0,VE110",
   "x-xss-protection": "1; mode=block"
 }
