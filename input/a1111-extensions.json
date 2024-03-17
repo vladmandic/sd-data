@@ -5096,6 +5096,16 @@
       "created_at": "2023-11-27T02:17:32Z",
       "default_branch_commit_sha": "47c725851503732fdab2129d8e0c52c05149d218",
       "commit_time": "2024-03-15T19:45:42Z"
+    },
+    {
+      "name": "Simple Manga Maker",
+      "url": "https://github.com/new-sankaku/stable-diffusion-webui-simple-manga-maker.git",
+      "description": "With simple operations, an extension that enables the creation and application of manga-style images.",
+      "tags": [
+        "tab",
+        "editing"
+      ],
+      "added": "2024-03-17"
     }
   ],
   "accept-ranges": "bytes",
@@ -5103,13 +5113,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "49435",
+  "content-length": "49530",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 17 Mar 2024 16:34:41 GMT",
-  "etag": "W/\"3269fe31e2e37de5224f8ba9be1f238699e7302feb174192cc5ddcfaeb3d7a5d\"",
-  "expires": "Sun, 17 Mar 2024 16:39:41 GMT",
+  "date": "Sun, 17 Mar 2024 20:35:01 GMT",
+  "etag": "W/\"c54ca5742f8f39b9230be92a00845812e59b95c6b6d4e3eb94db8402f3453ce7\"",
+  "expires": "Sun, 17 Mar 2024 20:40:01 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5117,10 +5127,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "65aa402b2673b559f30c8fd414ec2b24ccb5f62a",
+  "x-fastly-request-id": "82cafbddf62c0e1584b12e7264c188c091ad1ae1",
   "x-frame-options": "deny",
-  "x-github-request-id": "30EE:6094:4AA715:5C2E15:65F71BA1",
-  "x-served-by": "cache-iad-kcgs7200061-IAD",
-  "x-timer": "S1710693281.205084,VS0,VE80",
+  "x-github-request-id": "80D2:170C:535318:5D1ED8:65F753F2",
+  "x-served-by": "cache-chi-kigq8000021-CHI",
+  "x-timer": "S1710707701.882375,VS0,VE119",
   "x-xss-protection": "1; mode=block"
 }
