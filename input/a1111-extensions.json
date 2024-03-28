@@ -4447,7 +4447,8 @@
       "tags": [
         "tab",
         "editing",
-        "animation"
+        "animation",
+        "script"
       ],
       "added": "2023-12-06",
       "full_name": "light-and-ray/sd-webui-replacer",
@@ -5134,13 +5135,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "49891",
+  "content-length": "49894",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 28 Mar 2024 01:31:22 GMT",
-  "etag": "W/\"636e0147c7e2d9643f80e2754a191c107ce8789182e0a2a289b42d005650a20b\"",
-  "expires": "Thu, 28 Mar 2024 01:36:22 GMT",
+  "date": "Thu, 28 Mar 2024 04:34:56 GMT",
+  "etag": "W/\"6d57bd7fbf639f7b157b914eb284f72072e2f6ac8a98b7bb2895195fdd31d76a\"",
+  "expires": "Thu, 28 Mar 2024 04:39:56 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5148,10 +5149,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "703073167460b1d36dc1d0f1d195552638e9b159",
+  "x-fastly-request-id": "c92c4b52b2cdbf0e064283c92992f73a823bf739",
   "x-frame-options": "deny",
-  "x-github-request-id": "63BA:1084:25C791:2CCE99:6604C868",
-  "x-served-by": "cache-chi-kigq8000136-CHI",
-  "x-timer": "S1711589483.698659,VS0,VE107",
+  "x-github-request-id": "E638:2319F8:33FFCF:3D9C8F:6604F370",
+  "x-served-by": "cache-iad-kiad7000097-IAD",
+  "x-timer": "S1711600496.483442,VS0,VE55",
   "x-xss-protection": "1; mode=block"
 }
