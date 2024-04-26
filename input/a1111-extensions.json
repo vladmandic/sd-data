@@ -5231,6 +5231,17 @@
       "created_at": "2024-03-29T13:10:31Z",
       "default_branch_commit_sha": "e5d699bca3ecec1e1dc933e1e5831ee863f5be5c",
       "commit_time": "2024-04-24T13:11:34Z"
+    },
+    {
+      "name": "Readme browser",
+      "url": "https://github.com/light-and-ray/sd-webui-readme-browser.git",
+      "description": "This extension allows user to view readme files of extensions locally right inside sd-webui. Online will be used only if readme contains external media and links",
+      "tags": [
+        "dropdown",
+        "online",
+        "UI related"
+      ],
+      "added": "2024-04-26"
     }
   ],
   "accept-ranges": "bytes",
@@ -5238,13 +5249,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "50753",
+  "content-length": "50862",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 26 Apr 2024 08:36:02 GMT",
-  "etag": "W/\"043273f207954de88eff3ecaa205bfff9dfa2737f77fe67a4a61ae4f5cf26030\"",
-  "expires": "Fri, 26 Apr 2024 08:41:02 GMT",
+  "date": "Fri, 26 Apr 2024 12:47:20 GMT",
+  "etag": "W/\"4ac37be5fc241b2437b7d80787cc39b7c2f59c5fe98d21857a69e7da62e98536\"",
+  "expires": "Fri, 26 Apr 2024 12:52:20 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5252,10 +5263,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "add972257a5aa3aa1e57df91351a93c6a9ed11fe",
+  "x-fastly-request-id": "842a47c31a9bc792d4564be70327beed16b08871",
   "x-frame-options": "deny",
-  "x-github-request-id": "502A:384476:769982:7CA8B4:662B6771",
-  "x-served-by": "cache-pao-kpao1770025-PAO",
-  "x-timer": "S1714120562.353597,VS0,VE251",
+  "x-github-request-id": "FE96:EFF67:1283E:14AE2:662BA258",
+  "x-served-by": "cache-iad-kiad7000085-IAD",
+  "x-timer": "S1714135641.907691,VS0,VE85",
   "x-xss-protection": "1; mode=block"
 }
