@@ -906,23 +906,6 @@
       "commit_time": "2024-03-13T17:18:56Z"
     },
     {
-      "name": "Animator",
-      "url": "https://github.com/Animator-Anon/animator_extension.git",
-      "description": "A basic img2img script that will dump frames and build a video file. Suitable for creating interesting zoom-in warping movies. This is intended to be a versatile toolset to help you automate some img2img tasks.",
-      "added": "2023-01-11",
-      "tags": [
-        "tab",
-        "animation"
-      ],
-      "full_name": "Animator-Anon/animator_extension",
-      "github_description": "Extension version of Animator script",
-      "stars": 78,
-      "default_branch": "main",
-      "created_at": "2023-02-02T05:59:56Z",
-      "default_branch_commit_sha": "601528436667436cb89c7d772067617f444e2c54",
-      "commit_time": "2023-08-27T03:04:27Z"
-    },
-    {
       "name": "gif2gif",
       "url": "https://github.com/LonicaMewinsky/gif2gif.git",
       "description": "A script for img2img that extract a gif frame by frame for img2img generation and recombine them back into an animated gif",
@@ -5256,13 +5239,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "50959",
+  "content-length": "50756",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 02 May 2024 08:35:37 GMT",
-  "etag": "W/\"453adc0a4ba9928195829255926288ed626d9719f0c2cf7d2c1ee79def89d383\"",
-  "expires": "Thu, 02 May 2024 08:40:37 GMT",
+  "date": "Thu, 02 May 2024 12:49:12 GMT",
+  "etag": "W/\"de8f06535f93f4dc5d73e516685cb48d9f8742c86293b0b90e2b80567a083605\"",
+  "expires": "Thu, 02 May 2024 12:54:12 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5270,10 +5253,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "956d3993193a0b611eadff3320b25ad30012abf7",
+  "x-fastly-request-id": "5569c5c2b6dbe9b14ab37e168e48d98e631e9d2f",
   "x-frame-options": "deny",
-  "x-github-request-id": "76FA:1CB739:127445:149D26:66335055",
-  "x-served-by": "cache-iad-kcgs7200170-IAD",
-  "x-timer": "S1714638937.961997,VS0,VE85",
+  "x-github-request-id": "7CD8:68719:3FCA71:47030F:66338BC7",
+  "x-served-by": "cache-iad-kcgs7200062-IAD",
+  "x-timer": "S1714654152.231555,VS0,VE74",
   "x-xss-protection": "1; mode=block"
 }
