@@ -5265,6 +5265,15 @@
       "created_at": "2024-04-29T03:17:19Z",
       "default_branch_commit_sha": "3605b8af754c06f30fe7339de78a5b1b5441d570",
       "commit_time": "2024-05-11T16:38:00Z"
+    },
+    {
+      "name": "Hardware Info in metadata",
+      "url": "https://github.com/light-and-ray/sd-webui-hardware-info-in-metadata.git",
+      "description": "Adds hardware info (gpu name, vram, cpu name, ram) and taken time into generated images' metadata",
+      "tags": [
+        "script"
+      ],
+      "added": "2024-05-18"
     }
   ],
   "accept-ranges": "bytes",
@@ -5272,13 +5281,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "51035",
+  "content-length": "51122",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 18 May 2024 16:36:01 GMT",
-  "etag": "W/\"d5a502ea1035b3aae9d37d4bf2490cad4d96b1b147429b36debef114a59886e9\"",
-  "expires": "Sat, 18 May 2024 16:41:01 GMT",
+  "date": "Sat, 18 May 2024 20:35:06 GMT",
+  "etag": "W/\"439b5e2e85ef1ca64619fa4af2400306326395bebee3040397ea07c73e3129a3\"",
+  "expires": "Sat, 18 May 2024 20:40:06 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5286,10 +5295,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "dbe9bb81ec804f8756ee24b23d83f42010bd9806",
+  "x-fastly-request-id": "4acc0fd9e4423ec7cfd480147c6889a0945237c3",
   "x-frame-options": "deny",
-  "x-github-request-id": "6B80:11DC01:6E4A17:7CEC11:6648D8ED",
-  "x-served-by": "cache-iad-kcgs7200150-IAD",
-  "x-timer": "S1716050161.055901,VS0,VE75",
+  "x-github-request-id": "91C0:20FE02:32F753D:357EB82:664910FA",
+  "x-served-by": "cache-pao-kpao1770020-PAO",
+  "x-timer": "S1716064506.318683,VS0,VE169",
   "x-xss-protection": "1; mode=block"
 }
