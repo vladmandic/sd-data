@@ -5281,6 +5281,16 @@
       "created_at": "2024-05-17T20:50:40Z",
       "default_branch_commit_sha": "9c08f378c998f53d08d369ab4d3e17aa34974588",
       "commit_time": "2024-05-18T18:19:49Z"
+    },
+    {
+      "name": "PNGINFO Beautify",
+      "url": "https://github.com/bluelovers/sd-webui-pnginfo-beautify.git",
+      "description": "Stable Diffusion PNGINFO Beautify extension",
+      "tags": [
+        "UI related",
+        "prompting"
+      ],
+      "added": "2024-05-19"
     }
   ],
   "accept-ranges": "bytes",
@@ -5288,13 +5298,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "51219",
+  "content-length": "51278",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sun, 19 May 2024 12:47:22 GMT",
-  "etag": "W/\"7743af53a9590e800107fd7e4d2b0ad7ef8585cc360546a21d8bf667a50d2744\"",
-  "expires": "Sun, 19 May 2024 12:52:22 GMT",
+  "date": "Sun, 19 May 2024 16:37:33 GMT",
+  "etag": "W/\"10d217ecb28ba0b21c11570787183f3c6f8ba1a0eac84c5c9f819aaf61b517cf\"",
+  "expires": "Sun, 19 May 2024 16:42:33 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5302,10 +5312,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "58dfafa6b31b7a785484228d41532db6c07a5a77",
+  "x-fastly-request-id": "d084f6cef7d3ce78b89f7363937a839644ce5e70",
   "x-frame-options": "deny",
-  "x-github-request-id": "CF32:156F31:C6BF2E:E7C8E2:6649F4D9",
-  "x-served-by": "cache-iad-kcgs7200160-IAD",
-  "x-timer": "S1716122843.924386,VS0,VE75",
+  "x-github-request-id": "98CA:20FE02:39637B3:3C466D5:664A2ACC",
+  "x-served-by": "cache-bur-kbur8200082-BUR",
+  "x-timer": "S1716136653.647969,VS0,VE364",
   "x-xss-protection": "1; mode=block"
 }
