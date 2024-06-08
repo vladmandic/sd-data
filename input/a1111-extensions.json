@@ -5314,6 +5314,16 @@
       "created_at": "2024-05-15T17:04:16Z",
       "default_branch_commit_sha": "c1119c51dce5e9c063e915e167c75f2f6dfb4f87",
       "commit_time": "2024-05-15T19:36:02Z"
+    },
+    {
+      "name": "Metadata Utils",
+      "url": "https://github.com/Tzigo/metadata_utils.git",
+      "description": "metadata utils can read/write metadata from/to .safetensor files",
+      "tags": [
+        "tab",
+        "models"
+      ],
+      "added": "2024-06-07"
     }
   ],
   "accept-ranges": "bytes",
@@ -5321,13 +5331,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "51436",
+  "content-length": "51503",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 07 Jun 2024 20:35:20 GMT",
-  "etag": "W/\"f87fd6184ec1547ba5676118e3b758b1d01cb198ba72ce9e55d8ddb0aa7bc71c\"",
-  "expires": "Fri, 07 Jun 2024 20:40:20 GMT",
+  "date": "Sat, 08 Jun 2024 01:39:55 GMT",
+  "etag": "W/\"9c0fe40cea083ad6ce3e791fc386e34c414facd3293d82af906acd15bb004904\"",
+  "expires": "Sat, 08 Jun 2024 01:44:55 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5335,10 +5345,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "2d61f11fe6c3a779ef10b53c8963d76389d74e05",
+  "x-fastly-request-id": "9f16eabb51189f82353177eb4ad725ffd79be453",
   "x-frame-options": "deny",
-  "x-github-request-id": "6413:393410:1BEB70C:1F1DE6F:66636F08",
-  "x-served-by": "cache-iad-kcgs7200145-IAD",
-  "x-timer": "S1717792521.776165,VS0,VE87",
+  "x-github-request-id": "317B:15FC11:45286:51308:6663B66A",
+  "x-served-by": "cache-iad-kiad7000022-IAD",
+  "x-timer": "S1717810795.259426,VS0,VE64",
   "x-xss-protection": "1; mode=block"
 }
