@@ -5364,6 +5364,25 @@
       "created_at": "2023-08-23T02:46:02Z",
       "default_branch_commit_sha": "2080e0389a90f99b78ffd4ddbc82d1ee15c270be",
       "commit_time": "2024-06-09T12:21:04Z"
+    },
+    {
+      "name": "SD-PPP",
+      "url": "https://github.com/zombieyang/sd-ppp.git",
+      "description": "'PPP' for Professional Photoshop transPorter. Get Image from Photoshop, send Image to Photoshop",
+      "tags": [
+        "script"
+      ],
+      "added": "2024-06-15"
+    },
+    {
+      "name": "ControlNet preprocessor: Segment Anything",
+      "url": "https://github.com/light-and-ray/sd-webui-cn-sam-preprocessor.git",
+      "description": "Segment Anything preprocessor for ControlNet (requires sd-webui-segment-anything)",
+      "tags": [
+        "models",
+        "manipulations"
+      ],
+      "added": "2024-06-15"
     }
   ],
   "accept-ranges": "bytes",
@@ -5371,13 +5390,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "51966",
+  "content-length": "52124",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Fri, 14 Jun 2024 20:36:47 GMT",
-  "etag": "W/\"080a3e6928f807f8ff75a06a90c3d45d1f26bcd5d2ec3725b566b820c0428183\"",
-  "expires": "Fri, 14 Jun 2024 20:41:47 GMT",
+  "date": "Sat, 15 Jun 2024 01:40:35 GMT",
+  "etag": "W/\"9fcc61e38c0cdc59da30b8544115f1cedfbf52cee257491d050a1f15b6ac255c\"",
+  "expires": "Sat, 15 Jun 2024 01:45:35 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5385,10 +5404,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "6e0971a0df70d46bb9d24ead30ad413347a30e48",
+  "x-fastly-request-id": "c5b32736d4130d257b75bc892e69f598d40e00a7",
   "x-frame-options": "deny",
-  "x-github-request-id": "74B5:337D8E:1282DE0:137809C:666CA9DE",
-  "x-served-by": "cache-pao-kpao1770082-PAO",
-  "x-timer": "S1718397407.451759,VS0,VE279",
+  "x-github-request-id": "792E:B7DF3:56239B:61E5DF:666CF111",
+  "x-served-by": "cache-iad-kiad7000152-IAD",
+  "x-timer": "S1718415635.016219,VS0,VE86",
   "x-xss-protection": "1; mode=block"
 }
