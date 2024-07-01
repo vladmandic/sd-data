@@ -5488,6 +5488,17 @@
         "animation"
       ],
       "added": "2024-07-01"
+    },
+    {
+      "name": "Topaz Photo AI integration",
+      "url": "https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration.git",
+      "description": "Integrates upscaling feature from Topaz's Photo AI paid software, so you can use it inside hires fix, upscaler_for_img2img or in extras tab. Also there is a script for Sharpen and other features inside extras tab",
+      "tags": [
+        "editing",
+        "script",
+        "extras"
+      ],
+      "added": "2024-07-01"
     }
   ],
   "accept-ranges": "bytes",
@@ -5495,13 +5506,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "53092",
+  "content-length": "53228",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 01 Jul 2024 08:38:33 GMT",
-  "etag": "W/\"1dec385602fb6279c932c02890a4b0b298f08192ad949fe5775c7e403ad7aec1\"",
-  "expires": "Mon, 01 Jul 2024 08:43:33 GMT",
+  "date": "Mon, 01 Jul 2024 12:53:31 GMT",
+  "etag": "W/\"5e02c25c82d9c214d9ed192d47b7672cadb13801532415893e2e7a966937754a\"",
+  "expires": "Mon, 01 Jul 2024 12:58:31 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5509,10 +5520,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "bd054f0ae6d24ba8e05b1f4b753792a5d4a89744",
+  "x-fastly-request-id": "6c9dbd1f17870412cf1f424561b1e276b139f750",
   "x-frame-options": "deny",
-  "x-github-request-id": "6516:18662A:2CABDB:30F91E:66826B01",
-  "x-served-by": "cache-iad-kcgs7200029-IAD",
-  "x-timer": "S1719823113.992609,VS0,VE63",
+  "x-github-request-id": "F2FF:16DF:12F9B41:1542EEE:6682A6CB",
+  "x-served-by": "cache-chi-kigq8000165-CHI",
+  "x-timer": "S1719838411.451630,VS0,VE210",
   "x-xss-protection": "1; mode=block"
 }
