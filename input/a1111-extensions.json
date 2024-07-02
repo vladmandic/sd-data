@@ -5498,6 +5498,25 @@
         "extras"
       ],
       "added": "2024-07-01"
+    },
+    {
+      "name": "Detail Daemon",
+      "url": "https://github.com/muerrilla/sd-webui-detail-daemon.git",
+      "description": "Control amount of detail/smoothness during generation by adjusting the sigmas schedule",
+      "tags": [
+        "manipulations"
+      ],
+      "added": "2024-07-02"
+    },
+    {
+      "name": "Yandere Inpainting as masked content",
+      "url": "https://github.com/light-and-ray/sd-webui-yandere-inpaint-masked-content.git",
+      "description": "Integrates Yandere Inpainting ESRGAN model into Inpaint tab as masked content method. Fits for removing small objects or watermarks in anime art",
+      "tags": [
+        "UI related",
+        "manipulations"
+      ],
+      "added": "2024-07-02"
     }
   ],
   "accept-ranges": "bytes",
@@ -5505,13 +5524,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "53222",
+  "content-length": "53414",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 01 Jul 2024 20:35:26 GMT",
-  "etag": "W/\"c03f3d47557e9b7d5b5dff4399636d7d8e94ca44c18df7f2d705845a496a4c30\"",
-  "expires": "Mon, 01 Jul 2024 20:40:26 GMT",
+  "date": "Tue, 02 Jul 2024 01:42:22 GMT",
+  "etag": "W/\"f22d71178943761170f303c6dfb3b0dfc84eeb96aa7c23147cb200f9bbf65321\"",
+  "expires": "Tue, 02 Jul 2024 01:47:22 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5519,10 +5538,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "bf1ede94409267793e6ceab15c7860ba471df29e",
+  "x-fastly-request-id": "df1f8613771790bea07f69d5ffd90a61c2a65232",
   "x-frame-options": "deny",
-  "x-github-request-id": "8E9E:17A910:199FB34:1C6697D:6683130E",
-  "x-served-by": "cache-iad-kcgs7200085-IAD",
-  "x-timer": "S1719866126.478016,VS0,VE85",
+  "x-github-request-id": "B8A7:26EF36:2508A2F:274030B:66835AFD",
+  "x-served-by": "cache-sjc1000100-SJC",
+  "x-timer": "S1719884542.862326,VS0,VE222",
   "x-xss-protection": "1; mode=block"
 }
