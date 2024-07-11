@@ -3853,7 +3853,8 @@
         "UI related",
         "prompting",
         "editing",
-        "manipulations"
+        "manipulations",
+        "online"
       ],
       "added": "2023-10-01",
       "full_name": "songweige/sd-webui-rich-text",
@@ -5547,6 +5548,15 @@
       "created_at": "2024-07-01T15:43:12Z",
       "default_branch_commit_sha": "cbc4768e5930ecea7ba7cdea7ebeb9a8f6031f03",
       "commit_time": "2024-07-03T11:33:11Z"
+    },
+    {
+      "name": "Multi-Prompt Manager",
+      "url": "https://github.com/camdenFletcher03/sd-webui-Multi-Prompt-Manager.git",
+      "description": "The Multi-Prompt Manager Extension for stable-diffusion-webui allows easy management of multiple prompts. Create, save, edit, and delete prompts, and quickly switch between them without having to retype them manually.",
+      "tags": [
+        "prompting"
+      ],
+      "added": "2024-07-11"
     }
   ],
   "accept-ranges": "bytes",
@@ -5554,13 +5564,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "53750",
+  "content-length": "53884",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 11 Jul 2024 08:37:49 GMT",
-  "etag": "W/\"cb96909dd9df3673a99721f6708aa34119265b198c5389595221b3410e0758cc\"",
-  "expires": "Thu, 11 Jul 2024 08:42:49 GMT",
+  "date": "Thu, 11 Jul 2024 12:52:47 GMT",
+  "etag": "W/\"101dac1eccb9701ce68f4c9a046e82a8f2de0893f5df2901f25e8479ef7378f0\"",
+  "expires": "Thu, 11 Jul 2024 12:57:47 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5568,10 +5578,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "a803be496df6d9163203c1c04c799051997f2551",
+  "x-fastly-request-id": "0e1c663c76e3a4b67dad788504347179e8469173",
   "x-frame-options": "deny",
-  "x-github-request-id": "CCA9:AB4D4:600ACC:6879CE:668F99DD",
-  "x-served-by": "cache-iad-kcgs7200086-IAD",
-  "x-timer": "S1720687069.295579,VS0,VE81",
+  "x-github-request-id": "E994:5CF6F:280836:2B10F0:668FD59E",
+  "x-served-by": "cache-chi-kigq8000174-CHI",
+  "x-timer": "S1720702367.225609,VS0,VE133",
   "x-xss-protection": "1; mode=block"
 }
