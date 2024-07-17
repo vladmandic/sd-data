@@ -5564,6 +5564,35 @@
       "created_at": "2024-07-09T16:59:22Z",
       "default_branch_commit_sha": "9e6ac83e22fba63d3b433cfed1420291e47975b6",
       "commit_time": "2024-07-10T12:27:16Z"
+    },
+    {
+      "name": "Resynthesizer as masked content",
+      "url": "https://github.com/light-and-ray/sd-webui-resynthesizer-masked-content.git",
+      "description": "Integrates Resynthesizer old content-aware fill algorithm into Inpaint tab as masked content method",
+      "tags": [
+        "UI related",
+        "manipulations"
+      ],
+      "added": "2024-07-17"
+    },
+    {
+      "name": "Toggle light dark",
+      "url": "https://github.com/light-and-ray/sd-webui-toggle-dark-light.git",
+      "description": "A little button in top-right which toggles UI theme",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2024-07-17"
+    },
+    {
+      "name": "Manga Inpainting",
+      "url": "https://github.com/light-and-ray/sd-webui-manga-inpainting.git",
+      "description": "A network for removing something in manga. Requires controlnet and lama-cleaner-masked-content",
+      "tags": [
+        "manipulations",
+        "extras"
+      ],
+      "added": "2024-07-17"
     }
   ],
   "accept-ranges": "bytes",
@@ -5571,13 +5600,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "53991",
+  "content-length": "54158",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 17 Jul 2024 12:52:38 GMT",
-  "etag": "W/\"7300621fcceb6e954ca489a56dae4a0193a0c5c31759d1abc37202f4a6abfb57\"",
-  "expires": "Wed, 17 Jul 2024 12:57:38 GMT",
+  "date": "Wed, 17 Jul 2024 16:40:42 GMT",
+  "etag": "W/\"322e7e508de46eb637f661618a07d38864f343d7f7202068d35a6342f3b171b8\"",
+  "expires": "Wed, 17 Jul 2024 16:45:42 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5585,10 +5614,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "641784b017451cbcf5333ea53dc2e2e78d0117fc",
+  "x-fastly-request-id": "0760f72cd97a55987ed34bf659f91b58c1a41dda",
   "x-frame-options": "deny",
-  "x-github-request-id": "6B3E:7784E:7DF6E8:85069D:6697BE94",
-  "x-served-by": "cache-bur-kbur8200050-BUR",
-  "x-timer": "S1721220758.012068,VS0,VE149",
+  "x-github-request-id": "CC7B:9859C:235F5E:2695CA:6697F409",
+  "x-served-by": "cache-chi-kigq8000027-CHI",
+  "x-timer": "S1721234442.258795,VS0,VE164",
   "x-xss-protection": "1; mode=block"
 }
