@@ -5641,6 +5641,17 @@
         "query"
       ],
       "added": "2024-07-22"
+    },
+    {
+      "name": "AMD FSR 1.0 integration",
+      "url": "https://github.com/AndreyRGW/sd-webui-fsr-integration.git",
+      "description": "Integrates upscaling feature from AMD FSR, so you can use it inside hires fix, upscaler_for_img2img or in extras tab.",
+      "tags": [
+        "editing",
+        "script",
+        "extras"
+      ],
+      "added": "2024-07-22"
     }
   ],
   "accept-ranges": "bytes",
@@ -5648,13 +5659,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "54713",
+  "content-length": "54754",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Mon, 22 Jul 2024 08:39:59 GMT",
-  "etag": "W/\"d88640d9331084ab1b832694eadaf096b0db6a239e8ef24b3888399055bc4fa7\"",
-  "expires": "Mon, 22 Jul 2024 08:44:59 GMT",
+  "date": "Mon, 22 Jul 2024 12:53:37 GMT",
+  "etag": "W/\"0621ece1d95d19c286d3e245ec181cbbd1cc151dc811b42d1923ccf5fe7646c6\"",
+  "expires": "Mon, 22 Jul 2024 12:58:37 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5662,10 +5673,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "bd4524dfed1d3b363cf95b6b30c97e9171b9dfab",
+  "x-fastly-request-id": "9b5fe37a6ccca64edf27bd65288ddf18b53ac0e4",
   "x-frame-options": "deny",
-  "x-github-request-id": "3726:B22EA:C7F34:D9DEC:669E1ADF",
-  "x-served-by": "cache-iad-kiad7000128-IAD",
-  "x-timer": "S1721637600.750738,VS0,VE97",
+  "x-github-request-id": "FF68:3802F0:4391BA:479474:669E5650",
+  "x-served-by": "cache-sjc1000100-SJC",
+  "x-timer": "S1721652817.093128,VS0,VE233",
   "x-xss-protection": "1; mode=block"
 }
