@@ -5371,7 +5371,7 @@
     {
       "name": "SD-PPP",
       "url": "https://github.com/zombieyang/sd-ppp.git",
-      "description": "'PPP' for Professional Photoshop transPorter. Get Image from Photoshop, send Image to Photoshop",
+      "description": "getting/sending picture from/to Photoshop with a simple connection. Make Photoshop become the workspace of your sd-webui",
       "tags": [
         "script"
       ],
@@ -5739,13 +5739,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "55446",
+  "content-length": "55457",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Thu, 08 Aug 2024 12:53:54 GMT",
-  "etag": "W/\"f4a434985f7026876904bb1a1603a83813833292d2867d4dc7215a6bba214bcc\"",
-  "expires": "Thu, 08 Aug 2024 12:58:54 GMT",
+  "date": "Thu, 08 Aug 2024 16:40:11 GMT",
+  "etag": "W/\"f6fb707b82cd225bbcad700ce7a07ead3ac1603e1878491d918656224406ba1b\"",
+  "expires": "Thu, 08 Aug 2024 16:45:11 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5753,10 +5753,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "7b201e4bbd50c097be2830ef9bbba3d32eeea227",
+  "x-fastly-request-id": "3c3b029630cdf79734ce7c038209ffc23cdea08b",
   "x-frame-options": "deny",
-  "x-github-request-id": "4DF5:280822:2A714A:2F212D:66B4BFE1",
-  "x-served-by": "cache-iad-kcgs7200112-IAD",
-  "x-timer": "S1723121634.167551,VS0,VE81",
+  "x-github-request-id": "CAB5:D8AE9:2B9D98A:2E0CB09:66B4F4EB",
+  "x-served-by": "cache-pao-kpao1770071-PAO",
+  "x-timer": "S1723135211.448170,VS0,VE155",
   "x-xss-protection": "1; mode=block"
 }
