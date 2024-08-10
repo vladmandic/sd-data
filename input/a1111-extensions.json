@@ -5075,7 +5075,8 @@
       "description": "With simple operations, an extension that enables the creation and application of manga-style images.",
       "tags": [
         "tab",
-        "editing"
+        "editing",
+        "online"
       ],
       "added": "2024-03-17",
       "full_name": "new-sankaku/stable-diffusion-webui-simple-manga-maker",
@@ -5759,9 +5760,9 @@
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 10 Aug 2024 08:36:51 GMT",
-  "etag": "W/\"1e5c5c7b681c476d1e46d6dbc2fa6e5295b0fffe7083d7ff7fb6047f63c1243c\"",
-  "expires": "Sat, 10 Aug 2024 08:41:51 GMT",
+  "date": "Sat, 10 Aug 2024 12:51:00 GMT",
+  "etag": "W/\"07ae49a3fab64a5dca90ffa11c1760833a3e5c733b8c82ec32f82b3778375304\"",
+  "expires": "Sat, 10 Aug 2024 12:56:00 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5769,10 +5770,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "254fd9e69737254b0419dc808c5189cc2fc1ca8f",
+  "x-fastly-request-id": "c510432abb8265347c169b694de8afcfb33d15aa",
   "x-frame-options": "deny",
-  "x-github-request-id": "B9BE:3898B6:16016BC:1893C12:66B726A1",
-  "x-served-by": "cache-chi-kigq8000069-CHI",
-  "x-timer": "S1723279011.125225,VS0,VE118",
+  "x-github-request-id": "89D6:5E273:16A7311:1964C15:66B76230",
+  "x-served-by": "cache-chi-kigq8000112-CHI",
+  "x-timer": "S1723294261.533092,VS0,VE187",
   "x-xss-protection": "1; mode=block"
 }
