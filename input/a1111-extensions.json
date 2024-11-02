@@ -5850,6 +5850,16 @@
       "created_at": "2024-10-22T10:10:58Z",
       "default_branch_commit_sha": "02725d01d6ba10aee013c355ca5887cd70b5052d",
       "commit_time": "2024-10-23T23:08:11Z"
+    },
+    {
+      "name": "LoRA Keywords Finder",
+      "url": "https://github.com/Avaray/lora-keywords-finder.git",
+      "description": "Find trained keywords for LoRA models using CivitAI API",
+      "tags": [
+        "prompting",
+        "online"
+      ],
+      "added": "2024-11-02"
     }
   ],
   "accept-ranges": "bytes",
@@ -5857,13 +5867,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "56720",
+  "content-length": "56790",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Sat, 02 Nov 2024 08:39:59 GMT",
-  "etag": "W/\"428793cf17f8b5285cb04b980ae84ac38e3325f268a7cb37820b105bead1b4cb\"",
-  "expires": "Sat, 02 Nov 2024 08:44:59 GMT",
+  "date": "Sat, 02 Nov 2024 12:55:08 GMT",
+  "etag": "W/\"cc6c77112e5ab403d9dfa1280915d53df54fb272faa81646cb69b6bbcbc1042a\"",
+  "expires": "Sat, 02 Nov 2024 13:00:08 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5871,10 +5881,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "000b6a8accbdbae6803ee4412502307386b1d016",
+  "x-fastly-request-id": "1c2a7627e1aa07516628cc05bc587f6fd572c070",
   "x-frame-options": "deny",
-  "x-github-request-id": "8E39:143939:40A392:47AAA2:6725E55D",
-  "x-served-by": "cache-iad-kcgs7200110-IAD",
-  "x-timer": "S1730536799.088159,VS0,VE93",
+  "x-github-request-id": "3191:35E1A4:550AC1:5EA8A0:6726212A",
+  "x-served-by": "cache-iad-kcgs7200136-IAD",
+  "x-timer": "S1730552108.007375,VS0,VE91",
   "x-xss-protection": "1; mode=block"
 }
