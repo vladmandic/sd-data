@@ -5901,6 +5901,26 @@
       "created_at": "2024-11-22T10:26:13Z",
       "default_branch_commit_sha": "c723d41f2e85ceb08652d14cefd70c8fbcc74a94",
       "commit_time": "2024-12-22T10:34:11Z"
+    },
+    {
+      "name": "SD Hub",
+      "url": "https://github.com/gutris1/sd-hub.git",
+      "description": "An extension to download files individually or in batch from various sources, upload to Hugging Face model repositories, and archive/extract files in multiple formats.",
+      "tags": [
+        "script",
+        "tab",
+        "online"
+      ],
+      "added": "2024-12-25"
+    },
+    {
+      "name": "SD Simple Dimension Preset",
+      "url": "https://github.com/gutris1/sd-simple-dimension-preset.git",
+      "description": "a simple button to change width and height values under txt2img and img2img tab",
+      "tags": [
+        "UI related"
+      ],
+      "added": "2024-12-25"
     }
   ],
   "accept-ranges": "bytes",
@@ -5908,13 +5928,13 @@
   "cache-control": "max-age=300",
   "connection": "keep-alive",
   "content-encoding": "gzip",
-  "content-length": "57166",
+  "content-length": "57344",
   "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
   "content-type": "text/plain; charset=utf-8",
   "cross-origin-resource-policy": "cross-origin",
-  "date": "Wed, 25 Dec 2024 08:41:33 GMT",
-  "etag": "W/\"19a0d1719b7f82fcc4d6c738dd0255a99884baea2f2c90cbf4a7265b9a03c181\"",
-  "expires": "Wed, 25 Dec 2024 08:46:33 GMT",
+  "date": "Wed, 25 Dec 2024 12:55:59 GMT",
+  "etag": "W/\"0eb11fac9cf77d26074ec25aa33fdbe8a9b3e4d82fc0ff7f79130c5eb46746b1\"",
+  "expires": "Wed, 25 Dec 2024 13:00:59 GMT",
   "source-age": "0",
   "strict-transport-security": "max-age=31536000",
   "vary": "Authorization,Accept-Encoding,Origin",
@@ -5922,10 +5942,10 @@
   "x-cache": "MISS",
   "x-cache-hits": "0",
   "x-content-type-options": "nosniff",
-  "x-fastly-request-id": "276ae74ab6adae40b3bb34209ead31ef627f5254",
+  "x-fastly-request-id": "fe8178304780139a9b246decd98048f44bee9ce3",
   "x-frame-options": "deny",
-  "x-github-request-id": "7008:3EEEAD:3AEE92:3EC6A4:676BC53B",
-  "x-served-by": "cache-sjc10057-SJC",
-  "x-timer": "S1735116093.861503,VS0,VE176",
+  "x-github-request-id": "6C73:149D50:4738E6:500073:676C00DE",
+  "x-served-by": "cache-iad-kcgs7200070-IAD",
+  "x-timer": "S1735131359.409883,VS0,VE74",
   "x-xss-protection": "1; mode=block"
 }
