@@ -6,7 +6,8 @@ const process = require('process');
 const core = require('@actions/core'); // eslint-disable-line node/no-extraneous-require
 
 const url = 'https://papertrailapp.com/api/v1/events/search.json';
-const jsonDataFile = '../input/benchmark-raw.json';
+const jsonDataFolder = '../input';
+const jsonDataFile = 'benchmark-raw';
 const jsonParsedFile = '../pages/benchmark-data.json';
 // const mdFile = '../pages/benchmark.md';
 let data = { max_id: 0, events: [] };
@@ -65,12 +66,20 @@ async function get(id) {
 
 async function main() {
   // read existing data
+  const today = new Date();
   log('action:', process.env.GITHUB_REPOSITORY, process.env.GITHUB_ACTION);
-  log('reading existing data:', jsonDataFile);
-  if (fs.existsSync(jsonDataFile)) {
-    const jsonData = fs.readFileSync(jsonDataFile);
-    data = JSON.parse(jsonData);
-    log('existing records:', data?.events?.length || 0);
+  log('today', today);
+
+  data = { max_id: 0, events: [] };
+  for (const f of fs.readdirSync(jsonDataFolder)) {
+    if (f.startsWith(jsonDataFile)) {
+      const fileName = jsonDataFolder + '/' + f;
+      const fileData = fs.readFileSync(fileName);
+      const fileJson = JSON.parse(fileData);
+      data.events = data.events.concat(fileJson.events);
+      if (fileJson.max_id > data.max_id) data.max_id = fileJson.max_id;
+      log(`reading existing data: filename=${fileName} records=${fileJson?.events?.length || 0} total=${data.events.length} maxid=${data.max_id}`);
+    }
   }
 
   // fetch new data
@@ -90,8 +99,11 @@ async function main() {
     });
     data.events = combined;
     // save updated data
-    log('saving data:', jsonDataFile);
-    fs.writeFileSync(jsonDataFile, JSON.stringify(data, null, 2));
+    const m = today.getUTCMonth() + 1;
+    const y = today.getUTCFullYear();
+    const outputJsonDataFile = jsonDataFolder + '/' + jsonDataFile + `-${y}-${m}.json`;
+    log('saving data:', outputJsonDataFile);
+    fs.writeFileSync(outputJsonDataFile, JSON.stringify(data, null, 2));
   } else {
     log('no new data');
     return;
