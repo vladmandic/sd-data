@@ -99,11 +99,15 @@ async function main() {
     });
     data.events = combined;
     // save updated data
-    const m = today.getUTCMonth() + 1;
-    const y = today.getUTCFullYear();
+    const m = String(today.getMonth() + 1).padStart(2, '0');
+    const y = String(today.getUTCFullYear());
+    const newData = {
+      max_id: res.max_id,
+      events: data.events.filter((entry) => entry.generated_at.startsWith(`${y}-${m}`)),
+    };
     const outputJsonDataFile = jsonDataFolder + '/' + jsonDataFile + `-${y}-${m}.json`;
     log('saving data:', outputJsonDataFile);
-    fs.writeFileSync(outputJsonDataFile, JSON.stringify(data, null, 2));
+    fs.writeFileSync(outputJsonDataFile, JSON.stringify(newData, null, 2));
   } else {
     log('no new data');
     return;
