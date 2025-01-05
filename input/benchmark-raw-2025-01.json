@@ -1,5 +1,5 @@
 {
-  "max_id": "1812125082781396992",
+  "max_id": "1812338070528372739",
   "events": [
     {
       "id": "1811013468158087174",
@@ -609,6 +609,27 @@
       "message": "WangDaixiang 2025-01-04 17:04:37.797472|9.55 / 10.03 / 10.07|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WangDaixiang||c64ae2|31e61c ",
       "generated_at": "2025-01-04T12:05:09-05:00",
       "source_id": 14263230401
+    },
+    {
+      "id": "1812285443115507720",
+      "program": "SDBENCHMARK",
+      "message": "slipzen 2025-01-04 19:35:51.995449|0.35 / 0.08 / 0.03|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.20 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.14 4GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:theneuroswarm_v41.safetensors [2484a56523] vae:automatic width:512 height:512|slipzen||cac95f|880f26 ",
+      "generated_at": "2025-01-04T15:42:21-05:00",
+      "source_id": 14263415691
+    },
+    {
+      "id": "1812291781702901763",
+      "program": "SDBENCHMARK",
+      "message": "slipzen 2025-01-04 19:35:51.995449|0.35 / 0.08 / 0.03|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.20 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.14 4GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:theneuroswarm_v41.safetensors [2484a56523] vae:automatic width:512 height:512|slipzen||cac95f|880f26 ",
+      "generated_at": "2025-01-04T16:07:33-05:00",
+      "source_id": 14263415691
+    },
+    {
+      "id": "1812338070528372739",
+      "program": "SDBENCHMARK",
+      "message": "kkassudi 2025-01-05 02:10:06.727406|5.21 / 3.51 / 3.56|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.5-1-pure python:3.10.6|torch:2.4.1+rocm6.1 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon Graphics (1) hip:6.1.40091-a8dbc0c19 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:automatic width:512 height:512|kkassudi||9d3e4d|004c9e ",
+      "generated_at": "2025-01-04T21:11:29-05:00",
+      "source_id": 14263475159
     }
   ]
 }
