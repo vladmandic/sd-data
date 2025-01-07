@@ -1,5 +1,5 @@
 {
-  "max_id": "1813084270500175909",
+  "max_id": "1813116581094535171",
   "events": [
     {
       "id": "1811013468158087174",
@@ -826,6 +826,41 @@
       "message": "Paulo 2025-01-06 21:19:01.051090|5.42 / 5.97 / 5.08|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:512 height:512|Paulo||6b5258|19dee5 ",
       "generated_at": "2025-01-06T16:20:21-05:00",
       "source_id": 14264466264
+    },
+    {
+      "id": "1813115223406718981",
+      "program": "SDBENCHMARK",
+      "message": "zdhq 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-01-07T05:39:38-05:00",
+      "source_id": 14264534722
+    },
+    {
+      "id": "1813115223406718982",
+      "program": "SDBENCHMARK",
+      "message": "zdhq 2025-01-07 10:34:19.316667|1.48 / 4.45 / 6.28 / 7.04 / 6.41|app:stable-diffusion-webui.git updated:2024-12-28 hash:021154d8 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.27764-SP0 python:3.10.11|torch:2.1.0a0+cxx11.abi autocast half xformers:0.0.27 diffusers:0.24.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:dreamshaper_8_v8 + 0.65(纯欲风极品超模—真人写实性感女神_1.0 - perfect world 完美世界_v6_v6).safetensors [6dade80b2f] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|zdhq||310414|49dcce ",
+      "generated_at": "2025-01-07T05:39:38-05:00",
+      "source_id": 14264534722
+    },
+    {
+      "id": "1813115258789867521",
+      "program": "SDBENCHMARK",
+      "message": "zdhq 2025-01-07 10:34:19.316667|1.48 / 4.45 / 6.28 / 7.04 / 6.41|app:stable-diffusion-webui.git updated:2024-12-28 hash:021154d8 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.27764-SP0 python:3.10.11|torch:2.1.0a0+cxx11.abi autocast half xformers:0.0.27 diffusers:0.24.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:dreamshaper_8_v8 + 0.65(纯欲风极品超模—真人写实性感女神_1.0 - perfect world 完美世界_v6_v6).safetensors [6dade80b2f] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|zdhq||310414|49dcce ",
+      "generated_at": "2025-01-07T05:39:46-05:00",
+      "source_id": 14264534722
+    },
+    {
+      "id": "1813116581094535169",
+      "program": "SDBENCHMARK",
+      "message": "zdhq 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-01-07T05:45:01-05:00",
+      "source_id": 14264534722
+    },
+    {
+      "id": "1813116581094535171",
+      "program": "SDBENCHMARK",
+      "message": "zdhq 2025-01-07 10:34:19.316667|1.48 / 4.45 / 6.28 / 7.04 / 6.41|app:stable-diffusion-webui.git updated:2024-12-28 hash:021154d8 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.27764-SP0 python:3.10.11|torch:2.1.0a0+cxx11.abi autocast half xformers:0.0.27 diffusers:0.24.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:dreamshaper_8_v8 + 0.65(纯欲风极品超模—真人写实性感女神_1.0 - perfect world 完美世界_v6_v6).safetensors [6dade80b2f] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|zdhq||310414|49dcce ",
+      "generated_at": "2025-01-07T05:45:01-05:00",
+      "source_id": 14264534722
     }
   ]
 }
