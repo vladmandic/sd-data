@@ -1,5 +1,5 @@
 {
-  "max_id": "1813116581094535171",
+  "max_id": "1813320362512003097",
   "events": [
     {
       "id": "1811013468158087174",
@@ -861,6 +861,13 @@
       "message": "zdhq 2025-01-07 10:34:19.316667|1.48 / 4.45 / 6.28 / 7.04 / 6.41|app:stable-diffusion-webui.git updated:2024-12-28 hash:021154d8 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.27764-SP0 python:3.10.11|torch:2.1.0a0+cxx11.abi autocast half xformers:0.0.27 diffusers:0.24.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:dreamshaper_8_v8 + 0.65(纯欲风极品超模—真人写实性感女神_1.0 - perfect world 完美世界_v6_v6).safetensors [6dade80b2f] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|zdhq||310414|49dcce ",
       "generated_at": "2025-01-07T05:45:01-05:00",
       "source_id": 14264534722
+    },
+    {
+      "id": "1813320362512003097",
+      "program": "SDBENCHMARK",
+      "message": "yugyugh 2024-09-11 22:33:12.260931|3.97 / 4.12 / 4.12|app:stable-diffusion-webui.git updated:2024-07-27 hash:c19d0443 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.2+cu118 autocast half xformers:0.0.23.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 6750 GRE 12GB (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|Automatic none|XXMix_9realistic_v4.0_v4.0.safetensors [18ed2b6c48]|yugyugh||16f203|5dee1c ",
+      "generated_at": "2025-01-07T19:14:47-05:00",
+      "source_id": 14264868239
     }
   ]
 }
