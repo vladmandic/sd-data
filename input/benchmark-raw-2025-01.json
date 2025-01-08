@@ -1,5 +1,5 @@
 {
-  "max_id": "1813623479120080915",
+  "max_id": "1813630789959725081",
   "events": [
     {
       "id": "1811013468158087174",
@@ -924,6 +924,13 @@
       "message": "qioip 2025-01-08 20:18:23.349214|9.55 / 10.37 / 10.7|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|qioip||018ad3|1e95b5 ",
       "generated_at": "2025-01-08T15:19:15-05:00",
       "source_id": 14265333425
+    },
+    {
+      "id": "1813630789959725081",
+      "program": "SDBENCHMARK",
+      "message": "gor1ov 2025-01-08 15:47:02.200096|3.36 / 3.42 / 3.67|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.03 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:deliberate_v6.safetensors [bcce73a08e] vae:none width:512 height:512|gor1ov||a41e09|6ac180 ",
+      "generated_at": "2025-01-08T10:48:18-05:00",
+      "source_id": 14265343785
     }
   ]
 }
