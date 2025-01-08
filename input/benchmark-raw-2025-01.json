@@ -1,5 +1,5 @@
 {
-  "max_id": "1813320362512003097",
+  "max_id": "1813442979017445379",
   "events": [
     {
       "id": "1811013468158087174",
@@ -868,6 +868,20 @@
       "message": "yugyugh 2024-09-11 22:33:12.260931|3.97 / 4.12 / 4.12|app:stable-diffusion-webui.git updated:2024-07-27 hash:c19d0443 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.1.2+cu118 autocast half xformers:0.0.23.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 6750 GRE 12GB (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|Automatic none|XXMix_9realistic_v4.0_v4.0.safetensors [18ed2b6c48]|yugyugh||16f203|5dee1c ",
       "generated_at": "2025-01-07T19:14:47-05:00",
       "source_id": 14264868239
+    },
+    {
+      "id": "1813397054865727497",
+      "program": "SDBENCHMARK",
+      "message": "Paulo 2025-01-06 21:19:01.051090|5.42 / 5.97 / 5.08|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:512 height:512|Paulo||6b5258|19dee5 ",
+      "generated_at": "2025-01-07T13:03:12-05:00",
+      "source_id": 14264466264
+    },
+    {
+      "id": "1813442979017445379",
+      "program": "SDBENCHMARK",
+      "message": "Yang 2025-01-08 08:20:07.625259|4.67 / 5.05 / 5.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:528.76 8GB|Automatic medvram-sdxl|1.5\\majicmixRealistic_v7.safetensors [7c819b6d13]|Yang||c3564f|4cee2f ",
+      "generated_at": "2025-01-08T03:22:01-05:00",
+      "source_id": 14265070343
     }
   ]
 }
