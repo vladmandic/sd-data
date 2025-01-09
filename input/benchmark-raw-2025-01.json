@@ -1,5 +1,5 @@
 {
-  "max_id": "1813630789959725081",
+  "max_id": "1813771270588907527",
   "events": [
     {
       "id": "1811013468158087174",
@@ -931,6 +931,13 @@
       "message": "gor1ov 2025-01-08 15:47:02.200096|3.36 / 3.42 / 3.67|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.03 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:deliberate_v6.safetensors [bcce73a08e] vae:none width:512 height:512|gor1ov||a41e09|6ac180 ",
       "generated_at": "2025-01-08T10:48:18-05:00",
       "source_id": 14265343785
+    },
+    {
+      "id": "1813771270588907527",
+      "program": "SDBENCHMARK",
+      "message": "podiax 2025-01-08 23:05:16.455410|5.35 / 3.29 / 3.44|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.8-zen1-1-zen python:3.11.10|torch:2.4.1+rocm6.1 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon Graphics (1) hip:6.1.40091-a8dbc0c19 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:cetusmix_version35 [a611cf9c19] vae:none width:512 height:512|podiax||430e3c|f3b362 ",
+      "generated_at": "2025-01-08T18:06:31-05:00",
+      "source_id": 14265578242
     }
   ]
 }
