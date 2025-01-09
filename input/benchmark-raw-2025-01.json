@@ -1,5 +1,5 @@
 {
-  "max_id": "1813771270588907527",
+  "max_id": "1813921594234560520",
   "events": [
     {
       "id": "1811013468158087174",
@@ -938,6 +938,20 @@
       "message": "podiax 2025-01-08 23:05:16.455410|5.35 / 3.29 / 3.44|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.8-zen1-1-zen python:3.11.10|torch:2.4.1+rocm6.1 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon Graphics (1) hip:6.1.40091-a8dbc0c19 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:cetusmix_version35 [a611cf9c19] vae:none width:512 height:512|podiax||430e3c|f3b362 ",
       "generated_at": "2025-01-08T18:06:31-05:00",
       "source_id": 14265578242
+    },
+    {
+      "id": "1813921580225572899",
+      "program": "SDBENCHMARK",
+      "message": "luisa 2025-01-09 01:00:19.556927|error / error / error|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 Autocast nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 2050 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 4GB|pipeline:native crossattention:Scaled-Dot-Product flags:lowvram compute:cuda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:epicrealism_naturalsinrc1vae [84d76a0328] vae:none width:512 height:512|luisa||08e95a|41b7e3 ",
+      "generated_at": "2025-01-08T20:03:47-05:00",
+      "source_id": 14265141553
+    },
+    {
+      "id": "1813921594234560520",
+      "program": "SDBENCHMARK",
+      "message": "luisa 2025-01-09 01:00:19.556927|error / error / error|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 Autocast nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 2050 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 4GB|pipeline:native crossattention:Scaled-Dot-Product flags:lowvram compute:cuda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:epicrealism_naturalsinrc1vae [84d76a0328] vae:none width:512 height:512|luisa||08e95a|41b7e3 ",
+      "generated_at": "2025-01-08T20:03:51-05:00",
+      "source_id": 14265141553
     }
   ]
 }
