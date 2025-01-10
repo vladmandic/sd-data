@@ -1,5 +1,5 @@
 {
-  "max_id": "1814340346902134797",
+  "max_id": "1814421175808483330",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1204,6 +1204,20 @@
       "message": "ngchu 2025-01-10 19:35:06.103405|0.37 / 0.37 / 0.16|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.32.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:babesbystableyogi_ponyv4vaefix.safetensors [02483e1589] vae:automatic width:512 height:512|ngchu||d95cb3|8148ff ",
       "generated_at": "2025-01-10T14:47:49-05:00",
       "source_id": 14266393106
+    },
+    {
+      "id": "1814381937335390232",
+      "program": "SDBENCHMARK",
+      "message": "Marcelo 2025-01-10 11:32:13.702038|3.17 / 3.85 / 3.82|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.0|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|Marcelo||9105b1|f64bd3 ",
+      "generated_at": "2025-01-10T06:33:05-05:00",
+      "source_id": 14266456036
+    },
+    {
+      "id": "1814421175808483330",
+      "program": "SDBENCHMARK",
+      "message": "Kagan 2025-01-10 20:07:08.791574|7.93 / 13.49 / 20.79|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticxl_v4 [8d640d619d] vae:none width:512 height:512|Kagan||ac6d4e|a8a869 ",
+      "generated_at": "2025-01-10T15:09:01-05:00",
+      "source_id": 14266522578
     }
   ]
 }
