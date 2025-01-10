@@ -1,5 +1,5 @@
 {
-  "max_id": "1814014002800537608",
+  "max_id": "1814084728467406850",
   "events": [
     {
       "id": "1811013468158087174",
@@ -959,6 +959,13 @@
       "message": "User 2025-01-09 22:10:03.969277|3.57 / 3.85 / 4.19|app:stable-diffusion-webui.git updated:2024-12-28 hash:021154d8b url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.29.2 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|NoobAI-XL (NAI-XL)_Eps-pred 110_.safetensors [6681e8e4b1]|User||64d025|23dc03 ",
       "generated_at": "2025-01-09T17:11:03-05:00",
       "source_id": 14265931486
+    },
+    {
+      "id": "1814084728467406850",
+      "program": "SDBENCHMARK",
+      "message": "Fuyn 2025-01-10 02:52:32.832574|7.96 / 9.36 / 9.56|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://jihulab.com/hanamizuki/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.6|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3070 Ti Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 8GB|Automatic none|meinamix_v12Final.safetensors|Fuyn||ce9030|667568 ",
+      "generated_at": "2025-01-09T21:53:00-05:00",
+      "source_id": 14266045551
     }
   ]
 }
