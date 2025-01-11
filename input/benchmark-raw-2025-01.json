@@ -1,5 +1,5 @@
 {
-  "max_id": "1814490047580397570",
+  "max_id": "1814704299381538816",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1288,6 +1288,20 @@
       "message": "Seifenmacher 2025-01-10 22:37:47.417838|3.08 / 3.34 / 3.51|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:sd1.5\\epicphotogasm_xphotoreal [8635af1c8c] vae:none width:512 height:512|Seifenmacher||20c607|4b56c5 ",
       "generated_at": "2025-01-10T17:42:40-05:00",
       "source_id": 14266623908
+    },
+    {
+      "id": "1814704145261838339",
+      "program": "SDBENCHMARK",
+      "message": "Florian Honegger 2025-01-11 12:52:56.220371|11.42 / 11.86 / 12.26|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Florian Honegger||402a47|cbf70f ",
+      "generated_at": "2025-01-11T07:53:27-05:00",
+      "source_id": 14266885986
+    },
+    {
+      "id": "1814704299381538816",
+      "program": "SDBENCHMARK",
+      "message": "Florian Honegger 2025-01-11 12:52:56.220371|11.42 / 11.86 / 12.26|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Florian Honegger||402a47|cbf70f ",
+      "generated_at": "2025-01-11T07:54:04-05:00",
+      "source_id": 14266885986
     }
   ]
 }
