@@ -1,5 +1,5 @@
 {
-  "max_id": "1814421175808483330",
+  "max_id": "1814490047580397570",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1218,6 +1218,76 @@
       "message": "Kagan 2025-01-10 20:07:08.791574|7.93 / 13.49 / 20.79|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticxl_v4 [8d640d619d] vae:none width:512 height:512|Kagan||ac6d4e|a8a869 ",
       "generated_at": "2025-01-10T15:09:01-05:00",
       "source_id": 14266522578
+    },
+    {
+      "id": "1814463903439183878",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:58:48-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814464063162474502",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:59:26-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814464065104437249",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:59:26-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814464066052349955",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:59:27-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814464069097414656",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:59:27-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814464070091464706",
+      "program": "SDBENCHMARK",
+      "message": "Laptop-01 2025-01-09 12:17:32.928110|7.54 / 11.1 / 12.57 / 13.17 / 12.67|app:stable-diffusion-webui-forge.git updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.17 12GB|Automatic none|Autism+Pony+Confetti-Mix\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors|Laptop-01||0acee1|4f7e3e ",
+      "generated_at": "2025-01-10T09:59:28-05:00",
+      "source_id": 14266590903
+    },
+    {
+      "id": "1814484110085906437",
+      "program": "SDBENCHMARK",
+      "message": "Seifenmacher 2025-01-06 12:10:19.051490|7.61 / 8.79 / 9.65|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd1.5\\epicphotogasm_xphotoreal [8635af1c8c] vae:none width:512 height:512|Seifenmacher||6643ca|833e16 ",
+      "generated_at": "2025-01-10T17:19:05-05:00",
+      "source_id": 14266623908
+    },
+    {
+      "id": "1814484110106877967",
+      "program": "SDBENCHMARK",
+      "message": "Seifenmacher 2025-01-10 22:18:00.196574|3.05 / 3.31 / 3.5|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:sd1.5\\epicphotogasm_xphotoreal [8635af1c8c] vae:none width:512 height:512|Seifenmacher||20c607|7b7abd ",
+      "generated_at": "2025-01-10T17:19:05-05:00",
+      "source_id": 14266623908
+    },
+    {
+      "id": "1814490047559426049",
+      "program": "SDBENCHMARK",
+      "message": "Seifenmacher 2025-01-10 22:40:52.414097|7.91 / 9.05 / 9.94|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd1.5\\epicphotogasm_xphotoreal [8635af1c8c] vae:none width:512 height:512|Seifenmacher||6643ca|3c4e1b ",
+      "generated_at": "2025-01-10T17:42:40-05:00",
+      "source_id": 14266623908
+    },
+    {
+      "id": "1814490047580397570",
+      "program": "SDBENCHMARK",
+      "message": "Seifenmacher 2025-01-10 22:37:47.417838|3.08 / 3.34 / 3.51|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:sd1.5\\epicphotogasm_xphotoreal [8635af1c8c] vae:none width:512 height:512|Seifenmacher||20c607|4b56c5 ",
+      "generated_at": "2025-01-10T17:42:40-05:00",
+      "source_id": 14266623908
     }
   ]
 }
