@@ -1,5 +1,5 @@
 {
-  "max_id": "1814903078328127488",
+  "max_id": "1814944364942770187",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1372,6 +1372,20 @@
       "message": "Daemonjax 2025-01-11 20:05:29.031207|16.01 / 16.9 / 21.58|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:560.81 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Daemonjax||309083|e3ade4 ",
       "generated_at": "2025-01-11T15:06:20-05:00",
       "source_id": 14267104104
+    },
+    {
+      "id": "1814925483675144199",
+      "program": "SDBENCHMARK",
+      "message": "dawso 2025-01-11 19:32:28.124248|7.02 / 6.99 / 6.85|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.27768-SP0 python:3.10.10|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:selaimix_v10bakedvae.safetensors [11702a5b73] vae:automatic width:512 height:768|dawso||5c8219|b3e360 ",
+      "generated_at": "2025-01-11T14:32:56-05:00",
+      "source_id": 14267124901
+    },
+    {
+      "id": "1814944364942770187",
+      "program": "SDBENCHMARK",
+      "message": "PRETENDERS 2025-01-11 23:42:01.412052|2.11 / 2.38 / 2.21|app:SD.next updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|PRETENDERS||bc7386|2615fa ",
+      "generated_at": "2025-01-11T18:44:31-05:00",
+      "source_id": 14267143353
     }
   ]
 }
