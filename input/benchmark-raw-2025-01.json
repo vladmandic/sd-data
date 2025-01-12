@@ -1,5 +1,5 @@
 {
-  "max_id": "1814728988959096836",
+  "max_id": "1814903078328127488",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1323,6 +1323,55 @@
       "message": "Administrator 2025-01-11 21:30:57.001460|6.42 / 7.01 / 7.73|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2070 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:560.94 8GB|Automatic medvram-sdxl|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||54d032|a332bb ",
       "generated_at": "2025-01-11T16:32:10-05:00",
       "source_id": 14266914921
+    },
+    {
+      "id": "1814869765504806945",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2024-11-04 11:33:20.790495|7.96 / 8.7 / 9.2|app:SD.next updated:2024-11-02 hash:65ddc611 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.22621-SP0 python:3.12.3|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.32.0.dev0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.03 12GB|Scaled-Dot-Product none|SD15\\3D\\ReV Animated\\revAnimated_v122EOL [3e654848b5]|Bruno||0156f2|a9b858 ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814869765509001216",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2024-11-15 14:34:35.594122|7.85 / 8.61 / 9.14|app:SD.next updated:2024-11-02 hash:65ddc611 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.32.0.dev0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.03 12GB|Scaled-Dot-Product none|SD15\\3D\\ReV Animated\\revAnimated_v122EOL [3e654848b5]|Bruno||23e4f1|1cbb33 ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814869765509001217",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2024-11-30 16:40:31.573531|7.35 / 8.25 / 8.8|app:SD.next updated:2024-11-30 hash:63ba83d3 url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.32.0.dev0 transformers:4.46.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.03 12GB|Scaled-Dot-Product none|SD15\\3D\\ReV Animated\\revAnimated_v122EOL [3e654848b5]|Bruno||cb8b59|940515 ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814869765509001219",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2024-12-13 16:17:07.718158|6.58 / 7.86 / 8.73|app:SD.next updated:2024-12-13 hash:8a6e5617 url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.32.0.dev0 transformers:4.46.3|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.03 12GB|Scaled-Dot-Product none|SD15\\3D\\ReV Animated\\revAnimated_v122EOL [3e654848b5]|Bruno||417b5e|f8ecb1 ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814869765509001221",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2024-12-26 13:35:17.357015|6.44 / 7.73 / 8.56|app:SD.next updated:2024-12-25 hash:9cb15a56 url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.03 12GB|Scaled-Dot-Product none|SD15\\3D\\ReV Animated\\revAnimated_v122EOL [3e654848b5]|Bruno||4d17f9|803a2e ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814869765509001229",
+      "program": "SDBENCHMARK",
+      "message": "Bruno 2025-01-11 19:50:58.011163|6.53 / 7.74 / 8.6|app:SD.next updated:2025-01-11 hash:ae8cb2e9 url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd15\\3d\\rev animated\\revanimated_v122eol [3e654848b5] vae:none width:512 height:512|Bruno||8f9608|4134bc ",
+      "generated_at": "2025-01-11T14:51:33-05:00",
+      "source_id": 14267066002
+    },
+    {
+      "id": "1814903078328127488",
+      "program": "SDBENCHMARK",
+      "message": "Daemonjax 2025-01-11 20:05:29.031207|16.01 / 16.9 / 21.58|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:560.81 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Daemonjax||309083|e3ade4 ",
+      "generated_at": "2025-01-11T15:06:20-05:00",
+      "source_id": 14267104104
     }
   ]
 }
