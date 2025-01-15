@@ -1,5 +1,5 @@
 {
-  "max_id": "1815748764535803919",
+  "max_id": "1815892048134459394",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1610,6 +1610,13 @@
       "message": "ethan 2025-01-14 17:04:15.991458|error / error / error|app:SD.next updated:2025-01-14 hash:c0482d2f url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.2.0+cu118 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|ethan||209bff|6f9d4e ",
       "generated_at": "2025-01-14T12:04:23-05:00",
       "source_id": 14268176676
+    },
+    {
+      "id": "1815892048134459394",
+      "program": "SDBENCHMARK",
+      "message": "user 2025-01-14 21:20:09.145870|0.17 / 0.18 / 0.18|app:automatic.git updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.0a0+cxx11.abi Full nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.1.10+xpu 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:uberrealisticpornmerge_v23final [62ef428c88] vae:none width:512 height:512|user||b76ad5|ae506b ",
+      "generated_at": "2025-01-14T16:33:43-05:00",
+      "source_id": 14268406218
     }
   ]
 }
