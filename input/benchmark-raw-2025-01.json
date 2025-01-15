@@ -1,5 +1,5 @@
 {
-  "max_id": "1815892048134459394",
+  "max_id": "1816149344177537033",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1617,6 +1617,34 @@
       "message": "user 2025-01-14 21:20:09.145870|0.17 / 0.18 / 0.18|app:automatic.git updated:2025-01-02 hash:3f360891 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.0a0+cxx11.abi Full nohalf xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.1.10+xpu 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:uberrealisticpornmerge_v23final [62ef428c88] vae:none width:512 height:512|user||b76ad5|ae506b ",
       "generated_at": "2025-01-14T16:33:43-05:00",
       "source_id": 14268406218
+    },
+    {
+      "id": "1816106055537713172",
+      "program": "SDBENCHMARK",
+      "message": "Pete20ino 2025-01-15 09:44:04.886624|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-01-13 hash:f3795d07 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 autocast half xformers: diffusers:0.28.2 transformers:4.44.0|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:noobai-xl-v1.1.safetensors [6681e8e4b1] vae:none width:512 height:512|Pete20ino||66c2b1|ce04c2 ",
+      "generated_at": "2025-01-15T04:44:08-05:00",
+      "source_id": 14266334415
+    },
+    {
+      "id": "1816149277458743305",
+      "program": "SDBENCHMARK",
+      "message": "mt8642h 2025-01-15 11:37:17.307511|0.14 / 0.12 / 0.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers: diffusers: transformers:4.30.2|device:Quadro P4000 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:556.12 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:juggernautxl_v9rdphoto2lightning.safetensors [c8df560d29] vae:none width:512 height:512|mt8642h||f777fd|53da77 ",
+      "generated_at": "2025-01-15T07:35:52-05:00",
+      "source_id": 14268790885
+    },
+    {
+      "id": "1816149340775956483",
+      "program": "SDBENCHMARK",
+      "message": "mt8642h 2025-01-15 11:37:17.307511|0.14 / 0.12 / 0.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers: diffusers: transformers:4.30.2|device:Quadro P4000 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:556.12 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:juggernautxl_v9rdphoto2lightning.safetensors [c8df560d29] vae:none width:512 height:512|mt8642h||f777fd|53da77 ",
+      "generated_at": "2025-01-15T07:36:07-05:00",
+      "source_id": 14268790885
+    },
+    {
+      "id": "1816149344177537033",
+      "program": "SDBENCHMARK",
+      "message": "mt8642h 2025-01-15 11:37:17.307511|0.14 / 0.12 / 0.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers: diffusers: transformers:4.30.2|device:Quadro P4000 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:556.12 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:juggernautxl_v9rdphoto2lightning.safetensors [c8df560d29] vae:none width:512 height:512|mt8642h||f777fd|53da77 ",
+      "generated_at": "2025-01-15T07:36:08-05:00",
+      "source_id": 14268790885
     }
   ]
 }
