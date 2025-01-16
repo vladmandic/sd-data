@@ -1,5 +1,5 @@
 {
-  "max_id": "1816419181185388545",
+  "max_id": "1816451443671093248",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1680,6 +1680,20 @@
       "message": "drewp 2025-01-15 23:27:47.872746|5.91 / 6.45 / 6.56||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.0+cu118 autocast half xformers: diffusers:0.32.2 transformers:4.30.2|device:AMD Radeon RX 6950 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|drewp||a164aa|340f79 ",
       "generated_at": "2025-01-15T18:28:24-05:00",
       "source_id": 14269212438
+    },
+    {
+      "id": "1816451429129441293",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-16 15:29:55.545301|10.07 / 10.68 / 12.3|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 106 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.20348-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA A10 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:538.78 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:chilloutmix_niprunedfp32_1.ckpt [7f55c8e4a2] vae:automatic width:512 height:512|Administrator||66ec30|742bc1 ",
+      "generated_at": "2025-01-16T10:36:31-05:00",
+      "source_id": 14269255220
+    },
+    {
+      "id": "1816451443671093248",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-16 15:29:55.545301|10.07 / 10.68 / 12.3|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 106 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.20348-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA A10 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:538.78 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:chilloutmix_niprunedfp32_1.ckpt [7f55c8e4a2] vae:automatic width:512 height:512|Administrator||66ec30|742bc1 ",
+      "generated_at": "2025-01-16T10:36:34-05:00",
+      "source_id": 14269255220
     }
   ]
 }
