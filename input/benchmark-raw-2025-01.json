@@ -1,5 +1,5 @@
 {
-  "max_id": "1816451443671093248",
+  "max_id": "1816559595020279811",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1694,6 +1694,55 @@
       "message": "Administrator 2025-01-16 15:29:55.545301|10.07 / 10.68 / 12.3|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 106 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.20348-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA A10 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:538.78 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:chilloutmix_niprunedfp32_1.ckpt [7f55c8e4a2] vae:automatic width:512 height:512|Administrator||66ec30|742bc1 ",
       "generated_at": "2025-01-16T10:36:34-05:00",
       "source_id": 14269255220
+    },
+    {
+      "id": "1816529079491543048",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:04-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816529085925605379",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:06-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816529090463842320",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:07-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816529091977986067",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:07-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816529092967841792",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:07-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816529093764759552",
+      "program": "SDBENCHMARK",
+      "message": "pt 2025-01-16 20:44:07.579768|7.12 / 7.9 / 8.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pt||51730f|85c9cc ",
+      "generated_at": "2025-01-16T15:45:07-05:00",
+      "source_id": 14269365187
+    },
+    {
+      "id": "1816559595020279811",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-16 22:45:15.298498|11.79 / 12.36 / 12.42|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.09 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||963c8e|54c37e ",
+      "generated_at": "2025-01-16T17:46:24-05:00",
+      "source_id": 14269413850
     }
   ]
 }
