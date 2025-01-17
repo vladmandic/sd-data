@@ -1,5 +1,5 @@
 {
-  "max_id": "1816559595020279811",
+  "max_id": "1816691953828544523",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1743,6 +1743,13 @@
       "message": "Administrator 2025-01-16 22:45:15.298498|11.79 / 12.36 / 12.42|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.09 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||963c8e|54c37e ",
       "generated_at": "2025-01-16T17:46:24-05:00",
       "source_id": 14269413850
+    },
+    {
+      "id": "1816691953828544523",
+      "program": "SDBENCHMARK",
+      "message": "Arius 2025-01-17 00:14:31.645473|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.4.1+cpu Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v80 [63e5c28bf8] vae:none width:512 height:512|Arius||4ac3ca|8ddd24 ",
+      "generated_at": "2025-01-16T19:32:16-05:00",
+      "source_id": 14269635811
     }
   ]
 }
