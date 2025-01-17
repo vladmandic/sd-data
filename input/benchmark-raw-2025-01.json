@@ -1,5 +1,5 @@
 {
-  "max_id": "1816800824786083841",
+  "max_id": "1816945367762264086",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1764,6 +1764,13 @@
       "message": "mimac 2025-01-16 20:39:25.856688|1.85 / 2.48 / 2.79 / 3.03 / 3.06|app:stable-diffusion-webui-forge.git updated:2025-01-13 hash:b835f24a url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:ntrmixillustriousxl_v40.safetensors vae:none width:512 height:1024|mimac||943f72|7cc7ae ",
       "generated_at": "2025-01-16T15:44:57-05:00",
       "source_id": 14269686767
+    },
+    {
+      "id": "1816945367762264086",
+      "program": "SDBENCHMARK",
+      "message": "Owner 2025-01-17 11:14:33.862394|0.58 / 0.51 / 1.03|app:automatic.git updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.3|torch:2.5.1+cu124 Autocast half xformers:0.0.29.post1 diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 24GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:xxxray_v10 [50d7a2929a] vae:sdxlvae_sdxlvae.safetensors width:512 height:512|Owner||1d1362|cd4276 ",
+      "generated_at": "2025-01-17T06:19:15-05:00",
+      "source_id": 14270010223
     }
   ]
 }
