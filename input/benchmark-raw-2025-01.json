@@ -1,5 +1,5 @@
 {
-  "max_id": "1816945367762264086",
+  "max_id": "1817154522754244612",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1771,6 +1771,34 @@
       "message": "Owner 2025-01-17 11:14:33.862394|0.58 / 0.51 / 1.03|app:automatic.git updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.3|torch:2.5.1+cu124 Autocast half xformers:0.0.29.post1 diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 24GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:xxxray_v10 [50d7a2929a] vae:sdxlvae_sdxlvae.safetensors width:512 height:512|Owner||1d1362|cd4276 ",
       "generated_at": "2025-01-17T06:19:15-05:00",
       "source_id": 14270010223
+    },
+    {
+      "id": "1817097969854500870",
+      "program": "SDBENCHMARK",
+      "message": "lxk 2025-01-18 10:23:46.264858|1.32 / 1.23 / 1.3|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 6GB|Automatic medvram|墨卣-水墨连环画_v1.0.ckpt [6bb7dc2309]|lxk||0520b7|268d74 ",
+      "generated_at": "2025-01-18T05:25:38-05:00",
+      "source_id": 14270231445
+    },
+    {
+      "id": "1817107180239892486",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-01-18 10:01:40.894050|10.66 / 10.9 / 11.25|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\chilloutmix_v10.ckpt [2f1cb60915] vae:automatic width:512 height:512|User||c5efd5|575ea5 ",
+      "generated_at": "2025-01-18T05:02:13-05:00",
+      "source_id": 14270239563
+    },
+    {
+      "id": "1817154473261457412",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-18 14:09:51.547530|9.5 / 10.25 / 10.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 24GB|Automatic none|LEOSAM FilmGirl Ultra 写实大模型_FilmGirl Ultra.safetensors [b363551a70]|Administrator||69d4b7|c7cd87 ",
+      "generated_at": "2025-01-18T09:10:09-05:00",
+      "source_id": 14270289302
+    },
+    {
+      "id": "1817154522754244612",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-18 14:09:51.547530|9.5 / 10.25 / 10.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 24GB|Automatic none|LEOSAM FilmGirl Ultra 写实大模型_FilmGirl Ultra.safetensors [b363551a70]|Administrator||69d4b7|c7cd87 ",
+      "generated_at": "2025-01-18T09:10:21-05:00",
+      "source_id": 14270289302
     }
   ]
 }
