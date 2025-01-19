@@ -1,5 +1,5 @@
 {
-  "max_id": "1817286530478297097",
+  "max_id": "1817393571393880065",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1827,6 +1827,97 @@
       "message": "Administrator 2025-01-18 22:52:02.293430|5.37 / 9.73 / 12.96|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver: 10GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||7dd9d4|9a323f ",
       "generated_at": "2025-01-18T17:54:54-05:00",
       "source_id": 14270438152
+    },
+    {
+      "id": "1817383649918763008",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:47-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383649918763010",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:47-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383673805324298",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:53-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383673805324302",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:53-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383684920229891",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383684920229892",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383686887358465",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383686887358470",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383688351170562",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383688351170571",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:56-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383691849220096",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:10:35.680428|0.53 / 2.83 / 2.66|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||d98abb|4db631 ",
+      "generated_at": "2025-01-18T21:20:57-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817383691849220097",
+      "program": "SDBENCHMARK",
+      "message": "User1 2025-01-19 02:14:41.531553|4.71 / 3.81 / 0.28|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:561.17 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:3ixz2fkfarasabtyyyw89 [74dda471cc] vae:none width:512 height:512|User1||44886d|bc40aa ",
+      "generated_at": "2025-01-18T21:20:57-05:00",
+      "source_id": 14270556824
+    },
+    {
+      "id": "1817393571393880065",
+      "program": "SDBENCHMARK",
+      "message": "Seka 2025-01-19 02:58:56.852550|1.68 / 1.93 / 2.24|app:stable-diffusion-webui-forge.git updated:2025-01-13 hash:b835f24a url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.4.0.dev20240601+cu124 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:8907 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusion model:revanimated_v2rebirth [8463ca6405] vae:automatic width:512 height:512|Seka|https://civitai.com/user/Santi21|722b1b|9e8bcc ",
+      "generated_at": "2025-01-18T22:00:14-05:00",
+      "source_id": 14270566766
     }
   ]
 }
