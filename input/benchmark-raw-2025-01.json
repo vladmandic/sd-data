@@ -1,5 +1,5 @@
 {
-  "max_id": "1817393571393880065",
+  "max_id": "1817697941528424450",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1918,6 +1918,20 @@
       "message": "Seka 2025-01-19 02:58:56.852550|1.68 / 1.93 / 2.24|app:stable-diffusion-webui-forge.git updated:2025-01-13 hash:b835f24a url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.4.0.dev20240601+cu124 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:8907 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusion model:revanimated_v2rebirth [8463ca6405] vae:automatic width:512 height:512|Seka|https://civitai.com/user/Santi21|722b1b|9e8bcc ",
       "generated_at": "2025-01-18T22:00:14-05:00",
       "source_id": 14270566766
+    },
+    {
+      "id": "1817691892650000399",
+      "program": "SDBENCHMARK",
+      "message": "Apache 2025-01-19 20:42:58.240773|0.64 / 1.52 / 1.62|app:automatic.git updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:1024 height:1024|Apache||971038|521ff2 ",
+      "generated_at": "2025-01-19T15:45:41-05:00",
+      "source_id": 14270899903
+    },
+    {
+      "id": "1817697941528424450",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-20 02:05:14.398286|3.59 / 4.57 / 6.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||44fab9|fdcd08 ",
+      "generated_at": "2025-01-19T21:09:42-05:00",
+      "source_id": 14270907033
     }
   ]
 }
