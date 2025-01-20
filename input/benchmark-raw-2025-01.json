@@ -1,5 +1,5 @@
 {
-  "max_id": "1817697941528424450",
+  "max_id": "1817711628330917901",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1932,6 +1932,13 @@
       "message": "Administrator 2025-01-20 02:05:14.398286|3.59 / 4.57 / 6.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||44fab9|fdcd08 ",
       "generated_at": "2025-01-19T21:09:42-05:00",
       "source_id": 14270907033
+    },
+    {
+      "id": "1817711628330917901",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-01-20 03:03:04.936875|9.36 / 15.8 / 33.17 / 40.57 / 40.38|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:536.23 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|测试By BiliBili Nyan9, GPU: RTX 4090。搜索Nyan9可以获得更多详细信息|f5cefa|e4424f ",
+      "generated_at": "2025-01-19T22:04:05-05:00",
+      "source_id": 14270921361
     }
   ]
 }
