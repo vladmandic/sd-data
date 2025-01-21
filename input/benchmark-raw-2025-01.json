@@ -1,5 +1,5 @@
 {
-  "max_id": "1818128592048144411",
+  "max_id": "1818203670416900106",
   "events": [
     {
       "id": "1811013468158087174",
@@ -1995,6 +1995,76 @@
       "message": "Puget 2025-01-20 14:40:01.215866|5.62 / 7.09 / 8.95|app:automatic.git updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|Puget||61965f|7003f2 ",
       "generated_at": "2025-01-20T09:40:56-05:00",
       "source_id": 14271526583
+    },
+    {
+      "id": "1818165192765394949",
+      "program": "SDBENCHMARK",
+      "message": "ko 2023-03-27 15:28:08.641964|8.3 / 14.31 / 21.39|updated:2023-02-20 hash:0cc0ee1b url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 24GB|xformers none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|ko||a67e08|e3ab76 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192765394957",
+      "program": "SDBENCHMARK",
+      "message": "ko 2023-04-10 12:42:39.516586|2.02 / 3.89 / 7.58|updated:2023-02-20 hash:0cc0ee1b url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:1.13.1+cu117 autocast half xformers:0.0.16rc425 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.7 cudnn:8800 24GB|xformers none|2Guofeng2_v20.safetensors [3257896d4b]|ko||470bc2|cb6316 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589249",
+      "program": "SDBENCHMARK",
+      "message": "ko 2023-04-10 22:57:56.282447|10.17 / 11.87 / 14.61|updated:2023-02-20 hash:0cc0ee1b url:https://jihulab.com/hunter0725/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17rc482 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|chilloutmix_.safetensors [a757fe8b3d]|ko||95e5c5|3740c6 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589251",
+      "program": "SDBENCHMARK",
+      "message": "ko 2023-04-27 22:36:06.298619|12.49 / 16.69 / 19.3|updated:2023-02-20 hash:0cc0ee1b url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17 accelerate:0.12.0 transformers:4.25.1|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 24GB|xformers none|majicmixRealistic_v2.safetensors [5d22b29ecd]|ko||3289bf|480182 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589253",
+      "program": "SDBENCHMARK",
+      "message": "ko 2025-01-14 15:00:42.423008|1.11 / 1.23 / 0.81|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.0+cu118 autocast half xformers:0.0.17 diffusers:0.30.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:566.36 8GB|Automatic medvram-sdxl|sdxl_pony\\XXMix_9realisticSDXL_v1.safetensors [a94255c529]|ko||7a86d5|e01633 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589254",
+      "program": "SDBENCHMARK",
+      "message": "ko 2025-01-14 14:47:36.045404|1.87 / 0.64 / 1.29|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.0.0+cu118 autocast nohalf xformers:0.0.17 diffusers:0.30.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:566.36 8GB|Automatic none|majc\\majicmixRealistic_v2.safetensors [5d22b29ecd]|ko||7eaa92|bf344f ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589257",
+      "program": "SDBENCHMARK",
+      "message": "ko 2025-01-20 18:49:54.500871|1.17 / 1.23 / 1.41|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.30.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:566.36 8GB|Automatic medvram-sdxl|sdxl_pony\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|ko||ea168f|595df2 ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818165192769589258",
+      "program": "SDBENCHMARK",
+      "message": "ko 2025-01-21 09:05:12.270406|12.04 / 13.22 / 14.38 / 14.97 / 15.18|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.30.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.36 22GB|Automatic none|old\\anything-v5-PrtRE.safetensors [7f96a1a9ca]|ko||fa89c9|a8bd9c ",
+      "generated_at": "2025-01-21T04:06:24-05:00",
+      "source_id": 14268137915
+    },
+    {
+      "id": "1818200475338723343",
+      "program": "SDBENCHMARK",
+      "message": "giga 2025-01-20 21:25:49.701565|4.72 / 3.34 / 3.42|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-51-generic python:3.11.11|torch:2.4.1+rocm6.1 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT (1) hip:6.1.40091-a8dbc0c19 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v7 [43d40c0f8d] vae:automatic width:512 height:512|giga||8daaf1|eb4fd0 ",
+      "generated_at": "2025-01-20T16:26:36-05:00",
+      "source_id": 14271647968
+    },
+    {
+      "id": "1818203670416900106",
+      "program": "SDBENCHMARK",
+      "message": "giga 2025-01-20 21:38:57.319609|7.54 / 7.72 / 8.25|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-51-generic python:3.11.11|torch:2.4.1+rocm6.1 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT (1) hip:6.1.40091-a8dbc0c19 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly [6ce0161689] vae:automatic width:512 height:512|giga||8daaf1|cbc255 ",
+      "generated_at": "2025-01-20T16:39:18-05:00",
+      "source_id": 14271647968
     }
   ]
 }
