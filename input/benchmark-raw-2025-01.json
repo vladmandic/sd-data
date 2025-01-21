@@ -1,5 +1,5 @@
 {
-  "max_id": "1818203670416900106",
+  "max_id": "1818329070434435073",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2065,6 +2065,27 @@
       "message": "giga 2025-01-20 21:38:57.319609|7.54 / 7.72 / 8.25|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-51-generic python:3.11.11|torch:2.4.1+rocm6.1 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT (1) hip:6.1.40091-a8dbc0c19 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly [6ce0161689] vae:automatic width:512 height:512|giga||8daaf1|cbc255 ",
       "generated_at": "2025-01-20T16:39:18-05:00",
       "source_id": 14271647968
+    },
+    {
+      "id": "1818309863223242771",
+      "program": "SDBENCHMARK",
+      "message": "Green_Tea 2025-01-21 11:53:06.859053|0.32 / 0.31 / 0.31 / 0.1 / 0.07|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:animaginexlv31_v31.safetensors [e3c47aedb0] vae:none width:512 height:512|Green_Tea||35e509|0c5a42 ",
+      "generated_at": "2025-01-21T08:41:16-05:00",
+      "source_id": 14271815648
+    },
+    {
+      "id": "1818329061592842242",
+      "program": "SDBENCHMARK",
+      "message": "w 2025-01-21 19:54:50.206468|15.21 / 16.45 / 16.79 / 17.01 / 17.01|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|w||b04db1|19386b ",
+      "generated_at": "2025-01-21T14:57:32-05:00",
+      "source_id": 14271844834
+    },
+    {
+      "id": "1818329070434435073",
+      "program": "SDBENCHMARK",
+      "message": "w 2025-01-21 19:54:50.206468|15.21 / 16.45 / 16.79 / 17.01 / 17.01|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|w||b04db1|19386b ",
+      "generated_at": "2025-01-21T14:57:35-05:00",
+      "source_id": 14271844834
     }
   ]
 }
