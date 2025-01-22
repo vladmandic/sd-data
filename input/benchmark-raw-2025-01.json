@@ -1,5 +1,5 @@
 {
-  "max_id": "1818505300823687168",
+  "max_id": "1818678927200272384",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2170,6 +2170,13 @@
       "message": "arno 2025-01-22 00:37:18.222813|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-503.21.1.el9_5.x86_64 python:3.10.11|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:StableVideoDiffusionPipeline model:diffusers/stabilityai/stable-video-diffusion-img2vid [9cf024d5bf] vae:none width:512 height:512|arno||a067be|43981d ",
       "generated_at": "2025-01-21T19:37:52-05:00",
       "source_id": 14272170605
+    },
+    {
+      "id": "1818678927200272384",
+      "program": "SDBENCHMARK",
+      "message": "Sandro 2025-01-22 12:07:30.346219|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:diffusers\\madebyollin/sdxl-vae-fp16-fix [207b116dae] vae:automatic width:512 height:512|Sandro||d72520|7d07ea ",
+      "generated_at": "2025-01-22T07:07:54-05:00",
+      "source_id": 14272467627
     }
   ]
 }
