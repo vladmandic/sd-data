@@ -1,5 +1,5 @@
 {
-  "max_id": "1818678927200272384",
+  "max_id": "1818770767643590661",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2177,6 +2177,13 @@
       "message": "Sandro 2025-01-22 12:07:30.346219|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:diffusers\\madebyollin/sdxl-vae-fp16-fix [207b116dae] vae:automatic width:512 height:512|Sandro||d72520|7d07ea ",
       "generated_at": "2025-01-22T07:07:54-05:00",
       "source_id": 14272467627
+    },
+    {
+      "id": "1818770767643590661",
+      "program": "SDBENCHMARK",
+      "message": "Matteo Angeloni 2025-01-22 18:12:16.584379|error / error / error|app:stable-diffusion-webui.git updated:2023-12-16 hash:cf2772fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.0.1+cu118 full half xformers: diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:566.03 8GB|Automatic medvram|ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|Matteo Angeloni||d919b8|294fe5 ",
+      "generated_at": "2025-01-22T13:12:44-05:00",
+      "source_id": 14272618140
     }
   ]
 }
