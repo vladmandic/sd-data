@@ -1,5 +1,5 @@
 {
-  "max_id": "1818387211796791300",
+  "max_id": "1818505300823687168",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2128,6 +2128,48 @@
       "message": "ko 2025-01-20 18:49:54.500871|1.17 / 1.23 / 1.41|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.8|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.30.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:566.36 8GB|Automatic medvram-sdxl|sdxl_pony\\ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|ko||ea168f|595df2 ",
       "generated_at": "2025-01-21T18:48:36-05:00",
       "source_id": 14268137915
+    },
+    {
+      "id": "1818450656114159624",
+      "program": "SDBENCHMARK",
+      "message": "Anon 2025-01-20 04:28:31.088313|4.35 / 7.05 / 9.48|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:automatic width:512 height:512|Yakko||61a44f|42f209 ",
+      "generated_at": "2025-01-22T00:00:43-05:00",
+      "source_id": 14272056690
+    },
+    {
+      "id": "1818450656118353925",
+      "program": "SDBENCHMARK",
+      "message": "Anon 2025-01-20 04:53:20.569952|3.96 / 5.92 / 9.57|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:automatic width:512 height:512|Yakko||a421c9|5267cb ",
+      "generated_at": "2025-01-22T00:00:43-05:00",
+      "source_id": 14272056690
+    },
+    {
+      "id": "1818450656126742529",
+      "program": "SDBENCHMARK",
+      "message": "Anon 2025-01-22 04:46:38.960736|error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0.dev20250118+cu118 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:90100 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:automatic width:512 height:512|Yakko||537fa7|b7d0b3 ",
+      "generated_at": "2025-01-22T00:00:43-05:00",
+      "source_id": 14272056690
+    },
+    {
+      "id": "1818450656126742531",
+      "program": "SDBENCHMARK",
+      "message": "Anon 2025-01-22 05:00:07.216303|10.28 / 12.61 / 14.51|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:automatic width:512 height:512|Yakko||28ecba|c7340a ",
+      "generated_at": "2025-01-22T00:00:43-05:00",
+      "source_id": 14272056690
+    },
+    {
+      "id": "1818491374673248263",
+      "program": "SDBENCHMARK",
+      "message": "matts 2025-01-21 04:29:52.798362|3.7 / 4.3 / 5.45|app:automatic.git updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.47.1|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver: 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:thetrualityengine_trualityenginepro [e73d775ff9] vae:none width:512 height:512|matts||08ffd7|b6a820 ",
+      "generated_at": "2025-01-21T18:42:31-05:00",
+      "source_id": 14272143463
+    },
+    {
+      "id": "1818505300823687168",
+      "program": "SDBENCHMARK",
+      "message": "arno 2025-01-22 00:37:18.222813|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-503.21.1.el9_5.x86_64 python:3.10.11|torch:2.5.1+cu124 Autocast half xformers: diffusers:0.33.0.dev0 transformers:4.47.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:StableVideoDiffusionPipeline model:diffusers/stabilityai/stable-video-diffusion-img2vid [9cf024d5bf] vae:none width:512 height:512|arno||a067be|43981d ",
+      "generated_at": "2025-01-21T19:37:52-05:00",
+      "source_id": 14272170605
     }
   ]
 }
