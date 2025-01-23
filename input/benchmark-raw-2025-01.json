@@ -1,5 +1,5 @@
 {
-  "max_id": "1819029076145524744",
+  "max_id": "1819128617351950343",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2233,6 +2233,34 @@
       "message": "82102 2025-01-23 19:19:07.869471|error / error / error|app:stable-diffusion-webui-reForge updated:2025-01-20 hash:f3313188 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.28.2 transformers:4.44.0|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pony\\whiteponydiffusion4_whitepony4classic.safetensors [cb61cbc8ae] vae:sdxl_vae.safetensors width:512 height:512|82102||bbe1a7|717af5 ",
       "generated_at": "2025-01-23T14:19:08-05:00",
       "source_id": 14273086240
+    },
+    {
+      "id": "1819101678444662797",
+      "program": "SDBENCHMARK",
+      "message": "outeh 2025-01-23 16:06:41.990997|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.4-1-MANJARO python:3.11.11|torch:2.5.1+cxx11.abi xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.5.10+xpu 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:majicmixrealistic_v6 vae:automatic width:512 height:512|outeh||c42506|ab8bae ",
+      "generated_at": "2025-01-23T11:07:39-05:00",
+      "source_id": 14273203332
+    },
+    {
+      "id": "1819104151649574925",
+      "program": "SDBENCHMARK",
+      "message": "changsheng 2025-01-23 23:17:11.948422|10.5 / 15.84 / 18.91|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:552.74  552.74 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|changsheng||3e8643|63762e ",
+      "generated_at": "2025-01-23T18:17:29-05:00",
+      "source_id": 14273209370
+    },
+    {
+      "id": "1819104184411283459",
+      "program": "SDBENCHMARK",
+      "message": "changsheng 2025-01-23 23:17:11.948422|10.5 / 15.84 / 18.91|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:552.74  552.74 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|changsheng||3e8643|63762e ",
+      "generated_at": "2025-01-23T18:17:37-05:00",
+      "source_id": 14273209370
+    },
+    {
+      "id": "1819128617351950343",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-01-18 10:04:09.259833|11.23 / 11.8 / 11.84 / 11.49 / 11.47 / 11.78 / 10.6|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\chilloutmix_v10.ckpt [2f1cb60915] vae:automatic width:512 height:512|mineformine||c5efd5|973224 ",
+      "generated_at": "2025-01-23T18:54:41-05:00",
+      "source_id": 14270239563
     }
   ]
 }
