@@ -1,5 +1,5 @@
 {
-  "max_id": "1818963379176525825",
+  "max_id": "1819029076145524744",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2226,6 +2226,13 @@
       "message": "34114 2025-01-23 13:57:33.226839|4.53 / 5.63 / 6.45|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.81 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|34114||0055dc|e8324b ",
       "generated_at": "2025-01-23T08:58:06-05:00",
       "source_id": 14272980605
+    },
+    {
+      "id": "1819029076145524744",
+      "program": "SDBENCHMARK",
+      "message": "82102 2025-01-23 19:19:07.869471|error / error / error|app:stable-diffusion-webui-reForge updated:2025-01-20 hash:f3313188 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.28.2 transformers:4.44.0|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pony\\whiteponydiffusion4_whitepony4classic.safetensors [cb61cbc8ae] vae:sdxl_vae.safetensors width:512 height:512|82102||bbe1a7|717af5 ",
+      "generated_at": "2025-01-23T14:19:08-05:00",
+      "source_id": 14273086240
     }
   ]
 }
