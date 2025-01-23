@@ -1,5 +1,5 @@
 {
-  "max_id": "1818853684919066625",
+  "max_id": "1818963379176525825",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2198,6 +2198,34 @@
       "message": "ACER 2025-01-23 01:39:22.792128|error / error / error|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.14 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|ACER|phn 16-72|8dd51d|10e94e ",
       "generated_at": "2025-01-22T20:42:12-05:00",
       "source_id": 14272778002
+    },
+    {
+      "id": "1818894942857252866",
+      "program": "SDBENCHMARK",
+      "message": "Ti 2025-01-22 22:15:42.695739|0.26 / 0.41 / 0.61|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:beeblesrealistic_v10.safetensors [16d5078460] vae:automatic width:512 height:512|Ti||2026d2|2bea20 ",
+      "generated_at": "2025-01-22T17:26:07-05:00",
+      "source_id": 14272859038
+    },
+    {
+      "id": "1818955810965999623",
+      "program": "SDBENCHMARK",
+      "message": "mistermaker 2025-01-22 21:26:31.333920|7.33 / 5.76 / 5.87|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.9-1-cachyos python:3.10.11|torch:2.4.1+rocm6.1 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon Graphics (1) hip:6.1.40091-a8dbc0c19 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_v8rundiffusion [aeb7e9e689] vae:none width:512 height:512|mistermaker||7191c0|174d0d ",
+      "generated_at": "2025-01-22T16:28:02-05:00",
+      "source_id": 14272968628
+    },
+    {
+      "id": "1818963371513532416",
+      "program": "SDBENCHMARK",
+      "message": "34114 2025-01-23 13:57:33.226839|4.53 / 5.63 / 6.45|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.81 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|34114||0055dc|e8324b ",
+      "generated_at": "2025-01-23T08:58:04-05:00",
+      "source_id": 14272980605
+    },
+    {
+      "id": "1818963379176525825",
+      "program": "SDBENCHMARK",
+      "message": "34114 2025-01-23 13:57:33.226839|4.53 / 5.63 / 6.45|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.81 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|34114||0055dc|e8324b ",
+      "generated_at": "2025-01-23T08:58:06-05:00",
+      "source_id": 14272980605
     }
   ]
 }
