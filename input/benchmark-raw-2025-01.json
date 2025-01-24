@@ -1,5 +1,5 @@
 {
-  "max_id": "1819288592086904833",
+  "max_id": "1819360155637309450",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2275,6 +2275,13 @@
       "message": "张丑丑 2025-01-24 11:29:49.156962|7.34 / 8.01 / 8.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:写实\\极氪写实max-白白酱_v6剪树枝版.safetensors vae:vae-84m-pruned_2.0.safetensors width:512 height:512|张丑丑||11f587|a25bc1 ",
       "generated_at": "2025-01-24T06:30:23-05:00",
       "source_id": 14273537993
+    },
+    {
+      "id": "1819360155637309450",
+      "program": "SDBENCHMARK",
+      "message": "HYPERPC 2025-01-24 11:13:35.476920|7.19 / 7.37 / 7.9||arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:juggernaut_reborn (1).safetensors [338b85bc4f] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|HYPERPC||a02955|a206fd ",
+      "generated_at": "2025-01-24T06:14:45-05:00",
+      "source_id": 14273649678
     }
   ]
 }
