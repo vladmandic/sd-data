@@ -1,5 +1,5 @@
 {
-  "max_id": "1819763362691735552",
+  "max_id": "1819792585624047620",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2387,6 +2387,20 @@
       "message": "madmax 2025-01-25 10:55:12.990906|4.83 / 6.72 / 8.15|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-51-generic python:3.12.3|torch:2.5.1+cu124 xformers:0.0.30.dev969 diffusers:0.33.0.dev0 transformers:4.47.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:570.86.10 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:test/indecent_v20_1209950 [335da0800c] vae:none width:512 height:512|madmax||5ad83d|7bcc06 ",
       "generated_at": "2025-01-25T05:56:57-05:00",
       "source_id": 14274214257
+    },
+    {
+      "id": "1819792585603076112",
+      "program": "SDBENCHMARK",
+      "message": "sophee 2024-06-06 21:34:02.567220|13.47 / 13.86 / 16.42|app:stable-diffusion-webui-forge updated:2024-03-08 hash:29be1da7 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers: diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:555.85 10GB|Automatic none|01 SD 1.5\\absolutereality_v181.safetensors [463d6a9fe8]|sophe||8d049f|6576ed ",
+      "generated_at": "2025-01-25T15:53:05-05:00",
+      "source_id": 14274255480
+    },
+    {
+      "id": "1819792585624047620",
+      "program": "SDBENCHMARK",
+      "message": "sophee 2025-01-25 20:31:56.517459|7.75 / 10.91 / 12.26 / 13.38 / 13.3 / 13.46 / 3.91|app:stable-diffusion-webui-forge updated:2025-01-13 hash:b835f24a url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:566.36 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\03 sdxl pony test\\cyberrealisticpony_v70a.safetensors vae:automatic width:512 height:512|sophee||a9222a|0fa67e ",
+      "generated_at": "2025-01-25T15:53:05-05:00",
+      "source_id": 14274255480
     }
   ]
 }
