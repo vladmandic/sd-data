@@ -1,5 +1,5 @@
 {
-  "max_id": "1820136321872744450",
+  "max_id": "1820225832841564169",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2464,6 +2464,20 @@
       "message": "Admns 2025-01-26 19:31:12.611613|11.78 / 14.5 / 15.88 / 16.69 / 17.11 / 17.27 / 15.15|app:stable-diffusion-webui updated:2023-08-31 hash:5ef669de0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 xformers:0.0.21 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:566.03 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:aamanyloraanimemixanime_v1.safetensors [354b8c571d] vae:none width:512 height:512|Admns|Gigabyte 2080 Ti Turbo OC 22GB|8eac16|d2e57e ",
       "generated_at": "2025-01-26T14:38:58-05:00",
       "source_id": 14274643756
+    },
+    {
+      "id": "1820225594504433664",
+      "program": "SDBENCHMARK",
+      "message": "Zéphirlina 2025-01-26 18:27:35.806991|1.19 / 0.8 / 0.54|app:stable-diffusion-webui-amdgpu.git updated:2025-01-17 hash:3cf53018 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.46.3| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:directml compile:none dtype:torch.float32|pipeline:DiffusionEngine model:prefectponyxl_v50.safetensors [d1a2aac8e5] vae:none width:512 height:512|Zéphirlina|Overclock 7900XT 20GO|05e00d|61cfd4 ",
+      "generated_at": "2025-01-26T13:33:44-05:00",
+      "source_id": 14274748147
+    },
+    {
+      "id": "1820225832841564169",
+      "program": "SDBENCHMARK",
+      "message": "pruth 2025-01-26 23:03:34.864040|4.49 / 5.8 / 4.74|app:SD.next updated:2025-01-16 hash:e22d0789 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|pruth||e565b9|96b1d5 ",
+      "generated_at": "2025-01-26T18:04:14-05:00",
+      "source_id": 14274748323
     }
   ]
 }
