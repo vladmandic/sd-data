@@ -1,5 +1,5 @@
 {
-  "max_id": "1820268566235238400",
+  "max_id": "1820497667193749510",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2492,6 +2492,34 @@
       "message": "Zéphirlina 2025-01-26 21:22:19.644148|1.7 / 2.03 / 1.65|app:stable-diffusion-webui-amdgpu updated:2025-01-17 hash:3cf53018 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.1|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd_xl_base_1.0_0.9vae.safetensors [e6bb9ea85b] vae:none width:1024 height:1024|Zéphirlina||7c9ebc|4d220c ",
       "generated_at": "2025-01-26T16:24:28-05:00",
       "source_id": 14274748147
+    },
+    {
+      "id": "1820462566598692885",
+      "program": "SDBENCHMARK",
+      "message": "82102 2025-01-23 19:19:11.533962|error / error / error|app:stable-diffusion-webui-reForge updated:2025-01-20 hash:f3313188 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.5.1+cu124 xformers: diffusers:0.28.2 transformers:4.44.0|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pony\\whiteponydiffusion4_whitepony4classic.safetensors [cb61cbc8ae] vae:sdxl_vae.safetensors width:512 height:512|82102||bbe1a7|635fe9 ",
+      "generated_at": "2025-01-27T13:15:19-05:00",
+      "source_id": 14273086240
+    },
+    {
+      "id": "1820462566598692907",
+      "program": "SDBENCHMARK",
+      "message": "82102 2025-01-27 18:15:02.978798|error / error / error|app:stable-diffusion-webui-reForge updated:2025-01-26 hash:d9edaad1 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.28.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pony\\whiteponydiffusion4_whitepony4classic.safetensors [cb61cbc8ae] vae:sdxl_vae.safetensors width:512 height:512|82102||3acac5|d178aa ",
+      "generated_at": "2025-01-27T13:15:19-05:00",
+      "source_id": 14273086240
+    },
+    {
+      "id": "1820497667193749509",
+      "program": "SDBENCHMARK",
+      "message": "renig 2024-10-03 21:28:48.995107|4.0 / 4.45 / 5.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver: 8GB|Automatic medvram-sdxl|waiANINSFWPONYXL_v70.safetensors [c6a7945b02]|renig||3e50fd|d0a6c1 ",
+      "generated_at": "2025-01-27T15:34:50-05:00",
+      "source_id": 14275086494
+    },
+    {
+      "id": "1820497667193749510",
+      "program": "SDBENCHMARK",
+      "message": "renig 2025-01-27 20:33:08.018899|3.32 / 3.95 / 5.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:565.90 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cocoillustriousnoobai_v56.safetensors [25ca34faa2] vae:automatic width:512 height:512|renig||603c4a|b6c21e ",
+      "generated_at": "2025-01-27T15:34:50-05:00",
+      "source_id": 14275086494
     }
   ]
 }
