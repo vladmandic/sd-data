@@ -1,5 +1,5 @@
 {
-  "max_id": "1820547459047407617",
+  "max_id": "1820782463425892358",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2576,6 +2576,20 @@
       "message": "Zephirlina 2025-01-27 15:52:19.893799|7.78 / 11.39 / 11.55|app:stable-diffusion-webui-amdgpu updated:2025-01-17 hash:3cf53018 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.1|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:symponyworld_v20.safetensors [4f45185fa0] vae:automatic width:512 height:512|Zephirlina|OC : https://cdn.discordapp.com/attachments/1002602742667280404/1333173539179597976/image.png?ex=679896dc&is=6797455c&hm=d347768a679a0530516f305378d7d1582369ff7c81902cc478dbc93e5df62ae0&|7c9ebc|1a2da9 ",
       "generated_at": "2025-01-27T10:52:43-05:00",
       "source_id": 14274748147
+    },
+    {
+      "id": "1820782431326883841",
+      "program": "SDBENCHMARK",
+      "message": "steeledpick 2025-01-28 01:24:46.956810|4.78 / 1.45 / 1.52|app:SD.next updated:2025-01-27 hash:586ef9a3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.0-2-cachyos python:3.11.11|torch:2.5.1+rocm6.2 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 XT (1) hip:6.2.41133-dd7f95766 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|steeledpick||e70ae8|ebd53c ",
+      "generated_at": "2025-01-27T20:26:22-05:00",
+      "source_id": 14275604204
+    },
+    {
+      "id": "1820782463425892358",
+      "program": "SDBENCHMARK",
+      "message": "steeledpick 2025-01-28 01:24:46.956810|4.78 / 1.45 / 1.52|app:SD.next updated:2025-01-27 hash:586ef9a3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.0-2-cachyos python:3.11.11|torch:2.5.1+rocm6.2 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 XT (1) hip:6.2.41133-dd7f95766 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|steeledpick||e70ae8|ebd53c ",
+      "generated_at": "2025-01-27T20:26:30-05:00",
+      "source_id": 14275604204
     }
   ]
 }
