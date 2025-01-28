@@ -1,5 +1,5 @@
 {
-  "max_id": "1820782463425892358",
+  "max_id": "1820925374889119752",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2590,6 +2590,13 @@
       "message": "steeledpick 2025-01-28 01:24:46.956810|4.78 / 1.45 / 1.52|app:SD.next updated:2025-01-27 hash:586ef9a3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.0-2-cachyos python:3.11.11|torch:2.5.1+rocm6.2 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7900 XT (1) hip:6.2.41133-dd7f95766 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|steeledpick||e70ae8|ebd53c ",
       "generated_at": "2025-01-27T20:26:30-05:00",
       "source_id": 14275604204
+    },
+    {
+      "id": "1820925374889119752",
+      "program": "SDBENCHMARK",
+      "message": "LENOVO 2025-01-28 23:52:25.007444|1.31 / 1.29 / 1.3|app:stable-diffusion-webui updated:2024-12-28 hash:021154d8b url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuxlillustrious_v12style.safetensors [bcca6af192] vae:automatic width:864 height:1280|LENOVO||3f49aa|94b9f4 ",
+      "generated_at": "2025-01-28T18:54:22-05:00",
+      "source_id": 14275830594
     }
   ]
 }
