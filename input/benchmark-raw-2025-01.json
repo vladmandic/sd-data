@@ -1,5 +1,5 @@
 {
-  "max_id": "1820925374889119752",
+  "max_id": "1821101923013668874",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2597,6 +2597,34 @@
       "message": "LENOVO 2025-01-28 23:52:25.007444|1.31 / 1.29 / 1.3|app:stable-diffusion-webui updated:2024-12-28 hash:021154d8b url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuxlillustrious_v12style.safetensors [bcca6af192] vae:automatic width:864 height:1280|LENOVO||3f49aa|94b9f4 ",
       "generated_at": "2025-01-28T18:54:22-05:00",
       "source_id": 14275830594
+    },
+    {
+      "id": "1821086813692026975",
+      "program": "SDBENCHMARK",
+      "message": "steeledpick 2025-01-28 21:35:14.006746|5.2 / 7.63 / 9.43|app:SD.next updated:2025-01-27 hash:586ef9a3 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.0-2-cachyos python:3.10.11|torch:2.4.1+rocm6.1 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon Graphics (1) hip:6.1.40091-a8dbc0c19 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ffxl400gbxlcombined_v30beta [13d23a532d] vae:none width:512 height:512|steeledpick||3cdeca|b77671 ",
+      "generated_at": "2025-01-28T16:35:53-05:00",
+      "source_id": 14275604204
+    },
+    {
+      "id": "1821099157667098636",
+      "program": "SDBENCHMARK",
+      "message": "zhouy 2025-01-29 11:23:41.166049|15.71 / 21.48 / 22.37|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:560.94 12GB|Automatic none|majicflus_v10.safetensors [062dad72b2]|zhouy||9a3f48|86fe37 ",
+      "generated_at": "2025-01-29T06:24:54-05:00",
+      "source_id": 14276207037
+    },
+    {
+      "id": "1821101552690180103",
+      "program": "SDBENCHMARK",
+      "message": "Zéphirlina 2025-01-29 04:34:08.893149|9.02 / 16.92 / 30.87|app:stable-diffusion-webui-amdgpu updated:2025-01-17 hash:3cf53018 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.1|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:prefectponyxl_v50.safetensors [d1a2aac8e5] vae:automatic width:256 height:256|Zéphirlina|\tOC : https://cdn.discordapp.com/attachments/1002602742667280404/1333173539179597976/image.png?ex=679896dc&is=6797455c&hm=d347768a679a0530516f305378d7d1582369ff7c81902cc478dbc93e5df62ae0&|7c9ebc|45380f ",
+      "generated_at": "2025-01-28T23:34:27-05:00",
+      "source_id": 14274748147
+    },
+    {
+      "id": "1821101923013668874",
+      "program": "SDBENCHMARK",
+      "message": "Zéphirlina 2025-01-29 04:34:46.517228|8.94 / 16.67 / 29.78 / 41.3 / 41.51 / 42.48 / 43.11|app:stable-diffusion-webui-amdgpu updated:2025-01-17 hash:3cf53018 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.1|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:prefectponyxl_v50.safetensors [d1a2aac8e5] vae:automatic width:256 height:256|Zéphirlina|\tOC : https://cdn.discordapp.com/attachments/1002602742667280404/1333173539179597976/image.png?ex=679896dc&is=6797455c&hm=d347768a679a0530516f305378d7d1582369ff7c81902cc478dbc93e5df62ae0&|7c9ebc|b80da3 ",
+      "generated_at": "2025-01-28T23:35:56-05:00",
+      "source_id": 14274748147
     }
   ]
 }
