@@ -1,5 +1,5 @@
 {
-  "max_id": "1821263354631737361",
+  "max_id": "1821399286630494208",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2646,6 +2646,13 @@
       "message": "Alex 2025-01-29 17:55:28.563060|7.45 / 8.07 / 8.82 / 9.18 / 9.21|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:deliberate_v6.safetensors [bcce73a08e] vae:none width:512 height:512|Alex||4fae5b|f1c9f9 ",
       "generated_at": "2025-01-29T13:17:24-05:00",
       "source_id": 14276462171
+    },
+    {
+      "id": "1821399286630494208",
+      "program": "SDBENCHMARK",
+      "message": "Karol 2025-01-30 00:14:53.394138|3.54 / 3.86 / 4.27 / 4.3 / 4.21|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:561.09 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v90.safetensors [178fc987b2] vae:none width:512 height:512|Karol||ab7caa|d6720f ",
+      "generated_at": "2025-01-29T19:17:32-05:00",
+      "source_id": 14276723555
     }
   ]
 }
