@@ -1,5 +1,5 @@
 {
-  "max_id": "1821541346226397206",
+  "max_id": "1821636759541432332",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2660,6 +2660,20 @@
       "message": "Daser 2025-01-30 09:26:25.335135|7.72 / 9.29 / 10.21 / 11.98 / 5.11|app:stable-diffusion-webui.git updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:prefectponyxl_v40.safetensors [95ded7d685] vae:automatic width:512 height:512|Daser||81d3d9|265f9f ",
       "generated_at": "2025-01-30T04:41:59-05:00",
       "source_id": 14276967225
+    },
+    {
+      "id": "1821636759541432325",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-01-29 23:01:54.349004|6.83 / 7.24 / 7.95 / 8.32 / 8.42|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:deliberate_v6.safetensors [bcce73a08e] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|Alex||4fae5b|f636fd ",
+      "generated_at": "2025-01-30T14:01:11-05:00",
+      "source_id": 14276462171
+    },
+    {
+      "id": "1821636759541432332",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-01-30 18:59:36.849608|6.16 / 7.15 / 7.91 / 8.28 / 8.37|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:deliberate_v6.safetensors [bcce73a08e] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|Alex||814953|cbf0b1 ",
+      "generated_at": "2025-01-30T14:01:11-05:00",
+      "source_id": 14276462171
     }
   ]
 }
