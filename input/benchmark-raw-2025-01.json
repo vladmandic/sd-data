@@ -1,5 +1,5 @@
 {
-  "max_id": "1821782476406841349",
+  "max_id": "1821863780171304966",
   "events": [
     {
       "id": "1811013468158087174",
@@ -2709,6 +2709,20 @@
       "message": "Benedict 2025-01-30 16:36:21.586602|7.09 / 8.76 / 10.54|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.16 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.ckpt [cc6cb27103] vae:none width:512 height:512|Benedict||dfe5e4|026e00 ",
       "generated_at": "2025-01-30T11:40:11-05:00",
       "source_id": 14277406117
+    },
+    {
+      "id": "1821844079751901186",
+      "program": "SDBENCHMARK",
+      "message": "lasu_1 2025-01-30 21:42:59.686020|3.82 / 4.22 / 4.35|app:SD.next updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly [6ce0161689] vae:none width:512 height:512|lasu_1||d9679d|9889c1 ",
+      "generated_at": "2025-01-30T16:44:59-05:00",
+      "source_id": 14277511593
+    },
+    {
+      "id": "1821863780171304966",
+      "program": "SDBENCHMARK",
+      "message": "qqqqq 2025-01-31 07:00:03.212792|3.04 / 3.35 / 3.53|app:SD.next updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly [92954befdb] vae:none width:512 height:512|q||36fc58|d3fa30 ",
+      "generated_at": "2025-01-31T02:01:59-05:00",
+      "source_id": 14277542148
     }
   ]
 }
