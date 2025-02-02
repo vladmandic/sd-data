@@ -1,5 +1,5 @@
 {
-  "max_id": "1822529567978606596",
+  "max_id": "1822678768448356361",
   "events": [
     {
       "id": "1822198260358623243",
@@ -182,6 +182,13 @@
       "message": "wudu 2025-02-02 10:07:55.260959|8.77 / 9.43 / 9.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.07 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|wudu||7633e9|91cd44 ",
       "generated_at": "2025-02-02T05:08:45-05:00",
       "source_id": 14278482965
+    },
+    {
+      "id": "1822678768448356361",
+      "program": "SDBENCHMARK",
+      "message": "amu 2025-02-02 11:54:51.777567|2.62 / 2.82 / 2.96|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-52-generic python:3.12.3|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:Tesla V100-SXM2-16GB (4) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:550.120 550.120 550.120 550.120 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/stable-diffusion-v1-5/stable-diffusion-v1-5 [451f4fe161] vae:none width:512 height:512|amu||96170c|6d8dc0 ",
+      "generated_at": "2025-02-02T07:01:44-05:00",
+      "source_id": 14278662407
     }
   ]
 }
