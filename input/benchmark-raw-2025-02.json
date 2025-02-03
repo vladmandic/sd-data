@@ -1,5 +1,5 @@
 {
-  "max_id": "1822772307245056011",
+  "max_id": "1822934344365428740",
   "events": [
     {
       "id": "1822198260358623243",
@@ -448,6 +448,13 @@
       "message": "UserUser 2025-02-02 21:12:37.422326|10.67 / 18.82 / 22.46 / 23.03 / 23.29|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.5|torch:2.3.0+cu121 xformers:0.0.26.post1 diffusers:0.27.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.16 16GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|User||f935f1|5d5568 ",
       "generated_at": "2025-02-02T16:13:25-05:00",
       "source_id": 14278776618
+    },
+    {
+      "id": "1822934344365428740",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-02-03T07:57:16-05:00",
+      "source_id": 14279044008
     }
   ]
 }
