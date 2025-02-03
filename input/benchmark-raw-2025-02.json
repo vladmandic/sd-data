@@ -1,5 +1,5 @@
 {
-  "max_id": "1822957557438926851",
+  "max_id": "1823124372152565760",
   "events": [
     {
       "id": "1822198260358623243",
@@ -462,6 +462,34 @@
       "message": "Gr9Ag 2025-02-03 08:28:52.860188|5.13 / 6.43 / 6.65|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.16|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:automatic width:512 height:512|Gr9Ag||505811|89ea97 ",
       "generated_at": "2025-02-03T03:29:29-05:00",
       "source_id": 14279087275
+    },
+    {
+      "id": "1823123159549919239",
+      "program": "SDBENCHMARK",
+      "message": "Orgasm 2025-02-03 20:26:27.567197|11.08 / 11.46 / 11.72|app:stable-diffusion-webui-amdgpu updated:2024-11-14 hash:745b20b7 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.47.0|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|Orgasm||225fdc|d5fda6 ",
+      "generated_at": "2025-02-03T15:27:04-05:00",
+      "source_id": 14279349656
+    },
+    {
+      "id": "1823123243092066305",
+      "program": "SDBENCHMARK",
+      "message": "Orgasm 2025-02-03 20:26:27.567197|11.08 / 11.46 / 11.72|app:stable-diffusion-webui-amdgpu updated:2024-11-14 hash:745b20b7 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.47.0|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|Orgasm||225fdc|d5fda6 ",
+      "generated_at": "2025-02-03T15:27:24-05:00",
+      "source_id": 14279349656
+    },
+    {
+      "id": "1823123280282959878",
+      "program": "SDBENCHMARK",
+      "message": "Orgasm 2025-02-03 20:26:27.567197|11.08 / 11.46 / 11.72|app:stable-diffusion-webui-amdgpu updated:2024-11-14 hash:745b20b7 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.47.0|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|Orgasm||225fdc|d5fda6 ",
+      "generated_at": "2025-02-03T15:27:33-05:00",
+      "source_id": 14279349656
+    },
+    {
+      "id": "1823124372152565760",
+      "program": "SDBENCHMARK",
+      "message": "Orgasm 2025-02-03 20:29:38.193247|11.08 / 11.46 / 11.72|app:stable-diffusion-webui-amdgpu updated:2024-11-14 hash:745b20b7 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.47.0|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|Orgasm||225fdc|4f4956 ",
+      "generated_at": "2025-02-03T15:31:53-05:00",
+      "source_id": 14279349656
     }
   ]
 }
