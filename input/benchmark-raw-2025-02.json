@@ -1,5 +1,5 @@
 {
-  "max_id": "1823226361314205706",
+  "max_id": "1823270058013675541",
   "events": [
     {
       "id": "1822198260358623243",
@@ -532,6 +532,27 @@
       "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
       "generated_at": "2025-02-03T14:17:40-05:00",
       "source_id": 14279556723
+    },
+    {
+      "id": "1823241258496348161",
+      "program": "SDBENCHMARK",
+      "message": "max6700 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T15:16:52-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823266352706805768",
+      "program": "SDBENCHMARK",
+      "message": "GZHPro 2025-02-04 10:56:04.349028|15.1 / 15.99 / 16.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver: 12GB|Automatic none|AWPainting_v1.5.safetensors [4801d2b3d8]|GZHPro||4fb8d7|8f2555 ",
+      "generated_at": "2025-02-04T05:56:36-05:00",
+      "source_id": 14278256557
+    },
+    {
+      "id": "1823270058013675541",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-02-04 11:10:49.965781|20.03 / 23.8 / 25.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|sd1.5\\majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||968e0e|13add5 ",
+      "generated_at": "2025-02-04T06:11:19-05:00",
+      "source_id": 14279642999
     }
   ]
 }
