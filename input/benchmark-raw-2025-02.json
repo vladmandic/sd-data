@@ -1,5 +1,5 @@
 {
-  "max_id": "1823124372152565760",
+  "max_id": "1823226361314205706",
   "events": [
     {
       "id": "1822198260358623243",
@@ -490,6 +490,48 @@
       "message": "Orgasm 2025-02-03 20:29:38.193247|11.08 / 11.46 / 11.72|app:stable-diffusion-webui-amdgpu updated:2024-11-14 hash:745b20b7 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.47.0|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|Orgasm||225fdc|4f4956 ",
       "generated_at": "2025-02-03T15:31:53-05:00",
       "source_id": 14279349656
+    },
+    {
+      "id": "1823225181901086720",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:12:59-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823225194093928457",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:13:02-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823226005314265088",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:16:15-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823226011291148291",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:16:17-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823226351377899520",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:17:38-05:00",
+      "source_id": 14279556723
+    },
+    {
+      "id": "1823226361314205706",
+      "program": "SDBENCHMARK",
+      "message": "Max-6700xt 2025-02-03 19:11:14.355567|1.53 / 1.93 / 2.09|app:sdnext updated:2025-01-29 hash:46464c4c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|maxsh||b2bfbf|b42cd2 ",
+      "generated_at": "2025-02-03T14:17:40-05:00",
+      "source_id": 14279556723
     }
   ]
 }
