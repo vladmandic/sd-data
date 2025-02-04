@@ -1,5 +1,5 @@
 {
-  "max_id": "1823270058013675541",
+  "max_id": "1823411767716524036",
   "events": [
     {
       "id": "1822198260358623243",
@@ -553,6 +553,13 @@
       "message": "Administrator 2025-02-04 11:10:49.965781|20.03 / 23.8 / 25.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|sd1.5\\majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||968e0e|13add5 ",
       "generated_at": "2025-02-04T06:11:19-05:00",
       "source_id": 14279642999
+    },
+    {
+      "id": "1823411767716524036",
+      "program": "SDBENCHMARK",
+      "message": "水雾 2025-02-04 20:34:05.538869|8.48 / 8.99 / 9.07|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.03 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|水雾||c9b2a3|ba0447 ",
+      "generated_at": "2025-02-04T15:34:27-05:00",
+      "source_id": 14279883898
     }
   ]
 }
