@@ -1,5 +1,5 @@
 {
-  "max_id": "1823534050586058770",
+  "max_id": "1823644810360311831",
   "events": [
     {
       "id": "1822198260358623243",
@@ -595,6 +595,48 @@
       "message": "rodrigoandrigo 2025-02-04 17:36:57.682698|6.6 / 1.7 / 1.79|app:SD.next updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-52-generic python:3.10.11|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:Radeon RX 7900 XTX (1) hip:6.2.41134-65d174c3e 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:mixillustriousmerge1_mixillustriousmerge3 [fb6e52884e] vae:none width:512 height:512|rodrigoandrigo||3ed20c|f8eeb4 ",
       "generated_at": "2025-02-04T12:40:19-05:00",
       "source_id": 14280099562
+    },
+    {
+      "id": "1823642122121818113",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-05 03:44:46.882341|0.42 / 0.71 / 1.26|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.10|torch:2.5.1+cu121 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:90100 driver:535.154.05 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:cyberrealistic_v70 vae:none width:512 height:512|root||4b0339|526963 ",
+      "generated_at": "2025-02-04T22:49:45-05:00",
+      "source_id": 14280309909
+    },
+    {
+      "id": "1823644134414667778",
+      "program": "SDBENCHMARK",
+      "message": "Stupid Secondary 2025-02-04 21:56:58.190835|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|da4ab4 ",
+      "generated_at": "2025-02-04T16:57:48-05:00",
+      "source_id": 14280312902
+    },
+    {
+      "id": "1823644164332638210",
+      "program": "SDBENCHMARK",
+      "message": "Stupid Secondary 2025-02-04 21:56:58.190835|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|da4ab4 ",
+      "generated_at": "2025-02-04T16:57:55-05:00",
+      "source_id": 14280312902
+    },
+    {
+      "id": "1823644313104601090",
+      "program": "SDBENCHMARK",
+      "message": "Stupid Secondary 2025-02-04 21:56:58.190835|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|da4ab4 ",
+      "generated_at": "2025-02-04T16:58:30-05:00",
+      "source_id": 14280312902
+    },
+    {
+      "id": "1823644800893767699",
+      "program": "SDBENCHMARK",
+      "message": "Stupid Secondary 2025-02-04 22:00:23.629073|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|a2020f ",
+      "generated_at": "2025-02-04T17:00:27-05:00",
+      "source_id": 14280312902
+    },
+    {
+      "id": "1823644810360311831",
+      "program": "SDBENCHMARK",
+      "message": "Stupid Secondary 2025-02-04 22:00:23.629073|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|a2020f ",
+      "generated_at": "2025-02-04T17:00:29-05:00",
+      "source_id": 14280312902
     }
   ]
 }
