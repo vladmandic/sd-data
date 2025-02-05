@@ -1,5 +1,5 @@
 {
-  "max_id": "1823765641275035660",
+  "max_id": "1823803923518115860",
   "events": [
     {
       "id": "1822198260358623243",
@@ -637,6 +637,20 @@
       "message": "Stupid Secondary 2025-02-04 22:00:23.629073|error / error / error|app:sdnext.git updated:2025-02-04 hash:0dad4de1 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:572.16 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:cudagraphs dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Stupid Secondary||0f2151|a2020f ",
       "generated_at": "2025-02-04T17:00:29-05:00",
       "source_id": 14280312902
+    },
+    {
+      "id": "1823803920099758083",
+      "program": "SDBENCHMARK",
+      "message": "lxl 2025-02-05 22:31:46.420506|10.63 / 11.93 / 12.43|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lxl||44fab9|01d00e ",
+      "generated_at": "2025-02-05T17:32:41-05:00",
+      "source_id": 14280570461
+    },
+    {
+      "id": "1823803923518115860",
+      "program": "SDBENCHMARK",
+      "message": "lxl 2025-02-05 22:31:46.420506|10.63 / 11.93 / 12.43|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lxl||44fab9|01d00e ",
+      "generated_at": "2025-02-05T17:32:42-05:00",
+      "source_id": 14280570461
     }
   ]
 }
