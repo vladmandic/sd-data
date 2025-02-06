@@ -1,5 +1,5 @@
 {
-  "max_id": "1823803923518115860",
+  "max_id": "1824018860769198083",
   "events": [
     {
       "id": "1822198260358623243",
@@ -651,6 +651,55 @@
       "message": "lxl 2025-02-05 22:31:46.420506|10.63 / 11.93 / 12.43|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lxl||44fab9|01d00e ",
       "generated_at": "2025-02-05T17:32:42-05:00",
       "source_id": 14280570461
+    },
+    {
+      "id": "1823982622012006402",
+      "program": "SDBENCHMARK",
+      "message": "huson 2025-02-06 10:21:35.000220|7.44 / 12.05 / 12.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxl1.0\\cattowernoobaixl_v15vpred\\cattowernoobaixl_v15vpred.safetensors [107552c070] vae:none width:512 height:512|huson||e93f05|360dec ",
+      "generated_at": "2025-02-06T05:22:46-05:00",
+      "source_id": 14280911412
+    },
+    {
+      "id": "1823997345692561414",
+      "program": "SDBENCHMARK",
+      "message": "11870 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-02-06T06:21:18-05:00",
+      "source_id": 14280939659
+    },
+    {
+      "id": "1823997345692561417",
+      "program": "SDBENCHMARK",
+      "message": "11870 2025-02-06 10:22:41.679392|error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sub-quadratic none|control_v11e_sd15_ip2p_fp16.safetensors [11e7dbe52a]|11870||916a06|f77a7a ",
+      "generated_at": "2025-02-06T06:21:18-05:00",
+      "source_id": 14280939659
+    },
+    {
+      "id": "1824018860752420872",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2024-11-16 12:24:24.830553|error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 Ti (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|xformers none|anything-v4.5.safetensors [1d1e459f9f]|Admin||da3f92|bfde0a ",
+      "generated_at": "2025-02-06T06:46:49-05:00",
+      "source_id": 14280974677
+    },
+    {
+      "id": "1824018860752420874",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2024-11-21 22:24:24.355735|1.67 / 1.45 / 1.52|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 Ti (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|xformers medvram|anything-v4.5.safetensors [1d1e459f9f]|Admin||cab3fd|60bd6c ",
+      "generated_at": "2025-02-06T06:46:49-05:00",
+      "source_id": 14280974677
+    },
+    {
+      "id": "1824018860760809473",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2024-12-01 11:03:10.129889|1.58 / 1.52 / 1.37|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 Ti (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|xformers none|SD15\\AnythingXL_v50.safetensors [7f96a1a9ca]|Admin||a8030e|0f2dc1 ",
+      "generated_at": "2025-02-06T06:46:49-05:00",
+      "source_id": 14280974677
+    },
+    {
+      "id": "1824018860769198083",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-02-06 11:45:49.974921|16.73 / 19.05 / 18.96 / 19.2 / 18.52|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.16 12GB|xformers none|SD15\\AnythingAOM.safetensors [2b6738527a]|Admin||7fc56b|828b32 ",
+      "generated_at": "2025-02-06T06:46:49-05:00",
+      "source_id": 14280974677
     }
   ]
 }
