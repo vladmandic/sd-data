@@ -1,5 +1,5 @@
 {
-  "max_id": "1824401912473243702",
+  "max_id": "1824459898944139291",
   "events": [
     {
       "id": "1822198260358623243",
@@ -805,6 +805,34 @@
       "message": "nac 2025-02-07 14:08:39.060945|17.21 / 20.54 / 22.24|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|nac||e4862a|ceb7e6 ",
       "generated_at": "2025-02-07T09:08:53-05:00",
       "source_id": 14281652787
+    },
+    {
+      "id": "1824406293339877399",
+      "program": "SDBENCHMARK",
+      "message": "PS 2025-02-07 14:25:33.441323|13.09 / 21.44 / 34.47|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|PS||9900b8|27509f ",
+      "generated_at": "2025-02-07T09:26:17-05:00",
+      "source_id": 14281663981
+    },
+    {
+      "id": "1824426271459954697",
+      "program": "SDBENCHMARK",
+      "message": "amiru 2025-02-07 14:44:34.812907|5.43 / 5.81 / error|app:stable-diffusion-webui-amdgpu updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.2|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|amiru||1e3c81|9e1e56 ",
+      "generated_at": "2025-02-07T09:45:08-05:00",
+      "source_id": 14281692734
+    },
+    {
+      "id": "1824458419063664666",
+      "program": "SDBENCHMARK",
+      "message": "amiru 2025-02-07 16:49:52.327426|4.89 / 5.44 / 5.99|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly [6ce0161689] vae:none width:512 height:512|amiru||935d9b|b5a909 ",
+      "generated_at": "2025-02-07T11:52:52-05:00",
+      "source_id": 14281692734
+    },
+    {
+      "id": "1824459898944139291",
+      "program": "SDBENCHMARK",
+      "message": "amiru 2025-02-07 16:08:24.500640|5.64 / 6.11 / 6.3|app:stable-diffusion-webui-amdgpu updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.2|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|amiru||1e3c81|7f3815 ",
+      "generated_at": "2025-02-07T11:58:45-05:00",
+      "source_id": 14281692734
     }
   ]
 }
