@@ -1,5 +1,5 @@
 {
-  "max_id": "1825107718017564673",
+  "max_id": "1825220087624425484",
   "events": [
     {
       "id": "1822198260358623243",
@@ -966,6 +966,34 @@
       "message": "jo.charles 2025-02-09 05:49:44.572822|4.23 / 5.54 / 5.56|app:stable-diffusion-webui-forge.git updated:2025-02-08 hash:f3672ffb url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.15|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:custom\\sdxl1.0_realvisxlv50_v50bakedvae.safetensors vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|jo.charles||4f254d|450877 ",
       "generated_at": "2025-02-09T00:53:31-05:00",
       "source_id": 14282597477
+    },
+    {
+      "id": "1825191683978088451",
+      "program": "SDBENCHMARK",
+      "message": "황태웅 2025-02-09 19:17:28.996987|7.46 / 8.44 / 9.14|app:stable-diffusion-webui-forge updated:2025-02-08 hash:f3672ffb url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd\\chilloutmix_niprunedfp16fix.safetensors vae:none width:512 height:512|황태웅||abb030|e6a49b ",
+      "generated_at": "2025-02-09T14:27:10-05:00",
+      "source_id": 14282693193
+    },
+    {
+      "id": "1825191701325729796",
+      "program": "SDBENCHMARK",
+      "message": "황태웅 2025-02-09 19:17:28.996987|7.46 / 8.44 / 9.14|app:stable-diffusion-webui-forge updated:2025-02-08 hash:f3672ffb url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd\\chilloutmix_niprunedfp16fix.safetensors vae:none width:512 height:512|황태웅||abb030|e6a49b ",
+      "generated_at": "2025-02-09T14:27:14-05:00",
+      "source_id": 14282693193
+    },
+    {
+      "id": "1825191707269058560",
+      "program": "SDBENCHMARK",
+      "message": "황태웅 2025-02-09 19:17:28.996987|7.46 / 8.44 / 9.14|app:stable-diffusion-webui-forge updated:2025-02-08 hash:f3672ffb url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd\\chilloutmix_niprunedfp16fix.safetensors vae:none width:512 height:512|황태웅||abb030|e6a49b ",
+      "generated_at": "2025-02-09T14:27:15-05:00",
+      "source_id": 14282693193
+    },
+    {
+      "id": "1825220087624425484",
+      "program": "SDBENCHMARK",
+      "message": "w 2025-02-09 20:19:09.303495|7.03 / 5.78 / 8.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.0a0+cxx11.abi autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:Intel(R) Arc(TM) A750 Graphics (1) ipex:2.1.10+xpu 8GB|Automatic medvram-sdxl|realisticVisionV40_v40VAE.safetensors [afcc6a9cac]|w||230025|9ebe7b ",
+      "generated_at": "2025-02-09T15:20:00-05:00",
+      "source_id": 14282728670
     }
   ]
 }
