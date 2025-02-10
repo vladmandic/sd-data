@@ -1,5 +1,5 @@
 {
-  "max_id": "1825326458978095112",
+  "max_id": "1825546486277136385",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1029,6 +1029,13 @@
       "message": "michel 2025-02-09 20:21:13.897870|7.92 / 1.55 / 1.59|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.12.11-200.fc41.x86_64 python:3.12.3|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon Graphics (1) hip:6.2.41134-65d174c3e 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|michel||d78dc9|0189f6 ",
       "generated_at": "2025-02-09T15:22:43-05:00",
       "source_id": 14282852568
+    },
+    {
+      "id": "1825546486277136385",
+      "program": "SDBENCHMARK",
+      "message": "250210 2025-02-10 17:54:40.205676|0.93 / 1.54 / 1.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:572.16 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|250210||b3eeb9|7db758 ",
+      "generated_at": "2025-02-10T12:57:01-05:00",
+      "source_id": 14283190053
     }
   ]
 }
