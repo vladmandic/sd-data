@@ -1,5 +1,5 @@
 {
-  "max_id": "1826032584853991442",
+  "max_id": "1826135813067554820",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1316,6 +1316,27 @@
       "message": "do-it 2025-02-11 19:08:07.429544|13.37 / 21.9 / 28.69|app:stable-diffusion-webui-forge.git updated:2025-02-11 hash:38fc48e7 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.16 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:babesbystableyogi_ponyv4vaefix.safetensors vae:automatic width:512 height:512|do-it||ca1a63|c1ac27 ",
       "generated_at": "2025-02-11T14:08:36-05:00",
       "source_id": 14283307732
+    },
+    {
+      "id": "1826038627285774343",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-11 18:31:54.255253|13.43 / 26.25 / 50.71 / 82.8 / 89.02|app:stable-diffusion-webui updated:2024-11-02 hash:7799859f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu: system:Linux release:4.4.0 python:3.10.15|torch:2.6.0+cu124 autocast half xformers:0.0.30.dev987 diffusers: transformers:4.30.2|GPU 设备:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:550.90.07 0GB|xformers none|NoobXL-v1.1.safetensors [6681e8e4b1]|root|H200 GPU，测试by BiliBili Nyan9。（SDXL model）|dacc50|b42107 ",
+      "generated_at": "2025-02-11T13:32:37-05:00",
+      "source_id": 14284065054
+    },
+    {
+      "id": "1826039419665309706",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-11 18:32:43.531481|13.27 / 26.92 / 50.07 / 82.25 / 86.24|app:stable-diffusion-webui updated:2024-11-02 hash:7799859f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu: system:Linux release:4.4.0 python:3.10.15|torch:2.6.0+cu124 autocast half xformers:0.0.30.dev987 diffusers: transformers:4.30.2|GPU 设备:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:550.90.07 0GB|xformers none|NoobXL-v1.1.safetensors [6681e8e4b1]|root|H200 GPU，测试by BiliBili Nyan9。（SDXL model）|dacc50|b62f96 ",
+      "generated_at": "2025-02-11T13:35:46-05:00",
+      "source_id": 14284065054
+    },
+    {
+      "id": "1826135813067554820",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-02-12 08:57:28.006374|1.12 / 1.85 / 2.79|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:566.36 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||0af6e7|75d8c7 ",
+      "generated_at": "2025-02-12T03:58:49-05:00",
+      "source_id": 14284260553
     }
   ]
 }
