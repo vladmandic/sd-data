@@ -1,5 +1,5 @@
 {
-  "max_id": "1826322628038811653",
+  "max_id": "1826518437783056401",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1344,6 +1344,20 @@
       "message": "Naoya 2025-02-12 22:20:39.906723|10.08 / 13.33 / 14.55|app:stable-diffusion-webui-forge.git updated:2025-02-10 hash:de1670a4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v100.safetensors vae:automatic width:512 height:512|Naoya||013586|60057f ",
       "generated_at": "2025-02-12T17:21:09-05:00",
       "source_id": 14284571096
+    },
+    {
+      "id": "1826516839145070593",
+      "program": "SDBENCHMARK",
+      "message": "kagerou 2025-02-13 11:11:46.947483|2.66 / 3.73 / 5.17|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:4.18.0-513.11.1.el8_9.x86_64 python:3.12.3|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:Intel(R) Data Center GPU Flex 170 (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|kagerou||465826|e7158d ",
+      "generated_at": "2025-02-13T06:12:51-05:00",
+      "source_id": 14284949256
+    },
+    {
+      "id": "1826518437783056401",
+      "program": "SDBENCHMARK",
+      "message": "kagerou 2025-02-13 11:17:14.020071|2.61 / 4.62 / 5.91 / 6.92 / 8.29|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:4.18.0-513.11.1.el8_9.x86_64 python:3.12.3|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:Intel(R) Data Center GPU Flex 170 (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|kagerou||465826|3edd12 ",
+      "generated_at": "2025-02-13T06:19:13-05:00",
+      "source_id": 14284949256
     }
   ]
 }
