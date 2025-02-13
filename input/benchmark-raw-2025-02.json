@@ -1,5 +1,5 @@
 {
-  "max_id": "1826667047115993088",
+  "max_id": "1826732441054924809",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1372,6 +1372,216 @@
       "message": "AFDC1 2025-02-13 20:06:19.874248|6.6 / 7.19 / 8.18|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:566.07 12GB|Automatic none|ArchitectureRealMix.ckpt [f65e517ae0]|AFDC1||dcfa14|8b9b8f ",
       "generated_at": "2025-02-13T15:09:43-05:00",
       "source_id": 14285198275
+    },
+    {
+      "id": "1826730267142967320",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:20:41.445242|23.78 / 27.09 / 28.67|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|12dde4 ",
+      "generated_at": "2025-02-13T19:20:55-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826730642285711368",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:22:24-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731431410454528",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:32-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731439190888457",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:34-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731440285601816",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:34-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731440965079049",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:34-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731441741025292",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:35-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731442466639878",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:35-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731443125145614",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:35-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731443943034890",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:25:35-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731907442987008",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731908214738955",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731908860661761",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731909489807374",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731910248976387",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731911016534030",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:26-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731911574376456",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731912249659397",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731912778141751",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731913524727808",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731914137096196",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731914934013972",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:27-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731925163921421",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:30-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731926002782223",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:30-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731926644510721",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:30-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731927420456967",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:30-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731928120905782",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:31-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731929219813395",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:31-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826731929941233675",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:27:31-05:00",
+      "source_id": 14285307822
+    },
+    {
+      "id": "1826732441054924809",
+      "program": "SDBENCHMARK",
+      "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
+      "generated_at": "2025-02-13T19:29:33-05:00",
+      "source_id": 14285307822
     }
   ]
 }
