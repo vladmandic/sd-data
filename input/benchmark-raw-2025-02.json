@@ -1,5 +1,5 @@
 {
-  "max_id": "1826732441054924809",
+  "max_id": "1826875672820371461",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1582,6 +1582,34 @@
       "message": "adma 2025-02-14 00:21:57.268093|23.72 / 27.22 / 28.72 / 29.28 / 29.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|adma||343e4d|f1526d ",
       "generated_at": "2025-02-13T19:29:33-05:00",
       "source_id": 14285307822
+    },
+    {
+      "id": "1826869099972702213",
+      "program": "SDBENCHMARK",
+      "message": "test 2025-02-14 02:32:00.353862|6.59 / 6.94 / 7.72|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|test||172031|fdd703 ",
+      "generated_at": "2025-02-13T21:32:42-05:00",
+      "source_id": 14285568467
+    },
+    {
+      "id": "1826869166766993415",
+      "program": "SDBENCHMARK",
+      "message": "test 2025-02-14 02:32:00.353862|6.59 / 6.94 / 7.72|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|test||172031|fdd703 ",
+      "generated_at": "2025-02-13T21:32:58-05:00",
+      "source_id": 14285568467
+    },
+    {
+      "id": "1826875664679227396",
+      "program": "SDBENCHMARK",
+      "message": "AAA 2025-02-14 09:57:03.547975|1.79|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|AAA||12fd6c|0bc6a3 ",
+      "generated_at": "2025-02-14T04:58:43-05:00",
+      "source_id": 14285578421
+    },
+    {
+      "id": "1826875672820371461",
+      "program": "SDBENCHMARK",
+      "message": "AAA 2025-02-14 09:57:03.547975|1.79|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|AAA||12fd6c|0bc6a3 ",
+      "generated_at": "2025-02-14T04:58:45-05:00",
+      "source_id": 14285578421
     }
   ]
 }
