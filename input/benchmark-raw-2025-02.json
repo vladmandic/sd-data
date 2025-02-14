@@ -1,5 +1,5 @@
 {
-  "max_id": "1827020022917279745",
+  "max_id": "1827059312833511424",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1617,6 +1617,41 @@
       "message": "aa 2025-02-14 19:31:42.376690|12.75 / 13.83 / 16.03|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v5-prtre.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|aa||d7a60e|78f9b6 ",
       "generated_at": "2025-02-14T14:32:22-05:00",
       "source_id": 14285806883
+    },
+    {
+      "id": "1827057274879918097",
+      "program": "SDBENCHMARK",
+      "message": "Neera 2025-02-14 14:59:25.037735|6.95 / 9.52 / 11.03|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|Neera||93d259|fbde18 ",
+      "generated_at": "2025-02-14T10:00:25-05:00",
+      "source_id": 14285864681
+    },
+    {
+      "id": "1827057478727290881",
+      "program": "SDBENCHMARK",
+      "message": "Neera 2025-02-14 15:00:35.729673|4.29 / 4.82 / 5.05|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:768 height:768|Neera||93d259|73dae2 ",
+      "generated_at": "2025-02-14T10:01:13-05:00",
+      "source_id": 14285864681
+    },
+    {
+      "id": "1827057909016739850",
+      "program": "SDBENCHMARK",
+      "message": "Neera 2025-02-14 15:01:56.956133|2.27 / 2.46 / 2.86|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:1024 height:1024|Neera||93d259|1346f5 ",
+      "generated_at": "2025-02-14T10:02:56-05:00",
+      "source_id": 14285864681
+    },
+    {
+      "id": "1827059279081947137",
+      "program": "SDBENCHMARK",
+      "message": "zds 2025-02-14 22:07:47.649897|5.71 / 10.19 / 16.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|Automatic none|MatureRitual_v03.safetensors [6f5280e304]|zds||246017|a730af ",
+      "generated_at": "2025-02-14T17:08:19-05:00",
+      "source_id": 14285868649
+    },
+    {
+      "id": "1827059312833511424",
+      "program": "SDBENCHMARK",
+      "message": "zds 2025-02-14 22:07:47.649897|5.71 / 10.19 / 16.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|Automatic none|MatureRitual_v03.safetensors [6f5280e304]|zds||246017|a730af ",
+      "generated_at": "2025-02-14T17:08:27-05:00",
+      "source_id": 14285868649
     }
   ]
 }
