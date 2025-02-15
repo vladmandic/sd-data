@@ -1,5 +1,5 @@
 {
-  "max_id": "1827369201199923234",
+  "max_id": "1827446765134200834",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1813,6 +1813,20 @@
       "message": "adma 2025-02-15 18:38:58.713852|23.58 / 27.0 / 28.77 / 29.31 / 29.25|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.16 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|adma||5781ab|60a355 ",
       "generated_at": "2025-02-15T13:39:50-05:00",
       "source_id": 14285307822
+    },
+    {
+      "id": "1827431004009312270",
+      "program": "SDBENCHMARK",
+      "message": "Nyan9 2025-02-15 14:39:52.558882|4.81 / 4.93 / 5.04 / 4.81 / 4.6|app:stable-diffusion-webui updated:2024-11-02 hash:7799859f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-166-generic python:3.10.11|torch:2.5.1+cu124 autocast half xformers:0.0.29.dev934 diffusers: transformers:4.30.2|GPU 设备:Tesla T4 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:525.105.17 0GB|xformers none|Illustrious-XL-v1.0.safetensors [735cf3fefc]|Nyan9|腾讯云免费T4显卡，测试By BiliBili Nyan9。|3ddc6d|20ded4 ",
+      "generated_at": "2025-02-15T09:45:25-05:00",
+      "source_id": 14286396594
+    },
+    {
+      "id": "1827446765134200834",
+      "program": "SDBENCHMARK",
+      "message": "ubuntu-nyan9 2025-02-15 15:47:34.779290|6.31 / 11.46 / 21.37 / 31.59 / 30.42|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1031-aws python:3.10.10|torch:2.0.1+cu118 xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA L40S (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.104.05 45GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illustrious-xl-v1.0.safetensors vae:automatic width:512 height:512|ubuntu-nyan9|测试 By bilibili Nyan9|5dbdd0|5b0ab2 ",
+      "generated_at": "2025-02-15T10:48:03-05:00",
+      "source_id": 14286418579
     }
   ]
 }
