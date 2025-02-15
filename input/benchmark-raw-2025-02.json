@@ -1,5 +1,5 @@
 {
-  "max_id": "1827059312833511424",
+  "max_id": "1827157001801744386",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1652,6 +1652,20 @@
       "message": "zds 2025-02-14 22:07:47.649897|5.71 / 10.19 / 16.27|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|Automatic none|MatureRitual_v03.safetensors [6f5280e304]|zds||246017|a730af ",
       "generated_at": "2025-02-14T17:08:27-05:00",
       "source_id": 14285868649
+    },
+    {
+      "id": "1827156953537888275",
+      "program": "SDBENCHMARK",
+      "message": "Maestro 2025-02-14 23:34:53.397747|2.6 / 2.9 / 3.06|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Maestro||a20166|099951 ",
+      "generated_at": "2025-02-14T18:36:25-05:00",
+      "source_id": 14286039150
+    },
+    {
+      "id": "1827157001801744386",
+      "program": "SDBENCHMARK",
+      "message": "Maestro 2025-02-14 23:34:53.397747|2.6 / 2.9 / 3.06|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Maestro||a20166|099951 ",
+      "generated_at": "2025-02-14T18:36:37-05:00",
+      "source_id": 14286039150
     }
   ]
 }
