@@ -1,5 +1,5 @@
 {
-  "max_id": "1827566050661818370",
+  "max_id": "1827753193891868674",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1848,6 +1848,34 @@
       "message": "kevin 2025-02-15 17:37:00.669129|8.96 / 16.38 / 21.8|app:stable-diffusion-webui-forge updated:2025-02-15 hash:a5ede132 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.32.2 transformers:4.48.3|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.42 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\illustrious\\mistoonanime_v10illustrious.safetensors vae:none width:512 height:512|kevin||715c1b|9be26d ",
       "generated_at": "2025-02-15T12:42:01-05:00",
       "source_id": 14286571852
+    },
+    {
+      "id": "1827677790674268196",
+      "program": "SDBENCHMARK",
+      "message": "llm 2024-12-21 22:14:05.553247|6.23 / 7.33 / 7.85|app:stable-diffusion-webui-forge.git updated:2024-12-16 hash:37301b22 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver:566.36 6GB|Automatic none|Deliberate_v2.safetensors|llm||6b00ed|9bd7f6 ",
+      "generated_at": "2025-02-15T21:06:04-05:00",
+      "source_id": 14286701733
+    },
+    {
+      "id": "1827677790674268198",
+      "program": "SDBENCHMARK",
+      "message": "llm 2025-02-16 02:05:04.146254|7.49 / 8.26 / 9.07|app:stable-diffusion-webui-forge.git updated:2024-12-16 hash:37301b22 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.42  572.42 12GB|Automatic none|Deliberate_v2.safetensors|llm||f562f9|fd24d0 ",
+      "generated_at": "2025-02-15T21:06:04-05:00",
+      "source_id": 14286701733
+    },
+    {
+      "id": "1827729467053891591",
+      "program": "SDBENCHMARK",
+      "message": "Maestro 2025-02-16 13:28:14.311802|3.0 / 3.35 / 3.54|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:stable-fast dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Maestro||a20166|cd0c31 ",
+      "generated_at": "2025-02-16T08:31:24-05:00",
+      "source_id": 14286039150
+    },
+    {
+      "id": "1827753193891868674",
+      "program": "SDBENCHMARK",
+      "message": "photo 2025-02-16 13:57:54.914906|4.02 / 3.89 / 5.73|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:realisticvisionv60b1_v51hypervae_418901 [f47e942ad4] vae:automatic width:512 height:512|photo||ec1804|f07c42 ",
+      "generated_at": "2025-02-16T09:05:35-05:00",
+      "source_id": 14286789256
     }
   ]
 }
