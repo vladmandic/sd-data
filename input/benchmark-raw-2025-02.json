@@ -1,5 +1,5 @@
 {
-  "max_id": "1827446765134200834",
+  "max_id": "1827566050661818370",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1827,6 +1827,27 @@
       "message": "ubuntu-nyan9 2025-02-15 15:47:34.779290|6.31 / 11.46 / 21.37 / 31.59 / 30.42|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1031-aws python:3.10.10|torch:2.0.1+cu118 xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA L40S (1) (sm_90) (8, 9) cuda:11.8 cudnn:8700 driver:535.104.05 45GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illustrious-xl-v1.0.safetensors vae:automatic width:512 height:512|ubuntu-nyan9|测试 By bilibili Nyan9|5dbdd0|5b0ab2 ",
       "generated_at": "2025-02-15T10:48:03-05:00",
       "source_id": 14286418579
+    },
+    {
+      "id": "1827545445589766161",
+      "program": "SDBENCHMARK",
+      "message": "Patrick 2025-02-15 17:15:14.905263|1.55 / 1.56 / 0.39|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2080 SUPER (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:571.96 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Patrick||395a5f|8f6c14 ",
+      "generated_at": "2025-02-15T12:20:13-05:00",
+      "source_id": 14286548488
+    },
+    {
+      "id": "1827562738768064557",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-02-16 02:25:13.070760|0.4 / 0.5 / 0.53|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic vae:automatic width:1920 height:1080|User||89d73a|ed7093 ",
+      "generated_at": "2025-02-15T21:28:52-05:00",
+      "source_id": 14286567862
+    },
+    {
+      "id": "1827566050661818370",
+      "program": "SDBENCHMARK",
+      "message": "kevin 2025-02-15 17:37:00.669129|8.96 / 16.38 / 21.8|app:stable-diffusion-webui-forge updated:2025-02-15 hash:a5ede132 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.32.2 transformers:4.48.3|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.42 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\illustrious\\mistoonanime_v10illustrious.safetensors vae:none width:512 height:512|kevin||715c1b|9be26d ",
+      "generated_at": "2025-02-15T12:42:01-05:00",
+      "source_id": 14286571852
     }
   ]
 }
