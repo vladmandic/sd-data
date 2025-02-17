@@ -1,5 +1,5 @@
 {
-  "max_id": "1827827433387249667",
+  "max_id": "1828072857440272401",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1953,6 +1953,13 @@
       "message": "A 2025-02-17 01:00:06.347325|11.2 / 12.05 / 12.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:531.68 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|A||a8dbf7|0e9157 ",
       "generated_at": "2025-02-16T20:00:41-05:00",
       "source_id": 14286882646
+    },
+    {
+      "id": "1828072857440272401",
+      "program": "SDBENCHMARK",
+      "message": "bakke 2025-02-17 10:13:19.352793|11.48 / 12.88 / 14.4 / 16.39 / 17.54 / 17.78 / 18.33|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers\\stabilityai/stable-diffusion-2-1-base [5ede9e4bf3] vae:none width:512 height:512|bakke||34368f|2f5ab8 ",
+      "generated_at": "2025-02-17T05:15:55-05:00",
+      "source_id": 14287271812
     }
   ]
 }
