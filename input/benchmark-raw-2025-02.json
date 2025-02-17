@@ -1,5 +1,5 @@
 {
-  "max_id": "1828072857440272401",
+  "max_id": "1828140486246977544",
   "events": [
     {
       "id": "1822198260358623243",
@@ -1960,6 +1960,13 @@
       "message": "bakke 2025-02-17 10:13:19.352793|11.48 / 12.88 / 14.4 / 16.39 / 17.54 / 17.78 / 18.33|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers\\stabilityai/stable-diffusion-2-1-base [5ede9e4bf3] vae:none width:512 height:512|bakke||34368f|2f5ab8 ",
       "generated_at": "2025-02-17T05:15:55-05:00",
       "source_id": 14287271812
+    },
+    {
+      "id": "1828140486246977544",
+      "program": "SDBENCHMARK",
+      "message": "buccione 2025-02-17 14:41:34.596729|error / error / error|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6650 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:inductor dtype:torch.float16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|buccione||5f7aa9|627c5d ",
+      "generated_at": "2025-02-17T09:44:40-05:00",
+      "source_id": 14287376482
     }
   ]
 }
