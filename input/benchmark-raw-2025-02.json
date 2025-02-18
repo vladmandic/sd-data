@@ -1,5 +1,5 @@
 {
-  "max_id": "1828277416464928799",
+  "max_id": "1828358882809012225",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2030,6 +2030,27 @@
       "message": "CXC 2025-02-18 06:47:45.207161|16.82 / 26.17 / 33.38|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 xformers:0.0.20 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:566.14 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:ghostmix_v20bakedvae.safetensors [e3edb8a26f] vae:none width:512 height:512|CXC||654b71|6d7dcd ",
       "generated_at": "2025-02-18T01:48:46-05:00",
       "source_id": 14287617664
+    },
+    {
+      "id": "1828352976859873300",
+      "program": "SDBENCHMARK",
+      "message": "Dune 2025-02-17 14:54:06.652281|0.13 / 0.12 / 0.12 / 0.12 / 0.12 / 0.12 / 0.12|app:stable-diffusion-webui-directml updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.48.3| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float32|pipeline:LatentInpaintDiffusion model:dreamshaper_8inpainting.safetensors [ac84e05d50] vae:automatic width:512 height:512|Dune||db23dc|f85ac0 ",
+      "generated_at": "2025-02-17T15:49:00-05:00",
+      "source_id": 14287750093
+    },
+    {
+      "id": "1828353032077885440",
+      "program": "SDBENCHMARK",
+      "message": "Dune 2025-02-17 14:54:06.652281|0.13 / 0.12 / 0.12 / 0.12 / 0.12 / 0.12 / 0.12|app:stable-diffusion-webui-directml updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.48.3| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float32|pipeline:LatentInpaintDiffusion model:dreamshaper_8inpainting.safetensors [ac84e05d50] vae:automatic width:512 height:512|Dune||db23dc|f85ac0 ",
+      "generated_at": "2025-02-17T15:49:14-05:00",
+      "source_id": 14287750093
+    },
+    {
+      "id": "1828358882809012225",
+      "program": "SDBENCHMARK",
+      "message": "Dune 2025-02-17 20:53:11.899461|0.32 / 0.31 / 0.31 / 0.31 / error / error / error|app:stable-diffusion-webui-directml updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.48.3| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:directml compile:none dtype:torch.float32|pipeline:LatentInpaintDiffusion model:dreamshaper_8inpainting.safetensors [ac84e05d50] vae:automatic width:512 height:512|Dune||db23dc|41db21 ",
+      "generated_at": "2025-02-17T16:12:29-05:00",
+      "source_id": 14287750093
     }
   ]
 }
