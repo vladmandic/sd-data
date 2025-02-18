@@ -1,5 +1,5 @@
 {
-  "max_id": "1828358882809012225",
+  "max_id": "1828460083277914119",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2051,6 +2051,41 @@
       "message": "Dune 2025-02-17 20:53:11.899461|0.32 / 0.31 / 0.31 / 0.31 / error / error / error|app:stable-diffusion-webui-directml updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.48.3| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:directml compile:none dtype:torch.float32|pipeline:LatentInpaintDiffusion model:dreamshaper_8inpainting.safetensors [ac84e05d50] vae:automatic width:512 height:512|Dune||db23dc|41db21 ",
       "generated_at": "2025-02-17T16:12:29-05:00",
       "source_id": 14287750093
+    },
+    {
+      "id": "1828412053296164868",
+      "program": "SDBENCHMARK",
+      "message": "steven 2025-02-18 15:43:17.828363|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|写实中式美女\\majicmixRealistic_v7.safetensors [7c819b6d13]|steven||189f9f|ea7ea7 ",
+      "generated_at": "2025-02-18T10:43:47-05:00",
+      "source_id": 14287848787
+    },
+    {
+      "id": "1828412686107586579",
+      "program": "SDBENCHMARK",
+      "message": "steven 2025-02-18 15:46:17.252742|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|写实中式美女\\majicmixRealistic_v7.safetensors [7c819b6d13]|steven||189f9f|b29fb5 ",
+      "generated_at": "2025-02-18T10:46:18-05:00",
+      "source_id": 14287848787
+    },
+    {
+      "id": "1828412700582129665",
+      "program": "SDBENCHMARK",
+      "message": "steven 2025-02-18 15:46:17.252742|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|写实中式美女\\majicmixRealistic_v7.safetensors [7c819b6d13]|steven||189f9f|b29fb5 ",
+      "generated_at": "2025-02-18T10:46:22-05:00",
+      "source_id": 14287848787
+    },
+    {
+      "id": "1828412752570527774",
+      "program": "SDBENCHMARK",
+      "message": "steven 2025-02-18 15:46:17.252742|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|写实中式美女\\majicmixRealistic_v7.safetensors [7c819b6d13]|steven||189f9f|b29fb5 ",
+      "generated_at": "2025-02-18T10:46:34-05:00",
+      "source_id": 14287848787
+    },
+    {
+      "id": "1828460083277914119",
+      "program": "SDBENCHMARK",
+      "message": "Hamguy 2025-02-18 04:53:38.359657|7.74 / 8.48 / 9.62|app:SD.next updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sweetmix_v22flat [83326ee94a] vae:none width:512 height:512|Hamguy||55e37f|4b12bf ",
+      "generated_at": "2025-02-17T23:54:37-05:00",
+      "source_id": 14287922216
     }
   ]
 }
