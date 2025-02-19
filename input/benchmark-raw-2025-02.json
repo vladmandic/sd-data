@@ -1,5 +1,5 @@
 {
-  "max_id": "1828842210351829015",
+  "max_id": "1828911719855087630",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2170,6 +2170,27 @@
       "message": "Administrator 2025-02-19 20:12:38.083191|15.69 / 16.97 / 17.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.42 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:人物写实\\majicmix realistic 麦橘写实_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|Administrator||7c92cd|5e23ef ",
       "generated_at": "2025-02-19T15:13:03-05:00",
       "source_id": 14288594958
+    },
+    {
+      "id": "1828886352402501641",
+      "program": "SDBENCHMARK",
+      "message": "gyum 2025-02-20 00:08:25.455022|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-02-14 hash:9277598e url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.3.1+cu121 xformers: diffusers:0.28.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:561.09 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pony\\animeboysxlv3_v30.safetensors [80cc8f54fc] vae:automatic width:512 height:512|gyum||8b2a10|0675d9 ",
+      "generated_at": "2025-02-19T19:08:27-05:00",
+      "source_id": 14288670213
+    },
+    {
+      "id": "1828911070916554798",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-19 16:36:50.661004|4.2 / 4.35 / 4.51|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-131-generic python:3.11.10|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:560.35.03 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning vae:none width:1024 height:1024|root||779877|ac117b ",
+      "generated_at": "2025-02-19T11:46:41-05:00",
+      "source_id": 14288715269
+    },
+    {
+      "id": "1828911719855087630",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-19 16:36:50.661004|4.2 / 4.35 / 4.51|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-131-generic python:3.11.10|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:560.35.03 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning vae:none width:1024 height:1024|root||779877|ac117b ",
+      "generated_at": "2025-02-19T11:49:16-05:00",
+      "source_id": 14288715269
     }
   ]
 }
