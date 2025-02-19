@@ -1,5 +1,5 @@
 {
-  "max_id": "1828729747547545615",
+  "max_id": "1828842210351829015",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2163,6 +2163,13 @@
       "message": "Karma_Dew 2025-02-18 22:44:00.426479|1.25 / 1.3 / 1.32|app:SD.next updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.6.68-Unraid python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce GTX 1070 Ti (1) (sm_90) (6, 1) cuda:12.6 cudnn:90501 driver:570.86.16 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:anyhentai_20 [61bc7001e8] vae:none width:512 height:512|Karma_Dew||170782|280f0f ",
       "generated_at": "2025-02-18T17:46:10-05:00",
       "source_id": 14288411790
+    },
+    {
+      "id": "1828842210351829015",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-02-19 20:12:38.083191|15.69 / 16.97 / 17.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.42 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:人物写实\\majicmix realistic 麦橘写实_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|Administrator||7c92cd|5e23ef ",
+      "generated_at": "2025-02-19T15:13:03-05:00",
+      "source_id": 14288594958
     }
   ]
 }
