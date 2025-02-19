@@ -1,5 +1,5 @@
 {
-  "max_id": "1828556363517841442",
+  "max_id": "1828672465497403395",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2149,6 +2149,13 @@
       "message": "Cresius 2025-02-18 18:16:07.811320|3.06 / 4.64 / 3.71|app:sdnext updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:AMD Radeon RX 6900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_v8rundiffusion [aeb7e9e689] vae:none width:512 height:512|Cresius||062aa3|7c798b ",
       "generated_at": "2025-02-18T13:17:12-05:00",
       "source_id": 14288085608
+    },
+    {
+      "id": "1828672465497403395",
+      "program": "SDBENCHMARK",
+      "message": "31051 2025-02-19 08:58:14.246972|18.91 / 21.59 / 22.29|app:stable-diffusion-webui updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:现代都市mj画风推文_v1.safetensors [e43aee4d92] vae:animevae.pt width:512 height:512|31051||cb6cf9|019e2f ",
+      "generated_at": "2025-02-19T03:58:37-05:00",
+      "source_id": 14288307751
     }
   ]
 }
