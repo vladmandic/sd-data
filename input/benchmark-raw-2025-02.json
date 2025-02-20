@@ -1,5 +1,5 @@
 {
-  "max_id": "1829172767615004674",
+  "max_id": "1829293283373920275",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2275,6 +2275,34 @@
       "message": "starry 2025-02-20 18:06:05.046599|22.66 / 25.72 / 35.25 / 38.35 / 39.03|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.16  572.16 32GB|Automatic none|noobaiXLNAIXL_vPred10Version.safetensors [ea349eeae8]|starry||9ecb35|cd964e ",
       "generated_at": "2025-02-20T13:06:34-05:00",
       "source_id": 14289177625
+    },
+    {
+      "id": "1829238989224333313",
+      "program": "SDBENCHMARK",
+      "message": "adam_hopper 2025-02-20 09:21:32.773428|0.68 / 0.7 / 0.7|app:sdnext.git updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-14-generic python:3.11.9|torch:2.6.0+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sdxl/ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:aaa anime vae sdxl.safetensors width:512 height:512|adam_hopper||5ed93d|460b81 ",
+      "generated_at": "2025-02-20T04:29:43-05:00",
+      "source_id": 14289296561
+    },
+    {
+      "id": "1829265126189088801",
+      "program": "SDBENCHMARK",
+      "message": "bratm 2025-02-20 17:08:00.279903|0.43 / 0.59 / 0.73|app:SD.next updated:2025-02-05 hash:9f122234 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:12.6 cudnn:90501 driver:566.14 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:lowvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:realisticstockphoto_v20 [f99f3dec38] vae:none width:512 height:512|bratm||b56e53|d93620 ",
+      "generated_at": "2025-02-20T12:12:40-05:00",
+      "source_id": 14289346240
+    },
+    {
+      "id": "1829287218435502081",
+      "program": "SDBENCHMARK",
+      "message": "lxl 2025-02-21 01:40:29.288034|14.45 / 15.56 / 16.04 / 16.29 / 16.31|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lxl||44fab9|78b4d4 ",
+      "generated_at": "2025-02-20T20:41:20-05:00",
+      "source_id": 14289385155
+    },
+    {
+      "id": "1829293283373920275",
+      "program": "SDBENCHMARK",
+      "message": "justin 2025-02-20 19:04:31.647006|2.61 / 4.01 / 4.38|app:SD.next updated:2025-02-20 hash:c925b61a url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.12.12-2-MANJARO python:3.10.11|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon Graphics (1) hip:6.2.41134-65d174c3e 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sdxl-turbo/dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|justin||ceb6aa|0839e4 ",
+      "generated_at": "2025-02-20T14:05:27-05:00",
+      "source_id": 14289395245
     }
   ]
 }
