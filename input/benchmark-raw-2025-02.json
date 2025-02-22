@@ -1,5 +1,5 @@
 {
-  "max_id": "1829576353205379074",
+  "max_id": "1829671139107061770",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2309,6 +2309,13 @@
       "program": "SDBENCHMARK",
       "message": "zrspe 2025-02-20 21:39:27.312276|4.65 / 5.81 / 6.16|app:sdnext.git updated:2025-02-20 hash:3aa8de60 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:diffusers\\stabilityai/stable-diffusion-xl-base-1.0 [4621659840] vae:none width:512 height:512|zrspe||60f55a|325066 ",
       "generated_at": "2025-02-20T16:41:58-05:00",
+      "source_id": 14289661127
+    },
+    {
+      "id": "1829671139107061770",
+      "program": "SDBENCHMARK",
+      "message": "zrspe 2025-02-20 21:39:27.312276|4.65 / 5.81 / 6.16|app:sdnext.git updated:2025-02-20 hash:3aa8de60 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:diffusers\\stabilityai/stable-diffusion-xl-base-1.0 [4621659840] vae:none width:512 height:512|zrspe||60f55a|325066 ",
+      "generated_at": "2025-02-21T09:06:55-05:00",
       "source_id": 14289661127
     }
   ]
