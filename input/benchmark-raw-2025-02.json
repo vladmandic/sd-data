@@ -1,5 +1,5 @@
 {
-  "max_id": "1829671139107061770",
+  "max_id": "1829801340721881107",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2317,6 +2317,41 @@
       "message": "zrspe 2025-02-20 21:39:27.312276|4.65 / 5.81 / 6.16|app:sdnext.git updated:2025-02-20 hash:3aa8de60 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:diffusers\\stabilityai/stable-diffusion-xl-base-1.0 [4621659840] vae:none width:512 height:512|zrspe||60f55a|325066 ",
       "generated_at": "2025-02-21T09:06:55-05:00",
       "source_id": 14289661127
+    },
+    {
+      "id": "1829791888136396811",
+      "program": "SDBENCHMARK",
+      "message": "iDeNoh 2025-02-21 21:04:34.631932|4.31 / 5.08 / 5.44 / 5.56 / 5.62|app:sdnext updated:2025-02-22 hash:919f5cab url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.1|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:icedcoffeemix_v40latte [448047383f] vae:asyncsvae_v10.safetensors width:512 height:512|iDeNoh|Flash attention|70bd10|8555c0 ",
+      "generated_at": "2025-02-21T16:06:44-05:00",
+      "source_id": 14290256410
+    },
+    {
+      "id": "1829792922095239208",
+      "program": "SDBENCHMARK",
+      "message": "rizwa 2025-02-21 21:09:54.630034|6.15 / 8.59 / 9.85|app:sdnext updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixillustrious_illustriousv2 [cb39f56617] vae:none width:512 height:512|rizwa||4af164|c25a60 ",
+      "generated_at": "2025-02-21T16:10:55-05:00",
+      "source_id": 14290258079
+    },
+    {
+      "id": "1829792953804177417",
+      "program": "SDBENCHMARK",
+      "message": "rizwa 2025-02-21 21:09:54.630034|6.15 / 8.59 / 9.85|app:sdnext updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixillustrious_illustriousv2 [cb39f56617] vae:none width:512 height:512|rizwa||4af164|c25a60 ",
+      "generated_at": "2025-02-21T16:11:03-05:00",
+      "source_id": 14290258079
+    },
+    {
+      "id": "1829794695547633694",
+      "program": "SDBENCHMARK",
+      "message": "rizwa 2025-02-21 21:09:54.630034|6.15 / 8.59 / 9.85|app:sdnext updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixillustrious_illustriousv2 [cb39f56617] vae:none width:512 height:512|rizwa||4af164|c25a60 ",
+      "generated_at": "2025-02-21T16:17:58-05:00",
+      "source_id": 14290258079
+    },
+    {
+      "id": "1829801340721881107",
+      "program": "SDBENCHMARK",
+      "message": "iDeNoh 2025-02-21 21:42:16.680181|4.29 / 5.08 / 5.38 / 5.55 / 5.62|app:sdnext updated:2025-02-22 hash:919f5cab url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.1|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:icedcoffeemix_v40latte [448047383f] vae:asyncsvae_v10.safetensors width:512 height:512|iDeNoh|Flash attention disabled|70bd10|74f27e ",
+      "generated_at": "2025-02-21T16:44:18-05:00",
+      "source_id": 14290256410
     }
   ]
 }
