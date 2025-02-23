@@ -1,5 +1,5 @@
 {
-  "max_id": "1830103480921145349",
+  "max_id": "1830262874963095557",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2450,6 +2450,13 @@
       "message": "Administrator 2025-02-23 07:35:59.978451|1.19 / 1.32 / 1.42|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||63ec1c|210dca ",
       "generated_at": "2025-02-23T02:37:53-05:00",
       "source_id": 14290625339
+    },
+    {
+      "id": "1830262874963095557",
+      "program": "SDBENCHMARK",
+      "message": "kanli 2025-02-23 18:17:22.577030|2.95 / 4.17 / 5.8|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illustrious\\wainsfwillustrious_v110.safetensors [c3688ee04c] vae:automatic width:512 height:512|kanli||8fa929|04abe3 ",
+      "generated_at": "2025-02-23T13:18:15-05:00",
+      "source_id": 14290808882
     }
   ]
 }
