@@ -1,5 +1,5 @@
 {
-  "max_id": "1830262874963095557",
+  "max_id": "1830382086486413341",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2457,6 +2457,20 @@
       "message": "kanli 2025-02-23 18:17:22.577030|2.95 / 4.17 / 5.8|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illustrious\\wainsfwillustrious_v110.safetensors [c3688ee04c] vae:automatic width:512 height:512|kanli||8fa929|04abe3 ",
       "generated_at": "2025-02-23T13:18:15-05:00",
       "source_id": 14290808882
+    },
+    {
+      "id": "1830382068207636496",
+      "program": "SDBENCHMARK",
+      "message": "mbjo 2025-02-23 19:11:10.067513|error / error / error|app:sdnext.git updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:7pag - nsfw merged model\\7pagnsfwmergedmodel_7paglscx [dda4c6cfe3] vae:none width:512 height:512|mbjo||4868a2|df4655 ",
+      "generated_at": "2025-02-23T14:11:53-05:00",
+      "source_id": 14290956115
+    },
+    {
+      "id": "1830382086486413341",
+      "program": "SDBENCHMARK",
+      "message": "mbjo 2025-02-23 19:11:10.067513|error / error / error|app:sdnext.git updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:7pag - nsfw merged model\\7pagnsfwmergedmodel_7paglscx [dda4c6cfe3] vae:none width:512 height:512|mbjo||4868a2|df4655 ",
+      "generated_at": "2025-02-23T14:11:58-05:00",
+      "source_id": 14290956115
     }
   ]
 }
