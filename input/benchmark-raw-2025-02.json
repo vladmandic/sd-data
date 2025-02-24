@@ -1,5 +1,5 @@
 {
-  "max_id": "1830382086486413341",
+  "max_id": "1830470964677365766",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2471,6 +2471,41 @@
       "message": "mbjo 2025-02-23 19:11:10.067513|error / error / error|app:sdnext.git updated:2025-02-21 hash:cb0eb555 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.4.1+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:7pag - nsfw merged model\\7pagnsfwmergedmodel_7paglscx [dda4c6cfe3] vae:none width:512 height:512|mbjo||4868a2|df4655 ",
       "generated_at": "2025-02-23T14:11:58-05:00",
       "source_id": 14290956115
+    },
+    {
+      "id": "1830437311381426180",
+      "program": "SDBENCHMARK",
+      "message": "ivar2 2025-02-23 22:49:37.784314|0.94 / 0.91 / 0.85|app:stable-diffusion-webui-directml updated:2024-10-09 hash:efddd05e url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.48.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:sdp-no-mem - scaled dot product without memory efficient attention flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:centerfold_versionxidmd2.safetensors [5901ca8a4e] vae:automatic width:832 height:1216|ivar2||e792d5|5858aa ",
+      "generated_at": "2025-02-23T17:51:25-05:00",
+      "source_id": 14291038619
+    },
+    {
+      "id": "1830470964610261010",
+      "program": "SDBENCHMARK",
+      "message": "sd 2024-11-22 21:06:16.815809|0.57 / 0.98 / 1.81|app:stable-diffusion-webui-forge.git updated:2024-11-22 hash:ad983c99 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-126-generic python:3.10.12|torch:2.1.2+cu121 full nohalf xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA CMP 100-210 (1) (sm_90) (7, 0) cuda:12.1 cudnn:8902 driver:565.57.01 16GB|sdp - scaled dot product none|v1-5-pruned-emaonly.safetensors|sd|NVIDIA CMP 100-210 250W|5513e6|d06803 ",
+      "generated_at": "2025-02-23T19:05:08-05:00",
+      "source_id": 14291092772
+    },
+    {
+      "id": "1830470964639612934",
+      "program": "SDBENCHMARK",
+      "message": "sd 2024-11-23 20:08:26.137518|1.03 / 1.55 / 2.37|app:stable-diffusion-webui-forge.git updated:2024-11-23 hash:c9850c84 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-126-generic python:3.10.12|torch:2.3.1+cu121 full nohalf xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA CMP 100-210 (1) (sm_90) (7, 0) cuda:12.1 cudnn:8902 driver:565.57.01 16GB|sdp - scaled dot product none|v1-5-pruned-emaonly.safetensors|sd|CMP100-210 250W tensorrt tensorflow fail|b97e56|f3a2d2 ",
+      "generated_at": "2025-02-23T19:05:08-05:00",
+      "source_id": 14291092772
+    },
+    {
+      "id": "1830470964660584458",
+      "program": "SDBENCHMARK",
+      "message": "sd 2024-11-23 20:38:02.324401|0.68 / 1.32 / 2.22|app:stable-diffusion-webui-forge.git updated:2024-11-23 hash:c9850c84 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-126-generic python:3.10.12|torch:2.3.1+cu121 full nohalf xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA CMP 100-210 (1) (sm_90) (7, 0) cuda:12.1 cudnn:8902 driver:565.57.01 16GB|Automatic none|v1-5-pruned-emaonly.safetensors|sd|CMP100-210 250W tensorrt tensorflow fail|7a9962|9f2312 ",
+      "generated_at": "2025-02-23T19:05:08-05:00",
+      "source_id": 14291092772
+    },
+    {
+      "id": "1830470964677365766",
+      "program": "SDBENCHMARK",
+      "message": "sd 2024-11-25 13:34:30.880174|1.33 / 1.48 / 1.51 / 1.62 / 1.58|app:stable-diffusion-webui-forge.git updated:2024-11-23 hash:c9850c84 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-126-generic python:3.10.12|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA CMP 100-210 (1) (sm_90) (7, 0) cuda:12.1 cudnn:8902 driver:565.57.01 16GB|Automatic none|iniverseMixXLSFWNSFW_guofeng6GV11.safetensors|sd|CMP100-210 250W tensorrt tensorflow fail|c4eade|5dcfaf ",
+      "generated_at": "2025-02-23T19:05:08-05:00",
+      "source_id": 14291092772
     }
   ]
 }
