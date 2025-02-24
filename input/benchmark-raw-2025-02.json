@@ -1,5 +1,5 @@
 {
-  "max_id": "1830470964677365766",
+  "max_id": "1830616991233388551",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2506,6 +2506,62 @@
       "message": "sd 2024-11-25 13:34:30.880174|1.33 / 1.48 / 1.51 / 1.62 / 1.58|app:stable-diffusion-webui-forge.git updated:2024-11-23 hash:c9850c84 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-126-generic python:3.10.12|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA CMP 100-210 (1) (sm_90) (7, 0) cuda:12.1 cudnn:8902 driver:565.57.01 16GB|Automatic none|iniverseMixXLSFWNSFW_guofeng6GV11.safetensors|sd|CMP100-210 250W tensorrt tensorflow fail|c4eade|5dcfaf ",
       "generated_at": "2025-02-23T19:05:08-05:00",
       "source_id": 14291092772
+    },
+    {
+      "id": "1830607698056626193",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-01 16:02:08.370109|32.93 / 46.07 / 54.14 / 57.46 / 57.65|app:sdnext updated:2025-02-01 hash:52ff4c88 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.6.36.6-microsoft-standard-WSL2+ python:3.12.3|torch:2.7.0.dev20250201+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.1|device:NVIDIA GeForce RTX 4090 (1) (compute_120) (8, 9) cuda:12.8 cudnn:90700 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd15/lyriel_v16 [ec6f68ea63] vae:none width:512 height:512|vlado||d3a11c|893422 ",
+      "generated_at": "2025-02-24T04:08:28-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830607698106957825",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-24 09:08:16.674133|29.92 / 50.68 / 74.16|app:sdnext updated:2025-02-11 hash:78125d8f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1070-nvidia python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver:565.57.01 140GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:lyriel_v16 vae:none width:512 height:512|root||31150e|e62df8 ",
+      "generated_at": "2025-02-24T04:08:28-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830610445053116431",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-01 16:02:08.370109|32.93 / 46.07 / 54.14 / 57.46 / 57.65|app:sdnext updated:2025-02-01 hash:52ff4c88 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.6.36.6-microsoft-standard-WSL2+ python:3.12.3|torch:2.7.0.dev20250201+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.1|device:NVIDIA GeForce RTX 4090 (1) (compute_120) (8, 9) cuda:12.8 cudnn:90700 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd15/lyriel_v16 [ec6f68ea63] vae:none width:512 height:512|vlado||d3a11c|893422 ",
+      "generated_at": "2025-02-24T04:19:23-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830610445103443976",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-24 09:16:43.278901|40.11 / 76.7 / 103.07 / 112.76 / 125.76|app:sdnext updated:2025-02-11 hash:78125d8f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1070-nvidia python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver:565.57.01 140GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:lyriel_v16 vae:none width:512 height:512|root||31150e|c95af9 ",
+      "generated_at": "2025-02-24T04:19:23-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830610470118281218",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-01 16:02:08.370109|32.93 / 46.07 / 54.14 / 57.46 / 57.65|app:sdnext updated:2025-02-01 hash:52ff4c88 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.6.36.6-microsoft-standard-WSL2+ python:3.12.3|torch:2.7.0.dev20250201+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.1|device:NVIDIA GeForce RTX 4090 (1) (compute_120) (8, 9) cuda:12.8 cudnn:90700 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd15/lyriel_v16 [ec6f68ea63] vae:none width:512 height:512|vlado||d3a11c|893422 ",
+      "generated_at": "2025-02-24T04:19:29-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830610470164410375",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-24 09:16:43.278901|40.11 / 76.7 / 103.07 / 112.76 / 125.76|app:sdnext updated:2025-02-11 hash:78125d8f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-1070-nvidia python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver:565.57.01 140GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:lyriel_v16 vae:none width:512 height:512|root||31150e|c95af9 ",
+      "generated_at": "2025-02-24T04:19:29-05:00",
+      "source_id": 14291318261
+    },
+    {
+      "id": "1830616991220813833",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-01 16:02:08.370109|32.93 / 46.07 / 54.14 / 57.46 / 57.65|app:sdnext updated:2025-02-01 hash:52ff4c88 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.6.36.6-microsoft-standard-WSL2+ python:3.12.3|torch:2.7.0.dev20250201+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.1|device:NVIDIA GeForce RTX 4090 (1) (compute_120) (8, 9) cuda:12.8 cudnn:90700 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd15/lyriel_v16 [ec6f68ea63] vae:none width:512 height:512|vlado||d3a11c|893422 ",
+      "generated_at": "2025-02-24T04:45:24-05:00",
+      "source_id": 14291332406
+    },
+    {
+      "id": "1830616991233388551",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-24 09:44:49.203461|34.35 / 47.99 / 55.73 / 52.77 / 53.62|app:sdnext updated:2025-02-11 hash:78125d8f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-48-generic python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:570.86.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:lyriel_v16 vae:none width:512 height:512|root||a4836b|bb0ef9 ",
+      "generated_at": "2025-02-24T04:45:24-05:00",
+      "source_id": 14291332406
     }
   ]
 }
