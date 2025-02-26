@@ -1,5 +1,5 @@
 {
-  "max_id": "1831174066422337543",
+  "max_id": "1831293715415752705",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2639,6 +2639,13 @@
       "message": "mattd 2025-02-25 14:38:59.078924|error / error / error|app:SD.next updated:2025-02-24 hash:80eda2df url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.47 12GB|pipeline:original crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:LatentDiffusion model:copaxtimeless_xplus4 [e2847873c3] vae:ae.safetensors width:1024 height:1024|mattd||8a6f5c|1f0d21 ",
       "generated_at": "2025-02-25T09:39:01-05:00",
       "source_id": 14292359464
+    },
+    {
+      "id": "1831293715415752705",
+      "program": "SDBENCHMARK",
+      "message": "JUNG2 2025-02-26 15:32:35.828181|2.72 / 2.78 / 1.46||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:565.90 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:speciosarealistica_v12b.safetensors [6cf8ff6d26] vae:none width:512 height:512|JUNG2||b0ef08|69d5a8 ",
+      "generated_at": "2025-02-26T10:34:26-05:00",
+      "source_id": 14292588219
     }
   ]
 }
