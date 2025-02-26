@@ -1,5 +1,5 @@
 {
-  "max_id": "1831107978527420439",
+  "max_id": "1831174066422337543",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2611,6 +2611,34 @@
       "message": "51nb 2025-02-26 02:14:45.300652|3.58 / 3.72 / 3.73|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp-no-mem - scaled dot product without memory efficient attention flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|51nb||471184|342323 ",
       "generated_at": "2025-02-25T21:16:23-05:00",
       "source_id": 14292232496
+    },
+    {
+      "id": "1831138856699875328",
+      "program": "SDBENCHMARK",
+      "message": "offic 2025-02-25 21:16:48.414055|0.54 / 2.49 / 2.58|app:sdnext updated:2025-02-24 hash:a1ab39bb url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|offic||4bca29|1d0fe6 ",
+      "generated_at": "2025-02-25T16:19:06-05:00",
+      "source_id": 14292289177
+    },
+    {
+      "id": "1831145850076848129",
+      "program": "SDBENCHMARK",
+      "message": "frank 2025-02-25 20:02:16.991796|0.08 / 0.11 / 0.13|app:sdnext updated:2025-02-24 hash:a1ab39bb url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.8.12-8-pve python:3.11.2|torch:2.6.0+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce GT 1030 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:535.216.01 2GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:_illustrious/cyberillustrious_cyberrealistic/cyberillustrious_v20 [9122f6cfd5] vae:none width:512 height:512|frank||9f145b|99875e ",
+      "generated_at": "2025-02-25T15:46:54-05:00",
+      "source_id": 14292301413
+    },
+    {
+      "id": "1831174066422337542",
+      "program": "SDBENCHMARK",
+      "message": "mattd 2025-02-13 01:45:16.890384|error / error / error|app:SD.next updated:2025-02-12 hash:5dacd918 url:https://github.com/vladmandic/automatic/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.16 12GB|pipeline:original crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:diffusers\\black-forest-labs/flux.1-fill-dev [6d92c29631] vae:automatic width:512 height:512|mattd||c872b2|4299be ",
+      "generated_at": "2025-02-25T09:39:01-05:00",
+      "source_id": 14292359464
+    },
+    {
+      "id": "1831174066422337543",
+      "program": "SDBENCHMARK",
+      "message": "mattd 2025-02-25 14:38:59.078924|error / error / error|app:SD.next updated:2025-02-24 hash:80eda2df url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.47 12GB|pipeline:original crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:LatentDiffusion model:copaxtimeless_xplus4 [e2847873c3] vae:ae.safetensors width:1024 height:1024|mattd||8a6f5c|1f0d21 ",
+      "generated_at": "2025-02-25T09:39:01-05:00",
+      "source_id": 14292359464
     }
   ]
 }
