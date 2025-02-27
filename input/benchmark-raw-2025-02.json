@@ -1,5 +1,5 @@
 {
-  "max_id": "1831293715415752705",
+  "max_id": "1831515375070789637",
   "events": [
     {
       "id": "1822198260358623243",
@@ -2646,6 +2646,13 @@
       "message": "JUNG2 2025-02-26 15:32:35.828181|2.72 / 2.78 / 1.46||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:565.90 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:speciosarealistica_v12b.safetensors [6cf8ff6d26] vae:none width:512 height:512|JUNG2||b0ef08|69d5a8 ",
       "generated_at": "2025-02-26T10:34:26-05:00",
       "source_id": 14292588219
+    },
+    {
+      "id": "1831515375070789637",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-02-26 22:10:12.465817|3.94 / 4.33 / 4.94|app:SD.next updated:2025-02-24 hash:a1ab39bb url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-53-generic python:3.10.11|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.77 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sdxlyamersperfectdesign_v3definitivesketch [da3d8d622d] vae:none width:512 height:512|root||462866|9c840a ",
+      "generated_at": "2025-02-26T17:15:15-05:00",
+      "source_id": 14292987990
     }
   ]
 }
