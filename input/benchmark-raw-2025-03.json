@@ -1,5 +1,5 @@
 {
-  "max_id": "1832393112060870662",
+  "max_id": "1832525866723368978",
   "events": [
     {
       "id": "1832278147899510812",
@@ -49,6 +49,27 @@
       "message": "BMR 2025-03-01 14:47:21.769106|4.23 / 7.68 / 11.31|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:560.94 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:virilestallion_v50photoreal.safetensors [919cc6f1b1] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|BMR||1b1a24|d03dc8 ",
       "generated_at": "2025-03-01T11:23:05-05:00",
       "source_id": 14294534009
+    },
+    {
+      "id": "1832521314527784978",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-03-01 15:51:52.230697|15.71 / 34.0 / 62.68 / 81.45 / 94.59|app:sdnext updated:2025-02-27 hash:be076ec9 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-51-generic python:3.11.11|torch:2.5.1+cu124 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA H200 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:550.127.05 140GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:realvisxlv50_v50lightningbakedvae [fabcadd933] vae:none width:512 height:512|root||7a89d0|555371 ",
+      "generated_at": "2025-03-01T10:52:24-05:00",
+      "source_id": 14294753631
+    },
+    {
+      "id": "1832525856355049501",
+      "program": "SDBENCHMARK",
+      "message": "jj 2025-03-02 00:09:08.511227|11.15 / 11.42 / 12.51|updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.21.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB|xformers none|二次元\\真实感必备模型｜ChilloutMix_Chilloutmix-Ni-pruned-fp32-fix.safetensors [fc2511737a]|jj||2ec5f6|3261e4 ",
+      "generated_at": "2025-03-01T19:10:33-05:00",
+      "source_id": 14294760187
+    },
+    {
+      "id": "1832525866723368978",
+      "program": "SDBENCHMARK",
+      "message": "jj 2025-03-02 00:09:08.511227|11.15 / 11.42 / 12.51|updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.21.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB|xformers none|二次元\\真实感必备模型｜ChilloutMix_Chilloutmix-Ni-pruned-fp32-fix.safetensors [fc2511737a]|jj||2ec5f6|3261e4 ",
+      "generated_at": "2025-03-01T19:10:35-05:00",
+      "source_id": 14294760187
     }
   ]
 }
