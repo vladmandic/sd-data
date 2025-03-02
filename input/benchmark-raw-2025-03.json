@@ -1,5 +1,5 @@
 {
-  "max_id": "1832660238751420425",
+  "max_id": "1832661097275117577",
   "events": [
     {
       "id": "1832278147899510812",
@@ -111,6 +111,13 @@
       "program": "SDBENCHMARK",
       "message": "root 2025-03-02 01:03:41.713335|16.1 / 28.19 / 38.23 / 43.96 / 46.04|app:sdnext updated:2025-02-27 hash:be076ec9 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-52-generic python:3.11.11|torch:2.7.0.dev20250301+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 5090 (1) (compute_120) (12, 0) cuda:12.8 cudnn:90701 driver:570.86.16 31GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base1.0_0.9vae [e6bb9ea85b] vae:automatic width:512 height:512|root||03fa16|811d89 ",
       "generated_at": "2025-03-01T20:04:32-05:00",
+      "source_id": 14294942282
+    },
+    {
+      "id": "1832661097275117577",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-03-02 01:04:48.479790|9.58 / 10.5 / 11.14 / 11.32 / 11.25|app:sdnext updated:2025-02-27 hash:be076ec9 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-52-generic python:3.11.11|torch:2.7.0.dev20250301+cu128 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 5090 (1) (compute_120) (12, 0) cuda:12.8 cudnn:90701 driver:570.86.16 31GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base1.0_0.9vae [e6bb9ea85b] vae:automatic width:1024 height:1024|root||03fa16|684f14 ",
+      "generated_at": "2025-03-01T20:07:57-05:00",
       "source_id": 14294942282
     }
   ]
