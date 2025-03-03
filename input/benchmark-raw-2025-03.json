@@ -1,5 +1,5 @@
 {
-  "max_id": "1832901698469937159",
+  "max_id": "1833017212148039684",
   "events": [
     {
       "id": "1832278147899510812",
@@ -153,6 +153,41 @@
       "program": "SDBENCHMARK",
       "message": "do-it 2025-03-02 18:03:38.649349|13.3 / 21.53 / 28.63|app:stable-diffusion-webui-forge.git updated:2025-02-27 hash:4f825bc0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv4vaefix.safetensors vae:none width:512 height:512|do-it||dbd1a5|32ee4a ",
       "generated_at": "2025-03-02T13:04:00-05:00",
+      "source_id": 14295264299
+    },
+    {
+      "id": "1832954863298985984",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-02 21:35:06.637987|12.6 / 20.73 / 24.45|app:stable-diffusion-webui-forge.git updated:2025-02-27 hash:4f825bc0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv4vaefix.safetensors vae:none width:512 height:512|do-it||dbd1a5|6b27fa ",
+      "generated_at": "2025-03-02T16:35:16-05:00",
+      "source_id": 14295264299
+    },
+    {
+      "id": "1832954866658623507",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-02 21:35:06.637987|12.6 / 20.73 / 24.45|app:stable-diffusion-webui-forge.git updated:2025-02-27 hash:4f825bc0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv4vaefix.safetensors vae:none width:512 height:512|do-it||dbd1a5|6b27fa ",
+      "generated_at": "2025-03-02T16:35:17-05:00",
+      "source_id": 14295264299
+    },
+    {
+      "id": "1832983969835175950",
+      "program": "SDBENCHMARK",
+      "message": "Seyha 2025-03-02 23:26:00.534332|2.64 / 3.14 / 3.92 / 4.21 / 3.64|app:stable-diffusion-webui.git updated:2025-02-28 hash:d8688def url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:572.60 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:obsessionillustrious_v31.safetensors [d1d7977219] vae:automatic width:512 height:512|Seyha||1821d3|7c5872 ",
+      "generated_at": "2025-03-02T18:30:55-05:00",
+      "source_id": 14295400244
+    },
+    {
+      "id": "1832984239390511109",
+      "program": "SDBENCHMARK",
+      "message": "Seyha 2025-03-02 23:26:00.534332|2.64 / 3.14 / 3.92 / 4.21 / 3.64|app:stable-diffusion-webui.git updated:2025-02-28 hash:d8688def url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:572.60 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:obsessionillustrious_v31.safetensors [d1d7977219] vae:automatic width:512 height:512|Seyha||1821d3|7c5872 ",
+      "generated_at": "2025-03-02T18:32:00-05:00",
+      "source_id": 14295400244
+    },
+    {
+      "id": "1833017212148039684",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-03 01:42:48.650257|13.09 / 21.14 / 26.62|app:stable-diffusion-webui-forge.git updated:2025-02-27 hash:4f825bc0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:none width:512 height:512|do-it||dbd1a5|a0a2ce ",
+      "generated_at": "2025-03-02T20:43:01-05:00",
       "source_id": 14295264299
     }
   ]
