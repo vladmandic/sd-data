@@ -1,5 +1,5 @@
 {
-  "max_id": "1833050941746753546",
+  "max_id": "1833164902089547784",
   "events": [
     {
       "id": "1832278147899510812",
@@ -196,6 +196,13 @@
       "message": "PC 2025-03-03 10:43:02.995150|1.72 / 1.79 / 1.86|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro P4000 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:556.39 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|PC||d1501e|39bf49 ",
       "generated_at": "2025-03-03T05:57:02-05:00",
       "source_id": 14295515399
+    },
+    {
+      "id": "1833164902089547784",
+      "program": "SDBENCHMARK",
+      "message": "yk 2025-03-03 11:25:19.437461|1.1 / 1.1 / 1.14|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/Branch_v1.10.1|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.16|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.16 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:leosamshelloworldxl_helloworldxl70.safetensors [573f4a7d35] vae:sdxl-vae-fixfp16errorslowermemoryuse_v10.safetensors width:1024 height:1024|yk||212092|783ceb ",
+      "generated_at": "2025-03-03T06:29:52-05:00",
+      "source_id": 14295715100
     }
   ]
 }
