@@ -1,5 +1,5 @@
 {
-  "max_id": "1833017212148039684",
+  "max_id": "1833050941746753546",
   "events": [
     {
       "id": "1832278147899510812",
@@ -189,6 +189,13 @@
       "message": "do-it 2025-03-03 01:42:48.650257|13.09 / 21.14 / 26.62|app:stable-diffusion-webui-forge.git updated:2025-02-27 hash:4f825bc0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:none width:512 height:512|do-it||dbd1a5|a0a2ce ",
       "generated_at": "2025-03-02T20:43:01-05:00",
       "source_id": 14295264299
+    },
+    {
+      "id": "1833050941746753546",
+      "program": "SDBENCHMARK",
+      "message": "PC 2025-03-03 10:43:02.995150|1.72 / 1.79 / 1.86|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro P4000 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:556.39 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|PC||d1501e|39bf49 ",
+      "generated_at": "2025-03-03T05:57:02-05:00",
+      "source_id": 14295515399
     }
   ]
 }
