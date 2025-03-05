@@ -1,5 +1,5 @@
 {
-  "max_id": "1833768316091674674",
+  "max_id": "1833912928978526225",
   "events": [
     {
       "id": "1832278147899510812",
@@ -315,6 +315,13 @@
       "message": "petya136900 2025-03-05 05:25:52.297124|2.23 / 2.29 / 2.47|app:sdnext updated:2025-03-02 hash:431bcc36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.9|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3050 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:571.96 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novafurryxl_illustriousv40 [0c72fc7247] vae:none width:512 height:512|petya136900||9462fc|8b4415 ",
       "generated_at": "2025-03-05T00:27:38-05:00",
       "source_id": 14296570961
+    },
+    {
+      "id": "1833912928978526225",
+      "program": "SDBENCHMARK",
+      "message": "Hitomi 2025-03-05 20:01:16.992967|20.32 / 22.54 / 23.89|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|AOM3B3_orangemixs.safetensors [b3f18d8ffd]|Hitomi||bf25ab|847685 ",
+      "generated_at": "2025-03-05T15:02:16-05:00",
+      "source_id": 14297125868
     }
   ]
 }
