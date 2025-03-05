@@ -1,5 +1,5 @@
 {
-  "max_id": "1833912928978526225",
+  "max_id": "1834002658697064462",
   "events": [
     {
       "id": "1832278147899510812",
@@ -322,6 +322,41 @@
       "message": "Hitomi 2025-03-05 20:01:16.992967|20.32 / 22.54 / 23.89|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|AOM3B3_orangemixs.safetensors [b3f18d8ffd]|Hitomi||bf25ab|847685 ",
       "generated_at": "2025-03-05T15:02:16-05:00",
       "source_id": 14297125868
+    },
+    {
+      "id": "1833945432976441376",
+      "program": "SDBENCHMARK",
+      "message": "zkpeng 2025-03-05 22:09:25.113966|1.21 / 1.39 / 1.51|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485b url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:560.94 6GB|xformers medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|zkpeng||a51c3e|1a4288 ",
+      "generated_at": "2025-03-05T17:11:22-05:00",
+      "source_id": 14297182319
+    },
+    {
+      "id": "1833945434494779404",
+      "program": "SDBENCHMARK",
+      "message": "zkpeng 2025-03-05 22:09:25.113966|1.21 / 1.39 / 1.51|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485b url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:560.94 6GB|xformers medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|zkpeng||a51c3e|1a4288 ",
+      "generated_at": "2025-03-05T17:11:22-05:00",
+      "source_id": 14297182319
+    },
+    {
+      "id": "1833945482783801354",
+      "program": "SDBENCHMARK",
+      "message": "zkpeng 2025-03-05 22:09:25.113966|1.21 / 1.39 / 1.51|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485b url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce GTX 1060 6GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:560.94 6GB|xformers medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|zkpeng||a51c3e|1a4288 ",
+      "generated_at": "2025-03-05T17:11:34-05:00",
+      "source_id": 14297182319
+    },
+    {
+      "id": "1833972164953559042",
+      "program": "SDBENCHMARK",
+      "message": "Nerdrx 2025-03-05 15:53:54.175511|5.42 / 1.2 / 1.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.13.5-1-cachyos-bore-lto python:3.10.16|torch:2.4.0a0+git3ae0438 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XTX (1) hip:6.3.42134-a9a80e791 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:novafurryxl_illustriousv40.safetensors [0c72fc7247] vae:automatic width:512 height:512|Nerdrx||5a3a6d|9a89a8 ",
+      "generated_at": "2025-03-05T10:57:40-05:00",
+      "source_id": 14297231747
+    },
+    {
+      "id": "1834002658697064462",
+      "program": "SDBENCHMARK",
+      "message": "janih 2025-03-05 19:57:44.856413|9.15 / 9.96 / 11.1|app:sdnext updated:2025-03-02 hash:431bcc36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly [92954befdb] vae:none width:512 height:512|janih||6fd5f1|dbdf08 ",
+      "generated_at": "2025-03-05T14:58:49-05:00",
+      "source_id": 14297287406
     }
   ]
 }
