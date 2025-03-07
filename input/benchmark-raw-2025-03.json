@@ -1,5 +1,5 @@
 {
-  "max_id": "1834565586252910597",
+  "max_id": "1834700035284197379",
   "events": [
     {
       "id": "1832278147899510812",
@@ -476,6 +476,34 @@
       "message": "ASUS 2025-03-07 15:00:53.138123|9.1 / 8.67 / 9.36|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:555.99 8GB|Automatic medvram-sdxl|control_v11p_sd15_inpaint_fp16.safetensors [677a4fe351]|ASUS||222b57|4ad13a ",
       "generated_at": "2025-03-07T10:01:33-05:00",
       "source_id": 14298335140
+    },
+    {
+      "id": "1834683744003469327",
+      "program": "SDBENCHMARK",
+      "message": "dista 2025-03-07 23:04:23.532138|11.59 / 12.66 / 13.62|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.16 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|dista||622211|051b62 ",
+      "generated_at": "2025-03-07T18:05:13-05:00",
+      "source_id": 14298533461
+    },
+    {
+      "id": "1834683748919193613",
+      "program": "SDBENCHMARK",
+      "message": "dista 2025-03-07 23:04:23.532138|11.59 / 12.66 / 13.62|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.16 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|dista||622211|051b62 ",
+      "generated_at": "2025-03-07T18:05:14-05:00",
+      "source_id": 14298533461
+    },
+    {
+      "id": "1834700030435581957",
+      "program": "SDBENCHMARK",
+      "message": "eichengmbp 2025-03-08 00:08:15.761079|2.1 / 1.94 / 2.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.0.0 python:3.10.6|torch:2.3.1 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:%e9%ba%a6%e6%a9%98%e8%b6%85%e7%84%b6majicflus_v1.safetensors [062dad72b2] vae:automatic width:512 height:512|eichengmbp||67eea1|d3c1ac ",
+      "generated_at": "2025-03-07T19:09:56-05:00",
+      "source_id": 14298561924
+    },
+    {
+      "id": "1834700035284197379",
+      "program": "SDBENCHMARK",
+      "message": "eichengmbp 2025-03-08 00:08:15.761079|2.1 / 1.94 / 2.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.0.0 python:3.10.6|torch:2.3.1 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:%e9%ba%a6%e6%a9%98%e8%b6%85%e7%84%b6majicflus_v1.safetensors [062dad72b2] vae:automatic width:512 height:512|eichengmbp||67eea1|d3c1ac ",
+      "generated_at": "2025-03-07T19:09:57-05:00",
+      "source_id": 14298561924
     }
   ]
 }
