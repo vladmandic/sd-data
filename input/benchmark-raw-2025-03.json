@@ -1,5 +1,5 @@
 {
-  "max_id": "1834465958408925191",
+  "max_id": "1834565586252910597",
   "events": [
     {
       "id": "1832278147899510812",
@@ -469,6 +469,13 @@
       "message": "jia 2025-03-07 08:38:58.052985|error / error / error|app:sdnext updated:2025-03-02 hash:431bcc36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:pony\\cyberrealisticpony_v7 [43d40c0f8d] vae:none width:512 height:512|jia||606806|be44ee ",
       "generated_at": "2025-03-07T03:39:50-05:00",
       "source_id": 14298173917
+    },
+    {
+      "id": "1834562020406644736",
+      "program": "SDBENCHMARK",
+      "message": "ASUS 2025-03-07 15:00:53.138123|9.1 / 8.67 / 9.36|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:555.99 8GB|Automatic medvram-sdxl|control_v11p_sd15_inpaint_fp16.safetensors [677a4fe351]|ASUS||222b57|4ad13a ",
+      "generated_at": "2025-03-07T10:01:33-05:00",
+      "source_id": 14298335140
     }
   ]
 }
