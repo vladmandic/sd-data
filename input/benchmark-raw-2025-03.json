@@ -1,5 +1,5 @@
 {
-  "max_id": "1834819158592897025",
+  "max_id": "1834967759931486213",
   "events": [
     {
       "id": "1832278147899510812",
@@ -511,6 +511,20 @@
       "message": "ZZZ 2025-03-08 09:02:41.614738|error / error / error|app:SD.next updated:2025-03-06 hash:9ea16a30 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Iris(R) Xe Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|ZZZ||71b77c|95187e ",
       "generated_at": "2025-03-08T04:03:17-05:00",
       "source_id": 14298749864
+    },
+    {
+      "id": "1834967759927291908",
+      "program": "SDBENCHMARK",
+      "message": "LJY 2023-07-01 00:27:28.081857|10.17 / 10.95 / 12.59|updated:2023-06-05 hash:baf6946e url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB|xformers none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|LJY||228529|a8d60c ",
+      "generated_at": "2025-03-08T12:53:48-05:00",
+      "source_id": 14298942326
+    },
+    {
+      "id": "1834967759931486213",
+      "program": "SDBENCHMARK",
+      "message": "LJY 2025-03-08 17:53:25.067681|8.25 / 8.47 / 9.37|updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:unavailable accelerate:0.21.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 8GB|Doggettx none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|LJY||e9e647|41a88f ",
+      "generated_at": "2025-03-08T12:53:48-05:00",
+      "source_id": 14298942326
     }
   ]
 }
