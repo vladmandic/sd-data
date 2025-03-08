@@ -1,5 +1,5 @@
 {
-  "max_id": "1834700035284197379",
+  "max_id": "1834819158592897025",
   "events": [
     {
       "id": "1832278147899510812",
@@ -504,6 +504,13 @@
       "message": "eichengmbp 2025-03-08 00:08:15.761079|2.1 / 1.94 / 2.08|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.0.0 python:3.10.6|torch:2.3.1 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:%e9%ba%a6%e6%a9%98%e8%b6%85%e7%84%b6majicflus_v1.safetensors [062dad72b2] vae:automatic width:512 height:512|eichengmbp||67eea1|d3c1ac ",
       "generated_at": "2025-03-07T19:09:57-05:00",
       "source_id": 14298561924
+    },
+    {
+      "id": "1834819158592897025",
+      "program": "SDBENCHMARK",
+      "message": "ZZZ 2025-03-08 09:02:41.614738|error / error / error|app:SD.next updated:2025-03-06 hash:9ea16a30 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 140 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Iris(R) Xe Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|ZZZ||71b77c|95187e ",
+      "generated_at": "2025-03-08T04:03:17-05:00",
+      "source_id": 14298749864
     }
   ]
 }
