@@ -1,5 +1,5 @@
 {
-  "max_id": "1835267769566941184",
+  "max_id": "1835324768077922306",
   "events": [
     {
       "id": "1832278147899510812",
@@ -616,6 +616,13 @@
       "message": "33 2025-03-09 13:45:42.466789|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|33||ea8024|8be35d ",
       "generated_at": "2025-03-09T09:45:57-04:00",
       "source_id": 14299313270
+    },
+    {
+      "id": "1835296134009114624",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-03-09 06:59:29.781087|7.52 / 1.51 / 1.55|app:sdnext.git updated:2025-03-02 hash:431bcc36 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-19-generic python:3.12.9|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Radeon RX 7900 XT (1) hip:6.2.41134-65d174c3e 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|root||1a9d19|94a5f8 ",
+      "generated_at": "2025-03-09T03:38:38-04:00",
+      "source_id": 14299350063
     }
   ]
 }
