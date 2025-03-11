@@ -1,5 +1,5 @@
 {
-  "max_id": "1835987056392847374",
+  "max_id": "1836062846782455824",
   "events": [
     {
       "id": "1832278147899510812",
@@ -756,6 +756,55 @@
       "message": "黎佳伟 2025-03-11 13:23:36.219509|6.1 / 6.57 / 6.74|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:高速下载- (真实2.8d)虚幻引擎lyriel_v13.safetensors [1c0ed90d69] vae:automatic width:512 height:512|黎佳伟||5f34de|4e57a0 ",
       "generated_at": "2025-03-11T09:24:07-04:00",
       "source_id": 14300435211
+    },
+    {
+      "id": "1836019548709638206",
+      "program": "SDBENCHMARK",
+      "message": "kojirotanaka 2025-03-11 07:29:06.354056|4.86 / 0.86 / 1.04|app:sdnext updated:2025-03-06 hash:9ea16a30 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-55-generic python:3.12.3|torch:2.7.0.dev20250310+rocm6.3 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 9070 (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:diffusers/john6666/wai-nsfw-illustrious-v120-sdxl [6af6bd9f83] vae:none width:512 height:512|kojirotanaka||9b35f5|d0606a ",
+      "generated_at": "2025-03-11T03:33:14-04:00",
+      "source_id": 14300487865
+    },
+    {
+      "id": "1836061165361479689",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:18:02.646166|4.95 / 5.5 / 5.94|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:512 height:512|Aerlas||3fd657|1e8c52 ",
+      "generated_at": "2025-03-11T07:18:36-04:00",
+      "source_id": 14300557739
+    },
+    {
+      "id": "1836061410094923777",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:18:58.230495|4.85 / 5.46 / 5.86|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:512 height:512|Aerlas||3fd657|025dff ",
+      "generated_at": "2025-03-11T07:19:35-04:00",
+      "source_id": 14300557739
+    },
+    {
+      "id": "1836061972504952843",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:21:48.388740|2.36 / 2.48 / 2.59|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:768 height:768|Aerlas||3fd657|34be0f ",
+      "generated_at": "2025-03-11T07:21:49-04:00",
+      "source_id": 14300557739
+    },
+    {
+      "id": "1836062505668100110",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:21:48.388740|1.38 / 1.33 / 1.38|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:1024 height:1024|Aerlas||3fd657|4ee995 ",
+      "generated_at": "2025-03-11T07:23:56-04:00",
+      "source_id": 14300557739
+    },
+    {
+      "id": "1836062539209949195",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:21:48.388740|1.38 / 1.33 / 1.38|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:1024 height:1024|Aerlas||3fd657|4ee995 ",
+      "generated_at": "2025-03-11T07:24:04-04:00",
+      "source_id": 14300557739
+    },
+    {
+      "id": "1836062846782455824",
+      "program": "SDBENCHMARK",
+      "message": "Aerlas 2025-03-11 11:24:17.649806|2.36 / 2.45 / 2.59|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:768 height:768|Aerlas||3fd657|186d28 ",
+      "generated_at": "2025-03-11T07:25:17-04:00",
+      "source_id": 14300557739
     }
   ]
 }
