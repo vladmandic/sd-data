@@ -1,5 +1,5 @@
 {
-  "max_id": "1836062846782455824",
+  "max_id": "1836137827646230541",
   "events": [
     {
       "id": "1832278147899510812",
@@ -805,6 +805,20 @@
       "message": "Aerlas 2025-03-11 11:24:17.649806|2.36 / 2.45 / 2.59|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.70 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_juggxibyrundiffusion.safetensors vae:none width:768 height:768|Aerlas||3fd657|186d28 ",
       "generated_at": "2025-03-11T07:25:17-04:00",
       "source_id": 14300557739
+    },
+    {
+      "id": "1836135879110995984",
+      "program": "SDBENCHMARK",
+      "message": "Qirai 2025-03-11 23:14:33.169367|4.94 / 5.8 / 6.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.03 6GB|Automatic medvram|sd1.5\\control_v11e_sd15_shuffle_fp16.safetensors [8cc77ae071]|Qirai||fc3615|96150e ",
+      "generated_at": "2025-03-11T19:15:28-04:00",
+      "source_id": 14300690581
+    },
+    {
+      "id": "1836137827646230541",
+      "program": "SDBENCHMARK",
+      "message": "Seller 2025-03-11 15:57:59.768906|0.13 / 0.12 / 0.13|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2050 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 4GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pornzillahentai_v15f.safetensors [cd11463e00] vae:automatic width:512 height:512|Seller||dfbcbc|8bb07e ",
+      "generated_at": "2025-03-11T12:23:14-04:00",
+      "source_id": 14300694657
     }
   ]
 }
