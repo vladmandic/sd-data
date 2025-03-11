@@ -1,5 +1,5 @@
 {
-  "max_id": "1835782418024554680",
+  "max_id": "1835987056392847374",
   "events": [
     {
       "id": "1832278147899510812",
@@ -749,6 +749,13 @@
       "message": "Klayr 2025-03-10 23:49:54.959232|7.73 / 8.68 / 9.39|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8800 driver:546.65  546.65 22GB|Automatic none|pornmasterPro_noobV02VAE.safetensors [0903315a07]|Klayr||6d7e9e|519c5f ",
       "generated_at": "2025-03-10T19:50:55-04:00",
       "source_id": 14300067848
+    },
+    {
+      "id": "1835987056392847374",
+      "program": "SDBENCHMARK",
+      "message": "黎佳伟 2025-03-11 13:23:36.219509|6.1 / 6.57 / 6.74|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:高速下载- (真实2.8d)虚幻引擎lyriel_v13.safetensors [1c0ed90d69] vae:automatic width:512 height:512|黎佳伟||5f34de|4e57a0 ",
+      "generated_at": "2025-03-11T09:24:07-04:00",
+      "source_id": 14300435211
     }
   ]
 }
