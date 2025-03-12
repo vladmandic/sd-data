@@ -1,5 +1,5 @@
 {
-  "max_id": "1836137827646230541",
+  "max_id": "1836336448215896071",
   "events": [
     {
       "id": "1832278147899510812",
@@ -819,6 +819,48 @@
       "message": "Seller 2025-03-11 15:57:59.768906|0.13 / 0.12 / 0.13|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2050 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.36 4GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pornzillahentai_v15f.safetensors [cd11463e00] vae:automatic width:512 height:512|Seller||dfbcbc|8bb07e ",
       "generated_at": "2025-03-11T12:23:14-04:00",
       "source_id": 14300694657
+    },
+    {
+      "id": "1836336285242019856",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:31:50-04:00",
+      "source_id": 14301057552
+    },
+    {
+      "id": "1836336289948028930",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:31:51-04:00",
+      "source_id": 14301057552
+    },
+    {
+      "id": "1836336345526751244",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:32:04-04:00",
+      "source_id": 14301057552
+    },
+    {
+      "id": "1836336365571330065",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:32:09-04:00",
+      "source_id": 14301057552
+    },
+    {
+      "id": "1836336426887860246",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:32:24-04:00",
+      "source_id": 14301057552
+    },
+    {
+      "id": "1836336448215896071",
+      "program": "SDBENCHMARK",
+      "message": "mpc 2025-03-12 12:31:33.281078|8.94 / 15.39 / 19.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver: 16GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|mpc||6c554f|e4abc6 ",
+      "generated_at": "2025-03-12T08:32:29-04:00",
+      "source_id": 14301057552
     }
   ]
 }
