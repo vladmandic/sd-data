@@ -1,5 +1,5 @@
 {
-  "max_id": "1836502468029239302",
+  "max_id": "1836705321310138370",
   "events": [
     {
       "id": "1832278147899510812",
@@ -882,6 +882,20 @@
       "message": "Mike 2025-03-12 23:31:08.215172|4.03 / 5.16 / 6.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.03 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Mike||24f6e2|a45cb5 ",
       "generated_at": "2025-03-12T19:32:12-04:00",
       "source_id": 14301352464
+    },
+    {
+      "id": "1836670202625052673",
+      "program": "SDBENCHMARK",
+      "message": "Waldo 2025-03-12 22:37:43.205467|4.0 / 4.2 / 4.43|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu128.nv xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.70 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\wainsfwillustrious_v90.safetensors vae:sdxl_vae (1).safetensors width:1024 height:1024|Waldo||91e773|b7acf0 ",
+      "generated_at": "2025-03-12T18:38:42-04:00",
+      "source_id": 14301666849
+    },
+    {
+      "id": "1836705321310138370",
+      "program": "SDBENCHMARK",
+      "message": "21953 2025-03-13 12:56:06.041378|3.39 / 5.62 / 6.46 / 7.0 / 7.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|21953||412cf1|4dd509 ",
+      "generated_at": "2025-03-13T08:58:15-04:00",
+      "source_id": 14301726280
     }
   ]
 }
