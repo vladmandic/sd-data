@@ -1,5 +1,5 @@
 {
-  "max_id": "1837019985134923787",
+  "max_id": "1837133515456696323",
   "events": [
     {
       "id": "1832278147899510812",
@@ -945,6 +945,41 @@
       "message": "OD 2025-03-13 22:46:32.776915|error / error / error|app:SD.next updated:2025-03-13 hash:8513cd85 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:realisticstockphoto_v20 [f99f3dec38] vae:automatic width:512 height:512|OD||09978d|70e10b ",
       "generated_at": "2025-03-13T18:48:36-04:00",
       "source_id": 14302286243
+    },
+    {
+      "id": "1837100321898414090",
+      "program": "SDBENCHMARK",
+      "message": "roswe 2025-03-14 15:07:22.701792|11.85 / 17.18 / 18.57|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|roswe||eed221|48aecd ",
+      "generated_at": "2025-03-14T11:07:50-04:00",
+      "source_id": 14302427668
+    },
+    {
+      "id": "1837100525913550849",
+      "program": "SDBENCHMARK",
+      "message": "roswe 2025-03-14 15:07:22.701792|11.85 / 17.18 / 18.57|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|roswe||eed221|48aecd ",
+      "generated_at": "2025-03-14T11:08:39-04:00",
+      "source_id": 14302427668
+    },
+    {
+      "id": "1837100686718971909",
+      "program": "SDBENCHMARK",
+      "message": "roswe 2025-03-14 15:09:01.487630|11.88 / 18.3 / 18.68|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|roswe||eed221|e57475 ",
+      "generated_at": "2025-03-14T11:09:17-04:00",
+      "source_id": 14302427668
+    },
+    {
+      "id": "1837133515448307716",
+      "program": "SDBENCHMARK",
+      "message": "lyk 2025-03-14 05:25:09.943906|15.01 / 15.96 / 18.04|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.47 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|lyk||1d6054|aca2b7 ",
+      "generated_at": "2025-03-14T02:19:43-04:00",
+      "source_id": 14302480641
+    },
+    {
+      "id": "1837133515456696323",
+      "program": "SDBENCHMARK",
+      "message": "lyk 2025-03-14 06:18:56.498732|18.68 / 22.46 / 26.66|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.47 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|lyk|add opt-sdp-attention|e805a3|191ad1 ",
+      "generated_at": "2025-03-14T02:19:43-04:00",
+      "source_id": 14302480641
     }
   ]
 }
