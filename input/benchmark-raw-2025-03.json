@@ -1,5 +1,5 @@
 {
-  "max_id": "1837133515456696323",
+  "max_id": "1837201691209031686",
   "events": [
     {
       "id": "1832278147899510812",
@@ -980,6 +980,41 @@
       "message": "lyk 2025-03-14 06:18:56.498732|18.68 / 22.46 / 26.66|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.47 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|lyk|add opt-sdp-attention|e805a3|191ad1 ",
       "generated_at": "2025-03-14T02:19:43-04:00",
       "source_id": 14302480641
+    },
+    {
+      "id": "1837187863842836485",
+      "program": "SDBENCHMARK",
+      "message": "mkyoon 2025-03-14 21:53:11.696182|12.26 / 22.3 / 34.43|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers:0.0.29.post2 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.75 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hanimix_newpony_realism_v4-001.safetensors [3346cbeda4] vae:sdxl_vae.safetensors width:512 height:512|mkyoon||018e1c|66cd7c ",
+      "generated_at": "2025-03-14T17:55:42-04:00",
+      "source_id": 14302569535
+    },
+    {
+      "id": "1837188464597192704",
+      "program": "SDBENCHMARK",
+      "message": "mkyoon 2025-03-14 21:57:52.911252|12.12 / 21.82 / 34.71|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers:0.0.29.post2 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.75 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hanimix_newpony_realism_v4-001.safetensors [3346cbeda4] vae:sdxl_vae.safetensors width:512 height:512|mkyoon||018e1c|909f09 ",
+      "generated_at": "2025-03-14T17:58:05-04:00",
+      "source_id": 14302569535
+    },
+    {
+      "id": "1837188481093390338",
+      "program": "SDBENCHMARK",
+      "message": "mkyoon 2025-03-14 21:57:52.911252|12.12 / 21.82 / 34.71|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers:0.0.29.post2 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.75 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hanimix_newpony_realism_v4-001.safetensors [3346cbeda4] vae:sdxl_vae.safetensors width:512 height:512|mkyoon||018e1c|909f09 ",
+      "generated_at": "2025-03-14T17:58:09-04:00",
+      "source_id": 14302569535
+    },
+    {
+      "id": "1837201656975122437",
+      "program": "SDBENCHMARK",
+      "message": "12c 2025-03-14 20:39:30.378821|0.11 / 0.11 / 0.11|app:stable-diffusion-webui-amdgpu.git updated:2024-07-27 hash:b51275bb url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 full nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2| 0GB|Automatic none|Counterfeit-V3.0.safetensors [db6cd0a62d]|12c||8c6655|cbcf01 ",
+      "generated_at": "2025-03-14T17:50:31-04:00",
+      "source_id": 14302590201
+    },
+    {
+      "id": "1837201691209031686",
+      "program": "SDBENCHMARK",
+      "message": "12c 2025-03-14 20:39:30.378821|0.11 / 0.11 / 0.11|app:stable-diffusion-webui-amdgpu.git updated:2024-07-27 hash:b51275bb url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 full nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2| 0GB|Automatic none|Counterfeit-V3.0.safetensors [db6cd0a62d]|12c||8c6655|cbcf01 ",
+      "generated_at": "2025-03-14T17:50:39-04:00",
+      "source_id": 14302590201
     }
   ]
 }
