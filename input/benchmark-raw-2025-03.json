@@ -1,5 +1,5 @@
 {
-  "max_id": "1836978212828262438",
+  "max_id": "1837019985134923787",
   "events": [
     {
       "id": "1832278147899510812",
@@ -917,6 +917,34 @@
       "message": "mjmos 2025-03-14 02:01:29.971584|4.57 / 8.27 / 10.32|app:sdnext updated:2025-03-11 hash:f45dd878 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:autismmixsdxl_autismmixpony [821aa5537f] vae:none width:512 height:512|mjmos||4795b2|4b36bf ",
       "generated_at": "2025-03-13T22:02:37-04:00",
       "source_id": 14302212131
+    },
+    {
+      "id": "1837012468988297220",
+      "program": "SDBENCHMARK",
+      "message": "AMR5 2025-03-14 04:16:48.353931|7.1 / 13.97 / 22.34 / 24.54 / 24.34 / 24.15 / 24.37|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.61 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:v1-5-pruned-emaonly.safetensors vae:none width:512 height:512|AMR5||758ed7|cecd67 ",
+      "generated_at": "2025-03-14T00:18:44-04:00",
+      "source_id": 14302275570
+    },
+    {
+      "id": "1837018382231322627",
+      "program": "SDBENCHMARK",
+      "message": "AMR5 2025-03-14 04:16:48.353931|7.1 / 13.97 / 22.34 / 24.54 / 24.34 / 24.15 / 24.37|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:572.61 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:v1-5-pruned-emaonly.safetensors vae:none width:512 height:512|AMR5||758ed7|cecd67 ",
+      "generated_at": "2025-03-14T00:42:14-04:00",
+      "source_id": 14302275570
+    },
+    {
+      "id": "1837018382231322629",
+      "program": "SDBENCHMARK",
+      "message": "AMR5 2025-03-14 04:39:23.479933|1.92 / 10.2 / 17.48 / 23.53 / 23.89 / 24.69 / 25.1|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.61 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:v1-5-pruned-emaonly.safetensors vae:none width:512 height:512|AMR5||a86cc5|2d3099 ",
+      "generated_at": "2025-03-14T00:42:14-04:00",
+      "source_id": 14302275570
+    },
+    {
+      "id": "1837019985134923787",
+      "program": "SDBENCHMARK",
+      "message": "OD 2025-03-13 22:46:32.776915|error / error / error|app:SD.next updated:2025-03-13 hash:8513cd85 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:realisticstockphoto_v20 [f99f3dec38] vae:automatic width:512 height:512|OD||09978d|70e10b ",
+      "generated_at": "2025-03-13T18:48:36-04:00",
+      "source_id": 14302286243
     }
   ]
 }
