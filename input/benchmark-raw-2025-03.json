@@ -1,5 +1,5 @@
 {
-  "max_id": "1837354730540683273",
+  "max_id": "1837388787240591385",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1092,6 +1092,13 @@
       "message": "padni 2025-03-15 00:57:01.301517|1.79 / 3.11 / 5.24|app:sdnext updated:2025-03-13 hash:8513cd85 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26120-SP0 python:3.12.0|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:hassakuxlillustrious_v21 [d9edf21821] vae:none width:512 height:512|padni||d10bef|ae92b5 ",
       "generated_at": "2025-03-14T20:58:45-04:00",
       "source_id": 14302840198
+    },
+    {
+      "id": "1837388787240591385",
+      "program": "SDBENCHMARK",
+      "message": "Andy_Passos 2025-03-14 23:11:24.714455|3.34 / 2.34 / 0.87|app:stable-diffusion-webui-amdgpu.git updated:2025-03-12 hash:04bf93f1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 6650 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Andy_Passos||085a21|9770e4 ",
+      "generated_at": "2025-03-14T19:14:05-04:00",
+      "source_id": 14302884095
     }
   ]
 }
