@@ -1,5 +1,5 @@
 {
-  "max_id": "1837551092234375170",
+  "max_id": "1837753648185262086",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1120,6 +1120,13 @@
       "message": "user 2025-03-15 20:55:26.250791|0.78 / 0.81 / 0.83|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.60 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|user||eaf023|dcf903 ",
       "generated_at": "2025-03-15T16:59:03-04:00",
       "source_id": 14303092896
+    },
+    {
+      "id": "1837753648185262086",
+      "program": "SDBENCHMARK",
+      "message": "张丑丑 2025-03-16 10:23:24.960890|7.24 / 7.89 / 8.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:写实\\majicmixrealistic_v6.safetensors [e4a30e4607] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|张丑丑||11f587|ec4045 ",
+      "generated_at": "2025-03-16T06:23:57-04:00",
+      "source_id": 14303345218
     }
   ]
 }
