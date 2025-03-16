@@ -1,5 +1,5 @@
 {
-  "max_id": "1837878500032434182",
+  "max_id": "1837949572396273678",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1134,6 +1134,27 @@
       "message": "lianf 2025-03-16 18:39:12.728735|6.92 / 7.64 / 8.15|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver: 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lianf||a9df21|9f20eb ",
       "generated_at": "2025-03-16T14:40:01-04:00",
       "source_id": 14303498035
+    },
+    {
+      "id": "1837947380847267844",
+      "program": "SDBENCHMARK",
+      "message": "flagu 2025-03-16 16:11:13.729820|1.3 / 1.32 / 1.36|app:stable-diffusion-webui-amdgpu updated:2025-03-12 hash:04bf93f1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxlyamersrealistic5_v5rundiffusion.safetensors [f73b5c5c60] vae:automatic width:512 height:512|flagu||8d698b|9b02c5 ",
+      "generated_at": "2025-03-16T12:13:44-04:00",
+      "source_id": 14303581944
+    },
+    {
+      "id": "1837949509813063681",
+      "program": "SDBENCHMARK",
+      "message": "flagu 2025-03-16 16:19:09.945166|1.06 / 1.11 / 1.2|app:stable-diffusion-webui-amdgpu updated:2025-03-12 hash:04bf93f1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:cuda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxlyamersrealistic5_v5rundiffusion.safetensors [f73b5c5c60] vae:automatic width:512 height:512|flagu||8d698b|ecef44 ",
+      "generated_at": "2025-03-16T12:22:12-04:00",
+      "source_id": 14303581944
+    },
+    {
+      "id": "1837949572396273678",
+      "program": "SDBENCHMARK",
+      "message": "0xu02 2025-03-16 23:21:50.570543|15.55 / 17.61 / 18.57|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:572.70 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|0xu02||69bd62|17a5fc ",
+      "generated_at": "2025-03-16T19:22:24-04:00",
+      "source_id": 14303584986
     }
   ]
 }
