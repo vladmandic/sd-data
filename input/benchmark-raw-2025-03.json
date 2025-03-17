@@ -1,5 +1,5 @@
 {
-  "max_id": "1838255469764984836",
+  "max_id": "1838286827086327814",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1197,6 +1197,41 @@
       "message": "Yang 2025-03-17 19:36:17.741609|29.17 / 36.65 / 43.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Yang||7e7ad9|08fc52 ",
       "generated_at": "2025-03-17T15:36:49-04:00",
       "source_id": 14304052022
+    },
+    {
+      "id": "1838284996205522949",
+      "program": "SDBENCHMARK",
+      "message": "Lu 2025-03-17 21:32:22.976096|0.66 / 0.86 / 1.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|Lu||48f092|1a2607 ",
+      "generated_at": "2025-03-17T17:35:19-04:00",
+      "source_id": 14304100842
+    },
+    {
+      "id": "1838285123288748036",
+      "program": "SDBENCHMARK",
+      "message": "Lu 2025-03-17 21:32:22.976096|0.66 / 0.86 / 1.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|Lu||48f092|1a2607 ",
+      "generated_at": "2025-03-17T17:35:50-04:00",
+      "source_id": 14304100842
+    },
+    {
+      "id": "1838286793741611031",
+      "program": "SDBENCHMARK",
+      "message": "Lu 2025-03-17 21:41:20.941116|2.16 / 2.4 / 2.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Lu||48f092|4d0daf ",
+      "generated_at": "2025-03-17T17:42:28-04:00",
+      "source_id": 14304100842
+    },
+    {
+      "id": "1838286810304917506",
+      "program": "SDBENCHMARK",
+      "message": "Lu 2025-03-17 21:41:20.941116|2.16 / 2.4 / 2.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Lu||48f092|4d0daf ",
+      "generated_at": "2025-03-17T17:42:32-04:00",
+      "source_id": 14304100842
+    },
+    {
+      "id": "1838286827086327814",
+      "program": "SDBENCHMARK",
+      "message": "Lu 2025-03-17 21:41:20.941116|2.16 / 2.4 / 2.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Lu||48f092|4d0daf ",
+      "generated_at": "2025-03-17T17:42:36-04:00",
+      "source_id": 14304100842
     }
   ]
 }
