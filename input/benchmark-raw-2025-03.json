@@ -1,5 +1,5 @@
 {
-  "max_id": "1838132797601140739",
+  "max_id": "1838255469764984836",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1183,6 +1183,20 @@
       "message": "jbarc 2025-03-16 23:28:24.415222|error / error / error|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 GRE [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:1024 height:1024|jbarc||d0a616|bcb0e2 ",
       "generated_at": "2025-03-16T19:30:31-04:00",
       "source_id": 14303851042
+    },
+    {
+      "id": "1838255452459286536",
+      "program": "SDBENCHMARK",
+      "message": "Yang 2025-03-17 19:36:17.741609|29.17 / 36.65 / 43.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Yang||7e7ad9|08fc52 ",
+      "generated_at": "2025-03-17T15:36:45-04:00",
+      "source_id": 14304052022
+    },
+    {
+      "id": "1838255469764984836",
+      "program": "SDBENCHMARK",
+      "message": "Yang 2025-03-17 19:36:17.741609|29.17 / 36.65 / 43.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 24GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Yang||7e7ad9|08fc52 ",
+      "generated_at": "2025-03-17T15:36:49-04:00",
+      "source_id": 14304052022
     }
   ]
 }
