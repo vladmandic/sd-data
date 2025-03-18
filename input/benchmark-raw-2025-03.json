@@ -1,5 +1,5 @@
 {
-  "max_id": "1838369401099968516",
+  "max_id": "1838580937202520064",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1239,6 +1239,20 @@
       "message": "Leo 2025-03-17 20:08:41.761441|2.36 / 1.84 / 1.43|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.4.1+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernaut_x_rundiffusion_hyper [010be7341c] vae:none width:512 height:512|Leo||0624d8|aab0ef ",
       "generated_at": "2025-03-17T16:10:41-04:00",
       "source_id": 14304252235
+    },
+    {
+      "id": "1838549465951285266",
+      "program": "SDBENCHMARK",
+      "message": "Laurentz 2025-03-18 08:01:03.396250|1.3 / 1.39 / 1.45|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:natvisnaturalvision_v25 [365bd663d0] vae:none width:512 height:512|Laurentz||b3741d|7a0143 ",
+      "generated_at": "2025-03-18T04:06:13-04:00",
+      "source_id": 14304593052
+    },
+    {
+      "id": "1838580937202520064",
+      "program": "SDBENCHMARK",
+      "message": "remorhaz 2025-03-18 10:09:29.590151|1.84 / 1.6 / 1.98|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:572.42 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:epicphotogasm_zuniversal.safetensors [d37263937f] vae:automatic width:512 height:512|remorhaz||bac947|5ce56c ",
+      "generated_at": "2025-03-18T06:11:16-04:00",
+      "source_id": 14304640479
     }
   ]
 }
