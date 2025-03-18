@@ -1,5 +1,5 @@
 {
-  "max_id": "1838286827086327814",
+  "max_id": "1838369401099968516",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1232,6 +1232,13 @@
       "message": "Lu 2025-03-17 21:41:20.941116|2.16 / 2.4 / 2.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:526.47 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Lu||48f092|4d0daf ",
       "generated_at": "2025-03-17T17:42:36-04:00",
       "source_id": 14304100842
+    },
+    {
+      "id": "1838369401099968516",
+      "program": "SDBENCHMARK",
+      "message": "Leo 2025-03-17 20:08:41.761441|2.36 / 1.84 / 1.43|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.4.1+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernaut_x_rundiffusion_hyper [010be7341c] vae:none width:512 height:512|Leo||0624d8|aab0ef ",
+      "generated_at": "2025-03-17T16:10:41-04:00",
+      "source_id": 14304252235
     }
   ]
 }
