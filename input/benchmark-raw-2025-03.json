@@ -1,5 +1,5 @@
 {
-  "max_id": "1838580937202520064",
+  "max_id": "1838681673122889748",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1253,6 +1253,34 @@
       "message": "remorhaz 2025-03-18 10:09:29.590151|1.84 / 1.6 / 1.98|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 12, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:572.42 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:epicphotogasm_zuniversal.safetensors [d37263937f] vae:automatic width:512 height:512|remorhaz||bac947|5ce56c ",
       "generated_at": "2025-03-18T06:11:16-04:00",
       "source_id": 14304640479
+    },
+    {
+      "id": "1838651552697593858",
+      "program": "SDBENCHMARK",
+      "message": "mj 2025-03-18 16:07:40.858683|7.7 / 11.41 / 13.57 / 14.95 / 15.87|app:stable-diffusion-webui-amdgpu updated:2025-02-04 hash:63895a83 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:cuda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|mj||9ba03c|551e0f ",
+      "generated_at": "2025-03-18T12:51:52-04:00",
+      "source_id": 14302212131
+    },
+    {
+      "id": "1838681660506423325",
+      "program": "SDBENCHMARK",
+      "message": "南瓜 2025-03-18 23:48:42.439792|8.6 / 9.24 / 9.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.14 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|南瓜||6f4faf|83e856 ",
+      "generated_at": "2025-03-18T19:51:31-04:00",
+      "source_id": 14304819131
+    },
+    {
+      "id": "1838681667108257807",
+      "program": "SDBENCHMARK",
+      "message": "南瓜 2025-03-18 23:48:42.439792|8.6 / 9.24 / 9.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.14 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|南瓜||6f4faf|83e856 ",
+      "generated_at": "2025-03-18T19:51:33-04:00",
+      "source_id": 14304819131
+    },
+    {
+      "id": "1838681673122889748",
+      "program": "SDBENCHMARK",
+      "message": "南瓜 2025-03-18 23:48:42.439792|8.6 / 9.24 / 9.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.14 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|南瓜||6f4faf|83e856 ",
+      "generated_at": "2025-03-18T19:51:34-04:00",
+      "source_id": 14304819131
     }
   ]
 }
