@@ -1,5 +1,5 @@
 {
-  "max_id": "1839077192261361666",
+  "max_id": "1839161685756264459",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1295,6 +1295,13 @@
       "message": "Admin 2025-03-19 21:02:22.882366|4.77 / 5.47 / 5.92|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:diffusers\\sg161222/realistic_vision_v6.0_b1_novae [9a857a696b] vae:none width:512 height:512|Admin||fcdcd7|0a02fa ",
       "generated_at": "2025-03-19T17:03:12-04:00",
       "source_id": 14305545243
+    },
+    {
+      "id": "1839161685756264459",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-03-19 23:37:54.895627|9.58 / 8.67 / 9.43|app:sdnext.git updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.167.4-microsoft-standard-WSL2 python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA RTX 2000 Ada Generation (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.60 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:majicmixrealistic_v7 vae:none width:512 height:512|root||7604b4|088f74 ",
+      "generated_at": "2025-03-19T19:38:57-04:00",
+      "source_id": 14305711904
     }
   ]
 }
