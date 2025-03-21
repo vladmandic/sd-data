@@ -1,5 +1,5 @@
 {
-  "max_id": "1839496976866140173",
+  "max_id": "1839790989200506890",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1358,6 +1358,34 @@
       "message": "Administrator 2025-03-21 05:49:02.308392|2.64 / 3.2 / 3.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:写实\\majicmixrealistic_betterv2v25.safetensors [d7e2ac2f4a] vae:none width:512 height:512|Administrator||56eeb9|025247 ",
       "generated_at": "2025-03-21T01:51:16-04:00",
       "source_id": 14306324703
+    },
+    {
+      "id": "1839760355841191944",
+      "program": "SDBENCHMARK",
+      "message": "Alexander 2025-03-21 16:17:37.121937|error / error / error|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.6.0+cpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Alexander||d7c18e|5d8bc4 ",
+      "generated_at": "2025-03-21T12:17:52-04:00",
+      "source_id": 14306767194
+    },
+    {
+      "id": "1839762537898487809",
+      "program": "SDBENCHMARK",
+      "message": "0ker 2025-03-21 16:25:20.529585|2.04 / 3.14 / 3.43|app:sdnext.git updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:noobaixlnaixl_vpred10version [ea349eeae8] vae:sdxl_vae.safetensors width:512 height:512|0ker||445bfb|4611c0 ",
+      "generated_at": "2025-03-21T12:26:28-04:00",
+      "source_id": 14306771101
+    },
+    {
+      "id": "1839790958636613646",
+      "program": "SDBENCHMARK",
+      "message": "final 2025-03-21 20:18:57.168532|5.02 / 5.96 / 6.25|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:babesbystableyogi_v4xlfp16 [c75622b71d] vae:none width:512 height:512|final||a79a49|7bb8ef ",
+      "generated_at": "2025-03-21T16:19:27-04:00",
+      "source_id": 14306818301
+    },
+    {
+      "id": "1839790989200506890",
+      "program": "SDBENCHMARK",
+      "message": "final 2025-03-21 20:18:57.168532|5.02 / 5.96 / 6.25|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:babesbystableyogi_v4xlfp16 [c75622b71d] vae:none width:512 height:512|final||a79a49|7bb8ef ",
+      "generated_at": "2025-03-21T16:19:35-04:00",
+      "source_id": 14306818301
     }
   ]
 }
