@@ -1,5 +1,5 @@
 {
-  "max_id": "1840022931682545664",
+  "max_id": "1840142423746072590",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1407,6 +1407,20 @@
       "message": "He 2025-03-22 16:38:57.473396|1.14 / 1.24 / 1.28|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:566.36 6GB|Automatic medvram|asianBrmBeautyrealmix_v50.safetensors [a711bd2658]|He||dddc64|0f9dbc ",
       "generated_at": "2025-03-22T12:41:14-04:00",
       "source_id": 14307127906
+    },
+    {
+      "id": "1840142423746072589",
+      "program": "SDBENCHMARK",
+      "message": "f82b1 2025-02-01 22:38:39.310632|2.72 / 3.7 / 3.47|app:SD.next updated:2025-01-27 hash:586ef9a3 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.47.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_lightningdpmsde [fdbe56354b] vae:none width:512 height:512|f82b1||f6863d|0ed5ae ",
+      "generated_at": "2025-03-22T14:36:06-04:00",
+      "source_id": 14307272348
+    },
+    {
+      "id": "1840142423746072590",
+      "program": "SDBENCHMARK",
+      "message": "f82b1 2025-03-22 18:27:47.841774|2.51 / 3.37 / 3.51|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:illustrij_v10 [a3a562d381] vae:none width:512 height:512|f82b1||bd7f13|cf6a7f ",
+      "generated_at": "2025-03-22T14:36:06-04:00",
+      "source_id": 14307272348
     }
   ]
 }
