@@ -1,5 +1,5 @@
 {
-  "max_id": "1840179611124805638",
+  "max_id": "1840293648558899204",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1435,6 +1435,13 @@
       "message": "op 2025-03-22 21:02:24.246665|5.35 / 5.54 / 6.05|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:560.70 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustrious-xl-v1.1 [536863e9f0] vae:sdxl_vae.safetensors width:1024 height:1024|op||33b68c|be6d9b ",
       "generated_at": "2025-03-22T17:03:49-04:00",
       "source_id": 14307317039
+    },
+    {
+      "id": "1840293648558899204",
+      "program": "SDBENCHMARK",
+      "message": "zjsmx 2025-03-23 10:34:32.770222|1.07 / 1.12 / 1.14|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon 780M Graphics (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 14GB|Automatic medvram|majicmixRealistic_v7.safetensors [7c819b6d13]|zjsmx||4a5bcc|2e1e28 ",
+      "generated_at": "2025-03-23T06:36:58-04:00",
+      "source_id": 14307461802
     }
   ]
 }
