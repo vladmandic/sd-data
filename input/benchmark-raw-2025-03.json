@@ -1,5 +1,5 @@
 {
-  "max_id": "1840804665500033044",
+  "max_id": "1840852834556502020",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1526,6 +1526,20 @@
       "message": "arpbo 2025-03-24 13:25:44.179806|1.27 / 1.42 / 1.43|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:572.61 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|arpbo||8ce44a|92942f ",
       "generated_at": "2025-03-24T09:27:34-04:00",
       "source_id": 14308173921
+    },
+    {
+      "id": "1840807710766063617",
+      "program": "SDBENCHMARK",
+      "message": "arpbo 2025-03-24 13:25:44.179806|1.27 / 1.42 / 1.43|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:572.61 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|arpbo||8ce44a|92942f ",
+      "generated_at": "2025-03-24T09:39:40-04:00",
+      "source_id": 14308173921
+    },
+    {
+      "id": "1840852834556502020",
+      "program": "SDBENCHMARK",
+      "message": "He 2025-03-24 23:38:39.450533|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:566.36 6GB|Automatic medvram|asianBrmBeautyrealmix_v50.safetensors [a711bd2658]|He||dddc64|946c91 ",
+      "generated_at": "2025-03-24T19:38:59-04:00",
+      "source_id": 14307127906
     }
   ]
 }
