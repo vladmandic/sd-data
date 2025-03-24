@@ -1,5 +1,5 @@
 {
-  "max_id": "1840420747898703901",
+  "max_id": "1840674230593835014",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1463,6 +1463,20 @@
       "message": "茧子 2025-03-23 19:00:02.276974|8.6 / 8.11 / 8.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:560.94 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:control_v11p_sd15_inpaint_fp16.safetensors [677a4fe351] vae:automatic width:512 height:512|茧子||fc9261|b9693b ",
       "generated_at": "2025-03-23T15:02:00-04:00",
       "source_id": 14307610132
+    },
+    {
+      "id": "1840674222456885265",
+      "program": "SDBENCHMARK",
+      "message": "siniz 2025-03-23 21:47:44.256882|4.33 / 5.13 / 5.81|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.42 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0_0.9vae [e6bb9ea85b] vae:none width:512 height:512|siniz||c7df14|c5c859 ",
+      "generated_at": "2025-03-23T17:49:11-04:00",
+      "source_id": 14307957388
+    },
+    {
+      "id": "1840674230593835014",
+      "program": "SDBENCHMARK",
+      "message": "siniz 2025-03-23 21:47:44.256882|4.33 / 5.13 / 5.81|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.42 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0_0.9vae [e6bb9ea85b] vae:none width:512 height:512|siniz||c7df14|c5c859 ",
+      "generated_at": "2025-03-23T17:49:13-04:00",
+      "source_id": 14307957388
     }
   ]
 }
