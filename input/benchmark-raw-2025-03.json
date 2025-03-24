@@ -1,5 +1,5 @@
 {
-  "max_id": "1840674230593835014",
+  "max_id": "1840804665500033044",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1477,6 +1477,55 @@
       "message": "siniz 2025-03-23 21:47:44.256882|4.33 / 5.13 / 5.81|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.42 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0_0.9vae [e6bb9ea85b] vae:none width:512 height:512|siniz||c7df14|c5c859 ",
       "generated_at": "2025-03-23T17:49:13-04:00",
       "source_id": 14307957388
+    },
+    {
+      "id": "1840733964113985552",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-16 02:00:53.156481|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_90) (12, 0) cuda:12.6 cudnn:90501 driver:572.61 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:ilnsfwpdmix_nsfw_v60.safetensors [4ed5b55c64] vae:automatic width:512 height:512|33533||59a440|51f868 ",
+      "generated_at": "2025-03-24T11:46:37-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840733964113985553",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-24 15:46:25.243650|16.69 / 19.3 / 20.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.0.dev20250311+cu128 xformers:0.0.30+7cb59f0b.d20250226 diffusers:0.31.0 transformers:4.48.3|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|33533||98c9ec|ae73bd ",
+      "generated_at": "2025-03-24T11:46:37-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840733974192898061",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-16 02:00:53.156481|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_90) (12, 0) cuda:12.6 cudnn:90501 driver:572.61 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:ilnsfwpdmix_nsfw_v60.safetensors [4ed5b55c64] vae:automatic width:512 height:512|33533||59a440|51f868 ",
+      "generated_at": "2025-03-24T11:46:40-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840733974192898063",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-24 15:46:25.243650|16.69 / 19.3 / 20.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.0.dev20250311+cu128 xformers:0.0.30+7cb59f0b.d20250226 diffusers:0.31.0 transformers:4.48.3|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|33533||98c9ec|ae73bd ",
+      "generated_at": "2025-03-24T11:46:40-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840733977472843784",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-16 02:00:53.156481|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_90) (12, 0) cuda:12.6 cudnn:90501 driver:572.61 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:ilnsfwpdmix_nsfw_v60.safetensors [4ed5b55c64] vae:automatic width:512 height:512|33533||59a440|51f868 ",
+      "generated_at": "2025-03-24T11:46:40-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840733977472843785",
+      "program": "SDBENCHMARK",
+      "message": "33533 2025-03-24 15:46:25.243650|16.69 / 19.3 / 20.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.0.dev20250311+cu128 xformers:0.0.30+7cb59f0b.d20250226 diffusers:0.31.0 transformers:4.48.3|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|33533||98c9ec|ae73bd ",
+      "generated_at": "2025-03-24T11:46:40-04:00",
+      "source_id": 14308058525
+    },
+    {
+      "id": "1840804665500033044",
+      "program": "SDBENCHMARK",
+      "message": "arpbo 2025-03-24 13:25:44.179806|1.27 / 1.42 / 1.43|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:572.61 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|arpbo||8ce44a|92942f ",
+      "generated_at": "2025-03-24T09:27:34-04:00",
+      "source_id": 14308173921
     }
   ]
 }
