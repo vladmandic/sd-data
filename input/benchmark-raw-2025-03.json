@@ -1,5 +1,5 @@
 {
-  "max_id": "1840852834556502020",
+  "max_id": "1840988656421228546",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1540,6 +1540,146 @@
       "message": "He 2025-03-24 23:38:39.450533|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:566.36 6GB|Automatic medvram|asianBrmBeautyrealmix_v50.safetensors [a711bd2658]|He||dddc64|946c91 ",
       "generated_at": "2025-03-24T19:38:59-04:00",
       "source_id": 14307127906
+    },
+    {
+      "id": "1840988613492527113",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-27 19:14:51.831398|0.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 4GB|Automatic medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||f3402e|ba4b6b ",
+      "generated_at": "2025-03-25T04:38:32-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988613492527121",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 09:31:23.484816|0.48 / 0.57 / 0.69|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||37c3e2|06982d ",
+      "generated_at": "2025-03-25T04:38:32-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988613492527133",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 10:38:38.977337|0.49 / 0.61 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu121 autocast nohalf xformers:0.0.27 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||907514|8f539b ",
+      "generated_at": "2025-03-25T04:38:32-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988613496721409",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-30 10:06:14.780031|0.5 / 0.62 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.14 4GB|Automatic lowvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||a9e90d|f8527b ",
+      "generated_at": "2025-03-25T04:38:32-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988613496721410",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2025-03-25 08:36:01.960838|11.46 / 12.26 / 12.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Zhen||9e460b|0addd1 ",
+      "generated_at": "2025-03-25T04:38:32-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988623751794697",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-27 19:14:51.831398|0.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 4GB|Automatic medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||f3402e|ba4b6b ",
+      "generated_at": "2025-03-25T04:38:34-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988623755988992",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 09:31:23.484816|0.48 / 0.57 / 0.69|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||37c3e2|06982d ",
+      "generated_at": "2025-03-25T04:38:34-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988623755988995",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 10:38:38.977337|0.49 / 0.61 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu121 autocast nohalf xformers:0.0.27 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||907514|8f539b ",
+      "generated_at": "2025-03-25T04:38:34-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988623755988999",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-30 10:06:14.780031|0.5 / 0.62 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.14 4GB|Automatic lowvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||a9e90d|f8527b ",
+      "generated_at": "2025-03-25T04:38:34-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988623755989004",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2025-03-25 08:36:01.960838|11.46 / 12.26 / 12.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Zhen||9e460b|0addd1 ",
+      "generated_at": "2025-03-25T04:38:34-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988625282715653",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-27 19:14:51.831398|0.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 4GB|Automatic medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||f3402e|ba4b6b ",
+      "generated_at": "2025-03-25T04:38:35-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988625282715654",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 09:31:23.484816|0.48 / 0.57 / 0.69|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||37c3e2|06982d ",
+      "generated_at": "2025-03-25T04:38:35-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988625282715660",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 10:38:38.977337|0.49 / 0.61 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu121 autocast nohalf xformers:0.0.27 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||907514|8f539b ",
+      "generated_at": "2025-03-25T04:38:35-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988625286909954",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-30 10:06:14.780031|0.5 / 0.62 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.14 4GB|Automatic lowvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||a9e90d|f8527b ",
+      "generated_at": "2025-03-25T04:38:35-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988625286909957",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2025-03-25 08:36:01.960838|11.46 / 12.26 / 12.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Zhen||9e460b|0addd1 ",
+      "generated_at": "2025-03-25T04:38:35-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988656412839962",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-27 19:14:51.831398|0.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 4GB|Automatic medvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||f3402e|ba4b6b ",
+      "generated_at": "2025-03-25T04:38:42-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988656412839976",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 09:31:23.484816|0.48 / 0.57 / 0.69|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||37c3e2|06982d ",
+      "generated_at": "2025-03-25T04:38:42-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988656412839979",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-28 10:38:38.977337|0.49 / 0.61 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu121 autocast nohalf xformers:0.0.27 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8907 driver:566.14 4GB|Automatic lowvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Zhen||907514|8f539b ",
+      "generated_at": "2025-03-25T04:38:42-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988656412839980",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2024-11-30 10:06:14.780031|0.5 / 0.62 / 0.76|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:566.14 4GB|Automatic lowvram|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|Zhen||a9e90d|f8527b ",
+      "generated_at": "2025-03-25T04:38:42-04:00",
+      "source_id": 14308516374
+    },
+    {
+      "id": "1840988656421228546",
+      "program": "SDBENCHMARK",
+      "message": "Zhen 2025-03-25 08:36:01.960838|11.46 / 12.26 / 12.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Zhen||9e460b|0addd1 ",
+      "generated_at": "2025-03-25T04:38:42-04:00",
+      "source_id": 14308516374
     }
   ]
 }
