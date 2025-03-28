@@ -1,5 +1,5 @@
 {
-  "max_id": "1841951853038972945",
+  "max_id": "1842158945683296265",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1806,6 +1806,62 @@
       "message": "oooo 2025-03-27 23:26:33.266330|1.58 / 2.69 / 4.39|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.0rc2|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|oooo||a91a7e|70b55a ",
       "generated_at": "2025-03-27T19:27:20-04:00",
       "source_id": 14310209216
+    },
+    {
+      "id": "1842105730359021589",
+      "program": "SDBENCHMARK",
+      "message": "ar2000 2025-03-28 02:34:19.807376|8.94 / 0.89 / 0.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.10-76061203-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 7700 XT (1) hip:6.2.41134-65d174c3e 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|ar2000||4b8604|e35a37 ",
+      "generated_at": "2025-03-27T22:37:33-04:00",
+      "source_id": 14310484455
+    },
+    {
+      "id": "1842105871954530308",
+      "program": "SDBENCHMARK",
+      "message": "ar2000 2025-03-28 02:34:19.807376|8.94 / 0.89 / 0.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.10-76061203-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 7700 XT (1) hip:6.2.41134-65d174c3e 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|ar2000||4b8604|e35a37 ",
+      "generated_at": "2025-03-27T22:38:07-04:00",
+      "source_id": 14310484455
+    },
+    {
+      "id": "1842105883715350538",
+      "program": "SDBENCHMARK",
+      "message": "ar2000 2025-03-28 02:34:19.807376|8.94 / 0.89 / 0.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.10-76061203-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 7700 XT (1) hip:6.2.41134-65d174c3e 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|ar2000||4b8604|e35a37 ",
+      "generated_at": "2025-03-27T22:38:09-04:00",
+      "source_id": 14310484455
+    },
+    {
+      "id": "1842106551268200463",
+      "program": "SDBENCHMARK",
+      "message": "ar2000 2025-03-28 02:40:28.777638|8.93 / 9.8 / 9.98|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.10-76061203-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 7700 XT (1) hip:6.2.41134-65d174c3e 12GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|ar2000||4b8604|458c31 ",
+      "generated_at": "2025-03-27T22:40:48-04:00",
+      "source_id": 14310484455
+    },
+    {
+      "id": "1842106551272394769",
+      "program": "SDBENCHMARK",
+      "message": "ar2000 2025-03-28 02:39:55.723950|8.7 / 9.49 / 9.94|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.10-76061203-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 7700 XT (1) hip:6.2.41134-65d174c3e 12GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|ar2000||f00ad3|db9443 ",
+      "generated_at": "2025-03-27T22:40:48-04:00",
+      "source_id": 14310484455
+    },
+    {
+      "id": "1842158945683296261",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-05-22 12:26:20.079191|5.64 / 6.34 / 6.98|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:552.22 12GB|Automatic none|绪儿-写实 帅哥美女模型_御姐脸V2.safetensors [eaa0bb415a]|竹林清风||f52a64|8605ec ",
+      "generated_at": "2025-03-28T10:08:56-04:00",
+      "source_id": 14310568168
+    },
+    {
+      "id": "1842158945683296262",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-12-27 18:51:23.381299|4.74 / 5.86 / 5.83|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.36 12GB|Automatic none|我喜爱的模型二十二_vvv.safetensors [5a2ab8fad1]|竹林清风||2cc50a|9d582d ",
+      "generated_at": "2025-03-28T10:08:56-04:00",
+      "source_id": 14310568168
+    },
+    {
+      "id": "1842158945683296265",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-03-28 14:08:14.641431|4.82 / 5.37 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||459a8e|92f133 ",
+      "generated_at": "2025-03-28T10:08:56-04:00",
+      "source_id": 14310568168
     }
   ]
 }
