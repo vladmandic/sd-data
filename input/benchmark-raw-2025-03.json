@@ -1,5 +1,5 @@
 {
-  "max_id": "1842158945683296265",
+  "max_id": "1842184838036250635",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1862,6 +1862,20 @@
       "message": "竹林清风 2025-03-28 14:08:14.641431|4.82 / 5.37 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||459a8e|92f133 ",
       "generated_at": "2025-03-28T10:08:56-04:00",
       "source_id": 14310568168
+    },
+    {
+      "id": "1842184748743712770",
+      "program": "SDBENCHMARK",
+      "message": "frans 2025-03-28 08:50:33.913067|2.04 / 2.47 / 2.53|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:none width:512 height:512|frans||468326|04f059 ",
+      "generated_at": "2025-03-28T04:51:32-04:00",
+      "source_id": 14310607639
+    },
+    {
+      "id": "1842184838036250635",
+      "program": "SDBENCHMARK",
+      "message": "frans 2025-03-28 08:50:33.913067|2.04 / 2.47 / 2.53|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:none width:512 height:512|frans||468326|04f059 ",
+      "generated_at": "2025-03-28T04:51:53-04:00",
+      "source_id": 14310607639
     }
   ]
 }
