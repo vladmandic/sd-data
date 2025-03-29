@@ -1,5 +1,5 @@
 {
-  "max_id": "1842566092271312896",
+  "max_id": "1842647803961192453",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1981,6 +1981,13 @@
       "message": "djcpr 2025-03-29 19:06:30.615777|8.94 / 13.87 / 18.87|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.60 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:anythingxl_v50.safetensors vae:automatic width:512 height:512|djcpr||3b5b5c|3e8719 ",
       "generated_at": "2025-03-29T15:06:55-04:00",
       "source_id": 14311161486
+    },
+    {
+      "id": "1842647803961192453",
+      "program": "SDBENCHMARK",
+      "message": "dawson 2025-03-29 10:30:03.131404|7.64 / 1.54 / 1.6|app:sdnext.git updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.12.3|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Radeon RX 7900 XT (1) hip:6.2.41134-65d174c3e 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:willysnoobrealism_v20 [5de26dea7a] vae:none width:512 height:512|dawson||8e625f|600c81 ",
+      "generated_at": "2025-03-29T06:31:33-04:00",
+      "source_id": 14311259063
     }
   ]
 }
