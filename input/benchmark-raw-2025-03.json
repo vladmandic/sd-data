@@ -1,5 +1,5 @@
 {
-  "max_id": "1842436944735416321",
+  "max_id": "1842470859240042499",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1932,6 +1932,41 @@
       "message": "Administrator 2025-03-29 08:19:00.284403|6.84 / 6.94 / 7.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||796ede|dfb2a5 ",
       "generated_at": "2025-03-29T04:33:48-04:00",
       "source_id": 14311003018
+    },
+    {
+      "id": "1842457879311998978",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-27 20:16:10.861243|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||8ba7ee|fd7437 ",
+      "generated_at": "2025-03-29T05:57:00-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1842457879311998981",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-29 08:36:36.687136|6.84 / 6.97 / 6.99 / 7.02 / 7.04|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|魔改4050，x99平台，win10,bug很多|796ede|3c65cb ",
+      "generated_at": "2025-03-29T05:57:00-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1842459020808601624",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-27 20:16:10.861243|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||8ba7ee|fd7437 ",
+      "generated_at": "2025-03-29T06:01:32-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1842459020808601628",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-29 08:36:36.687136|6.84 / 6.97 / 6.99 / 7.02 / 7.04|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|魔改4050，x99平台，win10,bug很多|796ede|3c65cb ",
+      "generated_at": "2025-03-29T06:01:32-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1842470859240042499",
+      "program": "SDBENCHMARK",
+      "message": "Skywater 2025-03-29 10:47:10.719062|9.59 / 10.36 / 11.61|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:560.94 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Skywater||160d45|4d2377 ",
+      "generated_at": "2025-03-29T06:48:10-04:00",
+      "source_id": 14311049443
     }
   ]
 }
