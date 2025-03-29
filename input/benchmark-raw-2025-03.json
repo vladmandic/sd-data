@@ -1,5 +1,5 @@
 {
-  "max_id": "1842470859240042499",
+  "max_id": "1842566092271312896",
   "events": [
     {
       "id": "1832278147899510812",
@@ -1967,6 +1967,20 @@
       "message": "Skywater 2025-03-29 10:47:10.719062|9.59 / 10.36 / 11.61|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:560.94 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Skywater||160d45|4d2377 ",
       "generated_at": "2025-03-29T06:48:10-04:00",
       "source_id": 14311049443
+    },
+    {
+      "id": "1842547882574671880",
+      "program": "SDBENCHMARK",
+      "message": "kelfen 2025-03-29 15:53:32.155913|4.27 / 6.12 / 8.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:GRID RTX8000P-6Q (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|kelfen||ea2682|86659a ",
+      "generated_at": "2025-03-29T11:54:30-04:00",
+      "source_id": 14311140776
+    },
+    {
+      "id": "1842566092271312896",
+      "program": "SDBENCHMARK",
+      "message": "djcpr 2025-03-29 19:06:30.615777|8.94 / 13.87 / 18.87|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.60 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:anythingxl_v50.safetensors vae:automatic width:512 height:512|djcpr||3b5b5c|3e8719 ",
+      "generated_at": "2025-03-29T15:06:55-04:00",
+      "source_id": 14311161486
     }
   ]
 }
