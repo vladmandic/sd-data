@@ -1,5 +1,5 @@
 {
-  "max_id": "1843277880059158554",
+  "max_id": "1843410240616448026",
   "events": [
     {
       "id": "1832278147899510812",
@@ -2086,6 +2086,27 @@
       "message": "nardak 2025-03-31 14:18:12.068456|5.2 / 1.02 / 1.03|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.13.8-arch1-1 python:3.10.16|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon Graphics (1) hip:6.2.41134-65d174c3e 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:art/hentaimixxlroadto_v50 [6dbcf28d67] vae:none width:512 height:512|nardak||99f2e0|30cd84 ",
       "generated_at": "2025-03-31T10:20:45-04:00",
       "source_id": 14312029216
+    },
+    {
+      "id": "1843377800321613826",
+      "program": "SDBENCHMARK",
+      "message": "pp 2025-03-31 22:50:27.176750|1.51 / 1.76 / 1.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Radeon RX Vega (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pp||2de6a4|fce271 ",
+      "generated_at": "2025-03-31T18:52:22-04:00",
+      "source_id": 14312240176
+    },
+    {
+      "id": "1843377803890966537",
+      "program": "SDBENCHMARK",
+      "message": "pp 2025-03-31 22:50:27.176750|1.51 / 1.76 / 1.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Radeon RX Vega (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|pp||2de6a4|fce271 ",
+      "generated_at": "2025-03-31T18:52:24-04:00",
+      "source_id": 14312240176
+    },
+    {
+      "id": "1843410240616448026",
+      "program": "SDBENCHMARK",
+      "message": "mihalis 2025-03-31 19:50:36.452475|0.99 / 0.67 / 0.29|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassansdxl_v10.safetensors [43003be751] vae:none width:512 height:512|mihalis||5c94e5|77a593 ",
+      "generated_at": "2025-03-31T16:01:14-04:00",
+      "source_id": 14312299091
     }
   ]
 }
