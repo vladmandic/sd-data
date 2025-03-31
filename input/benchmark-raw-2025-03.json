@@ -1,5 +1,5 @@
 {
-  "max_id": "1843043372487589888",
+  "max_id": "1843106002476654593",
   "events": [
     {
       "id": "1832278147899510812",
@@ -2072,6 +2072,13 @@
       "message": "shadow 2025-03-31 00:42:28.951415|6.0 / 8.06 / 8.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v110.safetensors vae:automatic width:512 height:512|shadow||21a9c1|df62b4 ",
       "generated_at": "2025-03-30T20:43:22-04:00",
       "source_id": 14311725043
+    },
+    {
+      "id": "1843106002476654593",
+      "program": "SDBENCHMARK",
+      "message": "lsmin 2025-03-30 22:51:40.018748|3.36 / 6.38 / 9.59|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaanimexl_ilv5b [bb9b24719f] vae:none width:512 height:512|lsmin||061c81|0959c2 ",
+      "generated_at": "2025-03-30T18:52:15-04:00",
+      "source_id": 14311801745
     }
   ]
 }
