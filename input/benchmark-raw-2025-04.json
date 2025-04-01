@@ -1,0 +1,26 @@
+{
+  "max_id": "1843572259764228100",
+  "events": [
+    {
+      "id": "1843570040880939018",
+      "program": "SDBENCHMARK",
+      "message": "zx 2025-04-01 11:35:26.224146|9.78 / 10.71 / 11.72|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver:NVIDIA-SMI has failed because you do not have suffient permissions. Please try running as an administrator. 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:checkpointyesmix_v15 [f713bab753] vae:none width:512 height:512|zx||01cff1|9ad3e7 ",
+      "generated_at": "2025-04-01T07:36:12-04:00",
+      "source_id": 14312604744
+    },
+    {
+      "id": "1843572259755839492",
+      "program": "SDBENCHMARK",
+      "message": "xeros 2025-03-30 14:50:53.487685|3.1 / 3.96 / 5.0 / 5.32 / 3.15|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:none width:512 height:512|xeros||bb7cad|a19095 ",
+      "generated_at": "2025-04-01T06:45:04-04:00",
+      "source_id": 14311562660
+    },
+    {
+      "id": "1843572259764228100",
+      "program": "SDBENCHMARK",
+      "message": "xeros 2025-04-01 10:41:50.146169|3.07 / 3.75 / 5.09 / 5.59 / 5.71|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:automatic width:512 height:512|xeros||e5834d|617d70 ",
+      "generated_at": "2025-04-01T06:45:04-04:00",
+      "source_id": 14311562660
+    }
+  ]
+}
