@@ -1,5 +1,5 @@
 {
-  "max_id": "1843762757275668491",
+  "max_id": "1843891856929378307",
   "events": [
     {
       "id": "1843570040880939018",
@@ -35,6 +35,20 @@
       "message": "Administrator 2025-04-02 00:21:35.808697|12.32 / 20.02 / 21.29|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||9acef0|739802 ",
       "generated_at": "2025-04-01T20:21:57-04:00",
       "source_id": 14312958720
+    },
+    {
+      "id": "1843888572726431758",
+      "program": "SDBENCHMARK",
+      "message": "Rob 2025-04-02 01:40:16.836007|6.94 / 8.89 / 8.44|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v85 [a8ee60513d] vae:none width:512 height:512|Rob||5efd75|5f85b6 ",
+      "generated_at": "2025-04-01T21:41:55-04:00",
+      "source_id": 14313192546
+    },
+    {
+      "id": "1843891856929378307",
+      "program": "SDBENCHMARK",
+      "message": "Owen 2025-04-01 17:51:36.845111|5.63 / 7.17 / 7.6 / 6.83 / 7.5|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-11-10.0.22631-SP0 python:3.12.6|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaixamanmmmmix_v2 [93bca55616] vae:none width:1024 height:1024|Owen||bdc62f|806f66 ",
+      "generated_at": "2025-04-01T13:54:59-04:00",
+      "source_id": 14313198219
     }
   ]
 }
