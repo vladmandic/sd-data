@@ -1,5 +1,5 @@
 {
-  "max_id": "1843891856929378307",
+  "max_id": "1843939871400583174",
   "events": [
     {
       "id": "1843570040880939018",
@@ -49,6 +49,27 @@
       "message": "Owen 2025-04-01 17:51:36.845111|5.63 / 7.17 / 7.6 / 6.83 / 7.5|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-11-10.0.22631-SP0 python:3.12.6|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.16 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaixamanmmmmix_v2 [93bca55616] vae:none width:1024 height:1024|Owen||bdc62f|806f66 ",
       "generated_at": "2025-04-01T13:54:59-04:00",
       "source_id": 14313198219
+    },
+    {
+      "id": "1843939871400583172",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-27 20:16:10.861243|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||8ba7ee|fd7437 ",
+      "generated_at": "2025-04-02T08:06:20-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1843939871400583173",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-03-29 19:34:25.477651|6.85 / 6.9 / 6.87 / 6.9 / 6.93|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|魔改4050，x99平台，win10,bug很多|796ede|88511f ",
+      "generated_at": "2025-04-02T08:06:20-04:00",
+      "source_id": 14311003018
+    },
+    {
+      "id": "1843939871400583174",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-02 12:03:38.343917|5.05 / 6.2 / 7.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:pornmasteranimev6_v6fp16.safetensors [ff4deaf2fd] vae:automatic width:512 height:512|Administrator|fp16模型正常，插件tensorRT总说找不到什么，进不去webui或sdunet无tensor选项|a7caf7|ee3b76 ",
+      "generated_at": "2025-04-02T08:06:20-04:00",
+      "source_id": 14311003018
     }
   ]
 }
