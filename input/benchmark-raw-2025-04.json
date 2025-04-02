@@ -1,5 +1,5 @@
 {
-  "max_id": "1843974605811925006",
+  "max_id": "1844142308237430797",
   "events": [
     {
       "id": "1843570040880939018",
@@ -105,6 +105,90 @@
       "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
       "generated_at": "2025-04-02T10:23:48-04:00",
       "source_id": 14313352117
+    },
+    {
+      "id": "1844120385948405763",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-02 23:36:32.589773|error / 0.16 / error||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:lustifysdxlnsfw_oltonelasttime.safetensors [1d21ee3c1e] vae:automatic width:512 height:512|apex||69b871|307c86 ",
+      "generated_at": "2025-04-02T20:03:05-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844120405112180751",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-02 23:36:32.589773|error / 0.16 / error||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:lustifysdxlnsfw_oltonelasttime.safetensors [1d21ee3c1e] vae:automatic width:512 height:512|apex||69b871|307c86 ",
+      "generated_at": "2025-04-02T20:03:09-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844124497800777728",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:13:22.158669|0.47 / 0.38 / error||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|45ac2a ",
+      "generated_at": "2025-04-02T20:19:25-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844124505455382538",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:13:22.158669|0.47 / 0.38 / error||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|45ac2a ",
+      "generated_at": "2025-04-02T20:19:27-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844124511600037894",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:13:22.158669|0.47 / 0.38 / error||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|45ac2a ",
+      "generated_at": "2025-04-02T20:19:28-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142285399445524",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:06-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142291648958537",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:08-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142292533956615",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:08-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142293867745284",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:08-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142294685634567",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:08-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142307318878212",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:11-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844142308237430797",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
+      "generated_at": "2025-04-02T21:30:12-04:00",
+      "source_id": 14313600532
     }
   ]
 }
