@@ -1,5 +1,5 @@
 {
-  "max_id": "1843939871400583174",
+  "max_id": "1843974605811925006",
   "events": [
     {
       "id": "1843570040880939018",
@@ -70,6 +70,41 @@
       "message": "Administrator 2025-04-02 12:03:38.343917|5.05 / 6.2 / 7.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:pornmasteranimev6_v6fp16.safetensors [ff4deaf2fd] vae:automatic width:512 height:512|Administrator|fp16模型正常，插件tensorRT总说找不到什么，进不去webui或sdunet无tensor选项|a7caf7|ee3b76 ",
       "generated_at": "2025-04-02T08:06:20-04:00",
       "source_id": 14311003018
+    },
+    {
+      "id": "1843974531253977090",
+      "program": "SDBENCHMARK",
+      "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
+      "generated_at": "2025-04-02T10:23:30-04:00",
+      "source_id": 14313352117
+    },
+    {
+      "id": "1843974545527193605",
+      "program": "SDBENCHMARK",
+      "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
+      "generated_at": "2025-04-02T10:23:33-04:00",
+      "source_id": 14313352117
+    },
+    {
+      "id": "1843974553861275653",
+      "program": "SDBENCHMARK",
+      "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
+      "generated_at": "2025-04-02T10:23:35-04:00",
+      "source_id": 14313352117
+    },
+    {
+      "id": "1843974554792411149",
+      "program": "SDBENCHMARK",
+      "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
+      "generated_at": "2025-04-02T10:23:36-04:00",
+      "source_id": 14313352117
+    },
+    {
+      "id": "1843974605811925006",
+      "program": "SDBENCHMARK",
+      "message": "35862 2025-04-02 14:23:11.744990|8.46 / 9.35 / 10.06|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA RTX A3000 12GB Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:565.90 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|35862||e21549|2ed51e ",
+      "generated_at": "2025-04-02T10:23:48-04:00",
+      "source_id": 14313352117
     }
   ]
 }
