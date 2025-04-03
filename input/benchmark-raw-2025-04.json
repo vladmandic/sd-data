@@ -1,5 +1,5 @@
 {
-  "max_id": "1844213089533345799",
+  "max_id": "1844442257730760724",
   "events": [
     {
       "id": "1843570040880939018",
@@ -224,6 +224,13 @@
       "message": "Michael 2025-04-02 18:10:52.903302|3.48 / 4.5 / 4.94|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:test [3834801a2e] vae:none width:512 height:512|Michael||d95b00|49e2ec ",
       "generated_at": "2025-04-02T14:11:31-04:00",
       "source_id": 14313781852
+    },
+    {
+      "id": "1844442257730760724",
+      "program": "SDBENCHMARK",
+      "message": "Diman 2025-04-03 18:21:05.440628|9.74 / 9.85 / 10.0|app:stable-diffusion-webui-directml updated:2025-03-27 hash:a31ef086 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:zluda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Diman||668a10|0cb9a6 ",
+      "generated_at": "2025-04-03T14:22:03-04:00",
+      "source_id": 14314220460
     }
   ]
 }
