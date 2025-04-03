@@ -1,5 +1,5 @@
 {
-  "max_id": "1844142308237430797",
+  "max_id": "1844213089533345799",
   "events": [
     {
       "id": "1843570040880939018",
@@ -189,6 +189,41 @@
       "message": "apex 2025-04-03 00:26:17.476350|error / error / 0.34 / error / 0.39||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v4.5-pruned.safetensors [6e430eb514] vae:automatic width:512 height:512|apex||69b871|0cd99e ",
       "generated_at": "2025-04-02T21:30:12-04:00",
       "source_id": 14313600532
+    },
+    {
+      "id": "1844181612187807756",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 04:02:03.725322|0.08||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:lustifysdxlnsfw_oltonelasttime.safetensors [1d21ee3c1e] vae:automatic width:512 height:512|apex||69b871|cba62d ",
+      "generated_at": "2025-04-03T00:06:21-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844181616914788358",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 04:02:03.725322|0.08||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:lustifysdxlnsfw_oltonelasttime.safetensors [1d21ee3c1e] vae:automatic width:512 height:512|apex||69b871|cba62d ",
+      "generated_at": "2025-04-03T00:06:22-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844181618160496687",
+      "program": "SDBENCHMARK",
+      "message": "apex 2025-04-03 04:02:03.725322|0.08||arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:lustifysdxlnsfw_oltonelasttime.safetensors [1d21ee3c1e] vae:automatic width:512 height:512|apex||69b871|cba62d ",
+      "generated_at": "2025-04-03T00:06:23-04:00",
+      "source_id": 14313600532
+    },
+    {
+      "id": "1844213089495597062",
+      "program": "SDBENCHMARK",
+      "message": "Michael 2025-03-13 11:27:58.329327|3.51 / 4.61 / 5.05|app:SD.next updated:2025-03-11 hash:f45dd878 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|MSB92890||9694f6|477892 ",
+      "generated_at": "2025-04-02T14:11:31-04:00",
+      "source_id": 14313781852
+    },
+    {
+      "id": "1844213089533345799",
+      "program": "SDBENCHMARK",
+      "message": "Michael 2025-04-02 18:10:52.903302|3.48 / 4.5 / 4.94|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:test [3834801a2e] vae:none width:512 height:512|Michael||d95b00|49e2ec ",
+      "generated_at": "2025-04-02T14:11:31-04:00",
+      "source_id": 14313781852
     }
   ]
 }
