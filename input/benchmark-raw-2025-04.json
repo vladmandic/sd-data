@@ -1,5 +1,5 @@
 {
-  "max_id": "1844712133133258752",
+  "max_id": "1844866762441678897",
   "events": [
     {
       "id": "1843570040880939018",
@@ -273,6 +273,41 @@
       "message": "21295 2025-04-02 12:12:50.292173|3.46 / 3.8 / 4.02 / 4.42 / 3.54|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.0+cu124 autocast half xformers:0.0.28.post2 diffusers:0.31.0 transformers:4.30.2|device:Tesla P100-SXM2-16GB (1) (sm_90) (6, 0) cuda:12.4 cudnn:90100 driver:538.67 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|21295||5721a5|6e263b ",
       "generated_at": "2025-04-04T11:14:25-04:00",
       "source_id": 14314717197
+    },
+    {
+      "id": "1844819848681676874",
+      "program": "SDBENCHMARK",
+      "message": "lustifySDXLNSFW_oltFIXEDTEXTURES [d7e7e35b0f] 2025-03-23 17:32:07.690083|0.97 / error / error|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.8-x64v3-xanmod1 python:3.11.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pornmaster_asiansdxlv1vae [840ea7b9f1] vae:none width:512 height:512|rampage||0f86f3|b6ec38 ",
+      "generated_at": "2025-04-04T18:22:29-04:00",
+      "source_id": 14314885850
+    },
+    {
+      "id": "1844820179410935822",
+      "program": "SDBENCHMARK",
+      "message": "lustifySDXLNSFW_oltFIXEDTEXTURES [d7e7e35b0f] 2025-03-23 17:32:07.690083|0.97 / error / error|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.8-x64v3-xanmod1 python:3.11.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pornmaster_asiansdxlv1vae [840ea7b9f1] vae:none width:512 height:512|rampage||0f86f3|b6ec38 ",
+      "generated_at": "2025-04-04T18:23:48-04:00",
+      "source_id": 14314885850
+    },
+    {
+      "id": "1844822310591324198",
+      "program": "SDBENCHMARK",
+      "message": "lustifySDXLNSFW_oltFIXEDTEXTURES [d7e7e35b0f] 2025-03-23 17:32:07.690083|0.97 / error / error|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.8-x64v3-xanmod1 python:3.11.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pornmaster_asiansdxlv1vae [840ea7b9f1] vae:none width:512 height:512|rampage||0f86f3|b6ec38 ",
+      "generated_at": "2025-04-04T18:32:16-04:00",
+      "source_id": 14314885850
+    },
+    {
+      "id": "1844822355684278288",
+      "program": "SDBENCHMARK",
+      "message": "lustifySDXLNSFW_oltFIXEDTEXTURES [d7e7e35b0f] 2025-03-23 17:32:07.690083|0.97 / error / error|app:SD.next updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.13.8-x64v3-xanmod1 python:3.11.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pornmaster_asiansdxlv1vae [840ea7b9f1] vae:none width:512 height:512|rampage||0f86f3|b6ec38 ",
+      "generated_at": "2025-04-04T18:32:27-04:00",
+      "source_id": 14314885850
+    },
+    {
+      "id": "1844866762441678897",
+      "program": "SDBENCHMARK",
+      "message": "AL 2025-04-04 19:19:56.921149|11.77 / 12.08 / 12.94 / 13.45 / 13.7 / 13.67 / 12.6|app:sdnext updated:2025-04-03 hash:a12fab1c url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:default width:512 height:512|AL||e47911|6ff815 ",
+      "generated_at": "2025-04-04T15:28:57-04:00",
+      "source_id": 14314961327
     }
   ]
 }
