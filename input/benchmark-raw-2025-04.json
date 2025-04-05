@@ -1,5 +1,5 @@
 {
-  "max_id": "1844974729346338827",
+  "max_id": "1845000699218411520",
   "events": [
     {
       "id": "1843570040880939018",
@@ -315,6 +315,13 @@
       "message": "xenac 2025-04-04 19:36:59.302595|error / error / error|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.0|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.60 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:LTXImageToVideoPipeline model:illustriousxl_v01 [7eccb3c3ca] vae:none width:512 height:512|xenac||691c59|e24cdb ",
       "generated_at": "2025-04-04T15:37:55-04:00",
       "source_id": 14315125157
+    },
+    {
+      "id": "1845000699218411520",
+      "program": "SDBENCHMARK",
+      "message": "Vultur1 2025-04-05 11:19:21.339191|2.09 / 1.93 / 2.0|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.83 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:flat2danimerge_v45sharp [fe95063ba6] vae:none width:1024 height:1024|Vultur1||eddb73|d09a00 ",
+      "generated_at": "2025-04-05T07:21:10-04:00",
+      "source_id": 14315159728
     }
   ]
 }
