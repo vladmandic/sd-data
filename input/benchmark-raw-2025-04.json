@@ -1,5 +1,5 @@
 {
-  "max_id": "1845000699218411520",
+  "max_id": "1845230665570897924",
   "events": [
     {
       "id": "1843570040880939018",
@@ -322,6 +322,13 @@
       "message": "Vultur1 2025-04-05 11:19:21.339191|2.09 / 1.93 / 2.0|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:572.83 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:flat2danimerge_v45sharp [fe95063ba6] vae:none width:1024 height:1024|Vultur1||eddb73|d09a00 ",
       "generated_at": "2025-04-05T07:21:10-04:00",
       "source_id": 14315159728
+    },
+    {
+      "id": "1845230665570897924",
+      "program": "SDBENCHMARK",
+      "message": "brian 2025-04-05 19:08:24.581587|2.78 / 1.81 / 1.55 / 0.52 / 0.32|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:duchaitenponyxlno_ponynoscorev40.safetensors [886a42c049] vae:none width:512 height:512|brian||4c0d17|c37478 ",
+      "generated_at": "2025-04-05T15:34:56-04:00",
+      "source_id": 14315444244
     }
   ]
 }
