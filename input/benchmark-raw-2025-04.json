@@ -1,5 +1,5 @@
 {
-  "max_id": "1845351976473383033",
+  "max_id": "1845488748352167957",
   "events": [
     {
       "id": "1843570040880939018",
@@ -336,6 +336,27 @@
       "message": "ckknot 2025-04-06 09:32:55.886280|0.73 / 0.82 / 0.76|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.11|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon 780M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 28GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic vae:none width:512 height:512|ckknot||6c1506|0d9e20 ",
       "generated_at": "2025-04-06T05:36:57-04:00",
       "source_id": 14315599329
+    },
+    {
+      "id": "1845488748347973658",
+      "program": "SDBENCHMARK",
+      "message": "MI50 2025-03-07 15:03:58.516264|3.47|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://githubfast.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-54-generic python:3.11.11|torch:2.6.0+cu124 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla P100-PCIE-16GB (3) (sm_90) (6, 0) cuda:12.4 cudnn:90100 driver:570.86.10 570.86.10 570.86.10 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:myself8.0.safetensors [d6d8d6269f] vae:automatic width:512 height:512|ds||0117cd|26234d ",
+      "generated_at": "2025-04-06T14:40:27-04:00",
+      "source_id": 14315764256
+    },
+    {
+      "id": "1845488748352167939",
+      "program": "SDBENCHMARK",
+      "message": "MI50 2025-03-27 21:27:09.625880|1.58 / 1.83 / 2.07|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://githubfast.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-55-generic python:3.11.11|torch:2.6.0+cu124 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla P100-PCIE-16GB (3) (sm_90) (6, 0) cuda:12.4 cudnn:90100 driver:570.86.10 570.86.10 570.86.10 16GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:baxlbluearchiveflatcelluloidstylefinetune_xlv3.safetensors [95affd8c8f] vae:automatic width:512 height:512|ds||c7c1f6|b4e35c ",
+      "generated_at": "2025-04-06T14:40:27-04:00",
+      "source_id": 14315764256
+    },
+    {
+      "id": "1845488748352167957",
+      "program": "SDBENCHMARK",
+      "message": "MI50 2025-04-06 18:33:57.973448|0.81 / 0.39 / 0.4|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://githubfast.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.10.16|torch:2.5.1+rocm6.2 xformers: diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon (TM) Pro VII (1) hip:6.2.41133-dd7f95766 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:baxlbluearchiveflatcelluloidstylefinetune_xlv3.safetensors [95affd8c8f] vae:automatic width:1280 height:720|MI50||795206|605f12 ",
+      "generated_at": "2025-04-06T14:40:27-04:00",
+      "source_id": 14315764256
     }
   ]
 }
