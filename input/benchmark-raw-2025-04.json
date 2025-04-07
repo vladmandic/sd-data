@@ -1,5 +1,5 @@
 {
-  "max_id": "1845488748352167957",
+  "max_id": "1845651127106981909",
   "events": [
     {
       "id": "1843570040880939018",
@@ -357,6 +357,20 @@
       "message": "MI50 2025-04-06 18:33:57.973448|0.81 / 0.39 / 0.4|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://githubfast.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.10.16|torch:2.5.1+rocm6.2 xformers: diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon (TM) Pro VII (1) hip:6.2.41133-dd7f95766 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:baxlbluearchiveflatcelluloidstylefinetune_xlv3.safetensors [95affd8c8f] vae:automatic width:1280 height:720|MI50||795206|605f12 ",
       "generated_at": "2025-04-06T14:40:27-04:00",
       "source_id": 14315764256
+    },
+    {
+      "id": "1845651108576546852",
+      "program": "SDBENCHMARK",
+      "message": "Muba 2025-04-06 13:24:14.487951|2.01 / 3.42 / 4.98|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:miaomiaoharem_v14 [e2039a9f78] vae:none width:512 height:512|Muba||bfe880|2cb444 ",
+      "generated_at": "2025-04-06T09:25:37-04:00",
+      "source_id": 14315975050
+    },
+    {
+      "id": "1845651127106981909",
+      "program": "SDBENCHMARK",
+      "message": "Muba 2025-04-06 13:24:14.487951|2.01 / 3.42 / 4.98|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Intel(R) Arc(TM) A750 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:ipex compile:ipex dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:miaomiaoharem_v14 [e2039a9f78] vae:none width:512 height:512|Muba||bfe880|2cb444 ",
+      "generated_at": "2025-04-06T09:25:41-04:00",
+      "source_id": 14315975050
     }
   ]
 }
