@@ -1,5 +1,5 @@
 {
-  "max_id": "1845735368679415813",
+  "max_id": "1845866139868127258",
   "events": [
     {
       "id": "1843570040880939018",
@@ -392,6 +392,20 @@
       "message": "Lenovo 2025-04-07 10:59:30.011507|2.64 / 3.11 / 3.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver: 4GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|Lenovo||b39417|6f6c1d ",
       "generated_at": "2025-04-07T07:00:24-04:00",
       "source_id": 14316110464
+    },
+    {
+      "id": "1845866136512684038",
+      "program": "SDBENCHMARK",
+      "message": "danie 2025-04-07 19:39:51.255782|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 16GB|Automatic none|SDXL\\LEOSAM HelloWorld 新世界 _ SDXL大模型_v7.0.safetensors [573f4a7d35]|danie||c0043b|32408b ",
+      "generated_at": "2025-04-07T15:40:02-04:00",
+      "source_id": 14316346953
+    },
+    {
+      "id": "1845866139868127258",
+      "program": "SDBENCHMARK",
+      "message": "danie 2025-04-07 19:39:51.255782|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 16GB|Automatic none|SDXL\\LEOSAM HelloWorld 新世界 _ SDXL大模型_v7.0.safetensors [573f4a7d35]|danie||c0043b|32408b ",
+      "generated_at": "2025-04-07T15:40:02-04:00",
+      "source_id": 14316346953
     }
   ]
 }
