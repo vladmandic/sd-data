@@ -1,5 +1,5 @@
 {
-  "max_id": "1845866139868127258",
+  "max_id": "1845892854350802946",
   "events": [
     {
       "id": "1843570040880939018",
@@ -406,6 +406,13 @@
       "message": "danie 2025-04-07 19:39:51.255782|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 16GB|Automatic none|SDXL\\LEOSAM HelloWorld 新世界 _ SDXL大模型_v7.0.safetensors [573f4a7d35]|danie||c0043b|32408b ",
       "generated_at": "2025-04-07T15:40:02-04:00",
       "source_id": 14316346953
+    },
+    {
+      "id": "1845892854350802946",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-07 21:25:32.281718|7.9 / 8.74 / 9.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:526.47 11GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||8a1925|f8f73e ",
+      "generated_at": "2025-04-07T17:26:13-04:00",
+      "source_id": 14316393367
     }
   ]
 }
