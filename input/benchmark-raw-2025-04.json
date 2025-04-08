@@ -1,5 +1,5 @@
 {
-  "max_id": "1846084806790803458",
+  "max_id": "1846187961541128194",
   "events": [
     {
       "id": "1843570040880939018",
@@ -511,6 +511,41 @@
       "message": "Ich 2025-04-08 00:46:57.922846|11.39 / 12.45 / 13.62|app:stable-diffusion-webui updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.83 24GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illu\\perfectionrealisticilxl_v20.safetensors [ad62ec8fe6] vae:none width:512 height:512|Ich|e6|1f4ca8|e0294f ",
       "generated_at": "2025-04-07T20:47:11-04:00",
       "source_id": 14316666056
+    },
+    {
+      "id": "1846166892935569408",
+      "program": "SDBENCHMARK",
+      "message": "Howard 2025-04-08 14:16:12.011052|error / error / error|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|Howard||7195d2|b3adca ",
+      "generated_at": "2025-04-08T11:35:08-04:00",
+      "source_id": 14316920302
+    },
+    {
+      "id": "1846166892935569409",
+      "program": "SDBENCHMARK",
+      "message": "Howard 2025-04-08 15:34:13.157506|3.88 / 4.39 / 4.72|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:automatic width:512 height:512|Howard||ed48dd|7677a6 ",
+      "generated_at": "2025-04-08T11:35:08-04:00",
+      "source_id": 14316920302
+    },
+    {
+      "id": "1846185577104470025",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-08 16:36:59.600976|0.38 / 0.31 / 0.32|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:560.94 6GB|Automatic medvram|Photon_v1.safetensors [ec41bd2a82]|Administrator||30ca97|ce2114 ",
+      "generated_at": "2025-04-08T12:49:25-04:00",
+      "source_id": 14316954414
+    },
+    {
+      "id": "1846185613376811015",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-08 16:36:59.600976|0.38 / 0.31 / 0.32|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:560.94 6GB|Automatic medvram|Photon_v1.safetensors [ec41bd2a82]|Administrator||30ca97|ce2114 ",
+      "generated_at": "2025-04-08T12:49:34-04:00",
+      "source_id": 14316954414
+    },
+    {
+      "id": "1846187961541128194",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-08 16:50:29.824502|0.38 / 0.39 / 0.39|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:560.94 6GB|Automatic medvram|Photon_v1.safetensors [ec41bd2a82]|Administrator||30ca97|7398f7 ",
+      "generated_at": "2025-04-08T12:58:54-04:00",
+      "source_id": 14316954414
     }
   ]
 }
