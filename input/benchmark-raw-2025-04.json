@@ -1,5 +1,5 @@
 {
-  "max_id": "1846321653475368986",
+  "max_id": "1846428948397998108",
   "events": [
     {
       "id": "1843570040880939018",
@@ -560,6 +560,27 @@
       "message": "atty2 2025-04-08 19:48:03.613002|3.18 / 4.08 / 5.37|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.16 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:unholydesiremixsinister_v40.safetensors [00a726e838] vae:automatic width:512 height:512|atty2||3c2bd0|01ddf2 ",
       "generated_at": "2025-04-08T15:50:19-04:00",
       "source_id": 14317194400
+    },
+    {
+      "id": "1846334864232734731",
+      "program": "SDBENCHMARK",
+      "message": "kyouko 2025-04-09 03:42:25.409807|15.22 / 16.99 / 18.23|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0.dev20250407+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.47 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:chilloutmix-ni.safetensors [7234b76e42] vae:none width:512 height:512|kyouko||2fb91c|420b96 ",
+      "generated_at": "2025-04-08T23:42:38-04:00",
+      "source_id": 14317218768
+    },
+    {
+      "id": "1846335337367003142",
+      "program": "SDBENCHMARK",
+      "message": "kyouko 2025-04-09 03:42:25.409807|15.22 / 16.99 / 18.23|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0.dev20250407+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.47 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:chilloutmix-ni.safetensors [7234b76e42] vae:none width:512 height:512|kyouko||2fb91c|420b96 ",
+      "generated_at": "2025-04-08T23:44:30-04:00",
+      "source_id": 14317218768
+    },
+    {
+      "id": "1846428948397998108",
+      "program": "SDBENCHMARK",
+      "message": "test 2025-04-09 08:53:30.448234|24.46 / 29.41 / 32.05 / 31.82 / 31.66|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0.dev20250406+cu128 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|test||babad3|e2592a ",
+      "generated_at": "2025-04-09T04:56:29-04:00",
+      "source_id": 14317402746
     }
   ]
 }
