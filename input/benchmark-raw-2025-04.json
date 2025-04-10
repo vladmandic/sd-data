@@ -1,5 +1,5 @@
 {
-  "max_id": "1846849594743504921",
+  "max_id": "1846921433494773769",
   "events": [
     {
       "id": "1843570040880939018",
@@ -602,6 +602,20 @@
       "message": "overseer 2025-04-09 23:16:05.117821|0.87 / 0.76 / 0.76|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.12.3|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:NVIDIA GeForce RTX 3050 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:550.120 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:1024 height:1024|overseer||e3f259|239f1c ",
       "generated_at": "2025-04-09T19:19:16-04:00",
       "source_id": 14318115877
+    },
+    {
+      "id": "1846921411097190402",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-04-10 17:31:36.389787|error / error / error|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA T1000 8GB (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:528.89 8GB|Automatic medvram-sdxl|Ekmix-gen3.ckpt [9db39799b7]|Admin||983927|e5d160 ",
+      "generated_at": "2025-04-10T13:33:20-04:00",
+      "source_id": 14318285947
+    },
+    {
+      "id": "1846921433494773769",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-04-10 17:31:36.389787|error / error / error|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA T1000 8GB (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:528.89 8GB|Automatic medvram-sdxl|Ekmix-gen3.ckpt [9db39799b7]|Admin||983927|e5d160 ",
+      "generated_at": "2025-04-10T13:33:26-04:00",
+      "source_id": 14318285947
     }
   ]
 }
