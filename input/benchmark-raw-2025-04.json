@@ -1,5 +1,5 @@
 {
-  "max_id": "1846671566205808648",
+  "max_id": "1846754436433760256",
   "events": [
     {
       "id": "1843570040880939018",
@@ -588,6 +588,13 @@
       "message": "maksi 2025-04-09 19:59:31.395181|error / error / error|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 6900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|maksi||563819|39bde0 ",
       "generated_at": "2025-04-09T16:00:34-04:00",
       "source_id": 14317834294
+    },
+    {
+      "id": "1846754436433760256",
+      "program": "SDBENCHMARK",
+      "message": "TheFi 2025-04-09 18:29:46.956318|error / error / error|app:sdnext.git updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:none vae:none width:512 height:512|TheFi||0f6f63|0f91d7 ",
+      "generated_at": "2025-04-09T14:29:49-04:00",
+      "source_id": 14317984814
     }
   ]
 }
