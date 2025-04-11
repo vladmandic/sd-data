@@ -1,5 +1,5 @@
 {
-  "max_id": "1847153209030926343",
+  "max_id": "1847405786083553284",
   "events": [
     {
       "id": "1843570040880939018",
@@ -644,6 +644,76 @@
       "message": "user1 2025-04-11 01:52:26.779769|15.87 / 17.52 / 18.86|app:stable-diffusion-webui-forge.git updated:2024-08-18 hash:128a7932 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.29.2 transformers:4.44.0|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:models\\epicphotogasm_lastunicorn.safetensors vae:automatic width:512 height:512|user1||ed3d7e|20603d ",
       "generated_at": "2025-04-10T21:54:24-04:00",
       "source_id": 14318701280
+    },
+    {
+      "id": "1847359250238726160",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-04-10 20:04:17.006025|error / error / error|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.0|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:diffusers\\disty0/flux.1-dev-qint8 [fd65655d4d] vae:none width:512 height:512|Alex||7d0eca|2d09b2 ",
+      "generated_at": "2025-04-11T11:33:09-04:00",
+      "source_id": 14319062288
+    },
+    {
+      "id": "1847359250263891980",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-04-10 21:17:11.399767|3.32 / 3.59 / 2.56|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.0|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:original crossattention:Split attention flags:none compute:zluda compile:none dtype:torch.float32|pipeline:LatentDiffusion model:counterfeitv30_v30 [cbfba64e66] vae:none width:512 height:512|Alex||838b02|a2a0a9 ",
+      "generated_at": "2025-04-11T11:33:10-04:00",
+      "source_id": 14319062288
+    },
+    {
+      "id": "1847359250263891981",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-04-11 14:00:46.214466|0.53 / 0.79 / 1.47|app:sdnext updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.0|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:diffusers\\liamhvn/nuke-colormax-anime [2f6efc6644] vae:more_details.safetensors width:512 height:512|Alex||813f04|4279f9 ",
+      "generated_at": "2025-04-11T11:33:10-04:00",
+      "source_id": 14319062288
+    },
+    {
+      "id": "1847364351942647808",
+      "program": "SDBENCHMARK",
+      "message": "admin 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-04-11T18:53:46-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847364351946842116",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-04-11 22:52:42.209701|4.09 / 3.35 / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|InvokeAI none|2.5DXL模型speciosa25D_v12.safetensors [e1431355af]|admin||4c0770|cb4ed3 ",
+      "generated_at": "2025-04-11T18:53:46-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847364374235373571",
+      "program": "SDBENCHMARK",
+      "message": "admin 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-04-11T18:53:51-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847364374235373585",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-04-11 22:52:42.209701|4.09 / 3.35 / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|InvokeAI none|2.5DXL模型speciosa25D_v12.safetensors [e1431355af]|admin||4c0770|cb4ed3 ",
+      "generated_at": "2025-04-11T18:53:51-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847364381877395459",
+      "program": "SDBENCHMARK",
+      "message": "admin 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-04-11T18:53:53-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847364381877395465",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-04-11 22:52:42.209701|4.09 / 3.35 / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|InvokeAI none|2.5DXL模型speciosa25D_v12.safetensors [e1431355af]|admin||4c0770|cb4ed3 ",
+      "generated_at": "2025-04-11T18:53:53-04:00",
+      "source_id": 14319070791
+    },
+    {
+      "id": "1847405786083553284",
+      "program": "SDBENCHMARK",
+      "message": "westc 2025-04-12 02:10:56.441401|5.71 / 9.78 / 11.54|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:1.13.1+cu117 xformers:0.0.16rc425 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|westc||51eed7|828c26 ",
+      "generated_at": "2025-04-11T22:38:05-04:00",
+      "source_id": 14319143255
     }
   ]
 }
