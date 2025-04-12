@@ -1,5 +1,5 @@
 {
-  "max_id": "1847678729216770056",
+  "max_id": "1847703002568384530",
   "events": [
     {
       "id": "1843570040880939018",
@@ -840,6 +840,34 @@
       "message": "Media 2025-04-12 21:10:04.930731|1.33 / 1.38 / 1.44|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Quadro P5000 (1) (sm_90) (6, 1) cuda:12.6 cudnn:90501 driver:556.39 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:epicrealism_naturalsinrc1vae [84d76a0328] vae:none width:512 height:512|Media||ebd836|b26c16 ",
       "generated_at": "2025-04-12T17:12:39-04:00",
       "source_id": 14319494725
+    },
+    {
+      "id": "1847701676602089479",
+      "program": "SDBENCHMARK",
+      "message": "miku39 2025-04-12 21:09:13.444345|3.46 / 4.42 / 4.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/Panchovix/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|il\\waiNsfwBranchRouwei_ePred1.safetensors [dd25aa81fe]|miku39||6f17c6|4519ae ",
+      "generated_at": "2025-04-12T17:13:51-04:00",
+      "source_id": 14319416018
+    },
+    {
+      "id": "1847701730817662984",
+      "program": "SDBENCHMARK",
+      "message": "miku39 2025-04-12 21:09:13.444345|3.46 / 4.42 / 4.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/Panchovix/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|il\\waiNsfwBranchRouwei_ePred1.safetensors [dd25aa81fe]|miku39||6f17c6|4519ae ",
+      "generated_at": "2025-04-12T17:14:04-04:00",
+      "source_id": 14319416018
+    },
+    {
+      "id": "1847702923405090825",
+      "program": "SDBENCHMARK",
+      "message": "miku39 2025-04-12 21:17:46.060997|5.46 / 5.94 / 6.13|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/Panchovix/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|miku39||6f17c6|727630 ",
+      "generated_at": "2025-04-12T17:18:48-04:00",
+      "source_id": 14319416018
+    },
+    {
+      "id": "1847703002568384530",
+      "program": "SDBENCHMARK",
+      "message": "miku39 2025-04-12 21:17:46.060997|5.46 / 5.94 / 6.13|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/Panchovix/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6800 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|miku39||6f17c6|727630 ",
+      "generated_at": "2025-04-12T17:19:07-04:00",
+      "source_id": 14319416018
     }
   ]
 }
