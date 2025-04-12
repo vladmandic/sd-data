@@ -1,5 +1,5 @@
 {
-  "max_id": "1847445998285279232",
+  "max_id": "1847547708110458883",
   "events": [
     {
       "id": "1843570040880939018",
@@ -728,6 +728,27 @@
       "message": "User 2025-04-11 23:15:34.990547|2.33 / 3.1 / 4.64|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|User||a0ce99|7cace1 ",
       "generated_at": "2025-04-11T19:17:52-04:00",
       "source_id": 14319201307
+    },
+    {
+      "id": "1847547629249163264",
+      "program": "SDBENCHMARK",
+      "message": "asuralg 2025-04-12 11:01:09.890374|12.79 / 13.21 / 13.47|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.70 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|asuralg||ec6ec7|0e4357 ",
+      "generated_at": "2025-04-12T07:01:42-04:00",
+      "source_id": 14319342110
+    },
+    {
+      "id": "1847547665013985286",
+      "program": "SDBENCHMARK",
+      "message": "asuralg 2025-04-12 11:01:09.890374|12.79 / 13.21 / 13.47|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.70 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|asuralg||ec6ec7|0e4357 ",
+      "generated_at": "2025-04-12T07:01:51-04:00",
+      "source_id": 14319342110
+    },
+    {
+      "id": "1847547708110458883",
+      "program": "SDBENCHMARK",
+      "message": "asuralg 2025-04-12 11:01:09.890374|12.79 / 13.21 / 13.47|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.70 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|asuralg||ec6ec7|0e4357 ",
+      "generated_at": "2025-04-12T07:02:01-04:00",
+      "source_id": 14319342110
     }
   ]
 }
