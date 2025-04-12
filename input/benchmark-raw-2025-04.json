@@ -1,5 +1,5 @@
 {
-  "max_id": "1847405786083553284",
+  "max_id": "1847445998285279232",
   "events": [
     {
       "id": "1843570040880939018",
@@ -714,6 +714,20 @@
       "message": "westc 2025-04-12 02:10:56.441401|5.71 / 9.78 / 11.54|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:1.13.1+cu117 xformers:0.0.16rc425 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (compute_37) (8, 9) cuda:11.7 cudnn:8500 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|westc||51eed7|828c26 ",
       "generated_at": "2025-04-11T22:38:05-04:00",
       "source_id": 14319143255
+    },
+    {
+      "id": "1847445650522951685",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-04-11 23:15:34.990547|2.33 / 3.1 / 4.64|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|User||a0ce99|7cace1 ",
+      "generated_at": "2025-04-11T19:16:29-04:00",
+      "source_id": 14319201307
+    },
+    {
+      "id": "1847445998285279232",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-04-11 23:15:34.990547|2.33 / 3.1 / 4.64|app:SD.next updated:2025-04-04 hash:8b73cb62 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.33.0.dev0 transformers:4.50.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|User||a0ce99|7cace1 ",
+      "generated_at": "2025-04-11T19:17:52-04:00",
+      "source_id": 14319201307
     }
   ]
 }
