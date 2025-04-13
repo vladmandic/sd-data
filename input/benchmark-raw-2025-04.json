@@ -1,5 +1,5 @@
 {
-  "max_id": "1848046879519207431",
+  "max_id": "1848059994369605653",
   "events": [
     {
       "id": "1843570040880939018",
@@ -924,6 +924,27 @@
       "message": "lqc520 2025-04-13 20:04:58.702920|12.15 / 12.76 / 14.39|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|lqc520||0e5c1e|ff414d ",
       "generated_at": "2025-04-13T16:05:36-04:00",
       "source_id": 14319886166
+    },
+    {
+      "id": "1848057888178880516",
+      "program": "SDBENCHMARK",
+      "message": "toMoro 2025-04-13 20:46:52.212022|2.38 / 2.54 / 2.63|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|toMoro|1080显卡|edfcef|ceb5eb ",
+      "generated_at": "2025-04-13T16:49:17-04:00",
+      "source_id": 14319899453
+    },
+    {
+      "id": "1848057915039203329",
+      "program": "SDBENCHMARK",
+      "message": "toMoro 2025-04-13 20:46:52.212022|2.38 / 2.54 / 2.63|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|toMoro|1080显卡|edfcef|ceb5eb ",
+      "generated_at": "2025-04-13T16:49:24-04:00",
+      "source_id": 14319899453
+    },
+    {
+      "id": "1848059994369605653",
+      "program": "SDBENCHMARK",
+      "message": "toMoro 2025-04-13 20:46:52.212022|2.38 / 2.54 / 2.63|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|toMoro|1080显卡|edfcef|ceb5eb ",
+      "generated_at": "2025-04-13T16:57:40-04:00",
+      "source_id": 14319899453
     }
   ]
 }
