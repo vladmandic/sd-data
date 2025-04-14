@@ -1,5 +1,5 @@
 {
-  "max_id": "1848293698912309250",
+  "max_id": "1848400133985857537",
   "events": [
     {
       "id": "1843570040880939018",
@@ -959,6 +959,34 @@
       "message": "codlz 2025-04-13 11:13:23.920497|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-04-10 hash:1480ec1d url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0.dev20250410+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv60.safetensors vae:xlvaec_f2.safetensors width:1024 height:1024|codlz||9b1c84|595a9e ",
       "generated_at": "2025-04-14T09:26:21-04:00",
       "source_id": 14319724048
+    },
+    {
+      "id": "1848329645456547843",
+      "program": "SDBENCHMARK",
+      "message": "jade 2025-04-14 02:48:18.372370|4.45 / 6.69 / 7.53|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.83 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:sdxl_vae.safetensors width:512 height:512|jade||707f87|d7770a ",
+      "generated_at": "2025-04-13T22:49:10-04:00",
+      "source_id": 14320203991
+    },
+    {
+      "id": "1848330088811257861",
+      "program": "SDBENCHMARK",
+      "message": "jade 2025-04-14 02:50:28.918810|4.45 / 7.44 / 8.35|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.83 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:sdxl_vae.safetensors width:512 height:512|jade||707f87|28d002 ",
+      "generated_at": "2025-04-13T22:50:56-04:00",
+      "source_id": 14320203991
+    },
+    {
+      "id": "1848330440222629891",
+      "program": "SDBENCHMARK",
+      "message": "jade 2025-04-14 02:51:21.031058|4.67 / 7.46 / 8.5|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:572.83 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:novafurryxl_illustriousv50 [5901b6dd1e] vae:sdxl_vae.safetensors width:512 height:512|jade||707f87|6fe24f ",
+      "generated_at": "2025-04-13T22:52:20-04:00",
+      "source_id": 14320203991
+    },
+    {
+      "id": "1848400133985857537",
+      "program": "SDBENCHMARK",
+      "message": "TH 2025-04-14 19:29:03.400123|9.5 / 10.35 / 11.34|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 42 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.60 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:2024\\fantasyworld_v10.safetensors [524882ba22] vae:automatic width:512 height:512|TH||81cb04|e258de ",
+      "generated_at": "2025-04-14T15:29:16-04:00",
+      "source_id": 14320307377
     }
   ]
 }
