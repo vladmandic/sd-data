@@ -1,5 +1,5 @@
 {
-  "max_id": "1848179207671300096",
+  "max_id": "1848293698912309250",
   "events": [
     {
       "id": "1843570040880939018",
@@ -952,6 +952,13 @@
       "message": "wall 2025-04-13 20:47:01.137407|1.19 / 1.32 / 1.47|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.17|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.86.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:animagine-xl-4.0-opt.safetensors [6327eca98b] vae:automatic width:512 height:512|wall||f68103|cd2526 ",
       "generated_at": "2025-04-13T16:51:22-04:00",
       "source_id": 14320026077
+    },
+    {
+      "id": "1848293698912309250",
+      "program": "SDBENCHMARK",
+      "message": "codlz 2025-04-13 11:13:23.920497|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-04-10 hash:1480ec1d url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0.dev20250410+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv60.safetensors vae:xlvaec_f2.safetensors width:1024 height:1024|codlz||9b1c84|595a9e ",
+      "generated_at": "2025-04-14T09:26:21-04:00",
+      "source_id": 14319724048
     }
   ]
 }
