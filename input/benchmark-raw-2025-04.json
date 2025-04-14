@@ -1,5 +1,5 @@
 {
-  "max_id": "1848059994369605653",
+  "max_id": "1848179207671300096",
   "events": [
     {
       "id": "1843570040880939018",
@@ -945,6 +945,13 @@
       "message": "toMoro 2025-04-13 20:46:52.212022|2.38 / 2.54 / 2.63|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|toMoro|1080显卡|edfcef|ceb5eb ",
       "generated_at": "2025-04-13T16:57:40-04:00",
       "source_id": 14319899453
+    },
+    {
+      "id": "1848179207671300096",
+      "program": "SDBENCHMARK",
+      "message": "wall 2025-04-13 20:47:01.137407|1.19 / 1.32 / 1.47|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.17|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.86.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:animagine-xl-4.0-opt.safetensors [6327eca98b] vae:automatic width:512 height:512|wall||f68103|cd2526 ",
+      "generated_at": "2025-04-13T16:51:22-04:00",
+      "source_id": 14320026077
     }
   ]
 }
