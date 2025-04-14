@@ -1,5 +1,5 @@
 {
-  "max_id": "1848400133985857537",
+  "max_id": "1848466241954701319",
   "events": [
     {
       "id": "1843570040880939018",
@@ -987,6 +987,69 @@
       "message": "TH 2025-04-14 19:29:03.400123|9.5 / 10.35 / 11.34|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 42 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.60 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:2024\\fantasyworld_v10.safetensors [524882ba22] vae:automatic width:512 height:512|TH||81cb04|e258de ",
       "generated_at": "2025-04-14T15:29:16-04:00",
       "source_id": 14320307377
+    },
+    {
+      "id": "1848424773709905930",
+      "program": "SDBENCHMARK",
+      "message": "shing 2025-04-14 20:56:40.722435|1.01 / 1.09 / 2.49 / 2.29 / 2.69|app:sdnext updated:2025-04-12 hash:77a87c0b url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.22631-SP0 python:3.12.7|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:560.76 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:1024 height:1024|shing||0c60a7|14d309 ",
+      "generated_at": "2025-04-14T17:07:07-04:00",
+      "source_id": 14320349176
+    },
+    {
+      "id": "1848425114740375559",
+      "program": "SDBENCHMARK",
+      "message": "shing 2025-04-14 20:56:40.722435|1.01 / 1.09 / 2.49 / 2.29 / 2.69|app:sdnext updated:2025-04-12 hash:77a87c0b url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.22631-SP0 python:3.12.7|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:560.76 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:1024 height:1024|shing||0c60a7|14d309 ",
+      "generated_at": "2025-04-14T17:08:28-04:00",
+      "source_id": 14320349176
+    },
+    {
+      "id": "1848425322048045060",
+      "program": "SDBENCHMARK",
+      "message": "shing 2025-04-14 20:56:40.722435|1.01 / 1.09 / 2.49 / 2.29 / 2.69|app:sdnext updated:2025-04-12 hash:77a87c0b url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.22631-SP0 python:3.12.7|torch:2.6.0+cu126 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:560.76 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:1024 height:1024|shing||0c60a7|14d309 ",
+      "generated_at": "2025-04-14T17:09:18-04:00",
+      "source_id": 14320349176
+    },
+    {
+      "id": "1848431122996973568",
+      "program": "SDBENCHMARK",
+      "message": "Marisa 2025-04-14 21:31:39.373468|2.26 / 3.76 / 6.31|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:556.07 12GB|Automatic none|sdxl\\AniShadow V2.safetensors [9a0b62d608]|Marisa||c323f5|ccee3c ",
+      "generated_at": "2025-04-14T17:32:23-04:00",
+      "source_id": 14320361554
+    },
+    {
+      "id": "1848431128244047872",
+      "program": "SDBENCHMARK",
+      "message": "Marisa 2025-04-14 21:31:39.373468|2.26 / 3.76 / 6.31|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:556.07 12GB|Automatic none|sdxl\\AniShadow V2.safetensors [9a0b62d608]|Marisa||c323f5|ccee3c ",
+      "generated_at": "2025-04-14T17:32:24-04:00",
+      "source_id": 14320361554
+    },
+    {
+      "id": "1848441311594725384",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-14 22:12:34.858101|20.57 / 22.58 / 24.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||3ff483|c7cd6c ",
+      "generated_at": "2025-04-14T18:12:53-04:00",
+      "source_id": 14320378016
+    },
+    {
+      "id": "1848441318725042190",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-14 22:12:34.858101|20.57 / 22.58 / 24.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:566.36 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||3ff483|c7cd6c ",
+      "generated_at": "2025-04-14T18:12:54-04:00",
+      "source_id": 14320378016
+    },
+    {
+      "id": "1848445954982854681",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-14 22:30:10.765589|27.15 / 33.01 / 41.57 / 43.42 / 43.66|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:6.1.0-32-amd64 python:3.10.10|torch:2.8.0.dev20250414+cu128 autocast half xformers: diffusers: transformers:4.30.2|GPU 设备:NVIDIA GeForce RTX 5090 (1) (compute_120) (12, 0) cuda:12.8 cudnn:90800 driver:570.133.07 0GB|sdp none|NoobXL-EPS-v1.1.safetensors [6681e8e4b1]|root|测试By Bilibili Nyan9。RTX 5090|1634f0|0282b8 ",
+      "generated_at": "2025-04-14T18:31:20-04:00",
+      "source_id": 14320385304
+    },
+    {
+      "id": "1848466241954701319",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-04-14 17:45:51.855226|0.76 / 0.66 / 0.31|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.14 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v130.safetensors [a810e710a2] vae:automatic width:512 height:512|Julian||fb7a8b|e9dff9 ",
+      "generated_at": "2025-04-14T13:51:55-04:00",
+      "source_id": 14320418489
     }
   ]
 }
