@@ -1,5 +1,5 @@
 {
-  "max_id": "1848671359752925189",
+  "max_id": "1848770142964727817",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1092,6 +1092,34 @@
       "message": "Xex 2025-04-15 05:51:43.732783|1.52|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Xex||d96490|e90227 ",
       "generated_at": "2025-04-15T04:27:01-04:00",
       "source_id": 14320606937
+    },
+    {
+      "id": "1848754402408722438",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-04-15 18:56:37.339136|error / error / error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.6.0+xpu autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2| 0GB|Automatic none|sd1.5\\光影纪实 V19_1.0.safetensors [6db1826b2c]|Admin||f09a1f|e369ab ",
+      "generated_at": "2025-04-15T14:56:40-04:00",
+      "source_id": 14320855781
+    },
+    {
+      "id": "1848762245602000897",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-04-15 13:26:47.799827|2.0 / 2.35 / 2.54|app:sdnext updated:2025-04-12 hash:77a87c0b url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|User||2ffa33|e40da3 ",
+      "generated_at": "2025-04-15T09:28:08-04:00",
+      "source_id": 14320869395
+    },
+    {
+      "id": "1848767996592570372",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-04-15 13:26:47.799827|2.0 / 2.35 / 2.54|app:sdnext updated:2025-04-12 hash:77a87c0b url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|User||2ffa33|e40da3 ",
+      "generated_at": "2025-04-15T09:50:59-04:00",
+      "source_id": 14320869395
+    },
+    {
+      "id": "1848770142964727817",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-04-15 13:58:27.573346|3.09 / 3.33 / 3.5|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:realisticvisionv60b1_v51hypervae [0928b30687] vae:none width:512 height:512|User||2ffa33|18ad1b ",
+      "generated_at": "2025-04-15T09:59:31-04:00",
+      "source_id": 14320869395
     }
   ]
 }
