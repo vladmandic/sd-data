@@ -1,5 +1,5 @@
 {
-  "max_id": "1848466241954701319",
+  "max_id": "1848598861862584386",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1050,6 +1050,34 @@
       "message": "Julian 2025-04-14 17:45:51.855226|0.76 / 0.66 / 0.31|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.14 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v130.safetensors [a810e710a2] vae:automatic width:512 height:512|Julian||fb7a8b|e9dff9 ",
       "generated_at": "2025-04-14T13:51:55-04:00",
       "source_id": 14320418489
+    },
+    {
+      "id": "1848587380831993860",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 02:46:31.780483|1.27 / 1.41 / 1.47|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:automatic width:512 height:512|Xex||d6d78f|810aa9 ",
+      "generated_at": "2025-04-14T22:53:19-04:00",
+      "source_id": 14320606937
+    },
+    {
+      "id": "1848588977238622208",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 02:54:20.684071|0.44 / 0.45 / 0.47|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:automatic width:768 height:768|Xex||d6d78f|6d4c48 ",
+      "generated_at": "2025-04-14T22:59:39-04:00",
+      "source_id": 14320606937
+    },
+    {
+      "id": "1848598861858390022",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 02:54:20.684071|0.44 / 0.45 / 0.47|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:automatic width:768 height:768|Xex||d6d78f|6d4c48 ",
+      "generated_at": "2025-04-14T23:38:56-04:00",
+      "source_id": 14320606937
+    },
+    {
+      "id": "1848598861862584386",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 03:37:00.910467|1.53 / 1.65 / 1.71|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Xex||d96490|d585c3 ",
+      "generated_at": "2025-04-14T23:38:56-04:00",
+      "source_id": 14320606937
     }
   ]
 }
