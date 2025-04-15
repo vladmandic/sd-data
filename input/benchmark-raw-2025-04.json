@@ -1,5 +1,5 @@
 {
-  "max_id": "1848598861862584386",
+  "max_id": "1848671359752925189",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1077,6 +1077,20 @@
       "program": "SDBENCHMARK",
       "message": "Xex 2025-04-15 03:37:00.910467|1.53 / 1.65 / 1.71|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Xex||d96490|d585c3 ",
       "generated_at": "2025-04-14T23:38:56-04:00",
+      "source_id": 14320606937
+    },
+    {
+      "id": "1848671359748730885",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 08:26:18.599072|1.74|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Xex||d6d78f|b942d3 ",
+      "generated_at": "2025-04-15T04:27:01-04:00",
+      "source_id": 14320606937
+    },
+    {
+      "id": "1848671359752925189",
+      "program": "SDBENCHMARK",
+      "message": "Xex 2025-04-15 05:51:43.732783|1.52|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Xex||d96490|e90227 ",
+      "generated_at": "2025-04-15T04:27:01-04:00",
       "source_id": 14320606937
     }
   ]
