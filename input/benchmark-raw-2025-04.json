@@ -1,5 +1,5 @@
 {
-  "max_id": "1848770142964727817",
+  "max_id": "1848851710790004744",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1120,6 +1120,20 @@
       "message": "User 2025-04-15 13:58:27.573346|3.09 / 3.33 / 3.5|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:realisticvisionv60b1_v51hypervae [0928b30687] vae:none width:512 height:512|User||2ffa33|18ad1b ",
       "generated_at": "2025-04-15T09:59:31-04:00",
       "source_id": 14320869395
+    },
+    {
+      "id": "1848780396511293445",
+      "program": "SDBENCHMARK",
+      "message": "prut 2025-04-15 18:08:04.759581|4.23 / 1.06 / 1.08|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.12.3|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 7800 XT (1) hip:6.2.41134-65d174c3e 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:none width:512 height:512|prut||946ed3|4f5ca2 ",
+      "generated_at": "2025-04-15T14:10:17-04:00",
+      "source_id": 14320901868
+    },
+    {
+      "id": "1848851710790004744",
+      "program": "SDBENCHMARK",
+      "message": "yair 2025-04-15 10:22:50.293821|3.74 / 4.41 / 4.46|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.0|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 7600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|yair||a91436|2c70f4 ",
+      "generated_at": "2025-04-15T06:23:42-04:00",
+      "source_id": 14321029832
     }
   ]
 }
