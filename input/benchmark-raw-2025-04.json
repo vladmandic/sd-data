@@ -1,5 +1,5 @@
 {
-  "max_id": "1848851710790004744",
+  "max_id": "1848949839493259265",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1134,6 +1134,293 @@
       "message": "yair 2025-04-15 10:22:50.293821|3.74 / 4.41 / 4.46|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.0|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 7600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|yair||a91436|2c70f4 ",
       "generated_at": "2025-04-15T06:23:42-04:00",
       "source_id": 14321029832
+    },
+    {
+      "id": "1848876531942866945",
+      "program": "SDBENCHMARK",
+      "message": "Alex 2025-04-15 20:50:57.830814|0.28 / 0.25 / 0.67|app:stable-diffusion-webui.git updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.0|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:560.94 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ntrmixillustriousxl_v40.safetensors [3bc9e8fbe6] vae:sdxl_vae.safetensors width:512 height:512|Alex||4e4d9b|42ce23 ",
+      "generated_at": "2025-04-15T17:02:20-04:00",
+      "source_id": 14321072202
+    },
+    {
+      "id": "1848935093243146248",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T15:55:00-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848935096887988243",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T15:55:01-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848935113241587733",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T15:55:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848935153343324160",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T15:55:14-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949401863774220",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:51:51-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949401888940038",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:51:51-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949404111917065",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:51:52-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949404141277190",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:51:52-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949413813338114",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:51:54-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949413842710529",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:51:54-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949472160301056",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:08-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949472198053893",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:08-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949598123638785",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:38-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949598152998912",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:38-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949607451783176",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:40-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949607476936704",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:40-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949610010300420",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949610060636162",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949611159543812",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949611188903937",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949611839012864",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949611880960002",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:41-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949635985629193",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:47-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949636010786825",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:47-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949666872483845",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:54-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949666901843988",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:54-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949670236311567",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:52:55-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949670265671688",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:52:55-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949701253189637",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:03-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949701282557959",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:03-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949705783046147",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949705812406292",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949707611754516",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949707641118724",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949708807127048",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949708832301077",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:04-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949709608239106",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:05-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949709629218820",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:05-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949839463899140",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 19:52:05.191050|5.0 / 0.75 / 0.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers: diffusers: transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||765906|07d710 ",
+      "generated_at": "2025-04-15T16:53:35-04:00",
+      "source_id": 14321163393
+    },
+    {
+      "id": "1848949839493259265",
+      "program": "SDBENCHMARK",
+      "message": "andy_passos 2025-04-15 20:48:30.842294|5.0 / 5.21 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-57-generic python:3.10.12|torch:2.6.0+rocm6.2.4 xformers:0.0.29.post3 diffusers:0.33.1 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:6.2.41134-65d174c3e 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:photon_v1.safetensors [ec41bd2a82] vae:none width:512 height:512|andy_passos||78eff2|b31437 ",
+      "generated_at": "2025-04-15T16:53:36-04:00",
+      "source_id": 14321163393
     }
   ]
 }
