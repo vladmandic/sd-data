@@ -1,5 +1,5 @@
 {
-  "max_id": "1849282849291816969",
+  "max_id": "1849403913002991616",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1449,6 +1449,20 @@
       "message": "yen 2025-04-17 06:56:49.271223|7.32 / 8.38 / 10.92||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:anyloracheckpoint_bakedvaeblessedfp16 [ef49fbb25f] vae:none width:512 height:512|yen||1faaaf|1a2db9 ",
       "generated_at": "2025-04-17T02:57:21-04:00",
       "source_id": 14321710419
+    },
+    {
+      "id": "1849334026171768836",
+      "program": "SDBENCHMARK",
+      "message": "Olif 2025-04-17 04:17:37.983918|0.96 / 1.2 / 1.51|app:sdnext updated:2025-04-14 hash:c2f2f5da url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.51.1|device:AMD Radeon RX 7600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:sd 1.5\\rev animated\\revanimated_v2rebirth [8463ca6405] vae:none width:512 height:768|Olif||12afae|795159 ",
+      "generated_at": "2025-04-17T00:20:13-04:00",
+      "source_id": 14321793706
+    },
+    {
+      "id": "1849403913002991616",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-17 13:57:32.448657|8.53 / 7.79 / 8.69|updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.21.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 8GB|xformers none|墨幽人造人_v1040.safetensors [0b9e46a0b0]|Administrator||9ade47|f4d652 ",
+      "generated_at": "2025-04-17T09:57:57-04:00",
+      "source_id": 14321879502
     }
   ]
 }
