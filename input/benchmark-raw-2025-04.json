@@ -1,5 +1,5 @@
 {
-  "max_id": "1849721630859907082",
+  "max_id": "1849778889015083008",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1526,6 +1526,27 @@
       "message": "e3 2025-04-18 01:28:40.194130|0.93 / 1.02 / 1.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA CMP 90HX (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.83 10GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:kanpiromix_v20.safetensors [b8cf1eaa89] vae:automatic width:512 height:512|e3||44aac7|30c323 ",
       "generated_at": "2025-04-18T07:00:24-04:00",
       "source_id": 14322157371
+    },
+    {
+      "id": "1849778880131547143",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-18 14:46:52.096555|4.19 / 5.2 / 7.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd模型\\stable-diffusion\\xl\\niji-现代都市-xl_v1.safetensors [2bacf2f4ee] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|Administrator||a575f9|1abb08 ",
+      "generated_at": "2025-04-18T10:47:55-04:00",
+      "source_id": 14322444124
+    },
+    {
+      "id": "1849778886515277832",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-18 14:46:52.096555|4.19 / 5.2 / 7.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd模型\\stable-diffusion\\xl\\niji-现代都市-xl_v1.safetensors [2bacf2f4ee] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|Administrator||a575f9|1abb08 ",
+      "generated_at": "2025-04-18T10:47:56-04:00",
+      "source_id": 14322444124
+    },
+    {
+      "id": "1849778889015083008",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-18 14:46:52.096555|4.19 / 5.2 / 7.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd模型\\stable-diffusion\\xl\\niji-现代都市-xl_v1.safetensors [2bacf2f4ee] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|Administrator||a575f9|1abb08 ",
+      "generated_at": "2025-04-18T10:47:57-04:00",
+      "source_id": 14322444124
     }
   ]
 }
