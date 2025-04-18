@@ -1,5 +1,5 @@
 {
-  "max_id": "1849778889015083008",
+  "max_id": "1849893217445801995",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1547,6 +1547,34 @@
       "message": "Administrator 2025-04-18 14:46:52.096555|4.19 / 5.2 / 7.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd模型\\stable-diffusion\\xl\\niji-现代都市-xl_v1.safetensors [2bacf2f4ee] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|Administrator||a575f9|1abb08 ",
       "generated_at": "2025-04-18T10:47:57-04:00",
       "source_id": 14322444124
+    },
+    {
+      "id": "1849871780358049793",
+      "program": "SDBENCHMARK",
+      "message": "dltpt 2025-04-18 21:30:20.685098|0.79 / 0.87 / 0.83|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:automatic width:512 height:512|dltpt||4c1e2f|e64681 ",
+      "generated_at": "2025-04-18T17:57:04-04:00",
+      "source_id": 14322568758
+    },
+    {
+      "id": "1849883792756621319",
+      "program": "SDBENCHMARK",
+      "message": "hp 2025-04-18 21:40:38.432355|0.11|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|myself8.0.safetensors [44831812a9]|hp||4de8e2|e32a74 ",
+      "generated_at": "2025-04-18T17:44:46-04:00",
+      "source_id": 14322585265
+    },
+    {
+      "id": "1849883984557948934",
+      "program": "SDBENCHMARK",
+      "message": "hp 2025-04-18 21:40:38.432355|0.11|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|myself8.0.safetensors [44831812a9]|hp||4de8e2|e32a74 ",
+      "generated_at": "2025-04-18T17:45:32-04:00",
+      "source_id": 14322585265
+    },
+    {
+      "id": "1849893217445801995",
+      "program": "SDBENCHMARK",
+      "message": "guido 2025-04-18 16:20:18.202858|11.21 / 1.52 / 1.55|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-21-generic python:3.12.3|torch:2.6.0+rocm6.2.4 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Radeon RX 7900 XT (1) hip:6.2.41134-65d174c3e 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:majicmixfantasy_v30vae [8370cc0fe5] vae:none width:512 height:512|guido||870f72|482f18 ",
+      "generated_at": "2025-04-18T12:22:14-04:00",
+      "source_id": 14322598910
     }
   ]
 }
