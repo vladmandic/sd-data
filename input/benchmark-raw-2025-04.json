@@ -1,5 +1,5 @@
 {
-  "max_id": "1850198861507911685",
+  "max_id": "1850294255214587904",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1638,6 +1638,244 @@
       "message": "Seo 2025-04-19 19:34:01.498346|2.06 / 2.13 / 2.17|app:stable-diffusion-webui-directml updated:2025-04-10 hash:f680b4e7 url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+cu118 xformers:0.0.23.post1 diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 9070 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:zluda compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v130.safetensors [a810e710a2] vae:automatic width:512 height:512|Seo||b11cf9|bdcc66 ",
       "generated_at": "2025-04-19T15:36:46-04:00",
       "source_id": 14322967564
+    },
+    {
+      "id": "1850256092676943876",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T18:24:13-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850256092681138185",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 22:23:21.440962|15.11 / 29.84 / 59.33 / 118.24 / 214.8 / 251.62 / 259.93|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\fnmixnoobxl_v166.safetensors vae:none width:256 height:256|MAIKA||b60759|40855a ",
+      "generated_at": "2025-04-19T18:24:13-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850257397214539780",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T18:29:24-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850257397214539799",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 22:28:57.567979|15.02 / 29.41 / 60.01 / 116.4 / 214.27|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\fnmixnoobxl_v166.safetensors vae:none width:256 height:256|MAIKA||b60759|3090a4 ",
+      "generated_at": "2025-04-19T18:29:24-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850257922744053760",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T18:31:29-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850257922744053779",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 22:30:33.319628|15.04 / 28.64 / 58.43 / 114.75 / 208.14 / 248.62 / 260.96|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\fnmixnoobxl_v166.safetensors vae:none width:256 height:256|MAIKA||b60759|8a02c8 ",
+      "generated_at": "2025-04-19T18:31:29-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850269894634041346",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:19:03-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850269894634041347",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:18:21.642752|15.08 / 29.99 / 59.86 / 118.42 / 216.23 / 254.88 / 262.97|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\fnmixnoobxl_v166.safetensors vae:none width:256 height:256|MAIKA||b60759|30d372 ",
+      "generated_at": "2025-04-19T19:19:03-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271111619735552",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271111619735559",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271112647340038",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271112651534342",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271114077597697",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271114077597698",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271114857738241",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850271114857738264",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:23:54-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274238544658435",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:36:19-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274238544658436",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:36:19-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274281859235842",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:36:29-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274281859235843",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:36:29-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274409567404033",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:37:00-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274409567404042",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:37:00-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274493034053670",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:37:20-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274493034053672",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:37:20-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274527024693253",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:37:28-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274527024693254",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:37:28-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274563036987408",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T19:37:36-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850274563041181703",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:22:10.012237|15.12 / 29.41 / 60.6 / 117.09 / 215.83 / 253.93 / 263.56|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|e9e4c4 ",
+      "generated_at": "2025-04-19T19:37:36-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294061827813379",
+      "program": "SDBENCHMARK",
+      "message": "xxhxx 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T20:55:05-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294061832007696",
+      "program": "SDBENCHMARK",
+      "message": "xxhxx 2025-04-19 23:40:23.313154|15.1 / 29.26 / 58.5 / 113.9 / 210.66 / 252.05 / 263.34|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|22ba92 ",
+      "generated_at": "2025-04-19T20:55:05-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294129557434516",
+      "program": "SDBENCHMARK",
+      "message": "xxhxx 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T20:55:22-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294129561628679",
+      "program": "SDBENCHMARK",
+      "message": "xxhxx 2025-04-19 23:40:23.313154|15.1 / 29.26 / 58.5 / 113.9 / 210.66 / 252.05 / 263.34|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|22ba92 ",
+      "generated_at": "2025-04-19T20:55:22-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294255210393602",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-19T20:55:52-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850294255214587904",
+      "program": "SDBENCHMARK",
+      "message": "MAIKA 2025-04-19 23:40:23.313154|15.1 / 29.26 / 58.5 / 113.9 / 210.66 / 252.05 / 263.34|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|22ba92 ",
+      "generated_at": "2025-04-19T20:55:52-04:00",
+      "source_id": 14323031354
     }
   ]
 }
