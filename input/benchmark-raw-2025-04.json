@@ -1,5 +1,5 @@
 {
-  "max_id": "1850294255214587904",
+  "max_id": "1850321453657026561",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1876,6 +1876,20 @@
       "message": "MAIKA 2025-04-19 23:40:23.313154|15.1 / 29.26 / 58.5 / 113.9 / 210.66 / 252.05 / 263.34|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|MAIKA||b60759|22ba92 ",
       "generated_at": "2025-04-19T20:55:52-04:00",
       "source_id": 14323031354
+    },
+    {
+      "id": "1850319296341930212",
+      "program": "SDBENCHMARK",
+      "message": "Pospo 2025-04-19 20:34:55.936994|7.91 / 8.46 / 9.0|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.02 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sdxl\\juggernautxl_juggxibyrundiffusion.safetensors vae:none width:1024 height:1024|Pospo||9169ff|6d8646 ",
+      "generated_at": "2025-04-19T16:35:20-04:00",
+      "source_id": 14323101302
+    },
+    {
+      "id": "1850321453657026561",
+      "program": "SDBENCHMARK",
+      "message": "Pospo 2025-04-19 20:42:54.050669|31.42 / 37.24 / 46.42|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.02 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd 1.5\\revanimated_v122.safetensors vae:none width:512 height:512|Pospo||9169ff|0d413b ",
+      "generated_at": "2025-04-19T16:43:55-04:00",
+      "source_id": 14323101302
     }
   ]
 }
