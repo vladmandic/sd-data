@@ -1,5 +1,5 @@
 {
-  "max_id": "1850497941761089551",
+  "max_id": "1850857876151779341",
   "events": [
     {
       "id": "1843570040880939018",
@@ -1890,6 +1890,41 @@
       "message": "Pospo 2025-04-19 20:42:54.050669|31.42 / 37.24 / 46.42|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.02 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd 1.5\\revanimated_v122.safetensors vae:none width:512 height:512|Pospo||9169ff|0d413b ",
       "generated_at": "2025-04-19T16:43:55-04:00",
       "source_id": 14323101302
+    },
+    {
+      "id": "1850855901007888390",
+      "program": "SDBENCHMARK",
+      "message": "イチゴ真優 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-21T10:07:36-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850855901007888397",
+      "program": "SDBENCHMARK",
+      "message": "イチゴ真優 2025-04-21 14:06:36.340243|14.48 / 27.41 / 56.08 / 109.89 / 204.95 / 259.09 / 274.27|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|イチゴ真優|GH100-885K-A1 VBIOS 96.00.74.00.14|b60759|3bc957 ",
+      "generated_at": "2025-04-21T10:07:36-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850857876147585034",
+      "program": "SDBENCHMARK",
+      "message": "イチゴ真優 2025-04-19 21:59:39.769744|3.62 / 15.91 / 27.97 / 53.16 / 63.29|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.4 cudnn:90100 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\waishufflenoob_vpred20.safetensors vae:none width:512 height:512|xxhxx||a981e2|e8277c ",
+      "generated_at": "2025-04-21T10:15:27-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850857876151779328",
+      "program": "SDBENCHMARK",
+      "message": "イチゴ真優 2025-04-21 14:06:36.340243|14.48 / 27.41 / 56.08 / 109.89 / 204.95 / 259.09 / 274.27|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver: 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|イチゴ真優|GH100-885K-A1 VBIOS 96.00.74.00.14|b60759|3bc957 ",
+      "generated_at": "2025-04-21T10:15:27-04:00",
+      "source_id": 14323031354
+    },
+    {
+      "id": "1850857876151779341",
+      "program": "SDBENCHMARK",
+      "message": "イチゴ真優 2025-04-21 14:13:46.774065|13.74 / 26.04 / 54.05 / 104.5 / 196.24 / 253.02 / 262.48|app:stable-diffusion-webui-forge updated:2024-12-22 hash:f5330788 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.6.0+cu126 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA H100 80GB HBM3 (1) (sm_90) (9, 0) cuda:12.6 cudnn:90501 driver:571.96  571.96  571.96 79GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:checkpoints\\wainsfwillustrious_v120.safetensors vae:none width:256 height:256|イチゴ真優|GH100-885K-A1 VBIOS 96.00.74.00.01|d89072|e650ac ",
+      "generated_at": "2025-04-21T10:15:27-04:00",
+      "source_id": 14323031354
     }
   ]
 }
