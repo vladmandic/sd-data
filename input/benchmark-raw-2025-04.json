@@ -1,5 +1,5 @@
 {
-  "max_id": "1851401997857779734",
+  "max_id": "1851442284357402635",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2037,6 +2037,55 @@
       "message": "knut 2025-04-23 03:17:08.926248|6.74 / 8.6 / 9.63|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.3.0 python:3.11.12|torch:2.6.0 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|knut|M3 Ultra (Mac Studio 2025) 24+8 CPU, 80 GPU|9aed86|a4cc0a ",
       "generated_at": "2025-04-22T23:17:36-04:00",
       "source_id": 14324485744
+    },
+    {
+      "id": "1851425979197747211",
+      "program": "SDBENCHMARK",
+      "message": "Zsolti 2024-03-22 19:42:52.317669|9.77 / 10.08 / 11.16|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2080 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.86 8GB|Automatic medvram-sdxl|cyberrealistic_classicV21.safetensors [421053cadc]|Zsolti||f3cbca|8d90f8 ",
+      "generated_at": "2025-04-22T17:52:44-04:00",
+      "source_id": 14324519150
+    },
+    {
+      "id": "1851425979201941517",
+      "program": "SDBENCHMARK",
+      "message": "Zsolti 2025-04-22 21:50:56.896427|16.46 / 19.18 / 19.97|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 12GB|Automatic medvram-sdxl|realisticDigital_v50.safetensors [84a5c9c910]|Zsolti||e54b82|792118 ",
+      "generated_at": "2025-04-22T17:52:44-04:00",
+      "source_id": 14324519150
+    },
+    {
+      "id": "1851426748022059023",
+      "program": "SDBENCHMARK",
+      "message": "Zsolti 2024-03-22 19:42:52.317669|9.77 / 10.08 / 11.16|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2080 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.86 8GB|Automatic medvram-sdxl|cyberrealistic_classicV21.safetensors [421053cadc]|Zsolti||f3cbca|8d90f8 ",
+      "generated_at": "2025-04-22T17:55:48-04:00",
+      "source_id": 14324519150
+    },
+    {
+      "id": "1851426748022059030",
+      "program": "SDBENCHMARK",
+      "message": "Zsolti 2025-04-22 21:50:56.896427|16.46 / 19.18 / 19.97|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 12GB|Automatic medvram-sdxl|realisticDigital_v50.safetensors [84a5c9c910]|Zsolti||e54b82|792118 ",
+      "generated_at": "2025-04-22T17:55:48-04:00",
+      "source_id": 14324519150
+    },
+    {
+      "id": "1851442284357402626",
+      "program": "SDBENCHMARK",
+      "message": "NIX 2024-05-23 01:59:57.410584|8.95 / 9.38 / 9.79 / 9.78 / 9.96|app:stable-diffusion-webui.git updated:2024-04-22 hash:1c0a0c4c url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:555.85 8GB|xformers none|epicphotogasm_ultimateFidelity.safetensors [e44c7b30c6]|NIX||65d6b4|98b87b ",
+      "generated_at": "2025-04-22T23:57:40-04:00",
+      "source_id": 14324543619
+    },
+    {
+      "id": "1851442284357402629",
+      "program": "SDBENCHMARK",
+      "message": "NIX 2024-09-23 01:42:07.215899|3.57 / 4.73 / 5.63 / 5.79 / 4.79|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.20 diffusers:0.29.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:561.09 8GB|xformers medvram|SDXL\\ponyRealism_v21MainVAE.safetensors [059934ff58]|NIX||0bf18a|8e64ee ",
+      "generated_at": "2025-04-22T23:57:40-04:00",
+      "source_id": 14324543619
+    },
+    {
+      "id": "1851442284357402635",
+      "program": "SDBENCHMARK",
+      "message": "NIX 2025-04-23 03:54:44.234380|3.9 / 4.66 / 5.51 / 4.66 / 3.06|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.20 diffusers:0.29.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.02 8GB|pipeline:a1111 crossattention:xformers flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxl\\ponyrealism_v22mainvae.safetensors [7c97ecf786] vae:none width:512 height:512|NIX||5c0764|bf2344 ",
+      "generated_at": "2025-04-22T23:57:40-04:00",
+      "source_id": 14324543619
     }
   ]
 }
