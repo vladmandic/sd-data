@@ -1,5 +1,5 @@
 {
-  "max_id": "1851442284357402635",
+  "max_id": "1851631483106803715",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2086,6 +2086,48 @@
       "message": "NIX 2025-04-23 03:54:44.234380|3.9 / 4.66 / 5.51 / 4.66 / 3.06|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.20 diffusers:0.29.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.02 8GB|pipeline:a1111 crossattention:xformers flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxl\\ponyrealism_v22mainvae.safetensors [7c97ecf786] vae:none width:512 height:512|NIX||5c0764|bf2344 ",
       "generated_at": "2025-04-22T23:57:40-04:00",
       "source_id": 14324543619
+    },
+    {
+      "id": "1851605527902220291",
+      "program": "SDBENCHMARK",
+      "message": "ArticunoI 2025-04-22 20:13:13.836523|24.95 / 27.62 / 29.22|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.02 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.ckpt [cc6cb27103] vae:automatic width:512 height:512|ArticunoI||2cde50|39c325 ",
+      "generated_at": "2025-04-23T11:46:42-04:00",
+      "source_id": 14324772540
+    },
+    {
+      "id": "1851605527910608896",
+      "program": "SDBENCHMARK",
+      "message": "ArticunoI 2025-04-22 20:24:36.993794|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_90) (12, 0) cuda:12.1 cudnn:8801 driver:576.02 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:v1-5-pruned-emaonly.ckpt [cc6cb27103] vae:automatic width:512 height:512|ArticunoI||8ab53d|cf9394 ",
+      "generated_at": "2025-04-23T11:46:42-04:00",
+      "source_id": 14324772540
+    },
+    {
+      "id": "1851605527910608897",
+      "program": "SDBENCHMARK",
+      "message": "ArticunoI 2025-04-22 20:35:01.399380|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_90) (12, 0) cuda:12.1 cudnn:8801 driver:576.02 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:v1-5-pruned-emaonly.ckpt [cc6cb27103] vae:automatic width:512 height:512|ArticunoI||86396f|d9ec9a ",
+      "generated_at": "2025-04-23T11:46:42-04:00",
+      "source_id": 14324772540
+    },
+    {
+      "id": "1851605527914803200",
+      "program": "SDBENCHMARK",
+      "message": "ArticunoI 2025-04-22 22:06:38.502676|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D (1) (sm_90) (12, 0) cuda:12.1 cudnn:8801 driver:576.02 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:v1-5-pruned-emaonly.ckpt [cc6cb27103] vae:automatic width:512 height:512|ArticunoI||222b3f|4eb37d ",
+      "generated_at": "2025-04-23T11:46:42-04:00",
+      "source_id": 14324772540
+    },
+    {
+      "id": "1851612549657849864",
+      "program": "SDBENCHMARK",
+      "message": "dltpt 2025-04-23 17:13:51.522352|6.3 / 10.48 / 15.09|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.6.0+cu128.nv xformers:0.0.30.dev1005 diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.02 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v130 [a810e710a2] vae:none width:512 height:512|dltpt||f3b566|4a2ae4 ",
+      "generated_at": "2025-04-23T13:14:14-04:00",
+      "source_id": 14324782678
+    },
+    {
+      "id": "1851631483106803715",
+      "program": "SDBENCHMARK",
+      "message": "bigcat 2025-04-23 17:28:26.277886|2.15 / 3.18 / 3.94|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.18363-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|bigcat||a59f95|838766 ",
+      "generated_at": "2025-04-23T13:29:27-04:00",
+      "source_id": 14324809728
     }
   ]
 }
