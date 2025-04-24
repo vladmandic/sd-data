@@ -1,5 +1,5 @@
 {
-  "max_id": "1851631483106803715",
+  "max_id": "1851933490086592513",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2128,6 +2128,13 @@
       "message": "bigcat 2025-04-23 17:28:26.277886|2.15 / 3.18 / 3.94|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.18363-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|bigcat||a59f95|838766 ",
       "generated_at": "2025-04-23T13:29:27-04:00",
       "source_id": 14324809728
+    },
+    {
+      "id": "1851933490086592513",
+      "program": "SDBENCHMARK",
+      "message": "微栖云筑 2025-04-24 13:28:51.766823|12.99 / 14.69 / 17.09|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://jihulab.com/hanamizuki/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0.dev20250409+cu128 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:0.55(sdxl_dreamshaperxl_turbodpmppsde) + 0.45(sdxl_juggernautxl_v9-lightning_4s_v9 + rdphoto 2).ckpt vae:none width:512 height:512|微栖云筑||f0376a|494f6d ",
+      "generated_at": "2025-04-24T09:29:30-04:00",
+      "source_id": 14325266488
     }
   ]
 }
