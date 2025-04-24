@@ -1,5 +1,5 @@
 {
-  "max_id": "1851999849575268364",
+  "max_id": "1852048833429827591",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2156,6 +2156,20 @@
       "message": "Sakisakura 2025-04-24 17:51:50.086905|5.73 / 6.62 / 7.43 / 7.84 / 8.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0.dev20250421+cu128 autocast half xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|illustriousXLPersonalMerge_v30Noob10based.safetensors [d14ea71ad5]|Sakisakura||a6df10|6b905c ",
       "generated_at": "2025-04-24T13:53:14-04:00",
       "source_id": 14325360968
+    },
+    {
+      "id": "1852048778476056581",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-24 21:06:52.549355|6.68 / 7.21 / 7.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||11ccf0|387183 ",
+      "generated_at": "2025-04-24T17:07:38-04:00",
+      "source_id": 14325441250
+    },
+    {
+      "id": "1852048833429827591",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-04-24 21:06:52.549355|6.68 / 7.21 / 7.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||11ccf0|387183 ",
+      "generated_at": "2025-04-24T17:07:51-04:00",
+      "source_id": 14325441250
     }
   ]
 }
