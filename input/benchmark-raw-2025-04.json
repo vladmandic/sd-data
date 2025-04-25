@@ -1,5 +1,5 @@
 {
-  "max_id": "1852048833429827591",
+  "max_id": "1852434345927823362",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2170,6 +2170,20 @@
       "message": "Administrator 2025-04-24 21:06:52.549355|6.68 / 7.21 / 7.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||11ccf0|387183 ",
       "generated_at": "2025-04-24T17:07:51-04:00",
       "source_id": 14325441250
+    },
+    {
+      "id": "1852411610258399239",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-25 21:08:30.057663|9.32 / 17.83 / 31.5 / 32.7 / 31.9|app:stable-diffusion-webui updated:2024-11-02 hash:7799859f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-113-generic python:3.10.12|torch:2.5.1+cu124 autocast half xformers:0.0.29.dev934 diffusers: transformers:4.30.2|GPU 设备:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:550.127.08 0GB|xformers none|Illustrious-v2.0.safetensors [c2a1a3eaa1]|root|测试 By BiliBili Nyan9|cb33bf|ab205c ",
+      "generated_at": "2025-04-25T17:09:26-04:00",
+      "source_id": 14325966266
+    },
+    {
+      "id": "1852411634035904520",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-25 21:08:30.057663|9.32 / 17.83 / 31.5 / 32.7 / 31.9|app:stable-diffusion-webui updated:2024-11-02 hash:7799859f url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-113-generic python:3.10.12|torch:2.5.1+cu124 autocast half xformers:0.0.29.dev934 diffusers: transformers:4.30.2|GPU 设备:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:550.127.08 0GB|xformers none|Illustrious-v2.0.safetensors [c2a1a3eaa1]|root|测试 By BiliBili Nyan9|cb33bf|ab205c ",
+      "generated_at": "2025-04-25T17:09:30-04:00",
+      "source_id": 14325966266
     }
   ]
 }
