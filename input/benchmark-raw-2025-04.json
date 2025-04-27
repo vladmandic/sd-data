@@ -1,5 +1,5 @@
 {
-  "max_id": "1853021309177614339",
+  "max_id": "1853070306953052160",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2254,6 +2254,62 @@
       "message": "root 2025-04-27 08:27:32.726464|0.77 / 0.79 / 0.71|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:24.4.0 python:3.10.17|torch:2.3.1 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:fenrisxl_v164fp16.safetensors [11d8087219] vae:automatic width:512 height:512|root||345387|6c89e2 ",
       "generated_at": "2025-04-27T04:32:09-04:00",
       "source_id": 14326676489
+    },
+    {
+      "id": "1853042091895222280",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:53:39.698232|14.6 / 20.25 / 23.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|497d83 ",
+      "generated_at": "2025-04-27T10:54:46-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853042097129713686",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:53:39.698232|14.6 / 20.25 / 23.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|497d83 ",
+      "generated_at": "2025-04-27T10:54:47-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853042098023100422",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:53:39.698232|14.6 / 20.25 / 23.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|497d83 ",
+      "generated_at": "2025-04-27T10:54:47-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853042499795480588",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:55:42.954735|15.06 / 21.64 / 23.46 / 24.08 / 24.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|95fdf8 ",
+      "generated_at": "2025-04-27T10:56:23-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853042501338984454",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:55:42.954735|15.06 / 21.64 / 23.46 / 24.08 / 24.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|95fdf8 ",
+      "generated_at": "2025-04-27T10:56:23-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853044434141372418",
+      "program": "SDBENCHMARK",
+      "message": "mkyoon 2025-04-27 16:03:53.216912|21.36 / 29.67 / 39.45|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hanimix_newpony_realism_v7(light).safetensors [ed41fbb4ca] vae:sdxl_vae.safetensors width:512 height:512|mkyoon||3b8cfd|74b8c5 ",
+      "generated_at": "2025-04-27T12:04:01-04:00",
+      "source_id": 14326704028
+    },
+    {
+      "id": "1853069636543889408",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:55:42.954735|15.06 / 21.64 / 23.46 / 24.08 / 24.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|95fdf8 ",
+      "generated_at": "2025-04-27T12:44:13-04:00",
+      "source_id": 14326701593
+    },
+    {
+      "id": "1853070306953052160",
+      "program": "SDBENCHMARK",
+      "message": "WIN 2025-04-27 14:55:42.954735|15.06 / 21.64 / 23.46 / 24.08 / 24.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|95fdf8 ",
+      "generated_at": "2025-04-27T12:46:53-04:00",
+      "source_id": 14326701593
     }
   ]
 }
