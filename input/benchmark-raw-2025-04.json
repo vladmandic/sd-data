@@ -1,5 +1,5 @@
 {
-  "max_id": "1853070306953052160",
+  "max_id": "1853161528027705347",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2310,6 +2310,41 @@
       "message": "WIN 2025-04-27 14:55:42.954735|15.06 / 21.64 / 23.46 / 24.08 / 24.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WIN||007761|95fdf8 ",
       "generated_at": "2025-04-27T12:46:53-04:00",
       "source_id": 14326701593
+    },
+    {
+      "id": "1853136165352431624",
+      "program": "SDBENCHMARK",
+      "message": "mmd19 2025-04-27 16:05:54.504343|0.94 / 1.02 / 0.99|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) 890M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 17GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wai\\wainsfwillustrious_v130 [a810e710a2] vae:none width:512 height:512|mmd19||4809af|aa6c70 ",
+      "generated_at": "2025-04-27T12:08:30-04:00",
+      "source_id": 14326804415
+    },
+    {
+      "id": "1853136198239969283",
+      "program": "SDBENCHMARK",
+      "message": "mmd19 2025-04-27 16:05:54.504343|0.94 / 1.02 / 0.99|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) 890M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 17GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wai\\wainsfwillustrious_v130 [a810e710a2] vae:none width:512 height:512|mmd19||4809af|aa6c70 ",
+      "generated_at": "2025-04-27T12:08:38-04:00",
+      "source_id": 14326804415
+    },
+    {
+      "id": "1853136482106269700",
+      "program": "SDBENCHMARK",
+      "message": "merlin 2025-04-27 16:05:54.504343|0.94 / 1.02 / 0.99|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) 890M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 17GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wai\\wainsfwillustrious_v130 [a810e710a2] vae:none width:512 height:512|mmd19||4809af|aa6c70 ",
+      "generated_at": "2025-04-27T12:09:46-04:00",
+      "source_id": 14326804415
+    },
+    {
+      "id": "1853161517814575144",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-27 14:47:32.788914|4.76 / 4.99 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-166-generic python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:Tesla T4 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8902 driver:525.105.17 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:noobaixlnaixl_epsilonpred11version.safetensors [6681e8e4b1] vae:sdxl_vae.safetensors width:512 height:512|root||d254fa|9809ab ",
+      "generated_at": "2025-04-27T10:49:18-04:00",
+      "source_id": 14326829020
+    },
+    {
+      "id": "1853161528027705347",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-27 14:47:32.788914|4.76 / 4.99 / 5.33|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.4.0-166-generic python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:Tesla T4 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8902 driver:525.105.17 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:noobaixlnaixl_epsilonpred11version.safetensors [6681e8e4b1] vae:sdxl_vae.safetensors width:512 height:512|root||d254fa|9809ab ",
+      "generated_at": "2025-04-27T10:49:20-04:00",
+      "source_id": 14326829020
     }
   ]
 }
