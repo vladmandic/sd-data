@@ -1,5 +1,5 @@
 {
-  "max_id": "1852948155881152513",
+  "max_id": "1853021309177614339",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2247,6 +2247,13 @@
       "message": "silen 2025-04-26 20:34:39.964775|2.58 / 3.9 / 4.93|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:unholydesiremixsinister_v40 [00a726e838] vae:none width:512 height:512|silen||217407|f6c061 ",
       "generated_at": "2025-04-26T16:41:29-04:00",
       "source_id": 14326602828
+    },
+    {
+      "id": "1853021309177614339",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-04-27 08:27:32.726464|0.77 / 0.79 / 0.71|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:24.4.0 python:3.10.17|torch:2.3.1 xformers: diffusers: transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:fenrisxl_v164fp16.safetensors [11d8087219] vae:automatic width:512 height:512|root||345387|6c89e2 ",
+      "generated_at": "2025-04-27T04:32:09-04:00",
+      "source_id": 14326676489
     }
   ]
 }
