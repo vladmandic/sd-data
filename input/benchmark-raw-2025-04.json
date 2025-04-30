@@ -1,5 +1,5 @@
 {
-  "max_id": "1854030286568996871",
+  "max_id": "1854140147701051405",
   "events": [
     {
       "id": "1843570040880939018",
@@ -2373,6 +2373,48 @@
       "message": "巴怀 2025-04-30 08:20:26.180550|2.93 / 3.57 / 5.04|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:animapencilxl_v500.safetensors [896faa18cd] vae:automatic width:512 height:512|巴怀||a5b002|64c277 ",
       "generated_at": "2025-04-30T04:21:31-04:00",
       "source_id": 14328129499
+    },
+    {
+      "id": "1854139788937064449",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:36:29-04:00",
+      "source_id": 14328285355
+    },
+    {
+      "id": "1854139804594401280",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:36:33-04:00",
+      "source_id": 14328285355
+    },
+    {
+      "id": "1854139869887131649",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:36:49-04:00",
+      "source_id": 14328285355
+    },
+    {
+      "id": "1854139871703265283",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:36:49-04:00",
+      "source_id": 14328285355
+    },
+    {
+      "id": "1854140146094632962",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:37:55-04:00",
+      "source_id": 14328285355
+    },
+    {
+      "id": "1854140147701051405",
+      "program": "SDBENCHMARK",
+      "message": "household 2025-04-30 10:21:34.202070|1.15 / 1.37 / 1.5|app:stable-diffusion-webui-forge updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:566.36 11GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\meichidarkmixreload_meichidarklustv3.safetensors vae:none width:512 height:768|household||a015c8|dd41fb ",
+      "generated_at": "2025-04-30T06:37:55-04:00",
+      "source_id": 14328285355
     }
   ]
 }
