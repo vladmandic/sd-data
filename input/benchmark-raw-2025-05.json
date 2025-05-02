@@ -1,5 +1,5 @@
 {
-  "max_id": "1854656029648941062",
+  "max_id": "1854787593699516442",
   "events": [
     {
       "id": "1854436136735399936",
@@ -35,6 +35,13 @@
       "message": "AC 2025-05-02 01:47:56.058089|error / error / error|app:sdnext updated:2025-04-28 hash:341cbd9d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6800M [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:none vae:none width:512 height:512|AC||4198b0|8ba049 ",
       "generated_at": "2025-05-01T21:47:57-04:00",
       "source_id": 14329057436
+    },
+    {
+      "id": "1854787593699516442",
+      "program": "SDBENCHMARK",
+      "message": "KAPTIVA 2025-05-02 11:27:54.555181|8.85 / 13.59 / 15.35|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.27.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.45 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:arazmixnoob060.fp16.safetensors [25fd72e342] vae:none width:512 height:512|KAPTIVA||a50f83|16095d ",
+      "generated_at": "2025-05-02T07:30:44-04:00",
+      "source_id": 14329245642
     }
   ]
 }
