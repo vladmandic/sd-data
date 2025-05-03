@@ -1,5 +1,5 @@
 {
-  "max_id": "1855001703926128640",
+  "max_id": "1855055831977082893",
   "events": [
     {
       "id": "1854436136735399936",
@@ -49,6 +49,27 @@
       "message": "樱落 2025-05-03 01:41:14.649609|10.27 / 10.36 / 10.58|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:572.70 8GB|Automatic medvram-sdxl|control_v11p_sd15s2_lineart_anime_fp16.safetensors [067bf84510]|樱落||7b1120|bc6d4a ",
       "generated_at": "2025-05-02T21:41:33-04:00",
       "source_id": 14329564541
+    },
+    {
+      "id": "1855054795258380293",
+      "program": "SDBENCHMARK",
+      "message": "titio 2025-04-25 21:51:23.947168|0.75|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:animapencilxl_v500 [896faa18cd] vae:none width:512 height:512|titio||4777ef|2aa4b6 ",
+      "generated_at": "2025-05-02T18:12:31-04:00",
+      "source_id": 14329642138
+    },
+    {
+      "id": "1855055831977082885",
+      "program": "SDBENCHMARK",
+      "message": "titio 2025-04-25 21:51:23.947168|0.75|app:sdnext updated:2025-04-16 hash:c6da1850 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:animapencilxl_v500 [896faa18cd] vae:none width:512 height:512|titio||4777ef|2aa4b6 ",
+      "generated_at": "2025-05-02T18:16:38-04:00",
+      "source_id": 14329642138
+    },
+    {
+      "id": "1855055831977082893",
+      "program": "SDBENCHMARK",
+      "message": "titio 2025-05-02 22:12:38.341196|0.53 / 0.72 / 0.84|app:sdnext updated:2025-04-28 hash:341cbd9d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:animesh_fullv22 [ce9ee58e2a] vae:default width:512 height:512|titio||c72f1f|89ed2f ",
+      "generated_at": "2025-05-02T18:16:38-04:00",
+      "source_id": 14329642138
     }
   ]
 }
