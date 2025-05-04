@@ -1,5 +1,5 @@
 {
-  "max_id": "1855608656687710208",
+  "max_id": "1855738577154129925",
   "events": [
     {
       "id": "1854436136735399936",
@@ -112,6 +112,13 @@
       "message": "Pete20ino 2025-05-04 10:50:13.528226|1.23 / 0.44 / 1.74||arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxl_photopediaxl_45 + 0.5(sdxl_sdxxxl_v30 - sdxl_waifugenieturbo_v10).safetensors [e457491a3f] vae:none width:512 height:512|Pete20ino||91e52b|b001af ",
       "generated_at": "2025-05-04T06:53:21-04:00",
       "source_id": 14330225581
+    },
+    {
+      "id": "1855738577154129925",
+      "program": "SDBENCHMARK",
+      "message": "NickM 2025-05-04 13:29:17.106748|6.49 / 11.44 / 18.06|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.28 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned.safetensors [1a189f0be6] vae:none width:512 height:512|NickM||968ff6|26ae96 ",
+      "generated_at": "2025-05-04T09:29:36-04:00",
+      "source_id": 14330359396
     }
   ]
 }
