@@ -1,5 +1,5 @@
 {
-  "max_id": "1855502467442327552",
+  "max_id": "1855608656687710208",
   "events": [
     {
       "id": "1854436136735399936",
@@ -98,6 +98,20 @@
       "message": "as891 2025-05-04 09:49:50.796166|2.44 / 2.52 / 2.48|app:sdnext updated:2025-04-28 hash:341cbd9d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 9070 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Split attention flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:animagine-xl-4.0-opt [6327eca98b] vae:none width:512 height:512|as891||ddb71e|06ee53 ",
       "generated_at": "2025-05-04T05:51:23-04:00",
       "source_id": 14330114482
+    },
+    {
+      "id": "1855572890087505920",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-05-04 14:28:08.957725|1.45 / 1.82 / 2.18|updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 accelerate:0.21.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 8GB|xformers medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|admin||381af7|f5b4a8 ",
+      "generated_at": "2025-05-04T10:31:15-04:00",
+      "source_id": 14330191906
+    },
+    {
+      "id": "1855608656687710208",
+      "program": "SDBENCHMARK",
+      "message": "Pete20ino 2025-05-04 10:50:13.528226|1.23 / 0.44 / 1.74||arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sdxl_photopediaxl_45 + 0.5(sdxl_sdxxxl_v30 - sdxl_waifugenieturbo_v10).safetensors [e457491a3f] vae:none width:512 height:512|Pete20ino||91e52b|b001af ",
+      "generated_at": "2025-05-04T06:53:21-04:00",
+      "source_id": 14330225581
     }
   ]
 }
