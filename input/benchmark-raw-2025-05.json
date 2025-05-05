@@ -1,5 +1,5 @@
 {
-  "max_id": "1855738577154129925",
+  "max_id": "1855825339570384898",
   "events": [
     {
       "id": "1854436136735399936",
@@ -119,6 +119,13 @@
       "message": "NickM 2025-05-04 13:29:17.106748|6.49 / 11.44 / 18.06|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.28 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned.safetensors [1a189f0be6] vae:none width:512 height:512|NickM||968ff6|26ae96 ",
       "generated_at": "2025-05-04T09:29:36-04:00",
       "source_id": 14330359396
+    },
+    {
+      "id": "1855825339570384898",
+      "program": "SDBENCHMARK",
+      "message": "skycr 2025-05-05 07:12:31.497675|1.04 / 1.36 / 1.54|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA P106-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:566.14 6GB|Automatic medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|skycr||d1af27|b49629 ",
+      "generated_at": "2025-05-05T03:14:23-04:00",
+      "source_id": 14330451970
     }
   ]
 }
