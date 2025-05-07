@@ -1,5 +1,5 @@
 {
-  "max_id": "1856647845608865799",
+  "max_id": "1856683756799320064",
   "events": [
     {
       "id": "1854436136735399936",
@@ -238,6 +238,13 @@
       "message": "WANGCHAOXIN 2025-05-07 13:41:46.077762|16.46 / 17.82 / 18.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WANGCHAOXIN||fa5d4a|ecfd01 ",
       "generated_at": "2025-05-07T09:42:41-04:00",
       "source_id": 14331654807
+    },
+    {
+      "id": "1856683756799320064",
+      "program": "SDBENCHMARK",
+      "message": "mmd19 2025-05-07 11:02:13.355301|0.75 / 0.91 / 0.9|app:sdnext.git updated:2025-05-06 hash:035324b1 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) 890M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 14GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:redcraftcadsupdatedmay4_illust3relustion [204049605a] vae:none width:512 height:512|mmd19||5a0914|6f0a10 ",
+      "generated_at": "2025-05-07T07:05:24-04:00",
+      "source_id": 14331709374
     }
   ]
 }
