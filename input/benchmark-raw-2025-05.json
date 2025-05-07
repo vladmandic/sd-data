@@ -1,5 +1,5 @@
 {
-  "max_id": "1856445094429904898",
+  "max_id": "1856647845608865799",
   "events": [
     {
       "id": "1854436136735399936",
@@ -210,6 +210,34 @@
       "message": "task(3ai3o7v9i6djhdv) 2024-09-26 15:11:01.792740|9.15 / 13.63 / 15.73|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:560.70 16GB|Automatic none|ponyRealism_v21AlternativeVAE.safetensors [d60e92d90f]|User||f2de1b|297fa5 ",
       "generated_at": "2025-05-06T07:17:03-04:00",
       "source_id": 14331361734
+    },
+    {
+      "id": "1856586186966102019",
+      "program": "SDBENCHMARK",
+      "message": "Windows 10 2025-05-07 09:33:58.091421|4.81 / 5.83 / 6.53 / 7.03 / 6.82|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.28 6GB|Automatic medvram|sd1.5\\anything-v5-fp32-clip-fix.ckpt [7fd12d4a88]|Windows 10||8339eb|690ac2 ",
+      "generated_at": "2025-05-07T05:37:43-04:00",
+      "source_id": 14331576797
+    },
+    {
+      "id": "1856586197548331009",
+      "program": "SDBENCHMARK",
+      "message": "Windows 10 2025-05-07 09:33:58.091421|4.81 / 5.83 / 6.53 / 7.03 / 6.82|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.28 6GB|Automatic medvram|sd1.5\\anything-v5-fp32-clip-fix.ckpt [7fd12d4a88]|Windows 10||8339eb|690ac2 ",
+      "generated_at": "2025-05-07T05:37:45-04:00",
+      "source_id": 14331576797
+    },
+    {
+      "id": "1856647804605349891",
+      "program": "SDBENCHMARK",
+      "message": "WANGCHAOXIN 2025-05-07 13:41:46.077762|16.46 / 17.82 / 18.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WANGCHAOXIN||fa5d4a|ecfd01 ",
+      "generated_at": "2025-05-07T09:42:31-04:00",
+      "source_id": 14331654807
+    },
+    {
+      "id": "1856647845608865799",
+      "program": "SDBENCHMARK",
+      "message": "WANGCHAOXIN 2025-05-07 13:41:46.077762|16.46 / 17.82 / 18.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|WANGCHAOXIN||fa5d4a|ecfd01 ",
+      "generated_at": "2025-05-07T09:42:41-04:00",
+      "source_id": 14331654807
     }
   ]
 }
