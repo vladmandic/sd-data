@@ -1,5 +1,5 @@
 {
-  "max_id": "1857011642001440786",
+  "max_id": "1857051105054343185",
   "events": [
     {
       "id": "1854436136735399936",
@@ -336,6 +336,34 @@
       "message": "TT 2025-05-08 13:46:27.477515|4.3 / 4.47 / 5.01|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2060 with Max-Q Design (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:561.09 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:anything-v5.0-prt-re.safetensors [7f96a1a9ca] vae:none width:512 height:512|TT||9a6d70|cafed0 ",
       "generated_at": "2025-05-08T09:48:19-04:00",
       "source_id": 14332199926
+    },
+    {
+      "id": "1857032615803154436",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-05-08 03:10:14.475077|15.22 / 17.89 / 19.27|app:stable-diffusion-webui-forge.git updated:2025-05-05 hash:0ced1d0c url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:576.02 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:epicphotogasm_lastunicorn.safetensors vae:none width:512 height:512|Admin||1cdc6b|0b5451 ",
+      "generated_at": "2025-05-07T23:11:39-04:00",
+      "source_id": 14332126170
+    },
+    {
+      "id": "1857038367720661015",
+      "program": "SDBENCHMARK",
+      "message": "Guohong 2025-05-08 15:34:11.567241|11.39 / 11.8 / 13.13|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Guohong||657f23|8f0ebf ",
+      "generated_at": "2025-05-08T11:34:29-04:00",
+      "source_id": 14332242312
+    },
+    {
+      "id": "1857038375031332871",
+      "program": "SDBENCHMARK",
+      "message": "Guohong 2025-05-08 15:34:11.567241|11.39 / 11.8 / 13.13|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Guohong||657f23|8f0ebf ",
+      "generated_at": "2025-05-08T11:34:31-04:00",
+      "source_id": 14332242312
+    },
+    {
+      "id": "1857051105054343185",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-05-08 04:23:15.982339|11.08 / 11.75 / 12.4|app:stable-diffusion-webui-forge.git updated:2025-05-05 hash:0ced1d0c url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:576.02 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:juggernautxl_ragnarokby.safetensors vae:none width:512 height:512|Admin|Ghost|1cdc6b|5cabe0 ",
+      "generated_at": "2025-05-08T00:25:07-04:00",
+      "source_id": 14332126170
     }
   ]
 }
