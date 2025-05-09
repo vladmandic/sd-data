@@ -1,5 +1,5 @@
 {
-  "max_id": "1857290325085835264",
+  "max_id": "1857430776837238789",
   "events": [
     {
       "id": "1854436136735399936",
@@ -420,6 +420,13 @@
       "message": "wyfwys 2025-05-09 08:15:33.928162|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Radeon RX 590 Series (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|wyfwys||2d12ce|6e0a41 ",
       "generated_at": "2025-05-09T04:15:42-04:00",
       "source_id": 14332639141
+    },
+    {
+      "id": "1857430776837238789",
+      "program": "SDBENCHMARK",
+      "message": "skywind0082 2025-05-09 17:33:41.181958|25.09 / 31.22 / 34.85|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.27842-SP0 python:3.10.11|torch:2.8.0.dev20250419+cu128 xformers:0.0.22.post7+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver: 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:二次元\\【动漫风格】_juaner-宫崎骏吉卜力工作室风格 flux_v2.0.safetensors [12baf979b7] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|skywind0082||bc7edb|04a359 ",
+      "generated_at": "2025-05-09T13:33:47-04:00",
+      "source_id": 14332827419
     }
   ]
 }
