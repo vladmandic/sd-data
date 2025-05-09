@@ -1,5 +1,5 @@
 {
-  "max_id": "1857187159874920449",
+  "max_id": "1857290325085835264",
   "events": [
     {
       "id": "1854436136735399936",
@@ -399,6 +399,27 @@
       "message": "Ich 2025-05-08 19:24:52.536978|12.88 / 13.31 / 14.93 / 15.82 / 16.06|app:stable-diffusion-webui-forge updated:2025-05-01 hash:d3573962 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:576.02 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\illu\\moefussuionillxl_iiz.safetensors vae:none width:512 height:512|Ich|b|c67709|5d3121 ",
       "generated_at": "2025-05-08T15:25:44-04:00",
       "source_id": 14332470511
+    },
+    {
+      "id": "1857203476115939336",
+      "program": "SDBENCHMARK",
+      "message": "mschwaer 2025-05-02 17:32:34.935678|5.64 / 0.3 / 0.52|app:sdnext updated:2025-04-28 hash:341cbd9d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) A770 Graphics (dGPU) openvino:2025.1.0 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernaut-xl_v9_rundiffusionphoto_v2 [c9e3e68f89] vae:none width:512 height:512|mschwaer||36d82a|aed909 ",
+      "generated_at": "2025-05-08T16:30:37-04:00",
+      "source_id": 14332507846
+    },
+    {
+      "id": "1857203476115939342",
+      "program": "SDBENCHMARK",
+      "message": "mschwaer 2025-05-08 20:28:49.641149|1.75 / 2.49 / 3.85|app:sdnext updated:2025-04-28 hash:341cbd9d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernaut-xl_v9_rundiffusionphoto_v2 [c9e3e68f89] vae:none width:512 height:512|mschwaer||f91016|835bc4 ",
+      "generated_at": "2025-05-08T16:30:37-04:00",
+      "source_id": 14332507846
+    },
+    {
+      "id": "1857290325085835264",
+      "program": "SDBENCHMARK",
+      "message": "wyfwys 2025-05-09 08:15:33.928162|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Radeon RX 590 Series (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|wyfwys||2d12ce|6e0a41 ",
+      "generated_at": "2025-05-09T04:15:42-04:00",
+      "source_id": 14332639141
     }
   ]
 }
