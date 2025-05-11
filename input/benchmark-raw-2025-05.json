@@ -1,5 +1,5 @@
 {
-  "max_id": "1858089689651802114",
+  "max_id": "1858162640313053194",
   "events": [
     {
       "id": "1854436136735399936",
@@ -539,6 +539,27 @@
       "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
       "generated_at": "2025-05-11T04:12:33-04:00",
       "source_id": 14333663933
+    },
+    {
+      "id": "1858162202314469389",
+      "program": "SDBENCHMARK",
+      "message": "itrasta 2025-05-11 12:55:19.289742|2.35 / 0.48 / 0.48|app:sdnext updated:2025-05-06 hash:9141e060 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|itras||56f5c4|5f1037 ",
+      "generated_at": "2025-05-11T09:00:53-04:00",
+      "source_id": 14333746903
+    },
+    {
+      "id": "1858162634277449745",
+      "program": "SDBENCHMARK",
+      "message": "itrasta 2025-05-11 12:55:19.289742|2.35 / 0.48 / 0.48|app:sdnext updated:2025-05-06 hash:9141e060 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|itras||56f5c4|5f1037 ",
+      "generated_at": "2025-05-11T09:02:36-04:00",
+      "source_id": 14333746903
+    },
+    {
+      "id": "1858162640313053194",
+      "program": "SDBENCHMARK",
+      "message": "itrasta 2025-05-11 12:55:19.289742|2.35 / 0.48 / 0.48|app:sdnext updated:2025-05-06 hash:9141e060 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|itras||56f5c4|5f1037 ",
+      "generated_at": "2025-05-11T09:02:38-04:00",
+      "source_id": 14333746903
     }
   ]
 }
