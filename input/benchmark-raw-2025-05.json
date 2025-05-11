@@ -1,5 +1,5 @@
 {
-  "max_id": "1858162640313053194",
+  "max_id": "1858250810404818944",
   "events": [
     {
       "id": "1854436136735399936",
@@ -560,6 +560,20 @@
       "message": "itrasta 2025-05-11 12:55:19.289742|2.35 / 0.48 / 0.48|app:sdnext updated:2025-05-06 hash:9141e060 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|itras||56f5c4|5f1037 ",
       "generated_at": "2025-05-11T09:02:38-04:00",
       "source_id": 14333746903
+    },
+    {
+      "id": "1858242049220997122",
+      "program": "SDBENCHMARK",
+      "message": "1 2025-05-11 23:17:21.530245|error / error / error|updated:2023-07-11 hash:f865d3e1 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.20 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8800 6GB|xformers medvram|cosfMix-v2.safetensors [1e173497ce]|1||94d690|cb4653 ",
+      "generated_at": "2025-05-11T19:17:29-04:00",
+      "source_id": 14333840237
+    },
+    {
+      "id": "1858250810404818944",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-05-11 11:50:38.153447|1.96 / 1.96 / 2.03|app:SD.next updated:2025-05-06 hash:9141e060 url:https://github.com/vladmandic/automatic/tree/master|arch:arm64 cpu:arm system:Darwin release:24.4.0 python:3.10.11|torch:2.7.0 xformers: diffusers:0.34.0.dev0 transformers:4.51.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v90alt1 [3c821dfb24] vae:none width:512 height:512|root||42374e|3252fe ",
+      "generated_at": "2025-05-11T07:52:20-04:00",
+      "source_id": 14333848709
     }
   ]
 }
