@@ -1,5 +1,5 @@
 {
-  "max_id": "1857869484166144002",
+  "max_id": "1858089689651802114",
   "events": [
     {
       "id": "1854436136735399936",
@@ -497,6 +497,48 @@
       "message": "warri 2024-11-06 06:20:06.141623|error / error / error||arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.21.4 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:565.90 12GB|Automatic none|v1-5-pruned-emaonly.safetensors [6ce0161689]|warri||a74d02|c1664a ",
       "generated_at": "2025-05-10T06:37:04-04:00",
       "source_id": 14333421616
+    },
+    {
+      "id": "1858088450285301766",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:07:37-04:00",
+      "source_id": 14333663933
+    },
+    {
+      "id": "1858088495776722945",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:07:48-04:00",
+      "source_id": 14333663933
+    },
+    {
+      "id": "1858088507164258309",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:07:51-04:00",
+      "source_id": 14333663933
+    },
+    {
+      "id": "1858088510851051537",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:07:51-04:00",
+      "source_id": 14333663933
+    },
+    {
+      "id": "1858089678771777542",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:12:30-04:00",
+      "source_id": 14333663933
+    },
+    {
+      "id": "1858089689651802114",
+      "program": "SDBENCHMARK",
+      "message": "Core 2025-05-11 08:05:57.864788|1.96 / 2.08 / 2.17|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 62 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd15\\rvision\\v51\\realisticvisionv51_v51vae.safetensors [15012c538f] vae:automatic width:512 height:512|Core||998993|66801d ",
+      "generated_at": "2025-05-11T04:12:33-04:00",
+      "source_id": 14333663933
     }
   ]
 }
