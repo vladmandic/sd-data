@@ -1,5 +1,5 @@
 {
-  "max_id": "1858350703953756165",
+  "max_id": "1858722654597595149",
   "events": [
     {
       "id": "1854436136735399936",
@@ -595,6 +595,34 @@
       "message": "12276 2025-05-12 06:28:46.405715|8.46 / 9.36 / 10.43|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.28 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v120.safetensors [89cb4ec0a9] vae:automatic width:512 height:512|12276||538466|29ed5a ",
       "generated_at": "2025-05-12T02:29:16-04:00",
       "source_id": 14333962503
+    },
+    {
+      "id": "1858722654593400837",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-05-22 12:26:20.079191|5.64 / 6.34 / 6.98|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:552.22 12GB|Automatic none|绪儿-写实 帅哥美女模型_御姐脸V2.safetensors [eaa0bb415a]|竹林清风||f52a64|8605ec ",
+      "generated_at": "2025-05-13T03:07:16-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1858722654593400839",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-12-27 18:51:23.381299|4.74 / 5.86 / 5.83|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.36 12GB|Automatic none|我喜爱的模型二十二_vvv.safetensors [5a2ab8fad1]|竹林清风||2cc50a|9d582d ",
+      "generated_at": "2025-05-13T03:07:16-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1858722654597595137",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-03-28 14:08:14.641431|4.82 / 5.37 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||459a8e|92f133 ",
+      "generated_at": "2025-05-13T03:07:16-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1858722654597595149",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-05-13 07:06:27.578308|3.98 / 4.33 / 4.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.28 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||123e90|8efc23 ",
+      "generated_at": "2025-05-13T03:07:16-04:00",
+      "source_id": 14334513636
     }
   ]
 }
