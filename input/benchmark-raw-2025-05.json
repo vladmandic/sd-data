@@ -1,5 +1,5 @@
 {
-  "max_id": "1858722654597595149",
+  "max_id": "1858919334123073537",
   "events": [
     {
       "id": "1854436136735399936",
@@ -623,6 +623,27 @@
       "message": "竹林清风 2025-05-13 07:06:27.578308|3.98 / 4.33 / 4.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.28 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||123e90|8efc23 ",
       "generated_at": "2025-05-13T03:07:16-04:00",
       "source_id": 14334513636
+    },
+    {
+      "id": "1858837290210738195",
+      "program": "SDBENCHMARK",
+      "message": "josem 2025-05-13 07:28:18.633771|0.31 / 0.34 / 0.35|app:sdnext.git updated:2025-05-13 hash:95fa636f url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 11GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:deep-cache dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:realvisxlv50_v50lightningbakedvae [fabcadd933] vae:none width:512 height:512|josem||1ee623|5834bf ",
+      "generated_at": "2025-05-13T04:42:46-04:00",
+      "source_id": 14334671994
+    },
+    {
+      "id": "1858919325608636437",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-13 20:07:03.922425|9.48 / 9.86 / 10.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||901759|a49252 ",
+      "generated_at": "2025-05-13T16:08:46-04:00",
+      "source_id": 14334796381
+    },
+    {
+      "id": "1858919334123073537",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-13 20:07:03.922425|9.48 / 9.86 / 10.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||901759|a49252 ",
+      "generated_at": "2025-05-13T16:08:48-04:00",
+      "source_id": 14334796381
     }
   ]
 }
