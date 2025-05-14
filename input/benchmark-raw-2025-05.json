@@ -1,5 +1,5 @@
 {
-  "max_id": "1859183613489364999",
+  "max_id": "1859369519827578880",
   "events": [
     {
       "id": "1854436136735399936",
@@ -658,6 +658,62 @@
       "message": "Charcoal 2025-05-14 15:38:03.690841|3.04 / 4.07 / 5.19|app:sdnext updated:2025-05-14 hash:8330052d url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.28 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:xl\\juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|Charcoal||734ed0|e2677a ",
       "generated_at": "2025-05-14T11:38:57-04:00",
       "source_id": 14335201500
+    },
+    {
+      "id": "1859296503781310474",
+      "program": "SDBENCHMARK",
+      "message": "clm 2025-05-14 21:06:16.013674|15.16 / 16.68 / 17.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|clm||ab304c|215a2e ",
+      "generated_at": "2025-05-14T17:07:34-04:00",
+      "source_id": 14335376731
+    },
+    {
+      "id": "1859296524094324737",
+      "program": "SDBENCHMARK",
+      "message": "clm 2025-05-14 21:06:16.013674|15.16 / 16.68 / 17.94|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|clm||ab304c|215a2e ",
+      "generated_at": "2025-05-14T17:07:39-04:00",
+      "source_id": 14335376731
+    },
+    {
+      "id": "1859334121386598400",
+      "program": "SDBENCHMARK",
+      "message": "yair 2025-05-14 08:35:56.009000|2.52 / 3.45 / 3.94|app:sdnext.git updated:2025-05-14 hash:f52aec36 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v70 [04ba0dfcc1] vae:none width:512 height:512|yair||9e5627|9c1e91 ",
+      "generated_at": "2025-05-14T04:37:01-04:00",
+      "source_id": 14335444161
+    },
+    {
+      "id": "1859357351593820165",
+      "program": "SDBENCHMARK",
+      "message": "guanyue 2025-05-15 01:08:25.798637|15.14 / 17.12 / 18.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.40 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|guanyue||0197a2|54cb72 ",
+      "generated_at": "2025-05-14T21:09:17-04:00",
+      "source_id": 14335483245
+    },
+    {
+      "id": "1859357473308327936",
+      "program": "SDBENCHMARK",
+      "message": "guanyue 2025-05-15 01:08:25.798637|15.14 / 17.12 / 18.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.40 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|guanyue||0197a2|54cb72 ",
+      "generated_at": "2025-05-14T21:09:47-04:00",
+      "source_id": 14335483245
+    },
+    {
+      "id": "1859364390961344520",
+      "program": "SDBENCHMARK",
+      "message": "chobo 2025-05-14 22:36:38.281638|6.86 / 7.53 / 8.46|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|chobo||f80df3|b7f839 ",
+      "generated_at": "2025-05-14T18:37:18-04:00",
+      "source_id": 14335493913
+    },
+    {
+      "id": "1859369519823384580",
+      "program": "SDBENCHMARK",
+      "message": "chobo 2025-05-14 22:55:49.928479|8.77 / 9.67 / 10.78|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|chobo||301e78|f56936 ",
+      "generated_at": "2025-05-14T18:57:41-04:00",
+      "source_id": 14335493913
+    },
+    {
+      "id": "1859369519827578880",
+      "program": "SDBENCHMARK",
+      "message": "chobo 2025-05-14 22:44:12.683413|6.98 / 7.55 / 8.19|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:572.83 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|chobo||f80df3|1d3d4b ",
+      "generated_at": "2025-05-14T18:57:41-04:00",
+      "source_id": 14335493913
     }
   ]
 }
