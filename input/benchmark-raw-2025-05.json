@@ -1,5 +1,5 @@
 {
-  "max_id": "1858919334123073537",
+  "max_id": "1859112924468199427",
   "events": [
     {
       "id": "1854436136735399936",
@@ -644,6 +644,13 @@
       "message": "Administrator 2025-05-13 20:07:03.922425|9.48 / 9.86 / 10.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||901759|a49252 ",
       "generated_at": "2025-05-13T16:08:48-04:00",
       "source_id": 14334796381
+    },
+    {
+      "id": "1859035782887690243",
+      "program": "SDBENCHMARK",
+      "message": "purgen 2025-05-14 00:49:38.807175|2.56 / 1.32 / 1.41|app:sdnext.git updated:2025-05-13 hash:95fa636f url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-25-generic python:3.12.3|torch:2.7.0+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6900 XT (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:novafurryxl_illustriousv7b [631e9e1a8e] vae:none width:512 height:512|purgen||f68ba5|a106d7 ",
+      "generated_at": "2025-05-13T20:51:32-04:00",
+      "source_id": 14334987359
     }
   ]
 }
