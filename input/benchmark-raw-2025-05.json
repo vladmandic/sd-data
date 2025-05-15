@@ -1,5 +1,5 @@
 {
-  "max_id": "1859405722920607747",
+  "max_id": "1859697872371638287",
   "events": [
     {
       "id": "1854436136735399936",
@@ -735,6 +735,13 @@
       "message": "joshs 2025-05-14 13:14:42.866210|0.66|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.28 8GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:bigasp_v20.safetensors [6c77be501b] vae:automatic width:512 height:512|joshs||071d0c|2b4d44 ",
       "generated_at": "2025-05-14T09:21:33-04:00",
       "source_id": 14335548639
+    },
+    {
+      "id": "1859697872371638287",
+      "program": "SDBENCHMARK",
+      "message": "brod044 2025-05-15 15:41:48.007273|3.17 / 5.19 / 7.75|app:sdnext updated:2025-05-13 hash:95fa636f url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA RTX A4000 (1) (compute_120) (8, 6) cuda:12.8 cudnn:90701 driver:550.163.01 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticponyv10 [8f79fac053] vae:none width:512 height:512|brod044||39754c|8dae91 ",
+      "generated_at": "2025-05-15T11:42:26-04:00",
+      "source_id": 14336036491
     }
   ]
 }
