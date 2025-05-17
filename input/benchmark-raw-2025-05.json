@@ -1,5 +1,5 @@
 {
-  "max_id": "1860337658727952386",
+  "max_id": "1860443582918488072",
   "events": [
     {
       "id": "1854436136735399936",
@@ -917,6 +917,34 @@
       "message": "rosom 2025-05-17 12:03:26.610917|10.69 / 11.74 / 12.27|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.02 12GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|rosom||b04a51|e88de5 ",
       "generated_at": "2025-05-17T08:04:44-04:00",
       "source_id": 14336984098
+    },
+    {
+      "id": "1860378514709200902",
+      "program": "SDBENCHMARK",
+      "message": "Sergey004 2025-05-17 16:45:54.309661|3.29 / 5.05 / 7.74|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.6.87.1-microsoft-standard-WSL2 python:3.11.11|torch:2.6.0+cu126 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:576.40 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ilust/hassakuxlillustrious_v13stylea [79408e8b5a] vae:sdxl.vae.safetensors width:512 height:512|Sergey004||63c293|1c8a2c ",
+      "generated_at": "2025-05-17T12:47:05-04:00",
+      "source_id": 14337027040
+    },
+    {
+      "id": "1860381978667433984",
+      "program": "SDBENCHMARK",
+      "message": "jeffk 2025-05-17 15:00:11.688920|7.15 / 9.59 / 10.98|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.0-rc6 python:3.11.10|torch:2.5.1+rocm6.2 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon Graphics (1) hip:6.2.41133-dd7f95766 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pony/onlyporn_onlypornsdxlpony [cb3df0f999] vae:none width:512 height:512|jeffk||3addb1|a9aa33 ",
+      "generated_at": "2025-05-17T11:00:50-04:00",
+      "source_id": 14337030354
+    },
+    {
+      "id": "1860443569500909582",
+      "program": "SDBENCHMARK",
+      "message": "Elysia 2025-05-18 01:04:53.674397|3.87 / 4.75 / 6.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 8GB|Automatic medvram-sdxl|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|Elysia||280a0c|e75fb1 ",
+      "generated_at": "2025-05-17T21:05:34-04:00",
+      "source_id": 14337114230
+    },
+    {
+      "id": "1860443582918488072",
+      "program": "SDBENCHMARK",
+      "message": "Elysia 2025-05-18 01:04:53.674397|3.87 / 4.75 / 6.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 8GB|Automatic medvram-sdxl|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|Elysia||280a0c|e75fb1 ",
+      "generated_at": "2025-05-17T21:05:37-04:00",
+      "source_id": 14337114230
     }
   ]
 }
