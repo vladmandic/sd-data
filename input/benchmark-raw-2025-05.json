@@ -1,5 +1,5 @@
 {
-  "max_id": "1860151454589964294",
+  "max_id": "1860337658727952386",
   "events": [
     {
       "id": "1854436136735399936",
@@ -896,6 +896,27 @@
       "message": "竹林清风 2025-05-17 05:43:22.416301|4.91 / 5.33 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:macc-平面模特_v2.0.safetensors [a57d93930a] vae:automatic width:512 height:512|竹林清风||bbcbfb|1410b8 ",
       "generated_at": "2025-05-17T01:44:49-04:00",
       "source_id": 14334513636
+    },
+    {
+      "id": "1860318273887985666",
+      "program": "SDBENCHMARK",
+      "message": "anonymous 2025-05-17 04:38:36.302154|0.3 / 0.31 / 0.32|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6750 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver:NVIDIA-SMI has failed because you are not:  \ta) running as an administrator or  \tb) there is not at least one TCC device in the system 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:sdxl\\cyberrealisticxl_v57 [49e4f2939a] vae:none width:1024 height:1024|anonymous||ae1326|9304c0 ",
+      "generated_at": "2025-05-17T00:47:41-04:00",
+      "source_id": 14336964169
+    },
+    {
+      "id": "1860337658727952385",
+      "program": "SDBENCHMARK",
+      "message": "rosom 2024-04-18 16:04:21.355658|8.58 / 12.44 / 13.23 / 12.96 / 12.54|app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers: transformers:4.25.1|device:NVIDIA GeForce RTX 4070 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:546.65 12GB|Automatic none|stuffyMixXL_v10.safetensors [e030bf78dd]|rosom||8d34eb|5c1f57 ",
+      "generated_at": "2025-05-17T08:04:44-04:00",
+      "source_id": 14336984098
+    },
+    {
+      "id": "1860337658727952386",
+      "program": "SDBENCHMARK",
+      "message": "rosom 2025-05-17 12:03:26.610917|10.69 / 11.74 / 12.27|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.32.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.02 12GB|Automatic none|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|rosom||b04a51|e88de5 ",
+      "generated_at": "2025-05-17T08:04:44-04:00",
+      "source_id": 14336984098
     }
   ]
 }
