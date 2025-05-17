@@ -1,5 +1,5 @@
 {
-  "max_id": "1860071621944078344",
+  "max_id": "1860151454589964294",
   "events": [
     {
       "id": "1854436136735399936",
@@ -805,6 +805,97 @@
       "message": "Pei-Hua 2025-05-17 00:26:17.485634|0.24|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:photographeralpha7_v3 vae:photographeralpha7_v10.vae.safetensors width:512 height:512|Pei-Hua||9e9f12|bafac1 ",
       "generated_at": "2025-05-16T20:27:36-04:00",
       "source_id": 14336630935
+    },
+    {
+      "id": "1860100433469693963",
+      "program": "SDBENCHMARK",
+      "message": "aliantplay 2025-05-16 21:16:10.372918|1.45 / 1.77 / 2.12 / 2.15 / 1.68|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.07 16GB|pipeline:a1111 crossattention:Automatic flags:medvram,medvram-sdxl compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:sd\\ponyrealism_v22.safetensors [7c97ecf786] vae:none width:512 height:756|aliantplay||56cfc5|65c61a ",
+      "generated_at": "2025-05-16T17:22:04-04:00",
+      "source_id": 14336680977
+    },
+    {
+      "id": "1860101988604370953",
+      "program": "SDBENCHMARK",
+      "message": "nikit 2025-05-16 21:16:10.372918|1.45 / 1.77 / 2.12 / 2.15 / 1.68|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.07 16GB|pipeline:a1111 crossattention:Automatic flags:medvram,medvram-sdxl compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:sd\\ponyrealism_v22.safetensors [7c97ecf786] vae:none width:512 height:756|aliantplay||56cfc5|65c61a ",
+      "generated_at": "2025-05-16T17:28:15-04:00",
+      "source_id": 14336680977
+    },
+    {
+      "id": "1860101988604370957",
+      "program": "SDBENCHMARK",
+      "message": "nikit 2025-05-16 21:24:38.815354|1.8 / 3.18 / 4.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:566.07 16GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd\\ponyrealism_v22.safetensors [7c97ecf786] vae:none width:512 height:512|nikit||3ccadb|11903f ",
+      "generated_at": "2025-05-16T17:28:15-04:00",
+      "source_id": 14336680977
+    },
+    {
+      "id": "1860151393722224647",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-05-22 12:26:20.079191|5.64 / 6.34 / 6.98|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:552.22 12GB|Automatic none|绪儿-写实 帅哥美女模型_御姐脸V2.safetensors [eaa0bb415a]|竹林清风||f52a64|8605ec ",
+      "generated_at": "2025-05-17T01:44:34-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151393722224651",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-12-27 18:51:23.381299|4.74 / 5.86 / 5.83|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.36 12GB|Automatic none|我喜爱的模型二十二_vvv.safetensors [5a2ab8fad1]|竹林清风||2cc50a|9d582d ",
+      "generated_at": "2025-05-17T01:44:34-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151393722224652",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-03-28 14:08:14.641431|4.82 / 5.37 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||459a8e|92f133 ",
+      "generated_at": "2025-05-17T01:44:34-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151393726418944",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-05-13 07:06:27.578308|3.98 / 4.33 / 4.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.28 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||123e90|8efc23 ",
+      "generated_at": "2025-05-17T01:44:34-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151393726418946",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-05-17 05:43:22.416301|4.91 / 5.33 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:macc-平面模特_v2.0.safetensors [a57d93930a] vae:automatic width:512 height:512|竹林清风||bbcbfb|1410b8 ",
+      "generated_at": "2025-05-17T01:44:34-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151454585769988",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-05-22 12:26:20.079191|5.64 / 6.34 / 6.98|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:552.22 12GB|Automatic none|绪儿-写实 帅哥美女模型_御姐脸V2.safetensors [eaa0bb415a]|竹林清风||f52a64|8605ec ",
+      "generated_at": "2025-05-17T01:44:49-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151454585769992",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2024-12-27 18:51:23.381299|4.74 / 5.86 / 5.83|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.36 12GB|Automatic none|我喜爱的模型二十二_vvv.safetensors [5a2ab8fad1]|竹林清风||2cc50a|9d582d ",
+      "generated_at": "2025-05-17T01:44:49-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151454589964291",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-05-13 07:06:27.578308|3.98 / 4.33 / 4.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.28 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||123e90|8efc23 ",
+      "generated_at": "2025-05-17T01:44:49-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151454589964292",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-03-28 14:08:14.641431|4.82 / 5.37 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:572.83 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:纯净质感—真人写实极品女神_1.0.safetensors [301b4f6a69] vae:automatic width:512 height:512|竹林清风||459a8e|92f133 ",
+      "generated_at": "2025-05-17T01:44:49-04:00",
+      "source_id": 14334513636
+    },
+    {
+      "id": "1860151454589964294",
+      "program": "SDBENCHMARK",
+      "message": "竹林清风 2025-05-17 05:43:22.416301|4.91 / 5.33 / 5.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 xformers:0.0.25.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:macc-平面模特_v2.0.safetensors [a57d93930a] vae:automatic width:512 height:512|竹林清风||bbcbfb|1410b8 ",
+      "generated_at": "2025-05-17T01:44:49-04:00",
+      "source_id": 14334513636
     }
   ]
 }
