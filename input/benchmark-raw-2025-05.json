@@ -1,5 +1,5 @@
 {
-  "max_id": "1860443582918488072",
+  "max_id": "1860507262980902914",
   "events": [
     {
       "id": "1854436136735399936",
@@ -945,6 +945,27 @@
       "message": "Elysia 2025-05-18 01:04:53.674397|3.87 / 4.75 / 6.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 8GB|Automatic medvram-sdxl|waiNSFWIllustrious_v120.safetensors [89cb4ec0a9]|Elysia||280a0c|e75fb1 ",
       "generated_at": "2025-05-17T21:05:37-04:00",
       "source_id": 14337114230
+    },
+    {
+      "id": "1860491041594068999",
+      "program": "SDBENCHMARK",
+      "message": "non 2025-05-17 22:13:06.157657|9.5 / 10.43 / 10.91 / 10.49 / 9.93|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.40 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v120.safetensors [89cb4ec0a9] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|non||60987a|525ae2 ",
+      "generated_at": "2025-05-17T18:14:14-04:00",
+      "source_id": 14336984098
+    },
+    {
+      "id": "1860500170379284488",
+      "program": "SDBENCHMARK",
+      "message": "jamescarroll 2025-05-17 22:48:44.901529|1.89 / 1.78 / 2.03|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:24.4.0 python:3.10.17|torch:2.3.1 xformers: diffusers:0.31.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:none width:512 height:512|jamescarroll||befe3e|26ee8d ",
+      "generated_at": "2025-05-17T18:50:29-04:00",
+      "source_id": 14337180610
+    },
+    {
+      "id": "1860507262980902914",
+      "program": "SDBENCHMARK",
+      "message": "oliver 2025-05-17 22:16:22.365658|1.48 / 1.79 / 1.7|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-25-generic python:3.10.17|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1080 Ti (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:550.163.01 11GB|pipeline:a1111 crossattention:xformers flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:uberrealisticpornmergeponyxl_ponyxlhybridv1.safetensors [604e194baf] vae:automatic width:512 height:512|oliver||4727dd|235538 ",
+      "generated_at": "2025-05-17T18:18:40-04:00",
+      "source_id": 14337189499
     }
   ]
 }
