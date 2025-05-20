@@ -1,5 +1,5 @@
 {
-  "max_id": "1861414392697118726",
+  "max_id": "1861538733485113352",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1015,6 +1015,20 @@
       "message": "KAIRON 2025-05-20 12:21:46.909006|3.64 / 5.38 / 7.34|app:SD.next updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:donutsdeliverymixv4_v41 [b476ef1094] vae:sdxl.vae.safetensors width:512 height:512|KAIRON|intel arc b580|cc311c|504ac4 ",
       "generated_at": "2025-05-20T08:23:15-04:00",
       "source_id": 14338390487
+    },
+    {
+      "id": "1861484167070662705",
+      "program": "SDBENCHMARK",
+      "message": "Jonny 2025-05-20 14:50:12.214019|1.48 / 1.94 / 2.17|app:sdnext.git updated:2025-05-18 hash:2b824daf url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:illustrious\\unholydesiremixsinister_v50 [91d3a7d8dd] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|Jonny||503053|f8d3ee ",
+      "generated_at": "2025-05-20T11:00:32-04:00",
+      "source_id": 14338497291
+    },
+    {
+      "id": "1861538733485113352",
+      "program": "SDBENCHMARK",
+      "message": "luizr 2025-05-20 19:35:49.615279|8.4 / 8.7 / 9.13||arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.40 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:counterfeit-v3.0.safetensors [db6cd0a62d] vae:none width:512 height:512|luizr||e3116e|2e77ed ",
+      "generated_at": "2025-05-20T15:37:12-04:00",
+      "source_id": 14338596128
     }
   ]
 }
