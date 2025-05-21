@@ -1,5 +1,5 @@
 {
-  "max_id": "1861538733485113352",
+  "max_id": "1861552527158468614",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1029,6 +1029,20 @@
       "message": "luizr 2025-05-20 19:35:49.615279|8.4 / 8.7 / 9.13||arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.40 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:counterfeit-v3.0.safetensors [db6cd0a62d] vae:none width:512 height:512|luizr||e3116e|2e77ed ",
       "generated_at": "2025-05-20T15:37:12-04:00",
       "source_id": 14338596128
+    },
+    {
+      "id": "1861552100773912576",
+      "program": "SDBENCHMARK",
+      "message": "XXX 2025-05-20 21:29:59.587467|error / error / error|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-2025Server-10.0.26100-SP0 python:3.12.9|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:stoiqoafroditefluxxl_xl31 [03757fdcc3] vae:none width:512 height:512|XXX||cf6d01|5cff95 ",
+      "generated_at": "2025-05-20T17:30:29-04:00",
+      "source_id": 14338618416
+    },
+    {
+      "id": "1861552527158468614",
+      "program": "SDBENCHMARK",
+      "message": "XXX 2025-05-20 21:31:52.732631|error / error / error / error / error|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-2025Server-10.0.26100-SP0 python:3.12.9|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:stoiqoafroditefluxxl_xl31 [03757fdcc3] vae:none width:512 height:512|XXX||cf6d01|89240f ",
+      "generated_at": "2025-05-20T17:32:10-04:00",
+      "source_id": 14338618416
     }
   ]
 }
