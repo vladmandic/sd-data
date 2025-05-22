@@ -1,5 +1,5 @@
 {
-  "max_id": "1861750774623817733",
+  "max_id": "1862015054589911044",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1127,6 +1127,41 @@
       "message": "sdcar 2025-05-21 03:38:49.696524|1.91 / 2.3 / 2.56|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousgehenna_v40_1617984 [10a207c7cc] vae:default width:512 height:512|sdcar||899588|a92072 ",
       "generated_at": "2025-05-20T23:39:55-04:00",
       "source_id": 14338906810
+    },
+    {
+      "id": "1861912680147902479",
+      "program": "SDBENCHMARK",
+      "message": "wzk15 2025-05-22 02:22:38.505391|5.34 / 8.98 / 10.52|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponyrealism_v23.safetensors [b4d6dee26f] vae:none width:512 height:512|wzk15||53bfb9|093cc7 ",
+      "generated_at": "2025-05-21T22:23:14-04:00",
+      "source_id": 14339179907
+    },
+    {
+      "id": "1861912683872436231",
+      "program": "SDBENCHMARK",
+      "message": "wzk15 2025-05-22 02:22:38.505391|5.34 / 8.98 / 10.52|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 7900 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponyrealism_v23.safetensors [b4d6dee26f] vae:none width:512 height:512|wzk15||53bfb9|093cc7 ",
+      "generated_at": "2025-05-21T22:23:16-04:00",
+      "source_id": 14339179907
+    },
+    {
+      "id": "1862006024379228168",
+      "program": "SDBENCHMARK",
+      "message": "dnmor 2025-05-21 20:25:10.208966|3.69 / 7.11 / 13.57|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu128.nv xformers:0.0.27.post2+cu118 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.40 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hosekilustrousmix_illustriousv1.safetensors [35c7d75822] vae:automatic width:512 height:512|dnmor||db3348|2fea5c ",
+      "generated_at": "2025-05-21T16:34:13-04:00",
+      "source_id": 14339336289
+    },
+    {
+      "id": "1862012340678090760",
+      "program": "SDBENCHMARK",
+      "message": "dnmor 2025-05-21 20:38:19.238475|3.68 / 6.73 / 13.55 / 19.95 / 19.33 / 19.43 / 20.02|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu128.nv xformers:0.0.27.post2+cu118 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.40 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hosekilustrousmix_illustriousv1.safetensors [35c7d75822] vae:automatic width:512 height:512|dnmor||db3348|5e562d ",
+      "generated_at": "2025-05-21T16:59:19-04:00",
+      "source_id": 14339336289
+    },
+    {
+      "id": "1862015054589911044",
+      "program": "SDBENCHMARK",
+      "message": "dnmor 2025-05-21 21:09:38.708576|3.96 / 7.78 / 15.03|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu128.nv xformers:0.0.27.post2+cu118 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.40 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hosekilustrousmix_illustriousv1.safetensors [35c7d75822] vae:automatic width:512 height:512|dnmor||db3348|f2e03a ",
+      "generated_at": "2025-05-21T17:10:06-04:00",
+      "source_id": 14339336289
     }
   ]
 }
