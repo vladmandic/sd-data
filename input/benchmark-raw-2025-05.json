@@ -1,5 +1,5 @@
 {
-  "max_id": "1862015814891397161",
+  "max_id": "1862122058566262784",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1169,6 +1169,13 @@
       "message": "dnmor 2025-05-21 21:12:10.463908|3.67 / 7.57 / 14.56 / 26.36 / 27.62 / 26.44 / 26.49|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu128.nv xformers:0.0.27.post2+cu118 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.40 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hosekilustrousmix_illustriousv1.safetensors [35c7d75822] vae:automatic width:512 height:512|dnmor||db3348|267db4 ",
       "generated_at": "2025-05-21T17:13:07-04:00",
       "source_id": 14339336289
+    },
+    {
+      "id": "1862122058566262784",
+      "program": "SDBENCHMARK",
+      "message": "Root 2025-05-22 10:07:49.086986|0.43 / 0.51 / 0.46|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:babesillustriousby_v40fp16 [2cde7a2031] vae:none width:1024 height:1024|Root||6c5b74|00890e ",
+      "generated_at": "2025-05-22T06:15:17-04:00",
+      "source_id": 14339498080
     }
   ]
 }
