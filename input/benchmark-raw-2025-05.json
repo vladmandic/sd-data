@@ -1,5 +1,5 @@
 {
-  "max_id": "1862767572513120256",
+  "max_id": "1862985308342239239",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1211,6 +1211,20 @@
       "message": "yaoni 2025-05-24 10:58:39.575803|1.32 / 1.46 / 1.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P106-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:576.40 6GB|Automatic medvram|control_v11e_sd15_shuffle_fp16.safetensors [8cc77ae071]|yaoni||c6c6ca|315970 ",
       "generated_at": "2025-05-24T07:00:23-04:00",
       "source_id": 14340526653
+    },
+    {
+      "id": "1862939933350744074",
+      "program": "SDBENCHMARK",
+      "message": "Skycodee 2025-05-24 16:24:04.745136|4.38 / 5.65 / 6.03|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:flarediffusion_v11 [2f2983122e] vae:none width:512 height:512|Skycodee||8b5459|55d0f1 ",
+      "generated_at": "2025-05-24T12:25:17-04:00",
+      "source_id": 14340749231
+    },
+    {
+      "id": "1862985308342239239",
+      "program": "SDBENCHMARK",
+      "message": "Administartor 2024-06-15 00:48:55.704421|1.05 / 1.44 / 1.62|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 5GB (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:555.99 5GB|xformers medvram|feathermix_v35.safetensors [cb9803b520]|Administartor||0fea34|547ce1 ",
+      "generated_at": "2025-05-24T21:25:32-04:00",
+      "source_id": 14340805618
     }
   ]
 }
