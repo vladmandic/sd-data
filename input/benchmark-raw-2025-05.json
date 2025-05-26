@@ -1,5 +1,5 @@
 {
-  "max_id": "1863433356902064132",
+  "max_id": "1863623717725335576",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1246,6 +1246,13 @@
       "message": "vector 2025-05-26 02:00:38.200071|0.64 / 0.71 / 0.76|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 112 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:automatic width:512 height:512|vector||1fca45|5cd0d6 ",
       "generated_at": "2025-05-25T22:06:02-04:00",
       "source_id": 14341338244
+    },
+    {
+      "id": "1863623717725335576",
+      "program": "SDBENCHMARK",
+      "message": "john_ 2025-05-26 12:41:57.865689|error / error / error||arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pimpmypony_v10.safetensors [6bca697735] vae:automatic width:512 height:512|john_||dbcb60|f8273e ",
+      "generated_at": "2025-05-26T08:42:21-04:00",
+      "source_id": 14341585448
     }
   ]
 }
