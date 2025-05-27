@@ -1,5 +1,5 @@
 {
-  "max_id": "1863846700507123722",
+  "max_id": "1863995956744343564",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1274,6 +1274,34 @@
       "message": "XXX 2025-05-27 05:27:41.833055|3.25 / 3.66 / 5.47|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-2025Server-10.0.26100-SP0 python:3.12.9|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:jibmixrealisticxl_v170smokesheen [116f9a06f3] vae:none width:512 height:512|XXX||cf6d01|487fdb ",
       "generated_at": "2025-05-27T01:28:24-04:00",
       "source_id": 14338618416
+    },
+    {
+      "id": "1863992402189139983",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-05-27T16:07:20-04:00",
+      "source_id": 14342100589
+    },
+    {
+      "id": "1863995942697619456",
+      "program": "SDBENCHMARK",
+      "message": "62593 2025-05-27 20:20:54.920274|19.53 / 21.66 / 22.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|62593||20e873|9a500f ",
+      "generated_at": "2025-05-27T16:21:26-04:00",
+      "source_id": 14342107668
+    },
+    {
+      "id": "1863995952541650954",
+      "program": "SDBENCHMARK",
+      "message": "62593 2025-05-27 20:20:54.920274|19.53 / 21.66 / 22.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|62593||20e873|9a500f ",
+      "generated_at": "2025-05-27T16:21:28-04:00",
+      "source_id": 14342107668
+    },
+    {
+      "id": "1863995956744343564",
+      "program": "SDBENCHMARK",
+      "message": "62593 2025-05-27 20:20:54.920274|19.53 / 21.66 / 22.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|62593||20e873|9a500f ",
+      "generated_at": "2025-05-27T16:21:29-04:00",
+      "source_id": 14342107668
     }
   ]
 }
