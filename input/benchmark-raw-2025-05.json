@@ -1,5 +1,5 @@
 {
-  "max_id": "1863995956744343564",
+  "max_id": "1864351661917655041",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1302,6 +1302,20 @@
       "message": "62593 2025-05-27 20:20:54.920274|19.53 / 21.66 / 22.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|62593||20e873|9a500f ",
       "generated_at": "2025-05-27T16:21:29-04:00",
       "source_id": 14342107668
+    },
+    {
+      "id": "1864276351402557443",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-28 14:53:43.993070|9.52 / 13.0 / 14.12|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:animation\\animaginexlv31_v31.safetensors [e3c47aedb0] vae:sdxl_vae.safetensors_sdxl_vae.safetensors width:512 height:512|Administrator||4fd183|135ebd ",
+      "generated_at": "2025-05-28T10:55:40-04:00",
+      "source_id": 14342550189
+    },
+    {
+      "id": "1864351661917655041",
+      "program": "SDBENCHMARK",
+      "message": "VOLTER 2025-05-28 20:54:10.862629|10.72 / 18.29 / 23.13 / 25.1 / 23.41|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.8|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 24GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v110.safetensors [c3688ee04c] vae:sdxl_vae.safetensors width:512 height:512|VOLTER||967705|5c8ea5 ",
+      "generated_at": "2025-05-28T16:54:56-04:00",
+      "source_id": 14342672036
     }
   ]
 }
