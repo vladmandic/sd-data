@@ -1,5 +1,5 @@
 {
-  "max_id": "1864443802861879320",
+  "max_id": "1864457395439333400",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1337,6 +1337,13 @@
       "message": "My 2025-05-29 02:59:35.859751|3.48 / 4.94 / 5.83|app:SD.next updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|My||5c4d9d|8de396 ",
       "generated_at": "2025-05-28T23:01:04-04:00",
       "source_id": 14342839617
+    },
+    {
+      "id": "1864457395439333400",
+      "program": "SDBENCHMARK",
+      "message": "sh0ck0r 2025-05-28 13:52:03.672027|6.77 / 12.54 / 15.09 / 16.15 / 17.29|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.1.0-37-amd64 python:3.11.2|torch:2.7.0+cu126 xformers:0.0.31.dev1033 diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA A30 (1) (sm_90) (8, 0) cuda:12.6 cudnn:90501 driver:575.51.03 575.51.03 24GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:none width:512 height:512|sh0ck0r||ee9437|e6fb0b ",
+      "generated_at": "2025-05-28T09:55:05-04:00",
+      "source_id": 14342867385
     }
   ]
 }
