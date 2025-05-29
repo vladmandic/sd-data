@@ -1,5 +1,5 @@
 {
-  "max_id": "1864457395439333400",
+  "max_id": "1864601002032947201",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1344,6 +1344,13 @@
       "message": "sh0ck0r 2025-05-28 13:52:03.672027|6.77 / 12.54 / 15.09 / 16.15 / 17.29|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.1.0-37-amd64 python:3.11.2|torch:2.7.0+cu126 xformers:0.0.31.dev1033 diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA A30 (1) (sm_90) (8, 0) cuda:12.6 cudnn:90501 driver:575.51.03 575.51.03 24GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:none width:512 height:512|sh0ck0r||ee9437|e6fb0b ",
       "generated_at": "2025-05-28T09:55:05-04:00",
       "source_id": 14342867385
+    },
+    {
+      "id": "1864601002032947201",
+      "program": "SDBENCHMARK",
+      "message": "ayder 2025-05-29 01:20:12.138125|0.3 / 0.63 / 0.81|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1650 (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:576.52 4GB|pipeline:a1111 crossattention:Automatic flags:lowvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:epicrealism_naturalsin.safetensors [bff4610d23] vae:automatic width:512 height:512|ayder||ea83d5|634a26 ",
+      "generated_at": "2025-05-28T21:25:42-04:00",
+      "source_id": 14343085105
     }
   ]
 }
