@@ -1,5 +1,5 @@
 {
-  "max_id": "1864800663704354816",
+  "max_id": "1864905695485415427",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1435,6 +1435,13 @@
       "message": "xqsx4 2025-05-30 01:36:45.155588|29.75 / 39.55 / 46.98|app:stable-diffusion-webui.git updated:2025-03-05 hash:374bb6cc url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 32GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|xqsx4||835f79|e17823 ",
       "generated_at": "2025-05-29T21:39:06-04:00",
       "source_id": 14343426144
+    },
+    {
+      "id": "1864905695485415427",
+      "program": "SDBENCHMARK",
+      "message": "abc 2025-05-29 17:35:57.354881|3.5 / 6.8 / 10.71|app:SD.next updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.24-Unraid python:3.11.10|torch:2.2.2+cu121 Autocast half xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA RTX A6000 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:570.144 47GB|Scaled-Dot-Product medvram|juggernautXL_v9Rundiffusionphoto2 [c9e3e68f89]|abc||4d3729|9cf2e3 ",
+      "generated_at": "2025-05-29T13:36:28-04:00",
+      "source_id": 14343594180
     }
   ]
 }
