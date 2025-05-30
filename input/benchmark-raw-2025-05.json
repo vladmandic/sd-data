@@ -1,5 +1,5 @@
 {
-  "max_id": "1864905695485415427",
+  "max_id": "1864925546627133447",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1442,6 +1442,34 @@
       "message": "abc 2025-05-29 17:35:57.354881|3.5 / 6.8 / 10.71|app:SD.next updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.24-Unraid python:3.11.10|torch:2.2.2+cu121 Autocast half xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA RTX A6000 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:570.144 47GB|Scaled-Dot-Product medvram|juggernautXL_v9Rundiffusionphoto2 [c9e3e68f89]|abc||4d3729|9cf2e3 ",
       "generated_at": "2025-05-29T13:36:28-04:00",
       "source_id": 14343594180
+    },
+    {
+      "id": "1864925511965405185",
+      "program": "SDBENCHMARK",
+      "message": "chwh4 2025-05-30 09:54:16.380147|9.13 / 9.57 / 9.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 8GB|Automatic medvram-sdxl|稳定现实_Version1.0.safetensors [7d29045c41]|chwh4||bdfda0|e0827b ",
+      "generated_at": "2025-05-30T05:55:13-04:00",
+      "source_id": 14343616030
+    },
+    {
+      "id": "1864925521129959430",
+      "program": "SDBENCHMARK",
+      "message": "chwh4 2025-05-30 09:54:16.380147|9.13 / 9.57 / 9.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 8GB|Automatic medvram-sdxl|稳定现实_Version1.0.safetensors [7d29045c41]|chwh4||bdfda0|e0827b ",
+      "generated_at": "2025-05-30T05:55:15-04:00",
+      "source_id": 14343616030
+    },
+    {
+      "id": "1864925543514959881",
+      "program": "SDBENCHMARK",
+      "message": "chwh4 2025-05-30 09:54:16.380147|9.13 / 9.57 / 9.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 8GB|Automatic medvram-sdxl|稳定现实_Version1.0.safetensors [7d29045c41]|chwh4||bdfda0|e0827b ",
+      "generated_at": "2025-05-30T05:55:21-04:00",
+      "source_id": 14343616030
+    },
+    {
+      "id": "1864925546627133447",
+      "program": "SDBENCHMARK",
+      "message": "chwh4 2025-05-30 09:54:16.380147|9.13 / 9.57 / 9.81|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:565.90 8GB|Automatic medvram-sdxl|稳定现实_Version1.0.safetensors [7d29045c41]|chwh4||bdfda0|e0827b ",
+      "generated_at": "2025-05-30T05:55:21-04:00",
+      "source_id": 14343616030
     }
   ]
 }
