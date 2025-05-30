@@ -1,5 +1,5 @@
 {
-  "max_id": "1865060556818538496",
+  "max_id": "1865158203122311172",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1484,6 +1484,20 @@
       "message": "liutyi 2025-05-30 10:48:14.320511|0.88 / 0.91 / 0.96|app:sdnext.git updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/segmind/segmoe-sd-4x2-v0 [7a7d12be30] vae:none width:512 height:512|root||be5041|15d647 ",
       "generated_at": "2025-05-30T06:51:50-04:00",
       "source_id": 14343821890
+    },
+    {
+      "id": "1865158187385282594",
+      "program": "SDBENCHMARK",
+      "message": "aeral 2025-05-30 20:19:29.094624|error / error / error||arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.28 4GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:deneysel nürtlerekefret.safetensors vae:automatic width:1024 height:1024|aeral||acf068|133e39 ",
+      "generated_at": "2025-05-30T16:19:47-04:00",
+      "source_id": 14343985378
+    },
+    {
+      "id": "1865158203122311172",
+      "program": "SDBENCHMARK",
+      "message": "aeral 2025-05-30 20:19:29.094624|error / error / error||arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.28 4GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:deneysel nürtlerekefret.safetensors vae:automatic width:1024 height:1024|aeral||acf068|133e39 ",
+      "generated_at": "2025-05-30T16:19:50-04:00",
+      "source_id": 14343985378
     }
   ]
 }
