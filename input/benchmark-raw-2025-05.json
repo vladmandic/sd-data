@@ -1,5 +1,5 @@
 {
-  "max_id": "1865414663412568074",
+  "max_id": "1865471708195110922",
   "events": [
     {
       "id": "1854436136735399936",
@@ -1547,6 +1547,20 @@
       "message": "liu 2025-05-31 18:16:44.418209|1.53 / 1.39 / 1.4|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.0+cu118 autocast nohalf xformers:0.0.26.post1+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver: 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|liu||b2e8c7|3d05f5 ",
       "generated_at": "2025-05-31T14:18:55-04:00",
       "source_id": 14344324578
+    },
+    {
+      "id": "1865450512053358600",
+      "program": "SDBENCHMARK",
+      "message": "ASUS 2025-05-31 20:40:24.717274|3.98 / 5.87 / 6.16|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|ASUS||fc2b61|a8024c ",
+      "generated_at": "2025-05-31T16:41:21-04:00",
+      "source_id": 14344371112
+    },
+    {
+      "id": "1865471708195110922",
+      "program": "SDBENCHMARK",
+      "message": "tobing 2025-05-31 21:05:05.342233|8.16 / 10.42 / 11.48|app:sdnext.git updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.10|torch:2.7.0a0+git3f903c3 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7800 XT (1) hip:6.5.25205-c1c2abe52 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:diffusers\\lykon/dreamshaper-8 [a7e52b9868] vae:none width:512 height:512|tobing||f0bac7|f0bdea ",
+      "generated_at": "2025-05-31T17:05:35-04:00",
+      "source_id": 14344292264
     }
   ]
 }
