@@ -1,4 +1,26 @@
 {
-  "max_id": "1865600195073593349",
-  "events": []
+  "max_id": "1865855121230057483",
+  "events": [
+    {
+      "id": "1865832784992591881",
+      "program": "SDBENCHMARK",
+      "message": "Root 2025-06-01 15:59:28.731919|1.79 / 3.03 / 3.42|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:cudagraphs dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:atomixillustrious_v10 [92c2705ceb] vae:none width:512 height:512|Root||dadffd|8235bd ",
+      "generated_at": "2025-06-01T12:00:23-04:00",
+      "source_id": 14344858000
+    },
+    {
+      "id": "1865839243692269569",
+      "program": "SDBENCHMARK",
+      "message": "Mr.YCYMC 2025-06-01 22:25:06.636073|2.07 / 3.07 / 3.71|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 141 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|WAI-二元PonyXL_2.0.safetensors [9f63ccdd74]|Mr.YCYMC||8a149d|ef9c46 ",
+      "generated_at": "2025-06-01T18:26:03-04:00",
+      "source_id": 14344867727
+    },
+    {
+      "id": "1865855121230057483",
+      "program": "SDBENCHMARK",
+      "message": "ostrich 2025-06-01 10:27:21.433497|7.26 / 1.42 / 1.5|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.14.9-zen1-1-zen python:3.12.10|torch:2.7.0+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7900 XTX (1) hip:6.3.42131-fa1d09cbd 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:willysnoobrealism_hdv20 [b0eb6a056d] vae:none width:512 height:512|ostrich||b6c394|0d5851 ",
+      "generated_at": "2025-06-01T06:29:09-04:00",
+      "source_id": 14344891162
+    }
+  ]
 }
