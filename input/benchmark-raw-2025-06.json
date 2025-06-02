@@ -1,5 +1,5 @@
 {
-  "max_id": "1866088022882308109",
+  "max_id": "1866214986473459714",
   "events": [
     {
       "id": "1865832784992591881",
@@ -35,6 +35,41 @@
       "message": "Diana 2025-06-02 02:54:00.381105|7.5 / 13.6 / 18.2|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 5090 (2) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.28  576.28 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectillustriousxl_v15 [2bb6bbee58] vae:automatic width:512 height:512|Diana||e7ff5c|0ae8a1 ",
       "generated_at": "2025-06-01T22:54:37-04:00",
       "source_id": 14345180246
+    },
+    {
+      "id": "1866174461196292117",
+      "program": "SDBENCHMARK",
+      "message": "baybora 2025-06-02 15:37:15.177495|2.93 / 3.57 / 4.16|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.31.dev1033 diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v110 [8ffda79382] vae:sdxl_vae.safetensors width:1024 height:1024|msx||a1375e|37d97d ",
+      "generated_at": "2025-06-02T11:38:04-04:00",
+      "source_id": 14345319982
+    },
+    {
+      "id": "1866174474454487055",
+      "program": "SDBENCHMARK",
+      "message": "baybora 2025-06-02 15:37:15.177495|2.93 / 3.57 / 4.16|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.31.dev1033 diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v110 [8ffda79382] vae:sdxl_vae.safetensors width:1024 height:1024|msx||a1375e|37d97d ",
+      "generated_at": "2025-06-02T11:38:08-04:00",
+      "source_id": 14345319982
+    },
+    {
+      "id": "1866203618491953157",
+      "program": "SDBENCHMARK",
+      "message": "Sxy007 2025-06-02 22:33:49.747659|12.37 / 14.94 / 16.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:richyrichmixixl_v1fp16.safetensors [2365dd1b2d] vae:sdxl_vae.safetensors width:512 height:512|Sxy007||414381|d24aa1 ",
+      "generated_at": "2025-06-02T18:34:06-04:00",
+      "source_id": 14345370082
+    },
+    {
+      "id": "1866203626125586478",
+      "program": "SDBENCHMARK",
+      "message": "Sxy007 2025-06-02 22:33:49.747659|12.37 / 14.94 / 16.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:richyrichmixixl_v1fp16.safetensors [2365dd1b2d] vae:sdxl_vae.safetensors width:512 height:512|Sxy007||414381|d24aa1 ",
+      "generated_at": "2025-06-02T18:34:07-04:00",
+      "source_id": 14345370082
+    },
+    {
+      "id": "1866214986473459714",
+      "program": "SDBENCHMARK",
+      "message": "Bujakka 2025-06-02 17:18:53.356003|error / error / error|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:HunyuanVideoPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:512 height:512|Bujakka||165fc8|6cce1f ",
+      "generated_at": "2025-06-02T13:19:11-04:00",
+      "source_id": 14345392835
     }
   ]
 }
