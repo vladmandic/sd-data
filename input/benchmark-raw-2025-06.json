@@ -1,5 +1,5 @@
 {
-  "max_id": "1866396252351164420",
+  "max_id": "1866527983209209861",
   "events": [
     {
       "id": "1865832784992591881",
@@ -140,6 +140,34 @@
       "message": "zhen yue 2025-06-03 11:18:35.935036|6.96 / 7.39 / 7.74|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.52 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|zhen yue||9e7c2f|d20523 ",
       "generated_at": "2025-06-03T07:19:25-04:00",
       "source_id": 14345680144
+    },
+    {
+      "id": "1866492555982716928",
+      "program": "SDBENCHMARK",
+      "message": "adamc 2025-06-03 19:04:42.650948|0.19 / 0.09 / 0.09|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 142 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce MX150 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8801 driver:576.40 2GB|pipeline:a1111 crossattention:Automatic flags:lowvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:realisticvisionv6.safetensors [ef76aa2332] vae:automatic width:512 height:512|adamc||22d796|5b5f90 ",
+      "generated_at": "2025-06-03T15:42:05-04:00",
+      "source_id": 14345828458
+    },
+    {
+      "id": "1866498188484198402",
+      "program": "SDBENCHMARK",
+      "message": "1 2025-06-03 19:04:00.544107|25.59 / 35.58 / 40.31|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.27.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.52 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:(m7)mera.safetensors [78fe6599fa] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|1||76b5b5|5df003 ",
+      "generated_at": "2025-06-03T15:04:28-04:00",
+      "source_id": 14345837967
+    },
+    {
+      "id": "1866498188484198405",
+      "program": "SDBENCHMARK",
+      "message": "1 2025-06-03 19:00:45.433215|19.95 / 23.52 / 27.1|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers:0.27.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.52 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:(m7)mera.safetensors [78fe6599fa] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|1||41a535|95a6cf ",
+      "generated_at": "2025-06-03T15:04:28-04:00",
+      "source_id": 14345837967
+    },
+    {
+      "id": "1866527983209209861",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-03 12:01:47.226083|4.36 / 6.16 / 7.68|app:sdnext.git updated:2025-06-02 hash:3ca9f29c url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.6.87.1-microsoft-standard-WSL2 python:3.11.12|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:NVIDIA GeForce RTX 5060 Ti (1) (compute_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 vae:none width:512 height:512|root||c1e4c2|19d775 ",
+      "generated_at": "2025-06-03T08:02:50-04:00",
+      "source_id": 14345886252
     }
   ]
 }
