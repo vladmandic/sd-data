@@ -1,5 +1,5 @@
 {
-  "max_id": "1866214986473459714",
+  "max_id": "1866263881492652036",
   "events": [
     {
       "id": "1865832784992591881",
@@ -70,6 +70,48 @@
       "message": "Bujakka 2025-06-02 17:18:53.356003|error / error / error|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:HunyuanVideoPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:512 height:512|Bujakka||165fc8|6cce1f ",
       "generated_at": "2025-06-02T13:19:11-04:00",
       "source_id": 14345392835
+    },
+    {
+      "id": "1866263770171629568",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-01-25 07:56:33.549532|9.75 / 10.41 / 10.46 / 10.51 / 10.21 / 10.28 / 10.38|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\realisticvisionv60b1_v51vae.ckpt [392def60e4] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|User||c5efd5|fa88d8 ",
+      "generated_at": "2025-06-02T21:32:58-04:00",
+      "source_id": 14345482538
+    },
+    {
+      "id": "1866263770171629569",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-02-16 20:07:57.883404|5.61|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\realisticvisionv60b1_v51vae.ckpt [392def60e4] vae:automatic width:1024 height:1024|User||80f079|207bf8 ",
+      "generated_at": "2025-06-02T21:32:58-04:00",
+      "source_id": 14345482538
+    },
+    {
+      "id": "1866263770171629570",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-06-03 01:32:35.725715|14.98 / 19.63 / 23.56|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.52 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd\\juggernautxl_juggxibyrundiffusion.safetensors [33e58e8668] vae:automatic width:512 height:512|User||bbabbd|6d91cf ",
+      "generated_at": "2025-06-02T21:32:58-04:00",
+      "source_id": 14345482538
+    },
+    {
+      "id": "1866263881492652034",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-01-25 07:56:33.549532|9.75 / 10.41 / 10.46 / 10.51 / 10.21 / 10.28 / 10.38|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\realisticvisionv60b1_v51vae.ckpt [392def60e4] vae:vae-ft-mse-840000-ema-pruned.ckpt width:512 height:512|User||c5efd5|fa88d8 ",
+      "generated_at": "2025-06-02T21:33:24-04:00",
+      "source_id": 14345482538
+    },
+    {
+      "id": "1866263881492652035",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-02-16 20:07:57.883404|5.61|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\realisticvisionv60b1_v51vae.ckpt [392def60e4] vae:automatic width:1024 height:1024|User||80f079|207bf8 ",
+      "generated_at": "2025-06-02T21:33:24-04:00",
+      "source_id": 14345482538
+    },
+    {
+      "id": "1866263881492652036",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-06-03 01:33:17.141811|15.25 / 20.75 / 24.98|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:576.52 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd\\juggernautxl_juggxibyrundiffusion.safetensors [33e58e8668] vae:automatic width:512 height:512|User||bbabbd|653631 ",
+      "generated_at": "2025-06-02T21:33:24-04:00",
+      "source_id": 14345482538
     }
   ]
 }
