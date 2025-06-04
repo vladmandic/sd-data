@@ -1,5 +1,5 @@
 {
-  "max_id": "1866885922176548869",
+  "max_id": "1866959753633259527",
   "events": [
     {
       "id": "1865832784992591881",
@@ -196,6 +196,34 @@
       "message": "NITRAM 2025-06-04 11:32:56.929517|1.19 / 1.2 / 1.18|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-1029-azure python:3.10.12|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Tesla T4 (1) (compute_120) (7, 5) cuda:12.8 cudnn:90701 driver:550.54.14 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/stabilityai/stable-diffusion-2-1-base [5ede9e4bf3] vae:none width:512 height:512|martin||f2d44b|5044fb ",
       "generated_at": "2025-06-04T07:45:11-04:00",
       "source_id": 14346452760
+    },
+    {
+      "id": "1866911052499959838",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-04 13:24:15.089932|9.5 / 18.53 / 36.37 / 66.75 / 100.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:4.4.0 python:3.10.15|torch:2.7.0+cu128 autocast half xformers:0.0.31.dev1033 diffusers: transformers:4.30.2|GPU 设备:NVIDIA B200 (1) (compute_120) (10, 0) cuda:12.8 cudnn:90701 driver:570.86.15 0GB|Doggettx none|waiNSFWIllustrious_v140.safetensors [bdb59bac77]|root|B200 GPU! 测试By BiliBili Nyan9。180GB VRAM|c9bf91|bd5b25 ",
+      "generated_at": "2025-06-04T09:25:02-04:00",
+      "source_id": 14346501367
+    },
+    {
+      "id": "1866911571314405381",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-04 13:26:35.922725|19.87 / 38.94 / 73.76 / 110.61 / 127.05|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:4.4.0 python:3.10.15|torch:2.7.0+cu128 autocast half xformers:0.0.31.dev1033 diffusers: transformers:4.30.2|GPU 设备:NVIDIA B200 (1) (compute_120) (10, 0) cuda:12.8 cudnn:90701 driver:570.86.15 0GB|sdp none|waiNSFWIllustrious_v140.safetensors [bdb59bac77]|root|B200 GPU! 测试By BiliBili Nyan9。180GB VRAM。sdp attention优化|32a701|d82bf9 ",
+      "generated_at": "2025-06-04T09:27:06-04:00",
+      "source_id": 14346501367
+    },
+    {
+      "id": "1866911571318591496",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-04 13:24:15.089932|9.5 / 18.53 / 36.37 / 66.75 / 100.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:4.4.0 python:3.10.15|torch:2.7.0+cu128 autocast half xformers:0.0.31.dev1033 diffusers: transformers:4.30.2|GPU 设备:NVIDIA B200 (1) (compute_120) (10, 0) cuda:12.8 cudnn:90701 driver:570.86.15 0GB|Doggettx none|waiNSFWIllustrious_v140.safetensors [bdb59bac77]|root|B200 GPU! 测试By BiliBili Nyan9。180GB VRAM|c9bf91|bd5b25 ",
+      "generated_at": "2025-06-04T09:27:06-04:00",
+      "source_id": 14346501367
+    },
+    {
+      "id": "1866959753633259527",
+      "program": "SDBENCHMARK",
+      "message": "eugene 2025-06-04 21:32:34.837293|0.42 / 0.43 / 0.45|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.5.0 python:3.11.13|torch:2.7.0 xformers: diffusers:0.34.0.dev0 transformers:4.52.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:lyriel_v15 [4d91c4c217] vae:none width:512 height:512|eugene||0cc57c|cc3d95 ",
+      "generated_at": "2025-06-04T17:38:34-04:00",
+      "source_id": 14346591431
     }
   ]
 }
