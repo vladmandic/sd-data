@@ -1,5 +1,5 @@
 {
-  "max_id": "1866959753633259527",
+  "max_id": "1867445486206775305",
   "events": [
     {
       "id": "1865832784992591881",
@@ -224,6 +224,62 @@
       "message": "eugene 2025-06-04 21:32:34.837293|0.42 / 0.43 / 0.45|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.5.0 python:3.11.13|torch:2.7.0 xformers: diffusers:0.34.0.dev0 transformers:4.52.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:lyriel_v15 [4d91c4c217] vae:none width:512 height:512|eugene||0cc57c|cc3d95 ",
       "generated_at": "2025-06-04T17:38:34-04:00",
       "source_id": 14346591431
+    },
+    {
+      "id": "1867266124069134337",
+      "program": "SDBENCHMARK",
+      "message": "15659 2025-06-05 20:54:53.570842|9.86 / 11.06 / 12.0|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:sd1.5\\wainsfwillustrious_v140.safetensors [bdb59bac77] vae:automatic width:512 height:512|15659||2d7df5|0847ce ",
+      "generated_at": "2025-06-05T16:55:28-04:00",
+      "source_id": 14347059241
+    },
+    {
+      "id": "1867286471040487465",
+      "program": "SDBENCHMARK",
+      "message": "lilo 2023-06-24 10:41:48.863959|11.1 / 12.45 / 14.05|updated:2023-06-05 hash:baf6946e url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.17 accelerate:0.18.0 transformers:4.25.1|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:11.8 cudnn:8700 15GB|xformers none|HD-22.ckpt [a05d076a39]|lilo||75086d|0948bd ",
+      "generated_at": "2025-06-05T18:16:49-04:00",
+      "source_id": 14347095429
+    },
+    {
+      "id": "1867335876942684164",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-16 23:02:54.331488|4.72 / 5.99 / 7.02|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|4050魔改，572.83驱动更快，576.02驱动满载50w减速，576.40开机黑屏，576系列grd，sd驱动全是debuff|e81c66|124f60 ",
+      "generated_at": "2025-06-05T21:33:44-04:00",
+      "source_id": 14347179169
+    },
+    {
+      "id": "1867335876951072768",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-17 03:05:03.895986|3.56 / 4.06 / 3.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||615088|92cc6d ",
+      "generated_at": "2025-06-05T21:33:44-04:00",
+      "source_id": 14347179169
+    },
+    {
+      "id": "1867335876955267075",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-17 11:33:48.125585|3.2 / 4.13 / 4.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||dec0a2|8e74ba ",
+      "generated_at": "2025-06-05T21:33:44-04:00",
+      "source_id": 14347179169
+    },
+    {
+      "id": "1867335876955267076",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-24 20:15:30.010373|6.98 / 7.65 / 7.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||2e29a0|6aa516 ",
+      "generated_at": "2025-06-05T21:33:44-04:00",
+      "source_id": 14347179169
+    },
+    {
+      "id": "1867335876963655689",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-06-06 01:33:20.338334|9.2 / 16.24 / 18.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors vae:automatic width:512 height:512|Administrator||b931ba|f3a7ae ",
+      "generated_at": "2025-06-05T21:33:44-04:00",
+      "source_id": 14347179169
+    },
+    {
+      "id": "1867445486206775305",
+      "program": "SDBENCHMARK",
+      "message": "miche 2025-06-05 21:46:52.004133|0.52 / 3.56 / 3.0|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon RX 7600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|miche||3b7e77|06b154 ",
+      "generated_at": "2025-06-05T17:48:41-04:00",
+      "source_id": 14347351684
     }
   ]
 }
