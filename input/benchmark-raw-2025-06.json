@@ -1,5 +1,5 @@
 {
-  "max_id": "1868133999050940431",
+  "max_id": "1868236129204092944",
   "events": [
     {
       "id": "1865832784992591881",
@@ -350,6 +350,83 @@
       "message": "frede 2025-06-08 00:23:43.064339|9.42 / 9.11 / 10.1|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:NVIDIA GeForce RTX 3070 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.40 8GB|pipeline:original crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:LatentDiffusion model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|frede||561f50|fc6712 ",
       "generated_at": "2025-06-07T20:24:36-04:00",
       "source_id": 14348286862
+    },
+    {
+      "id": "1868196082186641433",
+      "program": "SDBENCHMARK",
+      "message": "11134 2025-06-08 10:29:01.721870|15.63 / 17.67 / 18.5|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|11134||5cf011|649c46 ",
+      "generated_at": "2025-06-08T06:31:19-04:00",
+      "source_id": 14348350593
+    },
+    {
+      "id": "1868196094698250240",
+      "program": "SDBENCHMARK",
+      "message": "11134 2025-06-08 10:29:01.721870|15.63 / 17.67 / 18.5|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|11134||5cf011|649c46 ",
+      "generated_at": "2025-06-08T06:31:22-04:00",
+      "source_id": 14348350593
+    },
+    {
+      "id": "1868218708804165635",
+      "program": "SDBENCHMARK",
+      "message": "Yao 2025-06-08 11:39:15.518740|11.69 / 12.67 / 12.64|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Yao||6fa03a|931597 ",
+      "generated_at": "2025-06-08T08:01:01-04:00",
+      "source_id": 14348371419
+    },
+    {
+      "id": "1868218728349622276",
+      "program": "SDBENCHMARK",
+      "message": "Yao 2025-06-08 11:39:15.518740|11.69 / 12.67 / 12.64|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Yao||6fa03a|931597 ",
+      "generated_at": "2025-06-08T08:01:05-04:00",
+      "source_id": 14348371419
+    },
+    {
+      "id": "1868231935722176523",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 04:52:58.359954|6.7 / 5.71 / 7.53|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_7_sd1.5 [ed989d673d] vae:none width:512 height:512|root||fd139e|130f54 ",
+      "generated_at": "2025-06-08T00:53:45-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868231935722184734",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 04:47:16.523961|6.41 / 5.34 / 6.71|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Split attention flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_7_sd1.5 [ed989d673d] vae:none width:512 height:512|root||ee6a6c|a64cb9 ",
+      "generated_at": "2025-06-08T00:53:45-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868231935722184745",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 04:49:00.121745|6.67 / 5.67 / 7.52|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Batch matrix-matrix flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_7_sd1.5 [ed989d673d] vae:none width:512 height:512|root||95b455|d26a57 ",
+      "generated_at": "2025-06-08T00:53:45-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868233667252506624",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 05:00:07.567333|6.83 / 8.25 / 9.2|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly [92954befdb] vae:none width:512 height:512|root||fd139e|3bb03b ",
+      "generated_at": "2025-06-08T01:00:38-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868233667307028493",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 04:47:16.523961|6.41 / 5.34 / 6.71|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Split attention flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_7_sd1.5 [ed989d673d] vae:none width:512 height:512|root||ee6a6c|a64cb9 ",
+      "generated_at": "2025-06-08T01:00:38-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868233667315425282",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-08 04:49:00.121745|6.67 / 5.67 / 7.52|app:sdnext.git updated:2025-06-03 hash:894e15d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.6-1-default python:3.10.12|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (2) ipex:2.7.10+xpu 16GB|pipeline:native crossattention:Batch matrix-matrix flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_7_sd1.5 [ed989d673d] vae:none width:512 height:512|root||95b455|d26a57 ",
+      "generated_at": "2025-06-08T01:00:38-04:00",
+      "source_id": 14348384623
+    },
+    {
+      "id": "1868236129204092944",
+      "program": "SDBENCHMARK",
+      "message": "tnaka 2025-06-08 14:09:16.944065|2.1 / 2.77 / 4.32|app:sdnext.git updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 120 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.18|torch:2.7.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:automatic width:512 height:512|tnaka||8a8c1a|879e7a ",
+      "generated_at": "2025-06-08T10:10:24-04:00",
+      "source_id": 14348389695
     }
   ]
 }
