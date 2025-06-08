@@ -1,5 +1,5 @@
 {
-  "max_id": "1867874967673303047",
+  "max_id": "1868133999050940431",
   "events": [
     {
       "id": "1865832784992591881",
@@ -322,6 +322,34 @@
       "message": "Zubasa 2025-06-07 13:14:32.070477|5.95 / 8.19 / 8.56|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:aam xl (anime mix)\\aamxlanimemix_v10halfturboeulera [a5c57d2488] vae:none width:512 height:512|Zubasa||a96b6d|93eed0 ",
       "generated_at": "2025-06-07T09:15:15-04:00",
       "source_id": 14347970085
+    },
+    {
+      "id": "1868093146882306049",
+      "program": "SDBENCHMARK",
+      "message": "austin 2025-06-07 12:31:02.128867|7.39 / 1.14 / 1.3|app:sdnext.git updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.11|torch:2.6.0+rocm6.4.1.git1ded221d xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Radeon RX 7900 XT (1) hip:6.4.43483-a187df25c 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v21mainvae [059934ff58] vae:none width:512 height:512|austin||6ba7e4|021512 ",
+      "generated_at": "2025-06-07T08:42:16-04:00",
+      "source_id": 14348236905
+    },
+    {
+      "id": "1868093214490288130",
+      "program": "SDBENCHMARK",
+      "message": "austin 2025-06-07 12:31:02.128867|7.39 / 1.14 / 1.3|app:sdnext.git updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.11|torch:2.6.0+rocm6.4.1.git1ded221d xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Radeon RX 7900 XT (1) hip:6.4.43483-a187df25c 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v21mainvae [059934ff58] vae:none width:512 height:512|austin||6ba7e4|021512 ",
+      "generated_at": "2025-06-07T08:42:32-04:00",
+      "source_id": 14348236905
+    },
+    {
+      "id": "1868093256898891780",
+      "program": "SDBENCHMARK",
+      "message": "austin 2025-06-07 12:31:02.128867|7.39 / 1.14 / 1.3|app:sdnext.git updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.11|torch:2.6.0+rocm6.4.1.git1ded221d xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Radeon RX 7900 XT (1) hip:6.4.43483-a187df25c 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v21mainvae [059934ff58] vae:none width:512 height:512|austin||6ba7e4|021512 ",
+      "generated_at": "2025-06-07T08:42:42-04:00",
+      "source_id": 14348236905
+    },
+    {
+      "id": "1868133999050940431",
+      "program": "SDBENCHMARK",
+      "message": "frede 2025-06-08 00:23:43.064339|9.42 / 9.11 / 10.1|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:NVIDIA GeForce RTX 3070 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.40 8GB|pipeline:original crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:LatentDiffusion model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|frede||561f50|fc6712 ",
+      "generated_at": "2025-06-07T20:24:36-04:00",
+      "source_id": 14348286862
     }
   ]
 }
