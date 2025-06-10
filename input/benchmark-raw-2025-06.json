@@ -1,5 +1,5 @@
 {
-  "max_id": "1869040635764465680",
+  "max_id": "1869137782023315483",
   "events": [
     {
       "id": "1865832784992591881",
@@ -497,6 +497,41 @@
       "message": "Nj 2025-06-10 03:26:35.222514|3.72 / 5.3 / 5.34|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon RX 6900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v110 [8ffda79382] vae:none width:512 height:512|Nj||f2f6d0|728a28 ",
       "generated_at": "2025-06-09T23:27:12-04:00",
       "source_id": 14349494603
+    },
+    {
+      "id": "1869098660881682438",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-06-10T18:17:48-04:00",
+      "source_id": 14349585208
+    },
+    {
+      "id": "1869098669777801223",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-06-10T18:17:50-04:00",
+      "source_id": 14349585208
+    },
+    {
+      "id": "1869098673091301416",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-06-10T18:17:51-04:00",
+      "source_id": 14349585208
+    },
+    {
+      "id": "1869098677424017429",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-06-10T18:17:52-04:00",
+      "source_id": 14349585208
+    },
+    {
+      "id": "1869137782023315483",
+      "program": "SDBENCHMARK",
+      "message": "user 2025-06-10 19:51:20.349810|0.97 / 1.37 / 1.96|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|user||a4488d|fd127b ",
+      "generated_at": "2025-06-10T15:53:16-04:00",
+      "source_id": 14349655812
     }
   ]
 }
