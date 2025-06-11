@@ -1,5 +1,5 @@
 {
-  "max_id": "1869137782023315483",
+  "max_id": "1869394910898208781",
   "events": [
     {
       "id": "1865832784992591881",
@@ -532,6 +532,48 @@
       "message": "user 2025-06-10 19:51:20.349810|0.97 / 1.37 / 1.96|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.6.0+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|user||a4488d|fd127b ",
       "generated_at": "2025-06-10T15:53:16-04:00",
       "source_id": 14349655812
+    },
+    {
+      "id": "1869352185624715274",
+      "program": "SDBENCHMARK",
+      "message": "Guowc 2025-06-11 14:29:38.458753|0.47 / 0.47 / 0.48|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Guowc||2334ba|bde831 ",
+      "generated_at": "2025-06-11T11:05:13-04:00",
+      "source_id": 14349993427
+    },
+    {
+      "id": "1869386960771149841",
+      "program": "SDBENCHMARK",
+      "message": "isshi 2025-06-11 17:38:31.696147|0.34 / 0.53 / 0.61|app:SD.next updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon 780M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 25GB|pipeline:native crossattention:Scaled-Dot-Product flags:lowvram compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:goddessofrealism_gorponyv2artfixvae [db2578792c] vae:none width:512 height:512|isshi||a94a39|aa1f1e ",
+      "generated_at": "2025-06-11T14:23:25-04:00",
+      "source_id": 14350045862
+    },
+    {
+      "id": "1869394860700790797",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:24:26.613764|0.14 / 0.15 / 0.15|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||76733a|248eb1 ",
+      "generated_at": "2025-06-11T13:54:48-04:00",
+      "source_id": 14350058957
+    },
+    {
+      "id": "1869394860700790798",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:20:17.272365|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 5600 XT (1) (sm_90) (8, 8) cuda:12.4 cudnn:90100 driver: 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||918acd|788189 ",
+      "generated_at": "2025-06-11T13:54:48-04:00",
+      "source_id": 14350058957
+    },
+    {
+      "id": "1869394910898208778",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:24:26.613764|0.14 / 0.15 / 0.15|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||76733a|248eb1 ",
+      "generated_at": "2025-06-11T13:55:01-04:00",
+      "source_id": 14350058957
+    },
+    {
+      "id": "1869394910898208781",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:20:17.272365|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 5600 XT (1) (sm_90) (8, 8) cuda:12.4 cudnn:90100 driver: 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||918acd|788189 ",
+      "generated_at": "2025-06-11T13:55:01-04:00",
+      "source_id": 14350058957
     }
   ]
 }
