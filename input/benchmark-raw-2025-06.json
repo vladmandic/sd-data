@@ -1,5 +1,5 @@
 {
-  "max_id": "1869458235875057669",
+  "max_id": "1869621981192839169",
   "events": [
     {
       "id": "1865832784992591881",
@@ -595,6 +595,20 @@
       "message": "Catnl 2025-06-11 21:46:02.445200|0.98|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 5600 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||9df177|bf933c ",
       "generated_at": "2025-06-11T18:06:39-04:00",
       "source_id": 14350058957
+    },
+    {
+      "id": "1869556832247398411",
+      "program": "SDBENCHMARK",
+      "message": "RobinWood 2025-06-12 02:07:29.589116|7.68 / 9.99 / 13.04|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.5|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:572.60 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestv0.1-artistic [9ca260b31e] vae:automatic width:512 height:512|RobinWood||3c249e|256cd3 ",
+      "generated_at": "2025-06-11T22:08:25-04:00",
+      "source_id": 14350319689
+    },
+    {
+      "id": "1869612100033368075",
+      "program": "SDBENCHMARK",
+      "message": "vega 2025-06-11 17:17:32.867813|3.62 / 13.62 / 15.82|app:stable-diffusion-webui-forge updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.15.2-2-cachyos python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:575.57.08 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/3wolfmondaisdg_v10.safetensors vae:none width:512 height:512|vega||1fe91a|4e0446 ",
+      "generated_at": "2025-06-11T13:18:02-04:00",
+      "source_id": 14350417456
     }
   ]
 }
