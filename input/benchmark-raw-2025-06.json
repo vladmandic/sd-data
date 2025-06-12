@@ -1,5 +1,5 @@
 {
-  "max_id": "1869621981192839169",
+  "max_id": "1869768936292282379",
   "events": [
     {
       "id": "1865832784992591881",
@@ -609,6 +609,13 @@
       "message": "vega 2025-06-11 17:17:32.867813|3.62 / 13.62 / 15.82|app:stable-diffusion-webui-forge updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.15.2-2-cachyos python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:575.57.08 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/3wolfmondaisdg_v10.safetensors vae:none width:512 height:512|vega||1fe91a|4e0446 ",
       "generated_at": "2025-06-11T13:18:02-04:00",
       "source_id": 14350417456
+    },
+    {
+      "id": "1869768936292282379",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-06-12 13:39:06.639907|0.26|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.2.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Radeon RX 570 Series [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Admin||74eeae|4f175f ",
+      "generated_at": "2025-06-12T09:41:16-04:00",
+      "source_id": 14350665594
     }
   ]
 }
