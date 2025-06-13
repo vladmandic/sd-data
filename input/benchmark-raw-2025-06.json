@@ -1,5 +1,5 @@
 {
-  "max_id": "1869768936292282379",
+  "max_id": "1870020155418009635",
   "events": [
     {
       "id": "1865832784992591881",
@@ -616,6 +616,48 @@
       "message": "Admin 2025-06-12 13:39:06.639907|0.26|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.2.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:Radeon RX 570 Series [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|pipeline:native crossattention:Dynamic Attention BMM flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Admin||74eeae|4f175f ",
       "generated_at": "2025-06-12T09:41:16-04:00",
       "source_id": 14350665594
+    },
+    {
+      "id": "1870020155418009625",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-16 23:02:54.331488|4.72 / 5.99 / 7.02|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.02 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator|4050魔改，572.83驱动更快，576.02驱动满载50w减速，576.40开机黑屏，576系列grd，sd驱动全是debuff|e81c66|124f60 ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
+    },
+    {
+      "id": "1870020155418009628",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-17 03:05:03.895986|3.56 / 4.06 / 3.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||615088|92cc6d ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
+    },
+    {
+      "id": "1870020155418009631",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-17 11:33:48.125585|3.2 / 4.13 / 4.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||dec0a2|8e74ba ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
+    },
+    {
+      "id": "1870020155418009632",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-05-24 20:15:30.010373|6.98 / 7.65 / 7.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.52 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||2e29a0|6aa516 ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
+    },
+    {
+      "id": "1870020155418009634",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-06-06 01:33:20.338334|9.2 / 16.24 / 18.6|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22635-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:572.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors vae:automatic width:512 height:512|Administrator||b931ba|f3a7ae ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
+    },
+    {
+      "id": "1870020155418009635",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-06-13 11:19:20.473068|7.72 / 14.37 / 18.64|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (2) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:572.83  572.83 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:ip design _ 3d可爱化模型_v4.0.safetensors [263090ce39] vae:automatic width:512 height:512|Administrator||33adcf|edacec ",
+      "generated_at": "2025-06-13T07:20:51-04:00",
+      "source_id": 14351061068
     }
   ]
 }
