@@ -1,5 +1,5 @@
 {
-  "max_id": "1870020155418009635",
+  "max_id": "1870301641501237256",
   "events": [
     {
       "id": "1865832784992591881",
@@ -658,6 +658,13 @@
       "message": "Administrator 2025-06-13 11:19:20.473068|7.72 / 14.37 / 18.64|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (2) (sm_90) (7, 0) cuda:12.4 cudnn:90100 driver:572.83  572.83 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:ip design _ 3d可爱化模型_v4.0.safetensors [263090ce39] vae:automatic width:512 height:512|Administrator||33adcf|edacec ",
       "generated_at": "2025-06-13T07:20:51-04:00",
       "source_id": 14351061068
+    },
+    {
+      "id": "1870301641501237256",
+      "program": "SDBENCHMARK",
+      "message": "vega 2025-06-13 14:57:14.646225|10.1 / 11.16 / 12.84|app:stable-diffusion-webui-forge updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.15.2-2-cachyos python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:575.57.08 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/3wolfmondaisdg_v10.safetensors vae:none width:512 height:512|vega||1fe91a|6a0d69 ",
+      "generated_at": "2025-06-13T10:58:02-04:00",
+      "source_id": 14350417456
     }
   ]
 }
