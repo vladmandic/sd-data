@@ -1,5 +1,5 @@
 {
-  "max_id": "1870301641501237256",
+  "max_id": "1870505540493430786",
   "events": [
     {
       "id": "1865832784992591881",
@@ -665,6 +665,20 @@
       "message": "vega 2025-06-13 14:57:14.646225|10.1 / 11.16 / 12.84|app:stable-diffusion-webui-forge updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.15.2-2-cachyos python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:575.57.08 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/3wolfmondaisdg_v10.safetensors vae:none width:512 height:512|vega||1fe91a|6a0d69 ",
       "generated_at": "2025-06-13T10:58:02-04:00",
       "source_id": 14350417456
+    },
+    {
+      "id": "1870505540459876363",
+      "program": "SDBENCHMARK",
+      "message": "Pei-Hua 2025-05-17 00:26:17.485634|0.24|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:photographeralpha7_v3 vae:photographeralpha7_v10.vae.safetensors width:512 height:512|Pei-Hua||9e9f12|bafac1 ",
+      "generated_at": "2025-06-14T15:28:12-04:00",
+      "source_id": 14351714848
+    },
+    {
+      "id": "1870505540493430786",
+      "program": "SDBENCHMARK",
+      "message": "Pei-Hua 2025-06-14 19:17:41.085385|0.26 / 0.26 / 0.26|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:darkbystableyogi_v2lcm vae:none width:512 height:512|Pei-Hua||680439|568406 ",
+      "generated_at": "2025-06-14T15:28:12-04:00",
+      "source_id": 14351714848
     }
   ]
 }
