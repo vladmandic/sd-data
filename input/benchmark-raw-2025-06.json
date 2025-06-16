@@ -1,5 +1,5 @@
 {
-  "max_id": "1870930649356099588",
+  "max_id": "1871062707952865284",
   "events": [
     {
       "id": "1865832784992591881",
@@ -798,6 +798,20 @@
       "message": "muche 2025-06-15 23:37:19.459951|12.01 / 17.0 / 18.29|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0.dev20250425+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|muche||6da259|16c8b1 ",
       "generated_at": "2025-06-15T19:37:30-04:00",
       "source_id": 14352231061
+    },
+    {
+      "id": "1871019265835057154",
+      "program": "SDBENCHMARK",
+      "message": "SDNEXT SUCKS 2025-06-15 17:29:40.042845|error / error / error|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:NVIDIA GeForce RTX 4090 (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.66 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:flux_dev vae:automatic width:512 height:512|SDNEXT SUCKS|Fuckin thing sucks|ce4c3d|bfc8b0 ",
+      "generated_at": "2025-06-15T13:29:42-04:00",
+      "source_id": 14352345246
+    },
+    {
+      "id": "1871062707952865284",
+      "program": "SDBENCHMARK",
+      "message": "tom 2025-06-16 02:18:31.174666|5.87 / 0.85 / 1.06|app:sdnext updated:2025-06-15 hash:c74104bb url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.14.9-300.fc42.x86_64 python:3.12.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 7800 XT (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl_v01 [3e15ba0038] vae:none width:512 height:512|tom||311b70|88c045 ",
+      "generated_at": "2025-06-15T22:22:14-04:00",
+      "source_id": 14352411271
     }
   ]
 }
