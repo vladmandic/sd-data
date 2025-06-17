@@ -1,5 +1,5 @@
 {
-  "max_id": "1871602670461173784",
+  "max_id": "1871629687927795713",
   "events": [
     {
       "id": "1865832784992591881",
@@ -952,6 +952,41 @@
       "message": "Catnl 2025-06-11 17:24:26.613764|0.14 / 0.15 / 0.15|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||76733a|248eb1 ",
       "generated_at": "2025-06-17T16:07:52-04:00",
       "source_id": 14350058957
+    },
+    {
+      "id": "1871612547560566803",
+      "program": "SDBENCHMARK",
+      "message": "ECKEROTH 2025-06-17 12:43:50.472412|2.08 / 1.37 / 1.4|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-1015-azure python:3.12.3|torch:2.7.1+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Tesla T4 (1) (compute_120) (7, 5) cuda:12.8 cudnn:90701 driver:575.57.08 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:onediff dtype:torch.float16|pipeline:StableDiffusion3Pipeline model:diffusers/stabilityai/stable-diffusion-3.5-medium [b940f670f0] vae:none width:512 height:512|martin||9fd865|989db1 ",
+      "generated_at": "2025-06-17T08:47:06-04:00",
+      "source_id": 14353277662
+    },
+    {
+      "id": "1871618795966222342",
+      "program": "SDBENCHMARK",
+      "message": "Xen 2025-06-17 14:51:22.122780|0.79 / 0.8 / 0.08|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_120) (6, 1) cuda:12.8 cudnn:90701 driver:576.52 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:realisticvisionv60b1_v51hypervae [f47e942ad4] vae:none width:512 height:512|Xen||cdd15f|816589 ",
+      "generated_at": "2025-06-17T12:11:54-04:00",
+      "source_id": 14353289771
+    },
+    {
+      "id": "1871618897212526606",
+      "program": "SDBENCHMARK",
+      "message": "Xen 2025-06-17 14:51:22.122780|0.79 / 0.8 / 0.08|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_120) (6, 1) cuda:12.8 cudnn:90701 driver:576.52 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:realisticvisionv60b1_v51hypervae [f47e942ad4] vae:none width:512 height:512|Xen||cdd15f|816589 ",
+      "generated_at": "2025-06-17T12:12:19-04:00",
+      "source_id": 14353289771
+    },
+    {
+      "id": "1871629681493733382",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-06-17 21:54:50.407340|9.01 / 9.58 / 9.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||eba386|9a0f1b ",
+      "generated_at": "2025-06-17T17:55:13-04:00",
+      "source_id": 14353310229
+    },
+    {
+      "id": "1871629687927795713",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-06-17 21:54:50.407340|9.01 / 9.58 / 9.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||eba386|9a0f1b ",
+      "generated_at": "2025-06-17T17:55:14-04:00",
+      "source_id": 14353310229
     }
   ]
 }
