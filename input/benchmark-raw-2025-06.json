@@ -1,5 +1,5 @@
 {
-  "max_id": "1871330140487860230",
+  "max_id": "1871510037164388361",
   "events": [
     {
       "id": "1865832784992591881",
@@ -882,6 +882,20 @@
       "message": "ralph 2025-06-16 23:34:23.077957|error / error / error|app:stable-diffusion-webui-forge updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:546.30 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:sd\\playground-v2.5-1024px-aesthetic.fp16.safetensors vae:none width:512 height:512|ralph||3dfcc1|e8efca ",
       "generated_at": "2025-06-16T19:34:55-04:00",
       "source_id": 14352832178
+    },
+    {
+      "id": "1871438569009246215",
+      "program": "SDBENCHMARK",
+      "message": "braxt 2025-06-16 20:14:34.254957|5.84 / 7.65 / 9.56|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.27871-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:waianinsfwponyxl_v130 [bfa96353b7] vae:none width:512 height:512|braxt||269431|4d4003 ",
+      "generated_at": "2025-06-16T16:15:45-04:00",
+      "source_id": 14353016371
+    },
+    {
+      "id": "1871510037164388361",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-17 06:59:22.014385|16.5 / 18.06 / 19.77|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-27-generic python:3.10.12|torch:2.6.0+cu124 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:570.153.02 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentInpaintDiffusion model:sd-v1-5-inpainting.ckpt [c6bbc15e32] vae:automatic width:512 height:512|root||aa08ec|476ec1 ",
+      "generated_at": "2025-06-17T02:59:46-04:00",
+      "source_id": 14353114353
     }
   ]
 }
