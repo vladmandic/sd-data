@@ -1,5 +1,5 @@
 {
-  "max_id": "1871510037164388361",
+  "max_id": "1871602670461173784",
   "events": [
     {
       "id": "1865832784992591881",
@@ -896,6 +896,62 @@
       "message": "root 2025-06-17 06:59:22.014385|16.5 / 18.06 / 19.77|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/HEAD|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-27-generic python:3.10.12|torch:2.6.0+cu124 xformers:0.0.29.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:570.153.02 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentInpaintDiffusion model:sd-v1-5-inpainting.ckpt [c6bbc15e32] vae:automatic width:512 height:512|root||aa08ec|476ec1 ",
       "generated_at": "2025-06-17T02:59:46-04:00",
       "source_id": 14353114353
+    },
+    {
+      "id": "1871524659284066304",
+      "program": "SDBENCHMARK",
+      "message": "BigAMD 2025-06-17 13:45:43.097211|0.46 / 0.48 / 0.5 / 0.51 / 0.52|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|abyssorangemix3AOM3_aom3a1b.safetensors|BigAMD||109854|bae6e1 ",
+      "generated_at": "2025-06-17T10:57:50-04:00",
+      "source_id": 14353142272
+    },
+    {
+      "id": "1871543454484590593",
+      "program": "SDBENCHMARK",
+      "message": "BigAMD 2025-06-17 15:51:37.187879|0.46 / 0.47 / 0.49 / 0.5 / 0.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|BigAMD||109854|7f1969 ",
+      "generated_at": "2025-06-17T12:12:32-04:00",
+      "source_id": 14353142272
+    },
+    {
+      "id": "1871543478308233217",
+      "program": "SDBENCHMARK",
+      "message": "BigAMD 2025-06-17 15:51:37.187879|0.46 / 0.47 / 0.49 / 0.5 / 0.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|BigAMD||109854|7f1969 ",
+      "generated_at": "2025-06-17T12:12:37-04:00",
+      "source_id": 14353142272
+    },
+    {
+      "id": "1871545252205215744",
+      "program": "SDBENCHMARK",
+      "message": "BigAMD 2025-06-17 16:18:21.533188|0.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 8GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|BigAMD||f21d59|bcf68c ",
+      "generated_at": "2025-06-17T12:19:40-04:00",
+      "source_id": 14353142272
+    },
+    {
+      "id": "1871545252205215745",
+      "program": "SDBENCHMARK",
+      "message": "BigAMD 2025-06-17 15:51:37.187879|0.46 / 0.47 / 0.49 / 0.5 / 0.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver: 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|BigAMD||109854|7f1969 ",
+      "generated_at": "2025-06-17T12:19:40-04:00",
+      "source_id": 14353142272
+    },
+    {
+      "id": "1871602670461173762",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 21:12:07.415626|0.98|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 5600 XT (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||9df177|dbf25b ",
+      "generated_at": "2025-06-17T16:07:52-04:00",
+      "source_id": 14350058957
+    },
+    {
+      "id": "1871602670461173783",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:20:17.272365|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 5600 XT (1) (sm_90) (8, 8) cuda:12.4 cudnn:90100 driver: 6GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||918acd|788189 ",
+      "generated_at": "2025-06-17T16:07:52-04:00",
+      "source_id": 14350058957
+    },
+    {
+      "id": "1871602670461173784",
+      "program": "SDBENCHMARK",
+      "message": "Catnl 2025-06-11 17:24:26.613764|0.14 / 0.15 / 0.15|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 full nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Catnl||76733a|248eb1 ",
+      "generated_at": "2025-06-17T16:07:52-04:00",
+      "source_id": 14350058957
     }
   ]
 }
