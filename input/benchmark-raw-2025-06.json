@@ -1,5 +1,5 @@
 {
-  "max_id": "1871629687927795713",
+  "max_id": "1871776578363641857",
   "events": [
     {
       "id": "1865832784992591881",
@@ -987,6 +987,13 @@
       "message": "Administrator 2025-06-17 21:54:50.407340|9.01 / 9.58 / 9.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||eba386|9a0f1b ",
       "generated_at": "2025-06-17T17:55:14-04:00",
       "source_id": 14353310229
+    },
+    {
+      "id": "1871776578363641857",
+      "program": "SDBENCHMARK",
+      "message": "RonaldKunenborg 2025-06-18 01:37:36.063933|4.34 / 7.4 / 9.5|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|RonaldKunenborg||3e35b6|71a1b5 ",
+      "generated_at": "2025-06-17T21:38:54-04:00",
+      "source_id": 14353555952
     }
   ]
 }
