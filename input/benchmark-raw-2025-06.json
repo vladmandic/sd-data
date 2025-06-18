@@ -1,5 +1,5 @@
 {
-  "max_id": "1871908257967292435",
+  "max_id": "1872018284015181840",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1029,6 +1029,13 @@
       "message": "BigAMD 2025-06-18 16:18:44.515899|0.46|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA CMP 40HX (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:572.83  572.83 8GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|BigAMD||fb1f76|500397 ",
       "generated_at": "2025-06-18T12:22:09-04:00",
       "source_id": 14353142272
+    },
+    {
+      "id": "1872018284015181840",
+      "program": "SDBENCHMARK",
+      "message": "asd 2025-06-18 23:39:00.745726|17.0 / 20.24 / 22.69|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.02 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|asd||a1b3f5|00e058 ",
+      "generated_at": "2025-06-18T19:39:22-04:00",
+      "source_id": 14353931307
     }
   ]
 }
