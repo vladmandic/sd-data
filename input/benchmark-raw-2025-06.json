@@ -1,5 +1,5 @@
 {
-  "max_id": "1872426162014310403",
+  "max_id": "1872602786827526151",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1071,6 +1071,55 @@
       "message": "Administrator 2025-06-20 02:39:29.844471|8.82 / 9.94 / 10.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.80 8GB|Automatic medvram-sdxl|sd1.5\\evalisenniaSD15_麦橘写实_Ultra_v20.safetensors [fd076cef78]|Administrator||635eec|a08e59 ",
       "generated_at": "2025-06-19T22:40:08-04:00",
       "source_id": 14354562358
+    },
+    {
+      "id": "1872553080348921868",
+      "program": "SDBENCHMARK",
+      "message": "NY 2025-06-20 11:03:00.980068|8.6 / 9.35 / 9.91|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.96 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:animevae.pt width:512 height:512|NY||89cfca|07c466 ",
+      "generated_at": "2025-06-20T07:03:23-04:00",
+      "source_id": 14354473391
+    },
+    {
+      "id": "1872593537284104195",
+      "program": "SDBENCHMARK",
+      "message": "kiris 2025-06-20 14:44:28.753433|3.8 / 4.59 / 4.96|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.52 12GB|Automatic none|novaFurryXL_illustriousV8b.safetensors [0cf76a2e79]|kiris||b3296d|c8efbf ",
+      "generated_at": "2025-06-20T10:45:11-04:00",
+      "source_id": 14354802074
+    },
+    {
+      "id": "1872602786823331846",
+      "program": "SDBENCHMARK",
+      "message": "hchuan16 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-06-20T10:21:46-04:00",
+      "source_id": 14354820574
+    },
+    {
+      "id": "1872602786823331848",
+      "program": "SDBENCHMARK",
+      "message": "hchuan16 2025-05-26 12:32:40.234873|error / error / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+xpu autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp medvram-sdxl|anything-v5-PrtRE.safetensors [7f96a1a9ca]|hchuan16-B570||0917c5|696987 ",
+      "generated_at": "2025-06-20T10:21:46-04:00",
+      "source_id": 14354820574
+    },
+    {
+      "id": "1872602786823331849",
+      "program": "SDBENCHMARK",
+      "message": "hchuan16 2025-05-26 12:34:22.318109|error / error / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+xpu autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|hchuan16||6c9bea|669d99 ",
+      "generated_at": "2025-06-20T10:21:46-04:00",
+      "source_id": 14354820574
+    },
+    {
+      "id": "1872602786827526150",
+      "program": "SDBENCHMARK",
+      "message": "hchuan16 2025-05-26 12:38:21.362332|error / error / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+xpu autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|hchuan16||6a31d6|d2d336 ",
+      "generated_at": "2025-06-20T10:21:46-04:00",
+      "source_id": 14354820574
+    },
+    {
+      "id": "1872602786827526151",
+      "program": "SDBENCHMARK",
+      "message": "hchuan16 2025-05-26 13:25:38.343074|error / error / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+xpu autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp medvram-sdxl|anything-v5-PrtRE.safetensors [7f96a1a9ca]|hchuan16-B570||837ada|f0f03e ",
+      "generated_at": "2025-06-20T10:21:46-04:00",
+      "source_id": 14354820574
     }
   ]
 }
