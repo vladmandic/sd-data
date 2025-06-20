@@ -1,5 +1,5 @@
 {
-  "max_id": "1872602786827526151",
+  "max_id": "1872677583628451844",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1120,6 +1120,20 @@
       "message": "hchuan16 2025-05-26 13:25:38.343074|error / error / error|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.6.0+xpu autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp medvram-sdxl|anything-v5-PrtRE.safetensors [7f96a1a9ca]|hchuan16-B570||837ada|f0f03e ",
       "generated_at": "2025-06-20T10:21:46-04:00",
       "source_id": 14354820574
+    },
+    {
+      "id": "1872677574640058378",
+      "program": "SDBENCHMARK",
+      "message": "im10furry 2025-06-20 19:18:18.974521|5.1 / 5.28 / 5.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:573.22 8GB|Automatic medvram-sdxl|myself8.0.safetensors [44831812a9]|Administrator||fc46a5|aa81e1 ",
+      "generated_at": "2025-06-20T15:19:08-04:00",
+      "source_id": 14354930410
+    },
+    {
+      "id": "1872677583628451844",
+      "program": "SDBENCHMARK",
+      "message": "im10furry 2025-06-20 19:18:18.974521|5.1 / 5.28 / 5.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:573.22 8GB|Automatic medvram-sdxl|myself8.0.safetensors [44831812a9]|Administrator||fc46a5|aa81e1 ",
+      "generated_at": "2025-06-20T15:19:10-04:00",
+      "source_id": 14354930410
     }
   ]
 }
