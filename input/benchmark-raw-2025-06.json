@@ -1,5 +1,5 @@
 {
-  "max_id": "1872953479790776340",
+  "max_id": "1873022736155201536",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1141,6 +1141,20 @@
       "message": "User 2025-06-21 08:34:33.162175|4.05 / 4.37 / 4.63||arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.1.2+cu121 autocast half xformers: diffusers:0.21.4 transformers:4.30.2|device:NVIDIA GeForce RTX 3050 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver: 4GB|Automatic none|uberRealisticPornMerge_urpmv13.safetensors [40f9701da0]|User||c0ce96|c85021 ",
       "generated_at": "2025-06-21T04:35:31-04:00",
       "source_id": 14355310347
+    },
+    {
+      "id": "1873022736151007252",
+      "program": "SDBENCHMARK",
+      "message": "FREZ 2025-04-09 20:11:47.944228|22.9 / 25.81 / 29.8|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:566.36 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:realisticvisionv60b1_v51hypervae.safetensors vae:none width:512 height:512|FREZ||205235|0b4836 ",
+      "generated_at": "2025-06-21T09:10:38-04:00",
+      "source_id": 14355391222
+    },
+    {
+      "id": "1873022736155201536",
+      "program": "SDBENCHMARK",
+      "message": "FREZ 2025-06-21 13:10:16.263066|23.26 / 25.39 / 30.26|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:576.80 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:realisticvisionv60b1_v51hypervae.safetensors vae:none width:512 height:512|FREZ||4a552e|add64c ",
+      "generated_at": "2025-06-21T09:10:38-04:00",
+      "source_id": 14355391222
     }
   ]
 }
