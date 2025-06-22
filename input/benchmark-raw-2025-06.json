@@ -1,5 +1,5 @@
 {
-  "max_id": "1873108563803688960",
+  "max_id": "1873146825263992835",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1162,6 +1162,13 @@
       "message": "rewgod 2025-06-21 22:47:54.295491|0.85 / 0.96 / 1.02|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Split attention flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:animaginexl40_v4opt [6327eca98b] vae:sdxl_vae.safetensors width:512 height:512|rewgod||13ec0f|2cf947 ",
       "generated_at": "2025-06-21T18:51:32-04:00",
       "source_id": 14355491948
+    },
+    {
+      "id": "1873146825263992835",
+      "program": "SDBENCHMARK",
+      "message": "rs 2025-06-21 13:22:26.486805|2.26 / 2.78 / 3.01|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.8.0.dev20250620+rocm6.4 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 9070 XT (1) hip:6.4.43482-0f2d60242 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:none width:1024 height:1024|rs||b0aa8e|979923 ",
+      "generated_at": "2025-06-21T09:23:47-04:00",
+      "source_id": 14355538311
     }
   ]
 }
