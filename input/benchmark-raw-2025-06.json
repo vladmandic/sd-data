@@ -1,5 +1,5 @@
 {
-  "max_id": "1873778391493296155",
+  "max_id": "1873791467277963264",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1302,6 +1302,13 @@
       "message": "xcage 2025-06-23 20:13:05.592415|error / error / error|app:sdnext.git updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 112 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Radeon 8060S Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 88GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:WanImageToVideoPipeline model:wan2.1_i2v_480p_14b_fp8_e4m3fn vae:none width:512 height:512|xcage||81a627|6fd6c7 ",
       "generated_at": "2025-06-23T16:13:29-04:00",
       "source_id": 14356322794
+    },
+    {
+      "id": "1873791467277963264",
+      "program": "SDBENCHMARK",
+      "message": "amduser 2025-06-23 22:02:57.971052|2.27 / 1.24 / 1.31|app:sdnext.git updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-570.21.1.el9_6.x86_64 python:3.11.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v110 [c3688ee04c] vae:automatic width:512 height:512|amduser||b57322|9e7f99 ",
+      "generated_at": "2025-06-23T18:05:21-04:00",
+      "source_id": 14356342479
     }
   ]
 }
