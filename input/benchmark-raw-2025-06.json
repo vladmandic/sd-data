@@ -1,5 +1,5 @@
 {
-  "max_id": "1873452941583769647",
+  "max_id": "1873778391493296155",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1295,6 +1295,13 @@
       "message": "admin 2025-06-22 22:37:50.400259|3.04 / 2.4 / 4.4|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|InvokeAI none|2.5DXL模型speciosa25D_v12.safetensors [e1431355af]|admin||8b3381|ab0fc0 ",
       "generated_at": "2025-06-22T18:40:21-04:00",
       "source_id": 14355878463
+    },
+    {
+      "id": "1873778391493296155",
+      "program": "SDBENCHMARK",
+      "message": "xcage 2025-06-23 20:13:05.592415|error / error / error|app:sdnext.git updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 112 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Radeon 8060S Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 88GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:WanImageToVideoPipeline model:wan2.1_i2v_480p_14b_fp8_e4m3fn vae:none width:512 height:512|xcage||81a627|6fd6c7 ",
+      "generated_at": "2025-06-23T16:13:29-04:00",
+      "source_id": 14356322794
     }
   ]
 }
