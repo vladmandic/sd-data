@@ -1,5 +1,5 @@
 {
-  "max_id": "1874367272685064195",
+  "max_id": "1874550609869459468",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1316,6 +1316,13 @@
       "message": "TJ 2025-06-25 03:54:05.646553|0.12 / 0.13 / 0.13|app:stable-diffusion-webui-amdgpu-forge.git updated:2025-02-02 hash:c3ab2df6 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver:NVIDIA-SMI has failed because you are not:  \ta) running as an administrator or  \tb) there is not at least one TCC device in the system 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-dev-q8_0.gguf vae:none width:512 height:512|TJ||66857e|5a5ea9 ",
       "generated_at": "2025-06-25T00:13:24-04:00",
       "source_id": 14357268081
+    },
+    {
+      "id": "1874550609869459468",
+      "program": "SDBENCHMARK",
+      "message": "weizh 2025-06-25 23:21:24.808127|17.93 / 20.42 / 22.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 0, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:576.80 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|weizh||6cd377|4aa3d7 ",
+      "generated_at": "2025-06-25T19:22:01-04:00",
+      "source_id": 14357565535
     }
   ]
 }
