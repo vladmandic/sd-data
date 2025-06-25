@@ -1,5 +1,5 @@
 {
-  "max_id": "1873791467277963264",
+  "max_id": "1874367272685064195",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1309,6 +1309,13 @@
       "message": "amduser 2025-06-23 22:02:57.971052|2.27 / 1.24 / 1.31|app:sdnext.git updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.14.0-570.21.1.el9_6.x86_64 python:3.11.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v110 [c3688ee04c] vae:automatic width:512 height:512|amduser||b57322|9e7f99 ",
       "generated_at": "2025-06-23T18:05:21-04:00",
       "source_id": 14356342479
+    },
+    {
+      "id": "1874367272685064195",
+      "program": "SDBENCHMARK",
+      "message": "TJ 2025-06-25 03:54:05.646553|0.12 / 0.13 / 0.13|app:stable-diffusion-webui-amdgpu-forge.git updated:2025-02-02 hash:c3ab2df6 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.3.1+cu118 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver:NVIDIA-SMI has failed because you are not:  \ta) running as an administrator or  \tb) there is not at least one TCC device in the system 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-dev-q8_0.gguf vae:none width:512 height:512|TJ||66857e|5a5ea9 ",
+      "generated_at": "2025-06-25T00:13:24-04:00",
+      "source_id": 14357268081
     }
   ]
 }
