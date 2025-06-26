@@ -1,5 +1,5 @@
 {
-  "max_id": "1874824133355945988",
+  "max_id": "1874955384066854915",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1351,6 +1351,55 @@
       "message": "Ricky Bone 2025-06-26 10:27:05.659465|1.72 / 1.91 / 2.18|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ultimatehentaianimerxtrexanime_rxv1 [566f0cfb40] vae:none width:1024 height:1024|Ricky Bone||2dba61|fb56cd ",
       "generated_at": "2025-06-26T06:28:48-04:00",
       "source_id": 14358000889
+    },
+    {
+      "id": "1874884827359137798",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-26 13:27:23.495622|1.02 / 0.99 / 1.06|app:sdnext.git updated:2025-06-26 hash:931650c4 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|root||a437f9|5e281c ",
+      "generated_at": "2025-06-26T09:29:58-04:00",
+      "source_id": 14358099809
+    },
+    {
+      "id": "1874888505386262532",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-26 13:35:47.843635|0.74 / 0.77 / 0.83|app:sdnext.git updated:2025-06-26 hash:931650c4 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|root||a437f9|859bdf ",
+      "generated_at": "2025-06-26T09:44:35-04:00",
+      "source_id": 14358099809
+    },
+    {
+      "id": "1874889474362765314",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-06-26 13:45:15.815804|1.02 / 1.03 / 1.07|app:sdnext.git updated:2025-06-26 hash:931650c4 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn [338b85bc4f] vae:none width:512 height:512|root||a437f9|87536b ",
+      "generated_at": "2025-06-26T09:48:26-04:00",
+      "source_id": 14358099809
+    },
+    {
+      "id": "1874917534256521220",
+      "program": "SDBENCHMARK",
+      "message": "wiz 2025-06-26 22:39:45.057706|error / error / error|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:BlipDiffusionPipeline model:diffusers\\salesforce/blipdiffusion [b7479a77cc] vae:automatic width:512 height:512|wiz||7af9c9|f7d86a ",
+      "generated_at": "2025-06-26T18:39:55-04:00",
+      "source_id": 14358156889
+    },
+    {
+      "id": "1874941113039769605",
+      "program": "SDBENCHMARK",
+      "message": "garrison 2025-06-26 13:12:47.989820|3.59 / 4.25 / 4.98|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.52 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:512 height:512|garrison||dc895a|d67b79 ",
+      "generated_at": "2025-06-26T09:13:38-04:00",
+      "source_id": 14358199923
+    },
+    {
+      "id": "1874955376479358981",
+      "program": "SDBENCHMARK",
+      "message": "OBC 2025-06-27 02:09:48.516146|11.58 / 12.29 / 13.07||arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.0+cu121 autocast half xformers:0.0.24 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver: 22GB|Automatic none|maturemalemix_v13.safetensors [8e6b79666c]|OBC||d63f11|18e764 ",
+      "generated_at": "2025-06-26T22:10:20-04:00",
+      "source_id": 14358221761
+    },
+    {
+      "id": "1874955384066854915",
+      "program": "SDBENCHMARK",
+      "message": "OBC 2025-06-27 02:09:48.516146|11.58 / 12.29 / 13.07||arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.0+cu121 autocast half xformers:0.0.24 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver: 22GB|Automatic none|maturemalemix_v13.safetensors [8e6b79666c]|OBC||d63f11|18e764 ",
+      "generated_at": "2025-06-26T22:10:22-04:00",
+      "source_id": 14358221761
     }
   ]
 }
