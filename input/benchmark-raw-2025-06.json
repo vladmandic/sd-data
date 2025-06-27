@@ -1,5 +1,5 @@
 {
-  "max_id": "1874976205292363778",
+  "max_id": "1875120020871376897",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1435,6 +1435,13 @@
       "message": "liutyi 2025-06-26 19:08:17.275184|0.28 / 0.18 / 0.2|app:sdnext updated:2025-06-26 hash:0e4d712f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Intel(R) Iris(R) Xe Graphics (iGPU) openvino:2025.2.0 94GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|liutyi|Intel Core i7 1355U, 96GB, openvino|b0d5c0|a4b15e ",
       "generated_at": "2025-06-26T15:33:05-04:00",
       "source_id": 14358237321
+    },
+    {
+      "id": "1875120020871376897",
+      "program": "SDBENCHMARK",
+      "message": "artymyst 2025-06-26 23:53:36.556795|0.32 / 0.35 / 0.32|app: updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.6.87.2-microsoft-standard-WSL2 python:3.12.3|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_catalystv30 [36de6f8958] vae:none width:512 height:512|artymyst||b00a0a|aae854 ",
+      "generated_at": "2025-06-26T20:04:33-04:00",
+      "source_id": 14358477298
     }
   ]
 }
