@@ -1,5 +1,5 @@
 {
-  "max_id": "1875170794909392899",
+  "max_id": "1875301587547774976",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1449,6 +1449,20 @@
       "message": "z 2025-06-12 09:38:16.440282|11.94 / 12.98 / 13.99|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|z||dc10e0|5bbfcd ",
       "generated_at": "2025-06-27T12:26:17-04:00",
       "source_id": 14358564521
+    },
+    {
+      "id": "1875285652946472961",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 08:59:48.838807|0.92 / 0.94 / 0.95|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon 760M Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 17GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:beautifulrealistic_v7 [1a17bcd93d] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|toshi||a3efdd|fd7998 ",
+      "generated_at": "2025-06-27T05:02:43-04:00",
+      "source_id": 14358231022
+    },
+    {
+      "id": "1875301587547774976",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 10:03:18.332365|0.47 / 0.48 / error|app:stable-diffusion-webui-directml updated:2025-06-24 hash:6d85a7df url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cpu xformers: diffusers:0.30.2 transformers:4.49.0| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:directml compile:none dtype:torch.float32|pipeline:LatentDiffusion model:sd\\awpainting_v14.safetensors [cdf971b4a0] vae:none width:512 height:512|toshi|Ryzen 5 8600G 760M 8GB UMA Frame buffer size , via DirectML , almost 2 times slower than ZLUDA and end with error |93feb6|a78338 ",
+      "generated_at": "2025-06-27T06:06:03-04:00",
+      "source_id": 14358231022
     }
   ]
 }
