@@ -1,5 +1,5 @@
 {
-  "max_id": "1875120020871376897",
+  "max_id": "1875170794909392899",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1442,6 +1442,13 @@
       "message": "artymyst 2025-06-26 23:53:36.556795|0.32 / 0.35 / 0.32|app: updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.6.87.2-microsoft-standard-WSL2 python:3.12.3|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_catalystv30 [36de6f8958] vae:none width:512 height:512|artymyst||b00a0a|aae854 ",
       "generated_at": "2025-06-26T20:04:33-04:00",
       "source_id": 14358477298
+    },
+    {
+      "id": "1875170794909392899",
+      "program": "SDBENCHMARK",
+      "message": "z 2025-06-12 09:38:16.440282|11.94 / 12.98 / 13.99|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Ti (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|z||dc10e0|5bbfcd ",
+      "generated_at": "2025-06-27T12:26:17-04:00",
+      "source_id": 14358564521
     }
   ]
 }
