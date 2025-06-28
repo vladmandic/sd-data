@@ -1,5 +1,5 @@
 {
-  "max_id": "1875378385472118785",
+  "max_id": "1875440569086558210",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1505,6 +1505,20 @@
       "message": "liutyi 2025-06-27 21:55:39.711805|0.21 / 0.15 / 0.16|app:sdnext updated:2025-06-27 hash:1d855178 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.52.4|device:Intel(R) Iris(R) Xe Graphics (iGPU) openvino:2025.2.0 94GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:KolorsPipeline model:diffusers/kwai-kolors/kolors-diffusers [7e091c7519] vae:none width:512 height:512|liutyi|Intel core i7 1355U, 96GB DDR5, Openvino|cccc57|7a6de3 ",
       "generated_at": "2025-06-27T18:11:12-04:00",
       "source_id": 14358237321
+    },
+    {
+      "id": "1875440569086558209",
+      "program": "SDBENCHMARK",
+      "message": "hwani 2025-06-28 02:05:20.627947|1.21 / 1.33 / 1.39|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0.dev20250608+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 9060 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Split attention flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:lunarcherrymix_v21 [a683ec5441] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|hwani||dab347|f1e617 ",
+      "generated_at": "2025-06-28T07:18:13-04:00",
+      "source_id": 14358973558
+    },
+    {
+      "id": "1875440569086558210",
+      "program": "SDBENCHMARK",
+      "message": "hwani 2025-06-28 10:59:05.238645|error / error / error|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0.dev20250608+cu118 xformers:0.0.32.dev1060 diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 9060 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:xFormers flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:lunarcherrymix_v21 [a683ec5441] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|hwani||f8f920|d8fb85 ",
+      "generated_at": "2025-06-28T07:18:13-04:00",
+      "source_id": 14358973558
     }
   ]
 }
