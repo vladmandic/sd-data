@@ -1,5 +1,5 @@
 {
-  "max_id": "1875301587547774976",
+  "max_id": "1875378385472118785",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1463,6 +1463,48 @@
       "message": "toshi 2025-06-27 10:03:18.332365|0.47 / 0.48 / error|app:stable-diffusion-webui-directml updated:2025-06-24 hash:6d85a7df url:https://github.com/lshqqytiger/stable-diffusion-webui-directml/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cpu xformers: diffusers:0.30.2 transformers:4.49.0| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:directml compile:none dtype:torch.float32|pipeline:LatentDiffusion model:sd\\awpainting_v14.safetensors [cdf971b4a0] vae:none width:512 height:512|toshi|Ryzen 5 8600G 760M 8GB UMA Frame buffer size , via DirectML , almost 2 times slower than ZLUDA and end with error |93feb6|a78338 ",
       "generated_at": "2025-06-27T06:06:03-04:00",
       "source_id": 14358231022
+    },
+    {
+      "id": "1875339839889653768",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 11:12:17.263985|0.27 / 0.4 / 0.61|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:klf8anime2vae_klf8anime2vae.safetensors width:256 height:256|toshi||45ff78|a1de14 ",
+      "generated_at": "2025-06-27T08:38:02-04:00",
+      "source_id": 14358834427
+    },
+    {
+      "id": "1875339839889657862",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 11:21:14.294322|4.21 / 4.88 / 4.93|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:klf8anime2vae_klf8anime2vae.safetensors width:256 height:256|toshi||69d923|a86a34 ",
+      "generated_at": "2025-06-27T08:38:02-04:00",
+      "source_id": 14358834427
+    },
+    {
+      "id": "1875339839898042379",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 11:31:18.843268|0.91 / 1.36 / 2.39|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:lowvram compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:klf8anime2vae_klf8anime2vae.safetensors width:256 height:256|toshi||7601bb|5220b1 ",
+      "generated_at": "2025-06-27T08:38:02-04:00",
+      "source_id": 14358834427
+    },
+    {
+      "id": "1875339839898046473",
+      "program": "SDBENCHMARK",
+      "message": "toshi 2025-06-27 12:35:33.993513|1.2 / 1.25 / 1.29|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-28-generic python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:beautifulrealistic_v7 [1a17bcd93d] vae:klf8anime2vae_klf8anime2vae.safetensors width:512 height:512|toshi||cca825|052f01 ",
+      "generated_at": "2025-06-27T08:38:02-04:00",
+      "source_id": 14358834427
+    },
+    {
+      "id": "1875378385472118784",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-06-26 19:08:17.275184|0.28 / 0.18 / 0.2|app:sdnext updated:2025-06-26 hash:0e4d712f url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:Intel(R) Iris(R) Xe Graphics (iGPU) openvino:2025.2.0 94GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|liutyi|Intel Core i7 1355U, 96GB, openvino|b0d5c0|a4b15e ",
+      "generated_at": "2025-06-27T18:11:12-04:00",
+      "source_id": 14358237321
+    },
+    {
+      "id": "1875378385472118785",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-06-27 21:55:39.711805|0.21 / 0.15 / 0.16|app:sdnext updated:2025-06-27 hash:1d855178 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-26-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.52.4|device:Intel(R) Iris(R) Xe Graphics (iGPU) openvino:2025.2.0 94GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:KolorsPipeline model:diffusers/kwai-kolors/kolors-diffusers [7e091c7519] vae:none width:512 height:512|liutyi|Intel core i7 1355U, 96GB DDR5, Openvino|cccc57|7a6de3 ",
+      "generated_at": "2025-06-27T18:11:12-04:00",
+      "source_id": 14358237321
     }
   ]
 }
