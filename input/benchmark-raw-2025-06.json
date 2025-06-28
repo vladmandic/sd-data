@@ -1,5 +1,5 @@
 {
-  "max_id": "1875440569086558210",
+  "max_id": "1875555061468422144",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1519,6 +1519,13 @@
       "message": "hwani 2025-06-28 10:59:05.238645|error / error / error|app:SD.next updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0.dev20250608+cu118 xformers:0.0.32.dev1060 diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 9060 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:xFormers flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:lunarcherrymix_v21 [a683ec5441] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|hwani||f8f920|d8fb85 ",
       "generated_at": "2025-06-28T07:18:13-04:00",
       "source_id": 14358973558
+    },
+    {
+      "id": "1875555061468422144",
+      "program": "SDBENCHMARK",
+      "message": "adminlora 2025-06-28 11:51:35.571248|3.03 / 3.32 / 3.5|app:stable-diffusion-webui-forge.git updated:2025-06-24 hash:715c24b0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA L40S-24Q (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:573.07 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-schnell-fp8.safetensors vae:none width:512 height:512|adminlora||d557ae|4c915d ",
+      "generated_at": "2025-06-28T07:53:15-04:00",
+      "source_id": 14359112768
     }
   ]
 }
