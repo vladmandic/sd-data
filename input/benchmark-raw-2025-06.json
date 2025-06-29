@@ -1,5 +1,5 @@
 {
-  "max_id": "1875631917450317833",
+  "max_id": "1875751117946802177",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1533,6 +1533,13 @@
       "message": "Administrator 2025-06-28 22:57:13.842072|6.56 / 6.68 / 7.51|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:majicmix realistic 麦橘写实_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|Administrator||dff803|789a45 ",
       "generated_at": "2025-06-28T18:58:25-04:00",
       "source_id": 14359206494
+    },
+    {
+      "id": "1875751117946802177",
+      "program": "SDBENCHMARK",
+      "message": "mrkiw 2025-06-29 00:51:48.426140|4.32 / 5.56 / 6.71|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:576.80 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:hdarainbowillus_v14.safetensors vae:automatic width:512 height:512|mrkiw||e1c091|226e85 ",
+      "generated_at": "2025-06-28T20:52:17-04:00",
+      "source_id": 14359346049
     }
   ]
 }
