@@ -1,5 +1,5 @@
 {
-  "max_id": "1875751117946802177",
+  "max_id": "1875983509735268357",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1540,6 +1540,20 @@
       "message": "mrkiw 2025-06-29 00:51:48.426140|4.32 / 5.56 / 6.71|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:576.80 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:hdarainbowillus_v14.safetensors vae:automatic width:512 height:512|mrkiw||e1c091|226e85 ",
       "generated_at": "2025-06-28T20:52:17-04:00",
       "source_id": 14359346049
+    },
+    {
+      "id": "1875983509731074061",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-09 18:24:43.312537|2.52 / error / 4.0|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sdxl\\realdream_sdxlpony13_1068521.safetensors vae:none width:512 height:512|do-it||dbd1a5|ed4824 ",
+      "generated_at": "2025-06-29T12:15:42-04:00",
+      "source_id": 14359611808
+    },
+    {
+      "id": "1875983509735268357",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-06-29 16:14:39.560572|10.41 / 17.8 / 28.09|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver: 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:none width:512 height:512|do-it||7dbdf2|ae0678 ",
+      "generated_at": "2025-06-29T12:15:42-04:00",
+      "source_id": 14359611808
     }
   ]
 }
