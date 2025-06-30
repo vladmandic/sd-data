@@ -1,5 +1,5 @@
 {
-  "max_id": "1875983509735268357",
+  "max_id": "1876089287104196608",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1554,6 +1554,20 @@
       "message": "do-it 2025-06-29 16:14:39.560572|10.41 / 17.8 / 28.09|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver: 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:none width:512 height:512|do-it||7dbdf2|ae0678 ",
       "generated_at": "2025-06-29T12:15:42-04:00",
       "source_id": 14359611808
+    },
+    {
+      "id": "1876064467381579777",
+      "program": "SDBENCHMARK",
+      "message": "Cooper 2025-06-29 16:35:21.845596|1.36 / 1.96 / 2.16|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:prefectillustriousxl_v15 [2bb6bbee58] vae:none width:512 height:512|Cooper||fddf79|44c2c0 ",
+      "generated_at": "2025-06-29T12:37:26-04:00",
+      "source_id": 14359707223
+    },
+    {
+      "id": "1876089287104196608",
+      "program": "SDBENCHMARK",
+      "message": "12 2025-06-29 23:15:04.292436|4.32 / 7.41 / 9.58|app:sdnext updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.4|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:real_crystalclearxl_ccxl [0b76532e03] vae:none width:512 height:512|DieV-||b270e8|05ad84 ",
+      "generated_at": "2025-06-29T19:16:04-04:00",
+      "source_id": 14359738220
     }
   ]
 }
