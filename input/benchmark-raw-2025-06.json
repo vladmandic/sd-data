@@ -1,5 +1,5 @@
 {
-  "max_id": "1876304320253849600",
+  "max_id": "1876360456877301760",
   "events": [
     {
       "id": "1865832784992591881",
@@ -1596,6 +1596,34 @@
       "message": "USER 2025-06-30 19:30:10.432897|error / error / error|app:automatic.git updated:2025-06-16 hash:72eb0132 url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.4.1+cpu xformers: diffusers:0.34.0.dev0 transformers:4.52.4| 0GB|pipeline:original crossattention:Scaled-Dot-Product flags:medvram compute:directml compile:none dtype:torch.float16|pipeline:LatentDiffusion model:hentaimodel_v10 [ede7c4fa6f] vae:clearvae-variant.safetensors width:512 height:512|USER||da3464|5858f8 ",
       "generated_at": "2025-06-30T15:30:34-04:00",
       "source_id": 14360034795
+    },
+    {
+      "id": "1876343872716718080",
+      "program": "SDBENCHMARK",
+      "message": "bigPC 2025-06-13 15:15:49.320721|3.76 / 7.09 / 10.43|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:560.94 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:illustrious\\2d\\wainsfwillustrious_v140.safetensors vae:none width:512 height:512|user||b53d94|7c906f ",
+      "generated_at": "2025-06-30T18:07:44-04:00",
+      "source_id": 14360093274
+    },
+    {
+      "id": "1876343872716718082",
+      "program": "SDBENCHMARK",
+      "message": "bigPC 2025-06-30 22:07:23.787555|9.17 / 16.14 / 28.54|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.8.0.dev20250613+cu128 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\3d\\wairealcn_v14.safetensors vae:none width:512 height:512|bigPC||138191|88a899 ",
+      "generated_at": "2025-06-30T18:07:44-04:00",
+      "source_id": 14360093274
+    },
+    {
+      "id": "1876360456789217281",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-05-16 01:23:12.533587|9.09 / 9.27 / 10.02|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.12|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:550.144.03 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:autismmixsdxl_autismmixconfetti.safetensors [ac006fdd7e] vae:automatic width:512 height:512|root||4cf6f0|a00275 ",
+      "generated_at": "2025-06-30T20:13:36-04:00",
+      "source_id": 14360119479
+    },
+    {
+      "id": "1876360456877301760",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-07-01 00:11:29.796672|8.74 / 9.11 / 10.13|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.19.0-45-generic python:3.10.12|torch:2.7.1+cu126 xformers:0.0.31 diffusers: transformers:4.30.2|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:550.144.03 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:automatic width:512 height:512|root||746c90|fefc8b ",
+      "generated_at": "2025-06-30T20:13:36-04:00",
+      "source_id": 14360119479
     }
   ]
 }
