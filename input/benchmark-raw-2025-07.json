@@ -1,0 +1,26 @@
+{
+  "max_id": "1876581908251590662",
+  "events": [
+    {
+      "id": "1876579744066224166",
+      "program": "SDBENCHMARK",
+      "message": "susia 2025-04-15 21:39:35.968357|error / 14.63 / 30.11|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:566.36 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\curiousmerge25d_v50v4v2.safetensors [a814e01389] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|susia||981157|324052 ",
+      "generated_at": "2025-07-01T10:44:58-04:00",
+      "source_id": 14360460965
+    },
+    {
+      "id": "1876581531632459787",
+      "program": "SDBENCHMARK",
+      "message": "Mcsor Studios 2025-07-01 13:51:36.443898|10.06 / 19.55 / 28.7|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.80 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuillustriousv2.cfl6.safetensors [9ece21c352] vae:none width:512 height:512|Mcsor Studios||b63654|11280a ",
+      "generated_at": "2025-07-01T09:52:04-04:00",
+      "source_id": 14360463623
+    },
+    {
+      "id": "1876581908251590662",
+      "program": "SDBENCHMARK",
+      "message": "Mcsor Studios 2025-07-01 13:53:09.871958|6.95 / 7.3 / 7.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.80 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuillustriousv2.cfl6.safetensors [9ece21c352] vae:none width:1024 height:1024|Mcsor Studios||b63654|c4e03e ",
+      "generated_at": "2025-07-01T09:53:34-04:00",
+      "source_id": 14360463623
+    }
+  ]
+}
