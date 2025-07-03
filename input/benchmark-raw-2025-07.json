@@ -1,5 +1,5 @@
 {
-  "max_id": "1877243599553482753",
+  "max_id": "1877401032921890845",
   "events": [
     {
       "id": "1876579744066224166",
@@ -70,6 +70,27 @@
       "message": "Winson 2025-07-03 09:42:22.439427|9.34 / 14.8 / 16.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cyberrealisticpony_v125.safetensors [b83dffe522] vae:automatic width:512 height:512|Winson||075e1d|4cebef ",
       "generated_at": "2025-07-03T05:42:55-04:00",
       "source_id": 14361571576
+    },
+    {
+      "id": "1877315407967338504",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-07-03 09:21:18.253188|1.69|app:sdnext updated:2025-06-30 hash:0d7c025a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:automatic width:1024 height:1024|Admin||879b93|7ddba2 ",
+      "generated_at": "2025-07-03T05:28:13-04:00",
+      "source_id": 14361680691
+    },
+    {
+      "id": "1877315407971532812",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-07-03 09:27:56.717450|error|app:sdnext updated:2025-06-30 hash:0d7c025a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers:0.0.32.dev1061 diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Admin||601a64|5a5af2 ",
+      "generated_at": "2025-07-03T05:28:13-04:00",
+      "source_id": 14361680691
+    },
+    {
+      "id": "1877401032921890845",
+      "program": "SDBENCHMARK",
+      "message": "小杨 2025-07-03 19:59:41.633331|0.66 / 0.7 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1050 (1) (sm_120) (6, 1) cuda:12.8 cudnn:90701 driver:576.52 4GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|小杨||e1e701|e0c0e9 ",
+      "generated_at": "2025-07-03T16:08:29-04:00",
+      "source_id": 14361815436
     }
   ]
 }
