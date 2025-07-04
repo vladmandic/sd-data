@@ -1,5 +1,5 @@
 {
-  "max_id": "1877401032921890845",
+  "max_id": "1877587972753383436",
   "events": [
     {
       "id": "1876579744066224166",
@@ -91,6 +91,27 @@
       "message": "小杨 2025-07-03 19:59:41.633331|0.66 / 0.7 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1050 (1) (sm_120) (6, 1) cuda:12.8 cudnn:90701 driver:576.52 4GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|小杨||e1e701|e0c0e9 ",
       "generated_at": "2025-07-03T16:08:29-04:00",
       "source_id": 14361815436
+    },
+    {
+      "id": "1877550694265966604",
+      "program": "SDBENCHMARK",
+      "message": "alexander 2025-07-03 23:56:02.907628|5.42 / 0.32 / 0.46|app:sdnext.git updated:2025-06-30 hash:0d7c025a url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-60-generic python:3.10.12|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 62GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:checkpoints/noobai/matrixhentai_v50 [2d37917ec8] vae:none width:512 height:512|alexander||3e2b1b|f7738a ",
+      "generated_at": "2025-07-03T20:03:11-04:00",
+      "source_id": 14362057881
+    },
+    {
+      "id": "1877587972753379334",
+      "program": "SDBENCHMARK",
+      "message": "blackthorn 2025-07-01 01:16:16.960935|error / error / error|app:sdnext.git updated:2025-06-30 hash:0d7c025a url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:570.133.07 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:none vae:none width:512 height:512|blackthorn||b7a0fe|979486 ",
+      "generated_at": "2025-07-03T16:31:19-04:00",
+      "source_id": 14360451472
+    },
+    {
+      "id": "1877587972753383436",
+      "program": "SDBENCHMARK",
+      "message": "blackthorn 2025-07-03 20:28:30.747223|0.44 / 0.46 / error|app:sdnext.git updated:2025-06-30 hash:0d7c025a url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.7.1+cu128 xformers:0.0.32.dev1061 diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 3060 (1) (compute_120) (8, 6) cuda:12.8 cudnn:90701 driver:570.133.07 12GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:fucktasticrealcheckpointpony_50 [8cad463d31] vae:none width:1024 height:1024|blackthorn||253488|65c82a ",
+      "generated_at": "2025-07-03T16:31:19-04:00",
+      "source_id": 14360451472
     }
   ]
 }
