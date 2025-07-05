@@ -1,5 +1,5 @@
 {
-  "max_id": "1877888659764727814",
+  "max_id": "1877991872014762033",
   "events": [
     {
       "id": "1876579744066224166",
@@ -140,6 +140,20 @@
       "message": "BlackusPL 2024-12-23 18:10:04.124878|4.02 / 5.14 / 4.34|app:SD.next updated:2024-12-09 hash:a2f5a39a url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.3.1+cu118 Autocast half xformers: diffusers:0.32.0.dev0 transformers:4.46.2|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Scaled-Dot-Product none|prefectPonyXL_v3 [e31a2563f0]|BlackusPL||3ee0fb|bc3548 ",
       "generated_at": "2025-07-04T18:26:08-04:00",
       "source_id": 14362553461
+    },
+    {
+      "id": "1877991868474769409",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-07-05 11:15:54.724356|7.16 / 8.03 / 8.37|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.18363-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||9cac9f|c721aa ",
+      "generated_at": "2025-07-05T07:16:19-04:00",
+      "source_id": 14362670560
+    },
+    {
+      "id": "1877991872014762033",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-07-05 11:15:54.724356|7.16 / 8.03 / 8.37|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.18363-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||9cac9f|c721aa ",
+      "generated_at": "2025-07-05T07:16:21-04:00",
+      "source_id": 14362670560
     }
   ]
 }
