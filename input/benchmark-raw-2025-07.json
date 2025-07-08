@@ -1,5 +1,5 @@
 {
-  "max_id": "1878908886094901274",
+  "max_id": "1879002382810148882",
   "events": [
     {
       "id": "1876579744066224166",
@@ -392,6 +392,20 @@
       "message": "sebas 2025-07-07 18:57:08.033389|3.14 / 5.42 / 10.07|app:SD.next updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu126 Autocast half xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.6 cudnn:90501 driver:576.52 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v120 [119a879b00] vae:none width:512 height:512|sebas||72a711|cb4e55 ",
       "generated_at": "2025-07-07T15:00:09-04:00",
       "source_id": 14363825725
+    },
+    {
+      "id": "1878951944773619716",
+      "program": "SDBENCHMARK",
+      "message": "LTyi 2025-07-08 02:49:41.721699|1.05 / 1.57 / 2.35|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.80 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|LTyi||803ec4|db7d6e ",
+      "generated_at": "2025-07-07T22:51:15-04:00",
+      "source_id": 14363924140
+    },
+    {
+      "id": "1879002382810148882",
+      "program": "SDBENCHMARK",
+      "message": "EOM 2025-07-08 00:11:26.607683|15.2 / 16.51 / 17.61|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|EOM||c31da6|6bb39e ",
+      "generated_at": "2025-07-07T20:11:39-04:00",
+      "source_id": 14364010478
     }
   ]
 }
