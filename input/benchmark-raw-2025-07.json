@@ -1,5 +1,5 @@
 {
-  "max_id": "1879073729225609227",
+  "max_id": "1879695562320822302",
   "events": [
     {
       "id": "1876579744066224166",
@@ -420,6 +420,20 @@
       "message": "Max 2025-07-08 10:54:49.909622|8.35 / 8.8 / 8.93|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Max||fa5b2f|2a12de ",
       "generated_at": "2025-07-08T06:55:14-04:00",
       "source_id": 14364131162
+    },
+    {
+      "id": "1879695456922157062",
+      "program": "SDBENCHMARK",
+      "message": "nope 2025-07-09 22:04:13.315406|1.96 / 2.12 / 3.46|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|nope||4405c1|758617 ",
+      "generated_at": "2025-07-09T18:05:43-04:00",
+      "source_id": 14365176214
+    },
+    {
+      "id": "1879695562320822302",
+      "program": "SDBENCHMARK",
+      "message": "nope 2025-07-09 22:04:13.315406|1.96 / 2.12 / 3.46|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:Intel(R) Arc(TM) B580 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:dreamshaperxl_v21turbodpmsde [4496b36d48] vae:none width:512 height:512|nope||4405c1|758617 ",
+      "generated_at": "2025-07-09T18:06:09-04:00",
+      "source_id": 14365176214
     }
   ]
 }
