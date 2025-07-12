@@ -1,5 +1,5 @@
 {
-  "max_id": "1880454121664987138",
+  "max_id": "1880653364765839385",
   "events": [
     {
       "id": "1876579744066224166",
@@ -511,6 +511,34 @@
       "message": "do-it 2025-07-12 00:20:02.918918|9.79 / 18.3 / 27.8|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver: 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:automatic width:512 height:512|do-it||7dbdf2|683a08 ",
       "generated_at": "2025-07-11T20:20:20-04:00",
       "source_id": 14366735121
+    },
+    {
+      "id": "1880635891224080385",
+      "program": "SDBENCHMARK",
+      "message": "swisscat 2025-07-12 12:21:38.292765|3.27 / 4.88 / 6.9|app:automatic.git updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/automatic.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.28 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|swisscat|new card test ;)|c93e27|8bbf56 ",
+      "generated_at": "2025-07-12T08:22:46-04:00",
+      "source_id": 14367002872
+    },
+    {
+      "id": "1880650803891589121",
+      "program": "SDBENCHMARK",
+      "message": "Maxym 2025-07-12 14:12:37.987964|2.67 / 3.07 / 3.28|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:redwater_ [f270468c37] vae:none width:512 height:512|Maxym||d8d4ae|759a5d ",
+      "generated_at": "2025-07-12T10:21:55-04:00",
+      "source_id": 14367023618
+    },
+    {
+      "id": "1880651232339742727",
+      "program": "SDBENCHMARK",
+      "message": "Maxym 2025-07-12 14:12:37.987964|2.67 / 3.07 / 3.28|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:redwater_ [f270468c37] vae:none width:512 height:512|Maxym||d8d4ae|759a5d ",
+      "generated_at": "2025-07-12T10:23:37-04:00",
+      "source_id": 14367023618
+    },
+    {
+      "id": "1880653364765839385",
+      "program": "SDBENCHMARK",
+      "message": "Maxym 2025-07-12 14:31:14.061353|2.72 / 3.0 / 3.21|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19043-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:redwater_ [f270468c37] vae:none width:512 height:512|Maxym||d8d4ae|2c2c40 ",
+      "generated_at": "2025-07-12T10:32:05-04:00",
+      "source_id": 14367023618
     }
   ]
 }
