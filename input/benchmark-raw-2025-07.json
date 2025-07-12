@@ -1,5 +1,5 @@
 {
-  "max_id": "1880351234179907591",
+  "max_id": "1880454121664987138",
   "events": [
     {
       "id": "1876579744066224166",
@@ -483,6 +483,34 @@
       "message": "nolan 2025-07-11 18:30:48.500967|3.98 / 4.04 / 3.98|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:automatic width:1024 height:1024|nolan||13c64c|dff2e3 ",
       "generated_at": "2025-07-11T14:31:34-04:00",
       "source_id": 14366511375
+    },
+    {
+      "id": "1880453904186130432",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-09 18:24:43.312537|2.52 / error / 4.0|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sdxl\\realdream_sdxlpony13_1068521.safetensors vae:none width:512 height:512|do-it||dbd1a5|ed4824 ",
+      "generated_at": "2025-07-11T20:19:28-04:00",
+      "source_id": 14366735121
+    },
+    {
+      "id": "1880453904190324739",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-07-12 00:19:12.587355|9.94 / 18.27 / 28.13|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver: 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:automatic width:512 height:512|do-it||7dbdf2|66338f ",
+      "generated_at": "2025-07-11T20:19:28-04:00",
+      "source_id": 14366735121
+    },
+    {
+      "id": "1880454121656598544",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-03-09 18:24:43.312537|2.52 / error / 4.0|app:stable-diffusion-webui-forge.git updated:2025-03-03 hash:c055f2d4 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:572.47 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sdxl\\realdream_sdxlpony13_1068521.safetensors vae:none width:512 height:512|do-it||dbd1a5|ed4824 ",
+      "generated_at": "2025-07-11T20:20:20-04:00",
+      "source_id": 14366735121
+    },
+    {
+      "id": "1880454121664987138",
+      "program": "SDBENCHMARK",
+      "message": "do-it 2025-07-12 00:20:02.918918|9.79 / 18.3 / 27.8|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4090 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver: 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\babesbystableyogi_ponyv3vae_891071.safetensors vae:automatic width:512 height:512|do-it||7dbdf2|683a08 ",
+      "generated_at": "2025-07-11T20:20:20-04:00",
+      "source_id": 14366735121
     }
   ]
 }
