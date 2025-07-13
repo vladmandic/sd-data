@@ -1,5 +1,5 @@
 {
-  "max_id": "1880826015903834126",
+  "max_id": "1881108032096759822",
   "events": [
     {
       "id": "1876579744066224166",
@@ -588,6 +588,27 @@
       "message": "meowmixer 2025-07-13 00:57:07.952677|2.48 / 2.52 / 2.61|app:sdnext updated:2025-07-05 hash:d1fcbf17 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.9.0.dev20250705+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43483-a187df25c 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:1024 height:1024|meowmixer||2e870b|90a030 ",
       "generated_at": "2025-07-12T20:58:08-04:00",
       "source_id": 14367252378
+    },
+    {
+      "id": "1881081561827434499",
+      "program": "SDBENCHMARK",
+      "message": "86185 2025-07-13 23:52:22.825289|3.21 / 2.11 / 4.59|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:546.33 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|86185||98eda7|fdfcca ",
+      "generated_at": "2025-07-13T19:53:37-04:00",
+      "source_id": 14367576119
+    },
+    {
+      "id": "1881081673685327881",
+      "program": "SDBENCHMARK",
+      "message": "86185 2025-07-13 23:52:22.825289|3.21 / 2.11 / 4.59|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:546.33 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|86185||98eda7|fdfcca ",
+      "generated_at": "2025-07-13T19:54:04-04:00",
+      "source_id": 14367576119
+    },
+    {
+      "id": "1881108032096759822",
+      "program": "SDBENCHMARK",
+      "message": "shi 2025-07-14 01:38:14.948132|20.1 / 22.5 / 22.86|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.88 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|shi||0838d2|826a64 ",
+      "generated_at": "2025-07-13T21:38:43-04:00",
+      "source_id": 14367614030
     }
   ]
 }
