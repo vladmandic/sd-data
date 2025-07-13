@@ -1,5 +1,5 @@
 {
-  "max_id": "1880750681468616712",
+  "max_id": "1880826015903834126",
   "events": [
     {
       "id": "1876579744066224166",
@@ -560,6 +560,34 @@
       "message": "ge 2025-07-13 01:58:41.728619|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+xpu xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|ge||01fb55|667956 ",
       "generated_at": "2025-07-12T21:58:47-04:00",
       "source_id": 14367156813
+    },
+    {
+      "id": "1880822352107986949",
+      "program": "SDBENCHMARK",
+      "message": "meowmixer 2025-07-13 00:41:33.861421|3.74 / 3.28 / 5.09|app:sdnext updated:2025-07-05 hash:d1fcbf17 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.9.0.dev20250705+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43483-a187df25c 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:tunix3dstylizedpony_v10vae [22e9fa0dbc] vae:none width:512 height:512|meowmixer||2e870b|ccdb94 ",
+      "generated_at": "2025-07-12T20:43:35-04:00",
+      "source_id": 14367252378
+    },
+    {
+      "id": "1880824063719555077",
+      "program": "SDBENCHMARK",
+      "message": "meowmixer 2025-07-13 00:47:55.600013|1.03 / 1.11 / 1.1|app:sdnext updated:2025-07-05 hash:d1fcbf17 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.9.0.dev20250705+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43483-a187df25c 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:tunix3dstylizedpony_v10vae [22e9fa0dbc] vae:none width:1024 height:1024|meowmixer||2e870b|a96b39 ",
+      "generated_at": "2025-07-12T20:50:23-04:00",
+      "source_id": 14367252378
+    },
+    {
+      "id": "1880824967927623683",
+      "program": "SDBENCHMARK",
+      "message": "testai 2025-07-13 00:52:57.546348|4.44 / 2.82 / 8.39|app:sdnext updated:2025-07-05 hash:d1fcbf17 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.9.0.dev20250705+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43483-a187df25c 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tunix3dstylizedpony_v10vae [22e9fa0dbc] vae:none width:512 height:512|testai||2e870b|0274d8 ",
+      "generated_at": "2025-07-12T20:53:58-04:00",
+      "source_id": 14367252378
+    },
+    {
+      "id": "1880826015903834126",
+      "program": "SDBENCHMARK",
+      "message": "meowmixer 2025-07-13 00:57:07.952677|2.48 / 2.52 / 2.61|app:sdnext updated:2025-07-05 hash:d1fcbf17 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.12.3|torch:2.9.0.dev20250705+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43483-a187df25c 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:1024 height:1024|meowmixer||2e870b|90a030 ",
+      "generated_at": "2025-07-12T20:58:08-04:00",
+      "source_id": 14367252378
     }
   ]
 }
