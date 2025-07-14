@@ -1,5 +1,5 @@
 {
-  "max_id": "1881265761490751516",
+  "max_id": "1881309321762107403",
   "events": [
     {
       "id": "1876579744066224166",
@@ -616,6 +616,20 @@
       "message": "Qx 2025-07-14 00:04:41.461681|2.68 / 3.05 / 4.49|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernaut-x-rundiffusion-nsfw [d91d35736d] vae:none width:512 height:512|Qx||34a1e7|b2449e ",
       "generated_at": "2025-07-13T20:05:33-04:00",
       "source_id": 14367847500
+    },
+    {
+      "id": "1881309310999523341",
+      "program": "SDBENCHMARK",
+      "message": "wwxb 2025-07-14 14:58:07.147668|6.36 / 6.9 / 7.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|wwxb||d9b1f3|7b11cf ",
+      "generated_at": "2025-07-14T10:58:33-04:00",
+      "source_id": 14367918711
+    },
+    {
+      "id": "1881309321762107403",
+      "program": "SDBENCHMARK",
+      "message": "wwxb 2025-07-14 14:58:07.147668|6.36 / 6.9 / 7.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|wwxb||d9b1f3|7b11cf ",
+      "generated_at": "2025-07-14T10:58:36-04:00",
+      "source_id": 14367918711
     }
   ]
 }
