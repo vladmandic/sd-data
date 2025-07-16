@@ -1,5 +1,5 @@
 {
-  "max_id": "1882087494527410197",
+  "max_id": "1882192322599505931",
   "events": [
     {
       "id": "1876579744066224166",
@@ -721,6 +721,13 @@
       "message": "marco 2025-07-16 12:27:43.371468|6.7 / 7.16 / 7.66|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:576.02 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:epicrealism_naturalsinrc1vae.safetensors [84d76a0328] vae:automatic width:512 height:512|marco||fbdabf|e7f8e7 ",
       "generated_at": "2025-07-16T08:30:48-04:00",
       "source_id": 14369338229
+    },
+    {
+      "id": "1882192322599505931",
+      "program": "SDBENCHMARK",
+      "message": "lll 2025-07-17 01:25:13.278739|1.61 / 1.53 / 1.66|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:controlnet\\control_v11e_sd15_ip2p_fp16.safetensors [11e7dbe52a] vae:automatic width:512 height:512|lll||e788c2|7f6025 ",
+      "generated_at": "2025-07-16T21:27:21-04:00",
+      "source_id": 14369521427
     }
   ]
 }
