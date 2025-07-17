@@ -1,5 +1,5 @@
 {
-  "max_id": "1882192322599505931",
+  "max_id": "1882230123596541958",
   "events": [
     {
       "id": "1876579744066224166",
@@ -728,6 +728,13 @@
       "message": "lll 2025-07-17 01:25:13.278739|1.61 / 1.53 / 1.66|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:560.94 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:controlnet\\control_v11e_sd15_ip2p_fp16.safetensors [11e7dbe52a] vae:automatic width:512 height:512|lll||e788c2|7f6025 ",
       "generated_at": "2025-07-16T21:27:21-04:00",
       "source_id": 14369521427
+    },
+    {
+      "id": "1882230123596541958",
+      "program": "SDBENCHMARK",
+      "message": "sovgos 2025-07-16 20:57:05.413132|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-60-generic python:3.10.12|torch:2.5.1+rocm6.2 xformers: diffusers:0.32.2 transformers:4.48.1|device:AMD Radeon RX 6800 XT (1) hip:6.2.41133-dd7f95766 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.ckpt vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|sovgos|a|e9b3ac|89a978 ",
+      "generated_at": "2025-07-16T16:57:34-04:00",
+      "source_id": 14369583700
     }
   ]
 }
