@@ -1,5 +1,5 @@
 {
-  "max_id": "1882230123596541958",
+  "max_id": "1882787872390705160",
   "events": [
     {
       "id": "1876579744066224166",
@@ -735,6 +735,20 @@
       "message": "sovgos 2025-07-16 20:57:05.413132|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-60-generic python:3.10.12|torch:2.5.1+rocm6.2 xformers: diffusers:0.32.2 transformers:4.48.1|device:AMD Radeon RX 6800 XT (1) hip:6.2.41133-dd7f95766 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.ckpt vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|sovgos|a|e9b3ac|89a978 ",
       "generated_at": "2025-07-16T16:57:34-04:00",
       "source_id": 14369583700
+    },
+    {
+      "id": "1882787829067739137",
+      "program": "SDBENCHMARK",
+      "message": "cmc 2025-07-18 16:46:36.471415|2.91 / 4.58 / 8.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:565.90 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:二次元sdxl\\2d 动漫风格bespokeillmix_v10.safetensors [b99150183c] vae:automatic width:512 height:512|cmc||e021e8|bf6979 ",
+      "generated_at": "2025-07-18T12:53:02-04:00",
+      "source_id": 14370491017
+    },
+    {
+      "id": "1882787872390705160",
+      "program": "SDBENCHMARK",
+      "message": "cmc 2025-07-18 16:46:36.471415|2.91 / 4.58 / 8.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:565.90 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:二次元sdxl\\2d 动漫风格bespokeillmix_v10.safetensors [b99150183c] vae:automatic width:512 height:512|cmc||e021e8|bf6979 ",
+      "generated_at": "2025-07-18T12:53:12-04:00",
+      "source_id": 14370491017
     }
   ]
 }
