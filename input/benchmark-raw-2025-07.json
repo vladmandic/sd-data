@@ -1,5 +1,5 @@
 {
-  "max_id": "1883087455079546881",
+  "max_id": "1883169445548056582",
   "events": [
     {
       "id": "1876579744066224166",
@@ -791,6 +791,13 @@
       "message": "cmc 2025-07-19 12:42:16.668486|2.25 / 2.56 / 3.0|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:565.90 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:二次元sdxl\\热门动漫角色模式wainsfwillustrious_v140.safetensors [bdb59bac77] vae:automatic width:768 height:1024|cmc||e021e8|a88ea0 ",
       "generated_at": "2025-07-19T08:43:38-04:00",
       "source_id": 14370491017
+    },
+    {
+      "id": "1883169445548056582",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-07-19 03:09:40.976055|error / error / error|app:automatic.git updated:2025-07-06 hash:d5d857aa url:git@github.com:vladmandic/automatic.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.5.0 python:3.11.12|torch:2.7.1 xformers: diffusers:0.35.0.dev0 transformers:4.53.0| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|aaronkline||216a6a|304805 ",
+      "generated_at": "2025-07-18T23:10:05-04:00",
+      "source_id": 14371032904
     }
   ]
 }
