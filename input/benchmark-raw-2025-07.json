@@ -1,5 +1,5 @@
 {
-  "max_id": "1883169445548056582",
+  "max_id": "1883377275324526601",
   "events": [
     {
       "id": "1876579744066224166",
@@ -798,6 +798,20 @@
       "message": "aaronkline 2025-07-19 03:09:40.976055|error / error / error|app:automatic.git updated:2025-07-06 hash:d5d857aa url:git@github.com:vladmandic/automatic.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.5.0 python:3.11.12|torch:2.7.1 xformers: diffusers:0.35.0.dev0 transformers:4.53.0| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|aaronkline||216a6a|304805 ",
       "generated_at": "2025-07-18T23:10:05-04:00",
       "source_id": 14371032904
+    },
+    {
+      "id": "1883300885430452245",
+      "program": "SDBENCHMARK",
+      "message": "adeta 2025-07-19 13:46:24.768897|0.87 / 1.55 / 2.15|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.88 12GB|pipeline:a1111 crossattention:sub-quadratic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|adeta||dcd5c8|3fb51b ",
+      "generated_at": "2025-07-19T09:52:26-04:00",
+      "source_id": 14371185806
+    },
+    {
+      "id": "1883377275324526601",
+      "program": "SDBENCHMARK",
+      "message": "User 2025-07-19 18:50:23.282712|23.27 / 29.38 / 34.21 / 35.81 / 35.84 / 36.16 / 36.12|app:stable-diffusion-webui-forge.git updated:2025-05-23 hash:d557aef9 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion2 model:768-v-ema.ckpt vae:none width:512 height:512|User||cbc78b|2099df ",
+      "generated_at": "2025-07-19T14:55:57-04:00",
+      "source_id": 14371273149
     }
   ]
 }
