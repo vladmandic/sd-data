@@ -1,5 +1,5 @@
 {
-  "max_id": "1883377275324526601",
+  "max_id": "1883465593731084292",
   "events": [
     {
       "id": "1876579744066224166",
@@ -812,6 +812,83 @@
       "message": "User 2025-07-19 18:50:23.282712|23.27 / 29.38 / 34.21 / 35.81 / 35.84 / 36.16 / 36.12|app:stable-diffusion-webui-forge.git updated:2025-05-23 hash:d557aef9 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion2 model:768-v-ema.ckpt vae:none width:512 height:512|User||cbc78b|2099df ",
       "generated_at": "2025-07-19T14:55:57-04:00",
       "source_id": 14371273149
+    },
+    {
+      "id": "1883402979546165255",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:21:22.414991|error / error / 0.26|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic none|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||036994|8d0080 ",
+      "generated_at": "2025-07-20T00:38:04-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883402979546165260",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:36:30.452776|1.35 / 1.25 / 0.78|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic medvram|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||54c037|7b552f ",
+      "generated_at": "2025-07-20T00:38:04-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883402979701354498",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:45:39.737035|1.47 / 1.35 / 1.46|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic medvram|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||42a5e1|c046fc ",
+      "generated_at": "2025-07-20T00:38:04-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883402979701354500",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2025-07-20 04:21:55.544839|4.38 / 3.1 / 0.23|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+cu128 full nohalf xformers:0.0.31.post1 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|Automatic none|realisticVisionV51_v51VAE.safetensors [ef76aa2332]|Victor||a3dace|9e8fcd ",
+      "generated_at": "2025-07-20T00:38:04-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544518688787",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:21:22.414991|error / error / 0.26|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 autocast half xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic none|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||036994|8d0080 ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544518688788",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:36:30.452776|1.35 / 1.25 / 0.78|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic medvram|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||54c037|7b552f ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544518688789",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2024-03-10 03:45:39.737035|1.47 / 1.35 / 1.46|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.1.2+cu121 full nohalf xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:551.76 6GB|Automatic medvram|realisticVisionV60B1_v51VAE-inpainting.safetensors [f0d4872d24]|Victor||42a5e1|c046fc ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544522883078",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2025-07-20 04:21:55.544839|4.38 / 3.1 / 0.23|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+cu128 full nohalf xformers:0.0.31.post1 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|Automatic none|realisticVisionV51_v51VAE.safetensors [ef76aa2332]|Victor||a3dace|9e8fcd ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544522883081",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2025-07-20 05:00:10.621049|4.43 / 4.58 / 0.58|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+cu128 full nohalf xformers:0.0.31.post1 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|Automatic medvram-sdxl|realisticVisionV51_v51VAE.safetensors [ef76aa2332]|Victor||e8f8e7|309397 ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883410544522883083",
+      "program": "SDBENCHMARK",
+      "message": "Victor 2025-07-20 04:46:58.579370|2.31 / 2.98 / 0.53|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+cu128 full nohalf xformers:0.0.31.post1 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|Automatic medvram|realisticVisionV51_v51VAE.safetensors [ef76aa2332]|Victor||74bba0|90a63a ",
+      "generated_at": "2025-07-20T01:08:08-04:00",
+      "source_id": 14371302057
+    },
+    {
+      "id": "1883465593731084292",
+      "program": "SDBENCHMARK",
+      "message": "Jonathan Au 2025-07-20 13:41:44.595160|0.51 / 0.54 / 0.55|app:SD.next updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 112 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.16|torch:2.4.1+cpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly [92954befdb] vae:automatic width:512 height:512|Jonathan Au||f6ade1|76a72d ",
+      "generated_at": "2025-07-20T09:46:55-04:00",
+      "source_id": 14371364366
     }
   ]
 }
