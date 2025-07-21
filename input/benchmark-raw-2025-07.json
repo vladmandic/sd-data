@@ -1,5 +1,5 @@
 {
-  "max_id": "1883929361707614216",
+  "max_id": "1883969187634921477",
   "events": [
     {
       "id": "1876579744066224166",
@@ -910,6 +910,27 @@
       "message": "Heng_Qing 2025-07-21 20:29:28.167541|15.2 / 5.34 / 20.68|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.7.0+cu126 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.6 cudnn:90701 driver:566.36 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|Heng_Qing||a7e8b8|868317 ",
       "generated_at": "2025-07-21T16:29:49-04:00",
       "source_id": 14371960236
+    },
+    {
+      "id": "1883969167783280655",
+      "program": "SDBENCHMARK",
+      "message": "dudql 2025-07-22 00:07:21.233779|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|dudql||c1b3ce|c84460 ",
+      "generated_at": "2025-07-21T20:07:55-04:00",
+      "source_id": 14372024608
+    },
+    {
+      "id": "1883969176272551952",
+      "program": "SDBENCHMARK",
+      "message": "dudql 2025-07-22 00:07:21.233779|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|dudql||c1b3ce|c84460 ",
+      "generated_at": "2025-07-21T20:07:57-04:00",
+      "source_id": 14372024608
+    },
+    {
+      "id": "1883969187634921477",
+      "program": "SDBENCHMARK",
+      "message": "dudql 2025-07-22 00:07:21.233779|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|dudql||c1b3ce|c84460 ",
+      "generated_at": "2025-07-21T20:08:00-04:00",
+      "source_id": 14372024608
     }
   ]
 }
