@@ -1,5 +1,5 @@
 {
-  "max_id": "1883969187634921477",
+  "max_id": "1884023189550579725",
   "events": [
     {
       "id": "1876579744066224166",
@@ -931,6 +931,13 @@
       "message": "dudql 2025-07-22 00:07:21.233779|error / error / error|app:stable-diffusion-webui-reForge.git updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|dudql||c1b3ce|c84460 ",
       "generated_at": "2025-07-21T20:08:00-04:00",
       "source_id": 14372024608
+    },
+    {
+      "id": "1884023189550579725",
+      "program": "SDBENCHMARK",
+      "message": "Kishin 2025-07-22 02:24:56.518780|error / 0.13 / 0.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 Ti (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:576.88 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Kishin||0a6556|06e860 ",
+      "generated_at": "2025-07-21T22:42:32-04:00",
+      "source_id": 14372112945
     }
   ]
 }
