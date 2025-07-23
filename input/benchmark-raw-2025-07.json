@@ -1,5 +1,5 @@
 {
-  "max_id": "1884540570576273408",
+  "max_id": "1884697295006650382",
   "events": [
     {
       "id": "1876579744066224166",
@@ -966,6 +966,20 @@
       "message": "Ich 2025-07-23 06:57:16.419547|13.07 / 20.26 / 36.44 / 47.67 / 53.32 / 55.46 / 55.67|app:sd-webui-forge-classic updated:2025-07-18 hash:c10cb225 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors vae:sdxl_vae.safetensors width:512 height:512|Ich|c|3fd684|a4d40f ",
       "generated_at": "2025-07-23T02:58:26-04:00",
       "source_id": 14372747660
+    },
+    {
+      "id": "1884684292567781379",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-07-23 14:26:02.178297|0.86 / 0.9 / 0.95|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:pornmaster_prosdxlv6vae [25e9b5beda] vae:none width:512 height:512|Admin||df4060|14d21e ",
+      "generated_at": "2025-07-23T10:29:33-04:00",
+      "source_id": 14372780146
+    },
+    {
+      "id": "1884697295006650382",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-07-23 15:18:29.267237|0.85 / 0.9 / 0.96|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:pornmaster_prosdxlv6vae [25e9b5beda] vae:none width:512 height:512|Admin||df4060|49efcc ",
+      "generated_at": "2025-07-23T11:21:13-04:00",
+      "source_id": 14372780146
     }
   ]
 }
