@@ -1,5 +1,5 @@
 {
-  "max_id": "1884697295006650382",
+  "max_id": "1884897395326767106",
   "events": [
     {
       "id": "1876579744066224166",
@@ -980,6 +980,188 @@
       "message": "Admin 2025-07-23 15:18:29.267237|0.85 / 0.9 / 0.96|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.10|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:pornmaster_prosdxlv6vae [25e9b5beda] vae:none width:512 height:512|Admin||df4060|49efcc ",
       "generated_at": "2025-07-23T11:21:13-04:00",
       "source_id": 14372780146
+    },
+    {
+      "id": "1884870742223540231",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:26-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870747625803786",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:27-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870749966225410",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:28-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870750981246978",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:28-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870751631364099",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:28-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870832782757889",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870833508372481",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870834238181382",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870834959601667",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870835693604866",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870836364693523",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:48-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870851363524613",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:52-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870868321095683",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:56-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870872465068033",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:57-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870874000183310",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:57-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870874742575112",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:58-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870875484966917",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:58-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870876336410632",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:58-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870877124939782",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:58-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870877884108801",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:58-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870878798467082",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:59-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870879503110157",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:59-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884870880262279178",
+      "program": "SDBENCHMARK",
+      "message": "valen 2025-07-24 03:44:09.005946|error / error / error|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:577.00 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:flux1-dev-bnb-nf4-v2.safetensors vae:none width:512 height:512|valen||f2bb72|6db113 ",
+      "generated_at": "2025-07-23T23:50:59-04:00",
+      "source_id": 14373486206
+    },
+    {
+      "id": "1884888959688040462",
+      "program": "SDBENCHMARK",
+      "message": "YWJ 2025-07-24 12:01:15.215427|11.38 / 12.34 / 12.25|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|YWJ||5eae2d|83a4ad ",
+      "generated_at": "2025-07-24T08:02:50-04:00",
+      "source_id": 14373514898
+    },
+    {
+      "id": "1884888966939992065",
+      "program": "SDBENCHMARK",
+      "message": "YWJ 2025-07-24 12:01:15.215427|11.38 / 12.34 / 12.25|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|YWJ||5eae2d|83a4ad ",
+      "generated_at": "2025-07-24T08:02:51-04:00",
+      "source_id": 14373514898
+    },
+    {
+      "id": "1884897395326767106",
+      "program": "SDBENCHMARK",
+      "message": "b32de 2025-07-23 22:34:09.324039|1.51 / 2.73 / 3.63|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu126 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:576.52 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:copaxtimeless_photorealismsdxl8step [001f19b5ed] vae:none width:512 height:512|b32de||77fcd8|bed8d9 ",
+      "generated_at": "2025-07-23T18:36:20-04:00",
+      "source_id": 14373530316
     }
   ]
 }
