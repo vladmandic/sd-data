@@ -1,5 +1,5 @@
 {
-  "max_id": "1884897395326767106",
+  "max_id": "1885331064499658763",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1162,6 +1162,20 @@
       "message": "b32de 2025-07-23 22:34:09.324039|1.51 / 2.73 / 3.63|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu126 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:576.52 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:copaxtimeless_photorealismsdxl8step [001f19b5ed] vae:none width:512 height:512|b32de||77fcd8|bed8d9 ",
       "generated_at": "2025-07-23T18:36:20-04:00",
       "source_id": 14373530316
+    },
+    {
+      "id": "1885331030966198272",
+      "program": "SDBENCHMARK",
+      "message": "archi 2025-07-25 12:11:31.615412|error / error / error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.18|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:indigovoidfurryfusedxl_noobaiv22.safetensors [8a740f0766] vae:none width:512 height:512|archi||2665ad|c936bb ",
+      "generated_at": "2025-07-25T08:12:21-04:00",
+      "source_id": 14374231535
+    },
+    {
+      "id": "1885331064499658763",
+      "program": "SDBENCHMARK",
+      "message": "archi 2025-07-25 12:11:31.615412|error / error / error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.18|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:indigovoidfurryfusedxl_noobaiv22.safetensors [8a740f0766] vae:none width:512 height:512|archi||2665ad|c936bb ",
+      "generated_at": "2025-07-25T08:12:29-04:00",
+      "source_id": 14374231535
     }
   ]
 }
