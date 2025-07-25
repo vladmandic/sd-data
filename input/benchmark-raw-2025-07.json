@@ -1,5 +1,5 @@
 {
-  "max_id": "1885331064499658763",
+  "max_id": "1885420238133194762",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1176,6 +1176,13 @@
       "message": "archi 2025-07-25 12:11:31.615412|error / error / error / error / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.10.16.3-microsoft-standard-WSL2 python:3.10.18|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8902 driver:572.83 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:indigovoidfurryfusedxl_noobaiv22.safetensors [8a740f0766] vae:none width:512 height:512|archi||2665ad|c936bb ",
       "generated_at": "2025-07-25T08:12:29-04:00",
       "source_id": 14374231535
+    },
+    {
+      "id": "1885420238133194762",
+      "program": "SDBENCHMARK",
+      "message": "ChenShan 2025-07-25 23:13:26.148971|8.43 / 9.1 / 9.54|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|ChenShan||5b8ce7|391782 ",
+      "generated_at": "2025-07-25T19:13:55-04:00",
+      "source_id": 14374370088
     }
   ]
 }
