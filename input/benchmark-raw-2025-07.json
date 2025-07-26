@@ -1,5 +1,5 @@
 {
-  "max_id": "1885420238133194762",
+  "max_id": "1885741258421489683",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1183,6 +1183,20 @@
       "message": "ChenShan 2025-07-25 23:13:26.148971|8.43 / 9.1 / 9.54|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|ChenShan||5b8ce7|391782 ",
       "generated_at": "2025-07-25T19:13:55-04:00",
       "source_id": 14374370088
+    },
+    {
+      "id": "1885651474265067525",
+      "program": "SDBENCHMARK",
+      "message": "wanin 2025-07-26 01:31:21.249476|2.04 / 2.24 / 2.41|app:sdnext.git updated:2025-07-26 hash:c21c7e54 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|wanin||a0d5be|07cc15 ",
+      "generated_at": "2025-07-25T21:32:45-04:00",
+      "source_id": 14374679948
+    },
+    {
+      "id": "1885741258421489683",
+      "program": "SDBENCHMARK",
+      "message": "stan110 2025-07-26 12:29:07.184090|3.48 / 6.8 / 9.8|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-24-generic python:3.13.3|torch:2.9.0.dev20250724+xpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:Intel(R) Graphics [0xe20b] (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:hassakuxlillustrious_v30 [b4fb5f829a] vae:none width:512 height:512|stan110|Intel B580|399532|821c5f ",
+      "generated_at": "2025-07-26T08:29:31-04:00",
+      "source_id": 14374785287
     }
   ]
 }
