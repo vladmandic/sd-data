@@ -1,5 +1,5 @@
 {
-  "max_id": "1885805998892048392",
+  "max_id": "1886244051594956883",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1232,6 +1232,13 @@
       "message": "stan110 2025-07-26 16:36:53.454870|3.05 / 3.35 / 4.9 / 7.79 / 9.96 / 10.67 / error|app:sdnext updated:2025-07-06 hash:d5d857aa url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-24-generic python:3.13.3|torch:2.9.0.dev20250724+xpu xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:Intel(R) Graphics [0xe20b] (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaanimexl_ilv90 [c9e3c3fd00] vae:none width:512 height:512|stan110||399532|4f6b06 ",
       "generated_at": "2025-07-26T12:46:46-04:00",
       "source_id": 14374785287
+    },
+    {
+      "id": "1886244051594956883",
+      "program": "SDBENCHMARK",
+      "message": "dosso 2025-07-27 16:45:38.434982|error / error / error|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|dosso||affe93|1d0556 ",
+      "generated_at": "2025-07-27T12:47:27-04:00",
+      "source_id": 14375392364
     }
   ]
 }
