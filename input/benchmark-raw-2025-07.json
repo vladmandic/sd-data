@@ -1,5 +1,5 @@
 {
-  "max_id": "1886244051594956883",
+  "max_id": "1886462780731736070",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1239,6 +1239,41 @@
       "message": "dosso 2025-07-27 16:45:38.434982|error / error / error|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.0| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|dosso||affe93|1d0556 ",
       "generated_at": "2025-07-27T12:47:27-04:00",
       "source_id": 14375392364
+    },
+    {
+      "id": "1886395144572428288",
+      "program": "SDBENCHMARK",
+      "message": "admin 2024-05-20 16:55:00.996522|2.29 / 2.49 / 2.55|app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd9 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.18362-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:527.56 8GB|Automatic none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|admin||6928a9|4245aa ",
+      "generated_at": "2025-07-28T11:47:52-04:00",
+      "source_id": 14375650010
+    },
+    {
+      "id": "1886395144572428294",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-07-28 15:46:10.063555|2.95 / 3.06 / 3.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon Pro Vega II (1) (compute_37) (8, 8) cuda:11.8 cudnn:8800 driver: 32GB|Automatic none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|admin||e472f9|6a0f3a ",
+      "generated_at": "2025-07-28T11:47:52-04:00",
+      "source_id": 14375650010
+    },
+    {
+      "id": "1886396878032134172",
+      "program": "SDBENCHMARK",
+      "message": "admin 2024-05-20 16:55:00.996522|2.29 / 2.49 / 2.55|app:stable-diffusion-webui updated:2023-07-27 hash:68f336bd9 url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.18362-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA P104-100 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8800 driver:527.56 8GB|Automatic none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|admin||6928a9|4245aa ",
+      "generated_at": "2025-07-28T11:54:46-04:00",
+      "source_id": 14375650010
+    },
+    {
+      "id": "1886396878036328459",
+      "program": "SDBENCHMARK",
+      "message": "admin 2025-07-28 15:53:35.270447|2.96 / 3.07 / 3.18|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon Pro Vega II (1) (compute_37) (8, 8) cuda:11.8 cudnn:8800 driver: 32GB|Automatic none|chilloutmix_NiPrunedFp32Fix.safetensors [fc2511737a]|admin||e472f9|15e2bc ",
+      "generated_at": "2025-07-28T11:54:46-04:00",
+      "source_id": 14375650010
+    },
+    {
+      "id": "1886462780731736070",
+      "program": "SDBENCHMARK",
+      "message": "philsci 2025-07-28 21:15:59.124496|error / error / error|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|philsci||ac767a|a65e5d ",
+      "generated_at": "2025-07-28T17:16:39-04:00",
+      "source_id": 14375763056
     }
   ]
 }
