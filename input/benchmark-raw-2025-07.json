@@ -1,5 +1,5 @@
 {
-  "max_id": "1886462780731736070",
+  "max_id": "1886494276590956556",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1274,6 +1274,13 @@
       "message": "philsci 2025-07-28 21:15:59.124496|error / error / error|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.80 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|philsci||ac767a|a65e5d ",
       "generated_at": "2025-07-28T17:16:39-04:00",
       "source_id": 14375763056
+    },
+    {
+      "id": "1886494276590956556",
+      "program": "SDBENCHMARK",
+      "message": "nog_3 2025-07-28 22:21:21.821742|8.45 / 9.38 / 9.91|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cz\\illustrious\\dream tech xl 筑梦工业 xl.safetensors [abc5b8d605] vae:automatic width:720 height:1080|nog_3||45fd95|0fd315 ",
+      "generated_at": "2025-07-28T18:21:47-04:00",
+      "source_id": 14375814792
     }
   ]
 }
