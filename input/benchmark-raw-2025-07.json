@@ -1,5 +1,5 @@
 {
-  "max_id": "1886494276590956556",
+  "max_id": "1886673474999738384",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1281,6 +1281,13 @@
       "message": "nog_3 2025-07-28 22:21:21.821742|8.45 / 9.38 / 9.91|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cz\\illustrious\\dream tech xl 筑梦工业 xl.safetensors [abc5b8d605] vae:automatic width:720 height:1080|nog_3||45fd95|0fd315 ",
       "generated_at": "2025-07-28T18:21:47-04:00",
       "source_id": 14375814792
+    },
+    {
+      "id": "1886673474999738384",
+      "program": "SDBENCHMARK",
+      "message": "toor 2025-07-29 02:09:43.066760|1.41 / 0.52 / 0.67|app:sdnext.git updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.13.9-200.fc41.x86_64 python:3.12.3|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 6600 (1) hip:6.3.42131-fa1d09cbd 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:pony/ponyrealism_v21mainvae [059934ff58] vae:none width:512 height:512|root||e8dc2e|b29786 ",
+      "generated_at": "2025-07-28T22:13:51-04:00",
+      "source_id": 14376110060
     }
   ]
 }
