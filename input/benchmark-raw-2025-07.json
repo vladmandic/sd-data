@@ -1,5 +1,5 @@
 {
-  "max_id": "1886673474999738384",
+  "max_id": "1886781476142505997",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1288,6 +1288,13 @@
       "message": "toor 2025-07-29 02:09:43.066760|1.41 / 0.52 / 0.67|app:sdnext.git updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.13.9-200.fc41.x86_64 python:3.12.3|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 6600 (1) hip:6.3.42131-fa1d09cbd 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:pony/ponyrealism_v21mainvae [059934ff58] vae:none width:512 height:512|root||e8dc2e|b29786 ",
       "generated_at": "2025-07-28T22:13:51-04:00",
       "source_id": 14376110060
+    },
+    {
+      "id": "1886781476142505997",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-07-29 17:22:33.270658|18.5 / 23.85 / 26.28|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:555.99 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Admin||4d7a49|4b5688 ",
+      "generated_at": "2025-07-29T13:23:00-04:00",
+      "source_id": 14376300949
     }
   ]
 }
