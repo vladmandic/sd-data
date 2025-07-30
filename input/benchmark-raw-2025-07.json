@@ -1,5 +1,5 @@
 {
-  "max_id": "1887121250241929217",
+  "max_id": "1887275703687364625",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1316,6 +1316,34 @@
       "message": "admin 2025-07-30 15:52:46.435022|18.85 / 21.99 / 23.68|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|admin||2c07a2|b5ef54 ",
       "generated_at": "2025-07-30T11:53:09-04:00",
       "source_id": 14376859404
+    },
+    {
+      "id": "1887203279545483264",
+      "program": "SDBENCHMARK",
+      "message": "hattori 2025-07-30 14:17:20.169417|4.64 / 2.11 / 5.51|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.7-200.fc42.x86_64 python:3.12.11|torch:2.9.0.dev20250729+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:realdream_sdxlpony15 [4579b62f60] vae:none width:512 height:512|hattori||734a61|d91193 ",
+      "generated_at": "2025-07-30T10:19:06-04:00",
+      "source_id": 14376989612
+    },
+    {
+      "id": "1887203433208012809",
+      "program": "SDBENCHMARK",
+      "message": "hattori 2025-07-30 14:19:16.034722|5.03 / 6.34 / 6.94|app:sdnext updated:2025-07-27 hash:156148b8 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.7-200.fc42.x86_64 python:3.12.11|torch:2.9.0.dev20250729+rocm6.4 xformers: diffusers:0.35.0.dev0 transformers:4.53.0|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:realdream_sdxlpony15 [4579b62f60] vae:none width:512 height:512|hattori||734a61|85af73 ",
+      "generated_at": "2025-07-30T10:19:43-04:00",
+      "source_id": 14376989612
+    },
+    {
+      "id": "1887275703678988304",
+      "program": "SDBENCHMARK",
+      "message": "arvi 2025-07-30 21:06:22.328620|6.12 / 8.53 / 10.37|app:sdnext.git updated:2025-07-30 hash:052f0979 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu: system:Linux release:6.15.8-2-cachyos python:3.12.4|torch:2.9.0.dev20250730+rocm6.4 xformers: diffusers:0.34.0 transformers:4.53.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:none width:512 height:512|arvi||e05f1c|8d2559 ",
+      "generated_at": "2025-07-30T17:06:54-04:00",
+      "source_id": 14377101659
+    },
+    {
+      "id": "1887275703687364625",
+      "program": "SDBENCHMARK",
+      "message": "arvi 2025-07-30 20:24:49.362939|4.27 / 0.98 / 1.16|app:sdnext.git updated:2025-07-30 hash:052f0979 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu: system:Linux release:6.15.8-2-cachyos python:3.12.4|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 9070 XT (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:automatic width:512 height:512|arvi||66d078|574705 ",
+      "generated_at": "2025-07-30T17:06:54-04:00",
+      "source_id": 14377101659
     }
   ]
 }
