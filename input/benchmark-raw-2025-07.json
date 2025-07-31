@@ -1,5 +1,5 @@
 {
-  "max_id": "1887498971912523783",
+  "max_id": "1887601437840691219",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1372,6 +1372,20 @@
       "message": "s_nog 2025-07-31 17:50:00.354095|13.1 / 15.78 / 17.94|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|s_nog||d63833|118f17 ",
       "generated_at": "2025-07-31T13:54:05-04:00",
       "source_id": 14377475121
+    },
+    {
+      "id": "1887601429414334476",
+      "program": "SDBENCHMARK",
+      "message": "cooki 2025-07-31 23:36:03.604189|1.16 / 0.5 / 0.49|app:sdnext updated:2025-07-30 hash:052f0979 url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.3|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusion3Pipeline model:diffusers\\stabilityai/stable-diffusion-3.5-medium [b940f670f0] vae:none width:512 height:512|cooki||70ded5|60d47d ",
+      "generated_at": "2025-07-31T19:41:11-04:00",
+      "source_id": 14377643050
+    },
+    {
+      "id": "1887601437840691219",
+      "program": "SDBENCHMARK",
+      "message": "cooki 2025-07-31 23:36:03.604189|1.16 / 0.5 / 0.49|app:sdnext updated:2025-07-30 hash:052f0979 url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.3|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusion3Pipeline model:diffusers\\stabilityai/stable-diffusion-3.5-medium [b940f670f0] vae:none width:512 height:512|cooki||70ded5|60d47d ",
+      "generated_at": "2025-07-31T19:41:13-04:00",
+      "source_id": 14377643050
     }
   ]
 }
