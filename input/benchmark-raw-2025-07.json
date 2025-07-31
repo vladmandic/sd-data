@@ -1,5 +1,5 @@
 {
-  "max_id": "1887415770854649867",
+  "max_id": "1887498971912523783",
   "events": [
     {
       "id": "1876579744066224166",
@@ -1358,6 +1358,20 @@
       "message": "vikas 2025-07-31 08:51:44.991364|1.53 / 1.48 / 1.64|app:SD.next updated:2025-07-30 hash:aa1acdb9 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.4.1+cpu xformers: diffusers:0.35.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:epicrealismxl_vxviicrystalclear [0181f0d7b8] vae:none width:512 height:512|vikas||f6a880|231f18 ",
       "generated_at": "2025-07-31T04:53:29-04:00",
       "source_id": 14377333905
+    },
+    {
+      "id": "1887496090807353344",
+      "program": "SDBENCHMARK",
+      "message": "maste 2025-07-31 10:41:53.233780|3.23 / 4.52 / 6.76|app:SD.next updated:2025-07-30 hash:aa1acdb9 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.5.1+cu124 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:577.00 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|maste||da6ea8|b1fcbf ",
+      "generated_at": "2025-07-31T06:42:39-04:00",
+      "source_id": 14377471024
+    },
+    {
+      "id": "1887498971912523783",
+      "program": "SDBENCHMARK",
+      "message": "s_nog 2025-07-31 17:50:00.354095|13.1 / 15.78 / 17.94|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:automatic width:512 height:512|s_nog||d63833|118f17 ",
+      "generated_at": "2025-07-31T13:54:05-04:00",
+      "source_id": 14377475121
     }
   ]
 }
