@@ -1,5 +1,5 @@
 {
-  "max_id": "1887893352263905325",
+  "max_id": "1887998064120221718",
   "events": [
     {
       "id": "1887846008411570189",
@@ -14,6 +14,41 @@
       "message": "moerk 2025-08-01 09:51:45.757031|2.87 / 3.1 / 3.46|app:sdnext updated:2025-07-31 hash:3b9193803 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd-xl\\biglove_xl4 [a35a9808c2] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|moerk||a0d5be|7d02b4 ",
       "generated_at": "2025-08-01T05:53:03-04:00",
       "source_id": 14378057277
+    },
+    {
+      "id": "1887918263720136707",
+      "program": "SDBENCHMARK",
+      "message": "Deli 2025-08-01 14:39:31.861155|10.79 / 10.73 / 11.54|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers\\crynux-network/stable-diffusion-v1-5 [20c744714d] vae:none width:512 height:512|Deli||11884b|bba1fa ",
+      "generated_at": "2025-08-01T10:40:00-04:00",
+      "source_id": 14378181675
+    },
+    {
+      "id": "1887984899516977153",
+      "program": "SDBENCHMARK",
+      "message": "na 2025-08-01 11:59:37.756723|0.88 / 0.91 / 0.5|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers:0.34.0 transformers:4.53.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:566.03 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v140 [bdb59bac77] vae:none width:512 height:512|na||cc9b19|3aea42 ",
+      "generated_at": "2025-08-01T08:05:01-04:00",
+      "source_id": 14378298453
+    },
+    {
+      "id": "1887989721624399880",
+      "program": "SDBENCHMARK",
+      "message": "na 2025-08-01 12:15:45.023992|1.42 / 1.43 / 0.18|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu128 xformers: diffusers:0.34.0 transformers:4.53.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:566.03 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:chilloutmix_niprunedfp32fix [fc2511737a] vae:none width:512 height:512|na||cc9b19|b2d207 ",
+      "generated_at": "2025-08-01T08:24:11-04:00",
+      "source_id": 14378298453
+    },
+    {
+      "id": "1887991254478934039",
+      "program": "SDBENCHMARK",
+      "message": "na 2025-08-01 12:28:58.230398|3.18 / 3.33 / 1.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.1.2+cu121 xformers: diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (sm_90) (7, 5) cuda:12.1 cudnn:8801 driver:566.03 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:automatic width:512 height:512|na||614a3d|6accde ",
+      "generated_at": "2025-08-01T08:30:16-04:00",
+      "source_id": 14378298453
+    },
+    {
+      "id": "1887998064120221718",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-08-02 01:56:14.087101|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2070 SUPER (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:NoneType model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||433551|07e7fa ",
+      "generated_at": "2025-08-01T21:57:17-04:00",
+      "source_id": 14378319606
     }
   ]
 }
