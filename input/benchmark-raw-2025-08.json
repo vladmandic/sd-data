@@ -1,5 +1,5 @@
 {
-  "max_id": "1888123217244250174",
+  "max_id": "1888261932604112909",
   "events": [
     {
       "id": "1887846008411570189",
@@ -63,6 +63,55 @@
       "message": "root 2025-08-02 02:13:28.002190|1.87|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.11.0-29-generic python:3.11.13|torch:2.7.1+rocm6.3 xformers: diffusers:0.23.0 transformers:4.30.2|device:Radeon RX 7900 XTX (1) hip:6.3.42131-fa1d09cbd 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:epicrealismxl_vxviicrystalclear_1821905.safetensors [3267fd6443] vae:none width:512 height:512|root||ac2e23|42369c ",
       "generated_at": "2025-08-01T22:14:37-04:00",
       "source_id": 14378491206
+    },
+    {
+      "id": "1888187293626454032",
+      "program": "SDBENCHMARK",
+      "message": "nakane sho 2025-08-02 15:28:29.921132|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.29.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\7th_anime_v3_c.ckpt [6fe2f683b9] vae:automatic width:512 height:512|nakane sho||769669|acb372 ",
+      "generated_at": "2025-08-02T11:29:14-04:00",
+      "source_id": 14378571433
+    },
+    {
+      "id": "1888187300689670170",
+      "program": "SDBENCHMARK",
+      "message": "nakane sho 2025-08-02 15:28:29.921132|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.29.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\7th_anime_v3_c.ckpt [6fe2f683b9] vae:automatic width:512 height:512|nakane sho||769669|acb372 ",
+      "generated_at": "2025-08-02T11:29:15-04:00",
+      "source_id": 14378571433
+    },
+    {
+      "id": "1888187303680208917",
+      "program": "SDBENCHMARK",
+      "message": "nakane sho 2025-08-02 15:28:29.921132|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.29.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\7th_anime_v3_c.ckpt [6fe2f683b9] vae:automatic width:512 height:512|nakane sho||769669|acb372 ",
+      "generated_at": "2025-08-02T11:29:16-04:00",
+      "source_id": 14378571433
+    },
+    {
+      "id": "1888187307425722368",
+      "program": "SDBENCHMARK",
+      "message": "nakane sho 2025-08-02 15:28:29.921132|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.29.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.52 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\7th_anime_v3_c.ckpt [6fe2f683b9] vae:automatic width:512 height:512|nakane sho||769669|acb372 ",
+      "generated_at": "2025-08-02T11:29:17-04:00",
+      "source_id": 14378571433
+    },
+    {
+      "id": "1888260740641636352",
+      "program": "SDBENCHMARK",
+      "message": "chris 2025-08-02 01:11:33.276966|0.27 / 0.27 / 0.26|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.53.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning [c8df560d29] vae:none width:512 height:512|chris||79e4c2|4a3953 ",
+      "generated_at": "2025-08-01T21:21:05-04:00",
+      "source_id": 14378666625
+    },
+    {
+      "id": "1888261246759923719",
+      "program": "SDBENCHMARK",
+      "message": "chris 2025-08-02 01:11:33.276966|0.27 / 0.27 / 0.26|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.53.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning [c8df560d29] vae:none width:512 height:512|chris||79e4c2|4a3953 ",
+      "generated_at": "2025-08-01T21:23:05-04:00",
+      "source_id": 14378666625
+    },
+    {
+      "id": "1888261932604112909",
+      "program": "SDBENCHMARK",
+      "message": "chris 2025-08-02 01:11:33.276966|0.27 / 0.27 / 0.26|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.53.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning [c8df560d29] vae:none width:512 height:512|chris||79e4c2|4a3953 ",
+      "generated_at": "2025-08-01T21:25:49-04:00",
+      "source_id": 14378666625
     }
   ]
 }
