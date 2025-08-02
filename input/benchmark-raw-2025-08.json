@@ -1,5 +1,5 @@
 {
-  "max_id": "1888261932604112909",
+  "max_id": "1888295469042561028",
   "events": [
     {
       "id": "1887846008411570189",
@@ -112,6 +112,13 @@
       "message": "chris 2025-08-02 01:11:33.276966|0.27 / 0.27 / 0.26|app:sdnext updated:2025-07-31 hash:3b919380 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.53.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_v9rdphoto2lightning [c8df560d29] vae:none width:512 height:512|chris||79e4c2|4a3953 ",
       "generated_at": "2025-08-01T21:25:49-04:00",
       "source_id": 14378666625
+    },
+    {
+      "id": "1888295469042561028",
+      "program": "SDBENCHMARK",
+      "message": "humen 2025-08-02 21:38:39.752025|15.7 / 17.24 / 18.17|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|humen||1f31e5|6ea173 ",
+      "generated_at": "2025-08-02T17:39:04-04:00",
+      "source_id": 14378708902
     }
   ]
 }
