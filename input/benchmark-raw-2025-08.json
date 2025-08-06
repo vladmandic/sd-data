@@ -1,5 +1,5 @@
 {
-  "max_id": "1889558284655058944",
+  "max_id": "1889623824006295558",
   "events": [
     {
       "id": "1887846008411570189",
@@ -189,6 +189,41 @@
       "message": "Administrator 2025-08-06 09:08:33.163636|9.26 / 11.0 / 106.31|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:576.88 16GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||6376d9|231765 ",
       "generated_at": "2025-08-06T05:17:03-04:00",
       "source_id": 14380552468
+    },
+    {
+      "id": "1889605533145673733",
+      "program": "SDBENCHMARK",
+      "message": "wkg35 2025-08-06 12:24:18.733561|17.45 / 19.49 / 21.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:qwen_image\\qwen_image_fp8_e4m3fn.safetensors [98763a1277] vae:none width:512 height:512|wkg35||6fde19|72799b ",
+      "generated_at": "2025-08-06T08:24:48-04:00",
+      "source_id": 14380622599
+    },
+    {
+      "id": "1889610501365882905",
+      "program": "SDBENCHMARK",
+      "message": "jannete 2025-08-06 12:34:08.913954|0.31 / 0.34 / 0.33|app:automatic.git updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/automatic.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.10.18|torch:2.7.1+cu126 xformers: diffusers:0.35.0.dev0 transformers:4.54.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|jannete||6e31d3|711619 ",
+      "generated_at": "2025-08-06T08:44:33-04:00",
+      "source_id": 14380630219
+    },
+    {
+      "id": "1889623823263911958",
+      "program": "SDBENCHMARK",
+      "message": "a 2024-04-08 05:04:38.288821|1.39 / 1.48 / 1.51|app:stable-diffusion-webui-forge.git updated:2024-03-08 hash:29be1da7 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu: system:Linux release:6.6.13+bpo-amd64 python:3.11.2|torch:2.1.2+cu121 autocast half xformers: diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:550.54.15 6GB|Automatic none|sweetfruit_coco.safetensors|a||8a1eba|619ac9 ",
+      "generated_at": "2025-08-06T10:37:30-04:00",
+      "source_id": 14380651847
+    },
+    {
+      "id": "1889623823314251788",
+      "program": "SDBENCHMARK",
+      "message": "a 2024-04-08 05:19:43.575662|1.42 / 1.5 / 1.52|app:stable-diffusion-webui-forge.git updated:2024-03-08 hash:29be1da7 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu: system:Linux release:6.6.13+bpo-amd64 python:3.11.2|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:550.54.15 6GB|Automatic none|sweetfruit_coco.safetensors|a||1e18d0|9544b0 ",
+      "generated_at": "2025-08-06T10:37:30-04:00",
+      "source_id": 14380651847
+    },
+    {
+      "id": "1889623824006295558",
+      "program": "SDBENCHMARK",
+      "message": "a 2025-08-06 14:35:19.202686|1.36 / 1.46 / 1.48|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu: system:Linux release:6.12.22+bpo-amd64 python:3.11.2|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.172.08 6GB|Automatic none|sweetfruit_coco.safetensors|a||9ac74c|92a4be ",
+      "generated_at": "2025-08-06T10:37:30-04:00",
+      "source_id": 14380651847
     }
   ]
 }
