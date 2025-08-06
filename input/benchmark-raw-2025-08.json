@@ -1,5 +1,5 @@
 {
-  "max_id": "1889623824006295558",
+  "max_id": "1889660829985595416",
   "events": [
     {
       "id": "1887846008411570189",
@@ -224,6 +224,13 @@
       "message": "a 2025-08-06 14:35:19.202686|1.36 / 1.46 / 1.48|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu: system:Linux release:6.12.22+bpo-amd64 python:3.11.2|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1060 6GB (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.172.08 6GB|Automatic none|sweetfruit_coco.safetensors|a||9ac74c|92a4be ",
       "generated_at": "2025-08-06T10:37:30-04:00",
       "source_id": 14380651847
+    },
+    {
+      "id": "1889660829985595416",
+      "program": "SDBENCHMARK",
+      "message": "Obi 2025-08-06 09:58:18.909370|3.74 / 0.38 / 0.53|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.8-200.fc42.x86_64 python:3.10.18|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:hassakuxlillustrious_v22 [9ece21c352] vae:sdxl.vae.safetensors width:512 height:512|Obi||a28dac|06e006 ",
+      "generated_at": "2025-08-06T06:04:32-04:00",
+      "source_id": 14380712119
     }
   ]
 }
