@@ -1,5 +1,5 @@
 {
-  "max_id": "1889850657498910733",
+  "max_id": "1889938503396151313",
   "events": [
     {
       "id": "1887846008411570189",
@@ -252,6 +252,13 @@
       "message": "moerk 2025-08-06 22:35:59.742197|2.97 / 3.27 / 3.62|app:sdnext updated:2025-08-01 hash:b56d508a5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustrious\\wainsfwillustrious_v140 [bdb59bac77] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|moerk||ad209a|f93e9b ",
       "generated_at": "2025-08-06T18:38:51-04:00",
       "source_id": 14378057277
+    },
+    {
+      "id": "1889938503396151313",
+      "program": "SDBENCHMARK",
+      "message": "nags 2025-08-06 22:23:48.847278|2.89 / 0.44 / 0.64|app:sdnext updated:2025-07-29 hash:891840f3 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.9-arch1-1 python:3.13.5|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 7900 XT (1) hip:6.3.42131-fa1d09cbd 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:illustrious/wainsfwillustrious_v140 [bdb59bac77] vae:none width:1024 height:1024|nags||41f370|333e0a ",
+      "generated_at": "2025-08-06T18:27:55-04:00",
+      "source_id": 14381160660
     }
   ]
 }
