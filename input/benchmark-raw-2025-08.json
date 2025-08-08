@@ -1,5 +1,5 @@
 {
-  "max_id": "1889938503396151313",
+  "max_id": "1890521021174444059",
   "events": [
     {
       "id": "1887846008411570189",
@@ -259,6 +259,34 @@
       "message": "nags 2025-08-06 22:23:48.847278|2.89 / 0.44 / 0.64|app:sdnext updated:2025-07-29 hash:891840f3 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.15.9-arch1-1 python:3.13.5|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:AMD Radeon RX 7900 XT (1) hip:6.3.42131-fa1d09cbd 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:illustrious/wainsfwillustrious_v140 [bdb59bac77] vae:none width:1024 height:1024|nags||41f370|333e0a ",
       "generated_at": "2025-08-06T18:27:55-04:00",
       "source_id": 14381160660
+    },
+    {
+      "id": "1890519861919141893",
+      "program": "SDBENCHMARK",
+      "message": "crocknroll 2025-08-08 18:46:54.916303|0.3 / 0.36 / 0.4|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1070 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:580.88 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusionXL model:sd\\opendallev1.1.safetensors vae:none width:512 height:512|crocknroll||cbfd91|1137c1 ",
+      "generated_at": "2025-08-08T14:56:08-04:00",
+      "source_id": 14382082315
+    },
+    {
+      "id": "1890520806824538135",
+      "program": "SDBENCHMARK",
+      "message": "ksirF 2025-08-09 01:01:03.707159|3.79|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485bc url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:537.70 6GB|xformers medvram|cuteyukimixAdorable_kemiaomiao.safetensors [35dae95c74]|ksirF||d7d516|98b19a ",
+      "generated_at": "2025-08-08T21:01:47-04:00",
+      "source_id": 14382083743
+    },
+    {
+      "id": "1890520815229923332",
+      "program": "SDBENCHMARK",
+      "message": "ksirF 2025-08-09 01:01:03.707159|3.79|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485bc url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:537.70 6GB|xformers medvram|cuteyukimixAdorable_kemiaomiao.safetensors [35dae95c74]|ksirF||d7d516|98b19a ",
+      "generated_at": "2025-08-08T21:01:49-04:00",
+      "source_id": 14382083743
+    },
+    {
+      "id": "1890521021174444059",
+      "program": "SDBENCHMARK",
+      "message": "ksirF 2025-08-09 01:02:03.562113|4.0 / 4.88 / 5.27|app:stable-diffusion-webui updated:2023-08-23 hash:c9c8485bc url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.0.1+cu118 autocast half xformers:0.0.21 diffusers:0.16.1 transformers:4.25.1|device:NVIDIA GeForce RTX 4050 Laptop GPU (1) (compute_37) (8, 9) cuda:11.8 cudnn:8800 driver:537.70 6GB|xformers medvram|cuteyukimixAdorable_kemiaomiao.safetensors [35dae95c74]|ksirF||d7d516|fc651c ",
+      "generated_at": "2025-08-08T21:02:38-04:00",
+      "source_id": 14382083743
     }
   ]
 }
