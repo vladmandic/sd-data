@@ -1,5 +1,5 @@
 {
-  "max_id": "1890801569893642250",
+  "max_id": "1891118644050710531",
   "events": [
     {
       "id": "1887846008411570189",
@@ -364,6 +364,20 @@
       "message": "lsdar 2025-08-09 15:35:21.816787|2.5 / 2.04 / 2.24|app:SD.next updated:2023-08-17 hash:81129cc4 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 11, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.12|torch:2.0.1+cu118 Autocast half xformers:0.0.21.dev583 diffusers:0.19.3 transformers:4.31.0|device:NVIDIA GeForce GTX 1080 (1) (compute_37) (6, 1) cuda:11.8 cudnn:8700 driver:580.88 8GB|original sdp none|dreamshaper_8.safetensors [879db523c3]|lsdar||9b5ad3|ca1fde ",
       "generated_at": "2025-08-09T11:37:26-04:00",
       "source_id": 14382440749
+    },
+    {
+      "id": "1891118624148738054",
+      "program": "SDBENCHMARK",
+      "message": "stage 1 None|None|None|None|None|None|None|None|None|None|None|d00d3e ",
+      "generated_at": "2025-08-10T12:37:17-04:00",
+      "source_id": 14382791867
+    },
+    {
+      "id": "1891118644050710531",
+      "program": "SDBENCHMARK",
+      "message": "stage 1 None|None|None|None|None|None|None|None|None|None|None|d00d3e ",
+      "generated_at": "2025-08-10T12:37:22-04:00",
+      "source_id": 14382791867
     }
   ]
 }
