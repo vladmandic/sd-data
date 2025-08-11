@@ -1,5 +1,5 @@
 {
-  "max_id": "1891239278630068226",
+  "max_id": "1891296571627319300",
   "events": [
     {
       "id": "1887846008411570189",
@@ -385,6 +385,20 @@
       "message": "lol 2025-08-10 18:34:18.333316|1.47 / 1.52 / 1.56|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:577.00 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticxl_v60 [f166e3d6dd] vae:none width:1024 height:1024|lol||70ae83|86e395 ",
       "generated_at": "2025-08-10T14:36:43-04:00",
       "source_id": 14382946101
+    },
+    {
+      "id": "1891296165442531338",
+      "program": "SDBENCHMARK",
+      "message": "mc6415 2025-08-10 21:22:41.964425|10.29|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|mc6415||f9bec6|ca6a48 ",
+      "generated_at": "2025-08-10T17:22:46-04:00",
+      "source_id": 14383011768
+    },
+    {
+      "id": "1891296571627319300",
+      "program": "SDBENCHMARK",
+      "message": "mc6415 2025-08-10 21:22:41.964425|10.29|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:none width:512 height:512|mc6415||f9bec6|ca6a48 ",
+      "generated_at": "2025-08-10T17:24:23-04:00",
+      "source_id": 14383011768
     }
   ]
 }
