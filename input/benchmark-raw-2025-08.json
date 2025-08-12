@@ -1,5 +1,5 @@
 {
-  "max_id": "1891639075744698369",
+  "max_id": "1891853268968206338",
   "events": [
     {
       "id": "1887846008411570189",
@@ -546,6 +546,62 @@
       "message": "Administrator 2025-08-12 03:05:03.529222|12.82 / 26.62 / 50.58 / 53.1 / 52.93|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 autocast half xformers:0.0.30 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.88 32GB|Automatic none|majicmix7.safetensors [7c819b6d13]|Administrator||c96d8f|9f1cc2 ",
       "generated_at": "2025-08-11T23:06:16-04:00",
       "source_id": 14383492916
+    },
+    {
+      "id": "1891847340080427009",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 10:44:55.303590|10.63 / 12.72 / 13.07 / 13.38 / 12.86 / 14.08 / 12.7|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|2b9464 ",
+      "generated_at": "2025-08-12T06:53:17-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853159543009282",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:24-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853263595302921",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:49-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853265604374536",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:50-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853266015416320",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:50-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853266665533444",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:50-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853267412119566",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:50-04:00",
+      "source_id": 14383795681
+    },
+    {
+      "id": "1891853268968206338",
+      "program": "SDBENCHMARK",
+      "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
+      "generated_at": "2025-08-12T07:16:50-04:00",
+      "source_id": 14383795681
     }
   ]
 }
