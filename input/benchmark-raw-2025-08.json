@@ -1,5 +1,5 @@
 {
-  "max_id": "1891853268968206338",
+  "max_id": "1891989300350988307",
   "events": [
     {
       "id": "1887846008411570189",
@@ -602,6 +602,34 @@
       "message": "Deimorin 2025-08-12 11:05:49.359485|10.27 / 11.7 / 12.45 / 12.84 / 13.67 / 13.52 / 14.29|app:sd-webui-forge-classic updated:2025-08-12 hash:0af82474 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:577.00 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\v1-5-pruned-emaonly.safetensors [d55a4db7c4] vae:automatic width:512 height:512|pasca||960564|19d8a7 ",
       "generated_at": "2025-08-12T07:16:50-04:00",
       "source_id": 14383795681
+    },
+    {
+      "id": "1891980595437940749",
+      "program": "SDBENCHMARK",
+      "message": "nick 2025-07-06 09:12:07.390029|13.12 / 25.39 / 36.31 / 21.56 / 26.36|app:SD.next updated:2025-07-06 hash:526976eb url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-11-10.0.26120-SP0 python:3.12.10|torch:2.9.0.dev20250704+cu128 xformers: diffusers:0.34.0 transformers:4.53.0|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:576.88 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustriousxl\\semi\\realitymix_ilxlp [a39c89ab3c] vae:flatpiece.xl.vae.safetensors width:512 height:512|nick||630991|e1be25 ",
+      "generated_at": "2025-08-12T09:42:27-04:00",
+      "source_id": 14384014495
+    },
+    {
+      "id": "1891980595437940750",
+      "program": "SDBENCHMARK",
+      "message": "nick 2025-08-12 13:41:12.915766|11.23 / 16.75 / 25.98|app:SD.next updated:2025-08-12 hash:a36676a5 url:https://github.com/vladmandic/automatic/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-11-10.0.26120-SP0 python:3.12.10|torch:2.9.0.dev20250812+cu129 xformers: diffusers:0.35.0.dev0 transformers:4.55.0|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.9 cudnn:91002 driver:580.97 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:pony\\realdream_sdxlpony19 [c136e1cf38] vae:flatpiece.xl.vae.safetensors width:512 height:512|nick||8bf9b7|c51793 ",
+      "generated_at": "2025-08-12T09:42:27-04:00",
+      "source_id": 14384014495
+    },
+    {
+      "id": "1891989292310507537",
+      "program": "SDBENCHMARK",
+      "message": "lost1 2025-08-13 02:16:15.505647|28.58 / 39.76 / 49.57|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|lost1||50e319|8aeab4 ",
+      "generated_at": "2025-08-12T22:17:01-04:00",
+      "source_id": 14384028168
+    },
+    {
+      "id": "1891989300350988307",
+      "program": "SDBENCHMARK",
+      "message": "lost1 2025-08-13 02:16:15.505647|28.58 / 39.76 / 49.57|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:572.83 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|lost1||50e319|8aeab4 ",
+      "generated_at": "2025-08-12T22:17:03-04:00",
+      "source_id": 14384028168
     }
   ]
 }
