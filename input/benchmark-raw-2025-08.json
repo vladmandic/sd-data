@@ -1,5 +1,5 @@
 {
-  "max_id": "1892445415329157123",
+  "max_id": "1892509860701065231",
   "events": [
     {
       "id": "1887846008411570189",
@@ -721,6 +721,13 @@
       "message": "Julian 2025-08-12 16:54:40.766742|3.27 / error / 4.0 / 4.09 / 4.16|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:580.88 24GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|Julian|SDP PCIEx8 1024 long extensive run 3|c00ecb|de9368 ",
       "generated_at": "2025-08-13T13:29:29-04:00",
       "source_id": 14384148526
+    },
+    {
+      "id": "1892509860701065231",
+      "program": "SDBENCHMARK",
+      "message": "iamthecage 2025-08-13 23:43:39.452779|0.25|app:sdnext.git updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.9.0a0+git6ee1751 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 XT (1) hip:7.0.51830-2e4b99775 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:crealismponyopusmagnum_v10 [7e8dcc4f99] vae:none width:512 height:512|iamthecage||ef83e2|bdad27 ",
+      "generated_at": "2025-08-13T19:45:34-04:00",
+      "source_id": 14384774778
     }
   ]
 }
