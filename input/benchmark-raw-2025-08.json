@@ -1,5 +1,5 @@
 {
-  "max_id": "1892509860701065231",
+  "max_id": "1892691264856580103",
   "events": [
     {
       "id": "1887846008411570189",
@@ -728,6 +728,13 @@
       "message": "iamthecage 2025-08-13 23:43:39.452779|0.25|app:sdnext.git updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-27-generic python:3.12.3|torch:2.9.0a0+git6ee1751 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 XT (1) hip:7.0.51830-2e4b99775 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:crealismponyopusmagnum_v10 [7e8dcc4f99] vae:none width:512 height:512|iamthecage||ef83e2|bdad27 ",
       "generated_at": "2025-08-13T19:45:34-04:00",
       "source_id": 14384774778
+    },
+    {
+      "id": "1892691264856580103",
+      "program": "SDBENCHMARK",
+      "message": "ai 2025-08-14 19:16:13.227897|1.6 / 1.62 / 1.8|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz system:Linux release:6.12.24_server python:3.12.11|torch:2.7.0a0+git1341794 xformers:0.0.33+840bcec.d20250814 diffusers:0.35.0.dev0 transformers:4.54.1|device:Tesla P100-PCIE-16GB (1) (sm_61) (6, 0) cuda:12.8 cudnn:8907 driver:535.247.01 535.247.01 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:afroditexlnudepeople_31 [03757fdcc3] vae:none width:512 height:512|ai||f626ca|4a6a00 ",
+      "generated_at": "2025-08-14T15:46:24-04:00",
+      "source_id": 14385055536
     }
   ]
 }
