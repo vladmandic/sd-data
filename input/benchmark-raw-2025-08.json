@@ -1,5 +1,5 @@
 {
-  "max_id": "1892320164746276873",
+  "max_id": "1892445415329157123",
   "events": [
     {
       "id": "1887846008411570189",
@@ -686,6 +686,41 @@
       "message": "Coopper 2025-08-13 21:11:19.475333|error / error / error|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 8 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 7600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:zluda compile:none dtype:torch.bfloat16|pipeline:NoneType model:none vae:none width:512 height:512|Coopper||e327b8|561379 ",
       "generated_at": "2025-08-13T17:11:46-04:00",
       "source_id": 14384505737
+    },
+    {
+      "id": "1892445415295602706",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-07-30 15:01:49.253304|1.98 / 2.02 / 2.04|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.28 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|J A||12f4f8|8f24a0 ",
+      "generated_at": "2025-08-13T13:29:29-04:00",
+      "source_id": 14384148526
+    },
+    {
+      "id": "1892445415295602707",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-07-30 15:42:33.881748|1.89 / 1.93 / 1.82|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.57 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:ponydiffusionv6xl_v6startwiththisone.safetensors [67ab2fd8ec] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|Julian||835b12|b8a9e5 ",
+      "generated_at": "2025-08-13T13:29:29-04:00",
+      "source_id": 14384148526
+    },
+    {
+      "id": "1892445415320768548",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-08-12 16:17:30.984092|2.22|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:580.88 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|Julian|Xformers PCIEx8|0a00ba|59fe2f ",
+      "generated_at": "2025-08-13T13:29:29-04:00",
+      "source_id": 14384148526
+    },
+    {
+      "id": "1892445415320768549",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-08-13 17:18:48.336861|2.1 / 2.34 / 2.41 / 2.52 / 2.58|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:580.88 24GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|Julian|XFORMERS PCIEx16 1024 long extensive run 1|7aa190|1fd763 ",
+      "generated_at": "2025-08-13T13:29:29-04:00",
+      "source_id": 14384148526
+    },
+    {
+      "id": "1892445415329157123",
+      "program": "SDBENCHMARK",
+      "message": "Julian 2025-08-12 16:54:40.766742|3.27 / error / 4.0 / 4.09 / 4.16|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3090 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:580.88 24GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v140.safetensors [bdb59bac77] vae:sdxlvae fp16 fixfp16errorssdxllowermemoryuse_v10.safetensors width:1024 height:1024|Julian|SDP PCIEx8 1024 long extensive run 3|c00ecb|de9368 ",
+      "generated_at": "2025-08-13T13:29:29-04:00",
+      "source_id": 14384148526
     }
   ]
 }
