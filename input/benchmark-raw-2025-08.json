@@ -1,5 +1,5 @@
 {
-  "max_id": "1892691264856580103",
+  "max_id": "1892798663932178443",
   "events": [
     {
       "id": "1887846008411570189",
@@ -735,6 +735,20 @@
       "message": "ai 2025-08-14 19:16:13.227897|1.6 / 1.62 / 1.8|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz system:Linux release:6.12.24_server python:3.12.11|torch:2.7.0a0+git1341794 xformers:0.0.33+840bcec.d20250814 diffusers:0.35.0.dev0 transformers:4.54.1|device:Tesla P100-PCIE-16GB (1) (sm_61) (6, 0) cuda:12.8 cudnn:8907 driver:535.247.01 535.247.01 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:afroditexlnudepeople_31 [03757fdcc3] vae:none width:512 height:512|ai||f626ca|4a6a00 ",
       "generated_at": "2025-08-14T15:46:24-04:00",
       "source_id": 14385055536
+    },
+    {
+      "id": "1892716448074358816",
+      "program": "SDBENCHMARK",
+      "message": "wayne 2025-08-15 02:25:56.734641|14.86 / 17.63 / 22.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:revanimated_v122_v122.safetensors [f8bb2922e1] vae:none width:512 height:512|wayne||76d1fd|936092 ",
+      "generated_at": "2025-08-14T22:26:29-04:00",
+      "source_id": 14385095115
+    },
+    {
+      "id": "1892716458711113728",
+      "program": "SDBENCHMARK",
+      "message": "wayne 2025-08-15 02:25:56.734641|14.86 / 17.63 / 22.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:revanimated_v122_v122.safetensors [f8bb2922e1] vae:none width:512 height:512|wayne||76d1fd|936092 ",
+      "generated_at": "2025-08-14T22:26:32-04:00",
+      "source_id": 14385095115
     }
   ]
 }
