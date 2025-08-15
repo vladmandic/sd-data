@@ -1,5 +1,5 @@
 {
-  "max_id": "1892798663932178443",
+  "max_id": "1892913676424503312",
   "events": [
     {
       "id": "1887846008411570189",
@@ -749,6 +749,13 @@
       "message": "wayne 2025-08-15 02:25:56.734641|14.86 / 17.63 / 22.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:revanimated_v122_v122.safetensors [f8bb2922e1] vae:none width:512 height:512|wayne||76d1fd|936092 ",
       "generated_at": "2025-08-14T22:26:32-04:00",
       "source_id": 14385095115
+    },
+    {
+      "id": "1892913676424503312",
+      "program": "SDBENCHMARK",
+      "message": "1 2025-08-15 15:29:22.328694|5.09 / 6.26 / 7.45|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:572.16 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|1||7eec49|a814c2 ",
+      "generated_at": "2025-08-15T11:30:10-04:00",
+      "source_id": 14385374188
     }
   ]
 }
