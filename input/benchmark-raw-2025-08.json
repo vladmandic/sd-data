@@ -1,5 +1,5 @@
 {
-  "max_id": "1893345736133881887",
+  "max_id": "1893403837008621568",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1015,6 +1015,20 @@
       "message": "fishd 2025-08-16 13:04:22.499386|5.51 / 1.0 / 1.17|app:SD.next updated:2025-08-15 hash:419fad36 url:ssh://git@github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.15.9-201.fc42.x86_64 python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v85 [a8ee60513d] vae:none width:512 height:512|fishd||b0de0f|b91eca ",
       "generated_at": "2025-08-16T09:07:02-04:00",
       "source_id": 14385974468
+    },
+    {
+      "id": "1893403837004427267",
+      "program": "SDBENCHMARK",
+      "message": "artin 2025-08-09 14:58:26.166808|6.39 / 7.19 / 7.89|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:576.80 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:novelaidiffusionv2_novelaiv2-float8_e4m3fn-clip-fix.safetensors [ba0b08f9db] vae:automatic width:512 height:512|artin||6f3686|7196bd ",
+      "generated_at": "2025-08-16T19:57:53-04:00",
+      "source_id": 14386037792
+    },
+    {
+      "id": "1893403837008621568",
+      "program": "SDBENCHMARK",
+      "message": "artin 2025-08-16 23:57:14.006083|6.44 / 7.42 / 8.24|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:580.97 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:novelaidiffusionv2_novelaiv2-float8_e4m3fn-clip-fix.safetensors [ba0b08f9db] vae:automatic width:512 height:512|artin|GPU scheduling on|355c9c|3f3559 ",
+      "generated_at": "2025-08-16T19:57:53-04:00",
+      "source_id": 14386037792
     }
   ]
 }
