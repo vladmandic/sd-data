@@ -1,5 +1,5 @@
 {
-  "max_id": "1893225292777058306",
+  "max_id": "1893345736133881887",
   "events": [
     {
       "id": "1887846008411570189",
@@ -994,6 +994,27 @@
       "message": "steeled 2025-08-16 00:06:52.312529|3.24 / 3.44 / 4.24|app:SD.next updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.16.0-7-cachyos python:3.10.11|torch:2.8.0+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:580.76.05 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:acornisspinning_acornxlv4 [c3e04e535f] vae:none width:512 height:512|steeled||347752|d9b21f ",
       "generated_at": "2025-08-15T20:08:26-04:00",
       "source_id": 14385822303
+    },
+    {
+      "id": "1893345229805891594",
+      "program": "SDBENCHMARK",
+      "message": "don 2025-08-16 08:04:31.054813|5.22 / 6.53 / 7.83|app:sdnext.git updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-71-generic python:3.12.3|torch:2.8.0+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:575.64.05 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:automatic width:512 height:512|don||f69e35|b2ba1c ",
+      "generated_at": "2025-08-16T04:05:01-04:00",
+      "source_id": 14385973685
+    },
+    {
+      "id": "1893345700549423106",
+      "program": "SDBENCHMARK",
+      "message": "fishd 2025-08-16 13:04:22.499386|5.51 / 1.0 / 1.17|app:SD.next updated:2025-08-15 hash:419fad36 url:ssh://git@github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.15.9-201.fc42.x86_64 python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v85 [a8ee60513d] vae:none width:512 height:512|fishd||b0de0f|b91eca ",
+      "generated_at": "2025-08-16T09:06:54-04:00",
+      "source_id": 14385974468
+    },
+    {
+      "id": "1893345736133881887",
+      "program": "SDBENCHMARK",
+      "message": "fishd 2025-08-16 13:04:22.499386|5.51 / 1.0 / 1.17|app:SD.next updated:2025-08-15 hash:419fad36 url:ssh://git@github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.15.9-201.fc42.x86_64 python:3.10.11|torch:2.7.1+rocm6.3 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon Graphics (1) hip:6.3.42131-fa1d09cbd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v85 [a8ee60513d] vae:none width:512 height:512|fishd||b0de0f|b91eca ",
+      "generated_at": "2025-08-16T09:07:02-04:00",
+      "source_id": 14385974468
     }
   ]
 }
