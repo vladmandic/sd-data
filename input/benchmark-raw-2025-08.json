@@ -1,5 +1,5 @@
 {
-  "max_id": "1893460881258504193",
+  "max_id": "1893787568630312973",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1043,6 +1043,34 @@
       "message": "tnx4f 2025-08-16 22:39:52.628505|4.57 / 7.35 / 10.01|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0+cu128 xformers:0.0.33.dev1077 diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:580.97 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_version6rundiffusion [1fe6c7ec54] vae:none width:512 height:512|tnx4f||d4e598|901821 ",
       "generated_at": "2025-08-16T18:44:35-04:00",
       "source_id": 14386099086
+    },
+    {
+      "id": "1893740082385575940",
+      "program": "SDBENCHMARK",
+      "message": "guya1 2025-08-17 23:12:54.898599|3.46 / 2.33 / 2.98|app:SD.next updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 189 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) 140V GPU (16GB) (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:majicmixrealistic_v7 [7c819b6d13] vae:none width:512 height:512|guya1||dbee97|ac955a ",
+      "generated_at": "2025-08-17T19:14:02-04:00",
+      "source_id": 14386405674
+    },
+    {
+      "id": "1893740098160353285",
+      "program": "SDBENCHMARK",
+      "message": "guya1 2025-08-17 23:12:54.898599|3.46 / 2.33 / 2.98|app:SD.next updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 189 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+xpu xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) 140V GPU (16GB) (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:majicmixrealistic_v7 [7c819b6d13] vae:none width:512 height:512|guya1||dbee97|ac955a ",
+      "generated_at": "2025-08-17T19:14:06-04:00",
+      "source_id": 14386405674
+    },
+    {
+      "id": "1893778222605332488",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-08-18 00:45:27.171269|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:576.52 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:niji-动漫二次元加强版_2.0.safetensors [4cfbe3b7f4] vae:automatic width:512 height:512|Administrator||880453|3cd142 ",
+      "generated_at": "2025-08-17T20:45:35-04:00",
+      "source_id": 14386449656
+    },
+    {
+      "id": "1893787568630312973",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-08-18 01:00:40.292551|1.29 / 1.37 / 1.47|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon RX 5700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:inductor dtype:torch.float16|pipeline:StableDiffusionPipeline model:anything-v5-prtre [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|Administrator||e365ef|d8e454 ",
+      "generated_at": "2025-08-17T21:22:43-04:00",
+      "source_id": 14386462034
     }
   ]
 }
