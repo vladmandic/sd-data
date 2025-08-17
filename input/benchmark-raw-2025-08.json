@@ -1,5 +1,5 @@
 {
-  "max_id": "1893403837008621568",
+  "max_id": "1893460881258504193",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1029,6 +1029,20 @@
       "message": "artin 2025-08-16 23:57:14.006083|6.44 / 7.42 / 8.24|app:stable-diffusion-webui.git updated:2025-05-03 hash:2174ce5a url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 2070 with Max-Q Design (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:580.97 8GB|pipeline:a1111 crossattention:xformers flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:novelaidiffusionv2_novelaiv2-float8_e4m3fn-clip-fix.safetensors [ba0b08f9db] vae:automatic width:512 height:512|artin|GPU scheduling on|355c9c|3f3559 ",
       "generated_at": "2025-08-16T19:57:53-04:00",
       "source_id": 14386037792
+    },
+    {
+      "id": "1893460252104515585",
+      "program": "SDBENCHMARK",
+      "message": "tnx4f 2025-08-16 22:39:52.628505|4.57 / 7.35 / 10.01|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0+cu128 xformers:0.0.33.dev1077 diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:580.97 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_version6rundiffusion [1fe6c7ec54] vae:none width:512 height:512|tnx4f||d4e598|901821 ",
+      "generated_at": "2025-08-16T18:42:05-04:00",
+      "source_id": 14386099086
+    },
+    {
+      "id": "1893460881258504193",
+      "program": "SDBENCHMARK",
+      "message": "tnx4f 2025-08-16 22:39:52.628505|4.57 / 7.35 / 10.01|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0+cu128 xformers:0.0.33.dev1077 diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:580.97 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_version6rundiffusion [1fe6c7ec54] vae:none width:512 height:512|tnx4f||d4e598|901821 ",
+      "generated_at": "2025-08-16T18:44:35-04:00",
+      "source_id": 14386099086
     }
   ]
 }
