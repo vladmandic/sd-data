@@ -1,5 +1,5 @@
 {
-  "max_id": "1893787568630312973",
+  "max_id": "1894012216282370050",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1071,6 +1071,13 @@
       "message": "Administrator 2025-08-18 01:00:40.292551|1.29 / 1.37 / 1.47|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 60 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon RX 5700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:inductor dtype:torch.float16|pipeline:StableDiffusionPipeline model:anything-v5-prtre [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|Administrator||e365ef|d8e454 ",
       "generated_at": "2025-08-17T21:22:43-04:00",
       "source_id": 14386462034
+    },
+    {
+      "id": "1894012216282370050",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-08-18 16:14:10.013187|2.27 / 2.46 / 2.55|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 45 Stepping 6, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_120) (6, 1) cuda:12.8 cudnn:90701 driver:576.40 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||4f3a55|a77ab8 ",
+      "generated_at": "2025-08-18T12:15:23-04:00",
+      "source_id": 14386733052
     }
   ]
 }
