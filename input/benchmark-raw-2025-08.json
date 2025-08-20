@@ -1,5 +1,5 @@
 {
-  "max_id": "1894648992856469514",
+  "max_id": "1894726807282970631",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1127,6 +1127,20 @@
       "message": "Collapsenav 2025-08-20 01:14:44.636869|3.17 / 3.33 / 3.53|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:counterfeitv30_v30.safetensors vae:none width:512 height:512|Collapsenav||203f63|6ed971 ",
       "generated_at": "2025-08-19T22:25:43-04:00",
       "source_id": 14387692863
+    },
+    {
+      "id": "1894726802174308361",
+      "program": "SDBENCHMARK",
+      "message": "von 2025-08-20 15:34:14.562200|10.23 / 11.18 / 12.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:Tesla T10 (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:572.16 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|von||e64192|0f4d61 ",
+      "generated_at": "2025-08-20T11:34:56-04:00",
+      "source_id": 14387824534
+    },
+    {
+      "id": "1894726807282970631",
+      "program": "SDBENCHMARK",
+      "message": "von 2025-08-20 15:34:14.562200|10.23 / 11.18 / 12.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:Tesla T10 (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:572.16 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|von||e64192|0f4d61 ",
+      "generated_at": "2025-08-20T11:34:57-04:00",
+      "source_id": 14387824534
     }
   ]
 }
