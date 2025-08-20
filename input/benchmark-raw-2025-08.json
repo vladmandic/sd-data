@@ -1,5 +1,5 @@
 {
-  "max_id": "1894457569720848393",
+  "max_id": "1894582503558262795",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1085,6 +1085,13 @@
       "message": "ZhuanZ（无密码） 2025-08-19 16:05:08.663906|8.62 / 9.15 / 9.39|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|ZhuanZ（无密码）||609650|fdc675 ",
       "generated_at": "2025-08-19T12:05:36-04:00",
       "source_id": 14387290082
+    },
+    {
+      "id": "1894582503558262795",
+      "program": "SDBENCHMARK",
+      "message": "Rob 2025-08-19 22:56:31.652941|5.5 / 7.44 / 8.89|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.13.7|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:stable-fast dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberillustrious_v60alt [63a2be1d5d] vae:none width:512 height:512|Rob||3dfe1e|1a750d ",
+      "generated_at": "2025-08-19T19:01:29-04:00",
+      "source_id": 14387622616
     }
   ]
 }
