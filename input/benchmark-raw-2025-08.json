@@ -1,5 +1,5 @@
 {
-  "max_id": "1894582503558262795",
+  "max_id": "1894648992856469514",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1092,6 +1092,41 @@
       "message": "Rob 2025-08-19 22:56:31.652941|5.5 / 7.44 / 8.89|app:sdnext updated:2025-08-15 hash:419fad36 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 24 Stepping 1, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.13.7|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:stable-fast dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberillustrious_v60alt [63a2be1d5d] vae:none width:512 height:512|Rob||3dfe1e|1a750d ",
       "generated_at": "2025-08-19T19:01:29-04:00",
       "source_id": 14387622616
+    },
+    {
+      "id": "1894631015994011658",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-08-18 08:37:22.603328|0.73 / 1.11 / 1.69|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:9527_v10.ckpt vae:none width:512 height:512|root||203f63|4072d3 ",
+      "generated_at": "2025-08-19T21:14:17-04:00",
+      "source_id": 14387692863
+    },
+    {
+      "id": "1894648819132583945",
+      "program": "SDBENCHMARK",
+      "message": "Collapsenav 2025-08-20 02:21:12.307323|3.31 / 3.36 / 3.54 / 4.17 / 4.12|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers:0.0.26.post1 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:counterfeitv30_v30.safetensors vae:none width:512 height:512|Collapsenav||b340ba|d3a7fc ",
+      "generated_at": "2025-08-19T22:25:01-04:00",
+      "source_id": 14387692863
+    },
+    {
+      "id": "1894648819153563650",
+      "program": "SDBENCHMARK",
+      "message": "Collapsenav 2025-08-20 01:14:44.636869|3.17 / 3.33 / 3.53|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:counterfeitv30_v30.safetensors vae:none width:512 height:512|Collapsenav||203f63|6ed971 ",
+      "generated_at": "2025-08-19T22:25:01-04:00",
+      "source_id": 14387692863
+    },
+    {
+      "id": "1894648992827101194",
+      "program": "SDBENCHMARK",
+      "message": "Collapsenav 2025-08-20 02:21:12.307323|3.31 / 3.36 / 3.54 / 4.17 / 4.12|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers:0.0.26.post1 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:counterfeitv30_v30.safetensors vae:none width:512 height:512|Collapsenav||b340ba|d3a7fc ",
+      "generated_at": "2025-08-19T22:25:43-04:00",
+      "source_id": 14387692863
+    },
+    {
+      "id": "1894648992856469514",
+      "program": "SDBENCHMARK",
+      "message": "Collapsenav 2025-08-20 01:14:44.636869|3.17 / 3.33 / 3.53|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:git@github.com:CollapseNav/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-140-generic python:3.10.12|torch:2.3.0+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA P102-100 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:570.133.20 10GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:counterfeitv30_v30.safetensors vae:none width:512 height:512|Collapsenav||203f63|6ed971 ",
+      "generated_at": "2025-08-19T22:25:43-04:00",
+      "source_id": 14387692863
     }
   ]
 }
