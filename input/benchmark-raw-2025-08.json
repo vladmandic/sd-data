@@ -1,5 +1,5 @@
 {
-  "max_id": "1895091812570423332",
+  "max_id": "1895491025825353736",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1288,6 +1288,13 @@
       "message": "Jian 2025-08-21 15:44:45.422739|10.55 / 11.42 / 12.76|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:576.88 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:realcartoon3d_v12.safetensors [765c729c60] vae:automatic width:512 height:512|Jian||0c277d|a357ed ",
       "generated_at": "2025-08-21T11:45:19-04:00",
       "source_id": 14388379591
+    },
+    {
+      "id": "1895491025825353736",
+      "program": "SDBENCHMARK",
+      "message": "86187 2025-08-22 18:09:09.842713|11.18 / 16.28 / 19.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (compute_37) (7, 0) cuda:11.8 cudnn:8700 driver:537.13 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|86187||e78c38|eba126 ",
+      "generated_at": "2025-08-22T14:11:36-04:00",
+      "source_id": 14388983759
     }
   ]
 }
