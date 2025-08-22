@@ -1,5 +1,5 @@
 {
-  "max_id": "1895491025825353736",
+  "max_id": "1895576189628755972",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1295,6 +1295,13 @@
       "message": "86187 2025-08-22 18:09:09.842713|11.18 / 16.28 / 19.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 79 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:Tesla V100-SXM2-16GB (1) (compute_37) (7, 0) cuda:11.8 cudnn:8700 driver:537.13 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:majicmixrealistic_v7.safetensors [7c819b6d13] vae:automatic width:512 height:512|86187||e78c38|eba126 ",
       "generated_at": "2025-08-22T14:11:36-04:00",
       "source_id": 14388983759
+    },
+    {
+      "id": "1895576189628755972",
+      "program": "SDBENCHMARK",
+      "message": "armand 2025-08-22 17:49:17.497008|3.87 / 5.02 / 6.64||arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:prefectiousxlnsfw_v10.safetensors [4286171e4b] vae:sdxl_vae.safetensors width:512 height:512|armand||baaab0|2ebeb0 ",
+      "generated_at": "2025-08-22T13:50:04-04:00",
+      "source_id": 14389111468
     }
   ]
 }
