@@ -1,5 +1,5 @@
 {
-  "max_id": "1895714939872661688",
+  "max_id": "1895772908140277760",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1309,6 +1309,153 @@
       "message": "Administrator 2025-08-23 09:00:54.093492|6.32 / 6.91 / 7.52|app:stable-diffusion-webui updated:2024-07-27 hash:c19d04436 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:566.14 12GB|Automatic none|ReVAnimated_v122_V122.safetensors [f8bb2922e1]|Administrator||bb6323|9a6177 ",
       "generated_at": "2025-08-23T05:01:25-04:00",
       "source_id": 14389306904
+    },
+    {
+      "id": "1895771898441297923",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-28 19:49:56.864955|4.34 / 4.77 / 5.18|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||71d5c5|98da14 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898441297924",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-08-23 12:45:54.238235|1.69 / 2.68 / 2.83|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-78-generic python:3.10.6|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon Graphics (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||f2bf23|5c174e ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898487431169",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-05-17 12:19:42.793316|0.65 / 0.74 / 0.62|app:stable-diffusion-webui-forge.git updated:2025-05-05 hash:0ced1d0c url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-59-generic python:3.10.12|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:1024 height:1024|ahuang||6ed243|ea97d5 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898487431181",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-06-21 06:35:50.212752|2.26 / 2.63 / 2.81|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-62-generic python:3.12.3|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||298f56|7e63e7 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898491613186",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:53:39.271617|2.41 / 2.74 / 2.78|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||4db954|f99793 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898491621400",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:39:59.608368|0.63 / 1.04 / 1.58|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx lowvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||d567c4|ecacc9 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895771898495815695",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-08-01 15:40:48.451614|2.2 / 0.08 / 0.16|app:stable-diffusion-webui-forge.git updated:2024-07-28 hash:37386592 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.28.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Automatic medvram|ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|ahuang||5b73fa|bb13c4 ",
+      "generated_at": "2025-08-23T08:47:44-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886707392514",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-08-01 15:40:48.451614|2.2 / 0.08 / 0.16|app:stable-diffusion-webui-forge.git updated:2024-07-28 hash:37386592 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.28.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Automatic medvram|ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|ahuang||5b73fa|bb13c4 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886707392515",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-08-23 12:49:54.190191|1.89 / 2.66 / 2.82|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-78-generic python:3.10.6|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon Graphics (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||f2bf23|9b1fd5 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886749327361",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-28 19:49:56.864955|4.34 / 4.77 / 5.18|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||71d5c5|98da14 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886749327366",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-06-21 06:35:50.212752|2.26 / 2.63 / 2.81|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-62-generic python:3.12.3|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||298f56|7e63e7 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886753538067",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:39:59.608368|0.63 / 1.04 / 1.58|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx lowvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||d567c4|ecacc9 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886753538068",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:53:39.271617|2.41 / 2.74 / 2.78|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||4db954|f99793 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772886757732361",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-05-17 12:19:42.793316|0.65 / 0.74 / 0.62|app:stable-diffusion-webui-forge.git updated:2025-05-05 hash:0ced1d0c url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-59-generic python:3.10.12|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:1024 height:1024|ahuang||6ed243|ea97d5 ",
+      "generated_at": "2025-08-23T08:51:40-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908098351109",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-05-17 12:19:42.793316|0.65 / 0.74 / 0.62|app:stable-diffusion-webui-forge.git updated:2025-05-05 hash:0ced1d0c url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-59-generic python:3.10.12|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:1024 height:1024|ahuang||6ed243|ea97d5 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908115120128",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:53:39.271617|2.41 / 2.74 / 2.78|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||4db954|f99793 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908115120130",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-28 19:49:56.864955|4.34 / 4.77 / 5.18|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx medvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||71d5c5|98da14 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908127707162",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-07-26 16:39:59.608368|0.63 / 1.04 / 1.58|app:stable-diffusion-webui updated:2024-05-28 hash:feee37d7 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 full nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Doggettx lowvram|perfectWorld_v6Baked.safetensors [ca5befc099]|ahuang||d567c4|ecacc9 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908127707164",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2024-08-01 15:40:48.451614|2.2 / 0.08 / 0.16|app:stable-diffusion-webui-forge.git updated:2024-07-28 hash:37386592 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.5.0-45-generic python:3.10.12|torch:2.3.1+rocm5.7 autocast half xformers: diffusers:0.28.0 transformers:4.30.2|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|Automatic medvram|ponyDiffusionV6XL_v6StartWithThisOne.safetensors [67ab2fd8ec]|ahuang||5b73fa|bb13c4 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908131901443",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-08-23 12:49:54.190191|1.89 / 2.66 / 2.82|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-78-generic python:3.10.6|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon Graphics (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||f2bf23|9b1fd5 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
+    },
+    {
+      "id": "1895772908140277760",
+      "program": "SDBENCHMARK",
+      "message": "ahuang 2025-06-21 06:35:50.212752|2.26 / 2.63 / 2.81|app:stable-diffusion-webui-forge.git updated:2025-06-11 hash:ae278f79 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-62-generic python:3.12.3|torch:2.3.1+rocm5.7 xformers: diffusers:0.31.0 transformers:4.46.1|device:AMD Radeon RX 6650 XT (1) hip:5.7.31921-d1770ee1b 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:wainsfwillustrious_v140.safetensors vae:automatic width:512 height:512|ahuang||298f56|7e63e7 ",
+      "generated_at": "2025-08-23T08:51:45-04:00",
+      "source_id": 14389360515
     }
   ]
 }
