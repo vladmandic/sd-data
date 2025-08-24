@@ -1,5 +1,5 @@
 {
-  "max_id": "1895876618552066051",
+  "max_id": "1896244126102511629",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1470,6 +1470,41 @@
       "message": "naimu 2025-08-23 15:04:44.723740|6.87 / 7.27 / 7.39|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|naimu||8886ee|73c669 ",
       "generated_at": "2025-08-23T11:05:21-04:00",
       "source_id": 14389404756
+    },
+    {
+      "id": "1896178732994048006",
+      "program": "SDBENCHMARK",
+      "message": "ovo 2025-08-24 14:42:55.357731|3.54 / 3.88 / 2.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.10.18|torch:2.8.0+rocm6.4 xformers:0.0.23.post1 diffusers:0.35.1 transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.4.43482-0f2d60242 20GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|ovo||e7e768|3a1b53 ",
+      "generated_at": "2025-08-24T10:44:21-04:00",
+      "source_id": 14389805459
+    },
+    {
+      "id": "1896178739671388163",
+      "program": "SDBENCHMARK",
+      "message": "ovo 2025-08-24 14:42:55.357731|3.54 / 3.88 / 2.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.10.18|torch:2.8.0+rocm6.4 xformers:0.0.23.post1 diffusers:0.35.1 transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.4.43482-0f2d60242 20GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|ovo||e7e768|3a1b53 ",
+      "generated_at": "2025-08-24T10:44:23-04:00",
+      "source_id": 14389805459
+    },
+    {
+      "id": "1896179551139192834",
+      "program": "SDBENCHMARK",
+      "message": "ovo 2025-08-24 14:42:55.357731|3.54 / 3.88 / 2.9|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.10.18|torch:2.8.0+rocm6.4 xformers:0.0.23.post1 diffusers:0.35.1 transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.4.43482-0f2d60242 20GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|ovo||e7e768|3a1b53 ",
+      "generated_at": "2025-08-24T10:47:36-04:00",
+      "source_id": 14389805459
+    },
+    {
+      "id": "1896184528884649989",
+      "program": "SDBENCHMARK",
+      "message": "ovo 2025-08-24 15:00:18.556789|3.71 / 3.84 / 3.71 / 4.28 / 4.29|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.10.18|torch:2.8.0+rocm6.4 xformers:0.0.23.post1 diffusers:0.35.1 transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.4.43482-0f2d60242 20GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:dreamshaper_8.safetensors [879db523c3] vae:none width:512 height:512|ovo|v1|e7e768|0c3651 ",
+      "generated_at": "2025-08-24T11:07:23-04:00",
+      "source_id": 14389805459
+    },
+    {
+      "id": "1896244126102511629",
+      "program": "SDBENCHMARK",
+      "message": "a9907 2025-08-24 19:52:22.065580|0.2 / 0.2 / 0.21|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast nohalf xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon 780M Graphics (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 14GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|a9907||314d81|f35302 ",
+      "generated_at": "2025-08-24T16:04:12-04:00",
+      "source_id": 14389882519
     }
   ]
 }
