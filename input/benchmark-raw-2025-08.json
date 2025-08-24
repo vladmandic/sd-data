@@ -1,5 +1,5 @@
 {
-  "max_id": "1896244126102511629",
+  "max_id": "1896250049122459651",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1505,6 +1505,13 @@
       "message": "a9907 2025-08-24 19:52:22.065580|0.2 / 0.2 / 0.21|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast nohalf xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon 780M Graphics (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 14GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|a9907||314d81|f35302 ",
       "generated_at": "2025-08-24T16:04:12-04:00",
       "source_id": 14389882519
+    },
+    {
+      "id": "1896250049122459651",
+      "program": "SDBENCHMARK",
+      "message": "echof 2025-08-24 14:27:20.091229|error / error / error|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:NoneType model:anime_aniversexl_v40 [dc6e3eb3e5] vae:none width:512 height:512|echof||6db5af|f7b2cb ",
+      "generated_at": "2025-08-24T10:27:43-04:00",
+      "source_id": 14389890271
     }
   ]
 }
