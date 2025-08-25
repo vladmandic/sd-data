@@ -1,5 +1,5 @@
 {
-  "max_id": "1896250049122459651",
+  "max_id": "1896500543464071174",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1512,6 +1512,13 @@
       "message": "echof 2025-08-24 14:27:20.091229|error / error / error|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26120-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.35.0.dev0 transformers:4.54.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:NoneType model:anime_aniversexl_v40 [dc6e3eb3e5] vae:none width:512 height:512|echof||6db5af|f7b2cb ",
       "generated_at": "2025-08-24T10:27:43-04:00",
       "source_id": 14389890271
+    },
+    {
+      "id": "1896500543464071174",
+      "program": "SDBENCHMARK",
+      "message": "lhl 2025-08-25 13:56:25.951861|3.47 / 0.52 / 0.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:6.16.2-2-cachyos python:3.12.11|torch:2.7.1+rocm7.0.0rc20250824 xformers: diffusers: transformers:4.55.4|device:AMD Radeon Graphics (1) hip:7.0.51830-9c8a0ea27 120GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|lhl||66eb7f|250a2d ",
+      "generated_at": "2025-08-25T10:03:07-04:00",
+      "source_id": 14390171877
     }
   ]
 }
