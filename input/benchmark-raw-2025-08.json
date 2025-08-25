@@ -1,5 +1,5 @@
 {
-  "max_id": "1896500543464071174",
+  "max_id": "1896597863761371147",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1519,6 +1519,34 @@
       "message": "lhl 2025-08-25 13:56:25.951861|3.47 / 0.52 / 0.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu: system:Linux release:6.16.2-2-cachyos python:3.12.11|torch:2.7.1+rocm7.0.0rc20250824 xformers: diffusers: transformers:4.55.4|device:AMD Radeon Graphics (1) hip:7.0.51830-9c8a0ea27 120GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|lhl||66eb7f|250a2d ",
       "generated_at": "2025-08-25T10:03:07-04:00",
       "source_id": 14390171877
+    },
+    {
+      "id": "1896549151219572737",
+      "program": "SDBENCHMARK",
+      "message": "flamefog 2024-09-16 00:42:56.349740|0.86 / 0.77 / error|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://gitcode.net/overbill1683/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.22000-SP0 python:3.10.11|torch:2.2.2+cu118 autocast nohalf xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 Ti (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:561.09 6GB|Automatic medvram|anything-v5-PrtRE.safetensors [7f96a1a9ca]|flamefog||05ad83|8d1185 ",
+      "generated_at": "2025-08-25T12:16:15-04:00",
+      "source_id": 14390244228
+    },
+    {
+      "id": "1896597863727816706",
+      "program": "SDBENCHMARK",
+      "message": "Pei-Hua 2025-05-17 00:26:17.485634|0.24|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:photographeralpha7_v3 vae:photographeralpha7_v10.vae.safetensors width:512 height:512|Pei-Hua||9e9f12|bafac1 ",
+      "generated_at": "2025-08-25T15:29:49-04:00",
+      "source_id": 14390312100
+    },
+    {
+      "id": "1896597863727816708",
+      "program": "SDBENCHMARK",
+      "message": "Pei-Hua 2025-06-14 19:17:41.085385|0.26 / 0.26 / 0.26|app:sdnext updated:2025-06-03 hash:894e15d3 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.34.0.dev0 transformers:4.52.3|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:darkbystableyogi_v2lcm vae:none width:512 height:512|Pei-Hua||680439|568406 ",
+      "generated_at": "2025-08-25T15:29:49-04:00",
+      "source_id": 14390312100
+    },
+    {
+      "id": "1896597863761371147",
+      "program": "SDBENCHMARK",
+      "message": "Pei-Hua 2025-08-25 19:19:41.969827|0.24 / 0.24 / 0.24|app:sdnext updated:2025-08-24 hash:0c8bbb91 url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.4|device:AMD Radeon(TM) Graphics [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 34GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:epicrealism_naturalsinrc1vae vae:none width:512 height:512|Pei-Hua||970127|ae8aef ",
+      "generated_at": "2025-08-25T15:29:49-04:00",
+      "source_id": 14390312100
     }
   ]
 }
