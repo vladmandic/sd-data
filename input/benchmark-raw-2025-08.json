@@ -1,5 +1,5 @@
 {
-  "max_id": "1897520953525723150",
+  "max_id": "1897593964777889799",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1659,6 +1659,83 @@
       "message": "tobing 2025-08-28 07:34:12.301218|5.47 / 0.83 / 1.03|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu: system:Linux release:6.16.3-2-cachyos python:3.13.5|torch:2.8.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7800 XT (1) hip:6.4.43482-0f2d60242 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:cudagraphs dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:sdxl.vae.safetensors width:512 height:512|tobing||b3f9c2|b65437 ",
       "generated_at": "2025-08-28T03:37:51-04:00",
       "source_id": 14391637748
+    },
+    {
+      "id": "1897528388177022978",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:06:11.691596|15.31 / 16.55 / 16.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|0191fe ",
+      "generated_at": "2025-08-28T04:07:24-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897528742985789461",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:08:35.465892|15.33 / 16.56 / 16.75|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|98a1c4 ",
+      "generated_at": "2025-08-28T04:08:49-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897532683450503172",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:24:09.524018|15.53 / 16.54 / 16.81|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|98327d ",
+      "generated_at": "2025-08-28T04:24:28-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897532828002988048",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:24:09.524018|15.53 / 16.54 / 16.81|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|98327d ",
+      "generated_at": "2025-08-28T04:25:03-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897532990804905995",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:25:05.197367|15.34 / 16.58 / 16.76 / 16.72 / error|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|4beecb ",
+      "generated_at": "2025-08-28T04:25:41-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897541839595155456",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:53:07.319315|15.51 / 16.53 / 16.76|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|7f23f2 ",
+      "generated_at": "2025-08-28T05:00:51-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897542193099485190",
+      "program": "SDBENCHMARK",
+      "message": "viethome 2025-08-28 08:53:07.319315|15.51 / 16.53 / 16.76|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-28-generic python:3.11.13|torch:2.4.1+rocm6.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (1) hip:6.0.32830-d62f6a171 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|viethome||19177e|7f23f2 ",
+      "generated_at": "2025-08-28T05:02:15-04:00",
+      "source_id": 14391435209
+    },
+    {
+      "id": "1897593951163179011",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-08-28T09:27:58-04:00",
+      "source_id": 14391473283
+    },
+    {
+      "id": "1897593951167373312",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-08-28 01:08:07.684185|8.08 / 13.91 / 16.25 / 17.5 / 18.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro RTX 6000 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.57 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||3f4818|d8351e ",
+      "generated_at": "2025-08-28T09:27:58-04:00",
+      "source_id": 14391473283
+    },
+    {
+      "id": "1897593964777889794",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-06-10 22:17:18.603252|0.49|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Tesla M40 24GB (1) (sm_90) (5, 2) cuda:12.4 cudnn:90100 driver:572.83 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||f4ccbc|9f35fc ",
+      "generated_at": "2025-08-28T09:28:02-04:00",
+      "source_id": 14391473283
+    },
+    {
+      "id": "1897593964777889799",
+      "program": "SDBENCHMARK",
+      "message": "LengFengY 2025-08-28 01:08:07.684185|8.08 / 13.91 / 16.25 / 17.5 / 18.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro RTX 6000 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.57 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||3f4818|d8351e ",
+      "generated_at": "2025-08-28T09:28:02-04:00",
+      "source_id": 14391473283
     }
   ]
 }
