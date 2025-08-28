@@ -1,5 +1,5 @@
 {
-  "max_id": "1897408008221290508",
+  "max_id": "1897520953525723150",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1652,6 +1652,13 @@
       "message": "LengFengY 2025-08-28 01:08:07.684185|8.08 / 13.91 / 16.25 / 17.5 / 18.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro RTX 6000 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.57 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||3f4818|d8351e ",
       "generated_at": "2025-08-27T21:09:04-04:00",
       "source_id": 14391473283
+    },
+    {
+      "id": "1897520953525723150",
+      "program": "SDBENCHMARK",
+      "message": "tobing 2025-08-28 07:34:12.301218|5.47 / 0.83 / 1.03|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu: system:Linux release:6.16.3-2-cachyos python:3.13.5|torch:2.8.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7800 XT (1) hip:6.4.43482-0f2d60242 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:cudagraphs dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:sdxl.vae.safetensors width:512 height:512|tobing||b3f9c2|b65437 ",
+      "generated_at": "2025-08-28T03:37:51-04:00",
+      "source_id": 14391637748
     }
   ]
 }
