@@ -1,5 +1,5 @@
 {
-  "max_id": "1897593964777889799",
+  "max_id": "1898143149960912898",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1736,6 +1736,13 @@
       "message": "LengFengY 2025-08-28 01:08:07.684185|8.08 / 13.91 / 16.25 / 17.5 / 18.08|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro RTX 6000 (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:576.57 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:meina20v12.b0s0.safetensors [a5e5a941a3] vae:automatic width:512 height:512|LengFengY||3f4818|d8351e ",
       "generated_at": "2025-08-28T09:28:02-04:00",
       "source_id": 14391473283
+    },
+    {
+      "id": "1898143149960912898",
+      "program": "SDBENCHMARK",
+      "message": "Enawase 2025-08-29 19:49:23.355336|3.57 / 4.14 / 4.6|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.5|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 6900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly [6ce0161689] vae:none width:512 height:512|Enawase||ef6423|845cf8 ",
+      "generated_at": "2025-08-29T15:50:15-04:00",
+      "source_id": 14392538846
     }
   ]
 }
