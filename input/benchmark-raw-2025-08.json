@@ -1,5 +1,5 @@
 {
-  "max_id": "1898313286680756224",
+  "max_id": "1898505891913850907",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1771,6 +1771,13 @@
       "message": "ubuntu 2025-08-30 05:05:52.191221|9.74 / 12.27 / 16.08|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-60-generic python:3.11.13|torch:2.8.0+cu128 xformers:0.0.33.dev1079 diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA H100 80GB HBM3 (4) (sm_120) (9, 0) cuda:12.8 cudnn:91002 driver:570.148.08 570.148.08 570.148.08 570.148.08 79GB|pipeline:native crossattention:Split attention flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:none width:512 height:512|ubuntu||06da42|5c2aaa ",
       "generated_at": "2025-08-30T01:06:19-04:00",
       "source_id": 14392743702
+    },
+    {
+      "id": "1898505891913850907",
+      "program": "SDBENCHMARK",
+      "message": "jamie 2025-08-30 18:51:20.578131|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.13.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 20GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:HunyuanVideoPipeline model:pornworksbadboysphoto_v06 [04891c7ed0] vae:none width:512 height:512|jamie||d6680f|db66e7 ",
+      "generated_at": "2025-08-30T14:51:37-04:00",
+      "source_id": 14392973175
     }
   ]
 }
