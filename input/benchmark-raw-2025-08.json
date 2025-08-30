@@ -1,5 +1,5 @@
 {
-  "max_id": "1898158687617474581",
+  "max_id": "1898313286680756224",
   "events": [
     {
       "id": "1887846008411570189",
@@ -1757,6 +1757,20 @@
       "message": "dsz87 2025-08-29 14:50:32.412373|3.59 / 5.03 / 5.8|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|dsz87||3b6261|5a90cc ",
       "generated_at": "2025-08-29T10:52:00-04:00",
       "source_id": 14392558508
+    },
+    {
+      "id": "1898299069382701056",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-08-30 11:59:31.834628|9.31 / 9.72 / 9.77|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:560.94 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||be656c|ea9740 ",
+      "generated_at": "2025-08-30T08:09:48-04:00",
+      "source_id": 14392729792
+    },
+    {
+      "id": "1898313286680756224",
+      "program": "SDBENCHMARK",
+      "message": "ubuntu 2025-08-30 05:05:52.191221|9.74 / 12.27 / 16.08|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-60-generic python:3.11.13|torch:2.8.0+cu128 xformers:0.0.33.dev1079 diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA H100 80GB HBM3 (4) (sm_120) (9, 0) cuda:12.8 cudnn:91002 driver:570.148.08 570.148.08 570.148.08 570.148.08 79GB|pipeline:native crossattention:Split attention flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:none width:512 height:512|ubuntu||06da42|5c2aaa ",
+      "generated_at": "2025-08-30T01:06:19-04:00",
+      "source_id": 14392743702
     }
   ]
 }
