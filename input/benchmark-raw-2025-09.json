@@ -1,5 +1,5 @@
 {
-  "max_id": "1899004323891949570",
+  "max_id": "1899080762620297243",
   "events": [
     {
       "id": "1899004295999827978",
@@ -14,6 +14,41 @@
       "message": "Administrator 2025-09-01 10:51:30.977480|3.57 / 4.58 / 5.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:油画风格的xlpony模板.safetensors [eb8d1c5c4d] vae:automatic width:512 height:512|Administrator||a66339|79134b ",
       "generated_at": "2025-09-01T06:52:15-04:00",
       "source_id": 14393555089
+    },
+    {
+      "id": "1899070645946462211",
+      "program": "SDBENCHMARK",
+      "message": "20199 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-09-01T11:15:46-04:00",
+      "source_id": 14393651908
+    },
+    {
+      "id": "1899070645992599579",
+      "program": "SDBENCHMARK",
+      "message": "20199 2025-09-01 15:08:20.503326|0.69 / 0.71 / 0.3|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.0a0+git7bcf7da autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|20199||1e6f59|d5d906 ",
+      "generated_at": "2025-09-01T11:15:46-04:00",
+      "source_id": 14393651908
+    },
+    {
+      "id": "1899070747343761409",
+      "program": "SDBENCHMARK",
+      "message": "20199 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428 ",
+      "generated_at": "2025-09-01T11:16:10-04:00",
+      "source_id": 14393651908
+    },
+    {
+      "id": "1899070747343761431",
+      "program": "SDBENCHMARK",
+      "message": "20199 2025-09-01 15:08:20.503326|0.69 / 0.71 / 0.3|app:stable-diffusion-webui.git updated:2024-03-02 hash:bef51aed url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.1.0a0+git7bcf7da autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|20199||1e6f59|d5d906 ",
+      "generated_at": "2025-09-01T11:16:10-04:00",
+      "source_id": 14393651908
+    },
+    {
+      "id": "1899080762620297243",
+      "program": "SDBENCHMARK",
+      "message": "skyiraus 2025-09-01 15:55:28.491962|8.07 / 9.23 / 9.54|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|skyiraus||6ca406|648743 ",
+      "generated_at": "2025-09-01T11:56:02-04:00",
+      "source_id": 14393668835
     }
   ]
 }
