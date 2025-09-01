@@ -1,0 +1,19 @@
+{
+  "max_id": "1899004323891949570",
+  "events": [
+    {
+      "id": "1899004295999827978",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-09-01 10:51:30.977480|3.57 / 4.58 / 5.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:油画风格的xlpony模板.safetensors [eb8d1c5c4d] vae:automatic width:512 height:512|Administrator||a66339|79134b ",
+      "generated_at": "2025-09-01T06:52:08-04:00",
+      "source_id": 14393555089
+    },
+    {
+      "id": "1899004323891949570",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-09-01 10:51:30.977480|3.57 / 4.58 / 5.1|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:560.94 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:油画风格的xlpony模板.safetensors [eb8d1c5c4d] vae:automatic width:512 height:512|Administrator||a66339|79134b ",
+      "generated_at": "2025-09-01T06:52:15-04:00",
+      "source_id": 14393555089
+    }
+  ]
+}
