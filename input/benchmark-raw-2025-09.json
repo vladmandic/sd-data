@@ -1,5 +1,5 @@
 {
-  "max_id": "1899228121509584896",
+  "max_id": "1899550758848880654",
   "events": [
     {
       "id": "1899004295999827978",
@@ -63,6 +63,13 @@
       "message": "ev 2025-09-01 22:39:08.084859|1.18 / 1.24 / 1.28|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.4|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:diffusers\\stabilityai/stable-diffusion-2-1 [5cae40e6a2] vae:none width:512 height:512|ev||116cfd|eeb869 ",
       "generated_at": "2025-09-01T18:41:32-04:00",
       "source_id": 14393927131
+    },
+    {
+      "id": "1899550758848880654",
+      "program": "SDBENCHMARK",
+      "message": "cheng 2025-09-02 23:02:45.372567|3.23 / 3.46 / 3.53|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6750 GRE 12GB (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|cheng||0e91d6|cc095f ",
+      "generated_at": "2025-09-02T19:03:37-04:00",
+      "source_id": 14394394115
     }
   ]
 }
