@@ -1,5 +1,5 @@
 {
-  "max_id": "1899550758848880654",
+  "max_id": "1899700694185857025",
   "events": [
     {
       "id": "1899004295999827978",
@@ -70,6 +70,20 @@
       "message": "cheng 2025-09-02 23:02:45.372567|3.23 / 3.46 / 3.53|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6750 GRE 12GB (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 12GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|cheng||0e91d6|cc095f ",
       "generated_at": "2025-09-02T19:03:37-04:00",
       "source_id": 14394394115
+    },
+    {
+      "id": "1899700694185848857",
+      "program": "SDBENCHMARK",
+      "message": "sd 2025-06-28 11:51:35.571248|3.03 / 3.32 / 3.5|app:stable-diffusion-webui-forge.git updated:2025-06-24 hash:715c24b0 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 207 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA L40S-24Q (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:573.07 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-schnell-fp8.safetensors vae:none width:512 height:512|adminlora||d557ae|4c915d ",
+      "generated_at": "2025-09-02T20:59:22-04:00",
+      "source_id": 14394639179
+    },
+    {
+      "id": "1899700694185857025",
+      "program": "SDBENCHMARK",
+      "message": "sd 2025-09-03 00:57:39.803847|3.87 / 4.32 / 4.39|app:stable-diffusion-webui-forge.git updated:2024-08-11 hash:90019688 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.10.18|torch:2.9.0.dev20250902+cu128 xformers: diffusers:0.29.2 transformers:4.44.0|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:575.64.03 31GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-schnell-fp8.safetensors vae:automatic width:512 height:512|sd||79c8c5|95b2be ",
+      "generated_at": "2025-09-02T20:59:22-04:00",
+      "source_id": 14394639179
     }
   ]
 }
