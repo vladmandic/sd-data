@@ -1,5 +1,5 @@
 {
-  "max_id": "1899700694185857025",
+  "max_id": "1899893240841293861",
   "events": [
     {
       "id": "1899004295999827978",
@@ -84,6 +84,13 @@
       "message": "sd 2025-09-03 00:57:39.803847|3.87 / 4.32 / 4.39|app:stable-diffusion-webui-forge.git updated:2024-08-11 hash:90019688 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.10.18|torch:2.9.0.dev20250902+cu128 xformers: diffusers:0.29.2 transformers:4.44.0|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:575.64.03 31GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:Flux model:flux1-schnell-fp8.safetensors vae:automatic width:512 height:512|sd||79c8c5|95b2be ",
       "generated_at": "2025-09-02T20:59:22-04:00",
       "source_id": 14394639179
+    },
+    {
+      "id": "1899893240841293861",
+      "program": "SDBENCHMARK",
+      "message": "ai 2025-09-03 16:41:31.955837|1.56 / 1.53 / 1.76|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz system:Linux release:6.12.24_server python:3.12.11|torch:2.7.0a0+git1341794 xformers:0.0.33+840bcec.d20250814 diffusers:0.35.0.dev0 transformers:4.54.1|device:Tesla P100-PCIE-16GB (1) (sm_61) (6, 0) cuda:12.8 cudnn:8907 driver:535.247.01 535.247.01 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:afroditexlnudepeople_31 [03757fdcc3] vae:none width:512 height:512|ai||f626ca|17ab3f ",
+      "generated_at": "2025-09-03T12:44:29-04:00",
+      "source_id": 14394931159
     }
   ]
 }
