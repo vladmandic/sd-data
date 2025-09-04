@@ -1,5 +1,5 @@
 {
-  "max_id": "1900127346778877964",
+  "max_id": "1900213033502957663",
   "events": [
     {
       "id": "1899004295999827978",
@@ -224,6 +224,27 @@
       "message": "virtek 2025-09-04 10:12:10.607379|7.58 / 1.07 / 1.23|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.9.0.dev20250901+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:automatic width:512 height:512|virtek||286af0|f15d2c ",
       "generated_at": "2025-09-04T06:14:44-04:00",
       "source_id": 14395284506
+    },
+    {
+      "id": "1900198610470096917",
+      "program": "SDBENCHMARK",
+      "message": "Akimaruto 2025-09-04 11:57:30.411277|5.05 / 6.82 / 8.11|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novacartoonxl_v40 [6ff77ca7d8] vae:none width:512 height:512|Akimaruto||233dd4|1e6c99 ",
+      "generated_at": "2025-09-04T07:57:53-04:00",
+      "source_id": 14395388044
+    },
+    {
+      "id": "1900213020102156296",
+      "program": "SDBENCHMARK",
+      "message": "Insider 2025-09-04 17:54:47.329155|7.73 / 8.23 / 8.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Insider||02f9fb|88b38b ",
+      "generated_at": "2025-09-04T13:55:10-04:00",
+      "source_id": 14395412683
+    },
+    {
+      "id": "1900213033502957663",
+      "program": "SDBENCHMARK",
+      "message": "Insider 2025-09-04 17:54:47.329155|7.73 / 8.23 / 8.88|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Insider||02f9fb|88b38b ",
+      "generated_at": "2025-09-04T13:55:14-04:00",
+      "source_id": 14395412683
     }
   ]
 }
