@@ -1,5 +1,5 @@
 {
-  "max_id": "1899893240841293861",
+  "max_id": "1900021678071795714",
   "events": [
     {
       "id": "1899004295999827978",
@@ -91,6 +91,48 @@
       "message": "ai 2025-09-03 16:41:31.955837|1.56 / 1.53 / 1.76|app:sdnext updated:2025-08-01 hash:b56d508a url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz system:Linux release:6.12.24_server python:3.12.11|torch:2.7.0a0+git1341794 xformers:0.0.33+840bcec.d20250814 diffusers:0.35.0.dev0 transformers:4.54.1|device:Tesla P100-PCIE-16GB (1) (sm_61) (6, 0) cuda:12.8 cudnn:8907 driver:535.247.01 535.247.01 16GB|pipeline:native crossattention:xFormers flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:afroditexlnudepeople_31 [03757fdcc3] vae:none width:512 height:512|ai||f626ca|17ab3f ",
       "generated_at": "2025-09-03T12:44:29-04:00",
       "source_id": 14394931159
+    },
+    {
+      "id": "1899982257452658698",
+      "program": "SDBENCHMARK",
+      "message": "LDFZ 2024-07-05 18:16:36.281295|12.57 / 14.68 / 15.53||arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.0+cu118 autocast half xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|v1-5-pruned-emaonly.safetensors [6ce0161689]|crock||af21fb|f5c07e ",
+      "generated_at": "2025-09-03T17:38:00-04:00",
+      "source_id": 14395076923
+    },
+    {
+      "id": "1899982257452658699",
+      "program": "SDBENCHMARK",
+      "message": "LDFZ 2024-07-05 18:09:25.750366|error / error / error||arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.0+cu118 autocast half xformers:0.0.23.post1 diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|v1-5-pruned-emaonly.safetensors [6ce0161689]|crock||76874c|0127cd ",
+      "generated_at": "2025-09-03T17:38:00-04:00",
+      "source_id": 14395076923
+    },
+    {
+      "id": "1899982257452658700",
+      "program": "SDBENCHMARK",
+      "message": "LDFZ 2025-01-07 22:37:20.928443|5.29 / 9.05 / 11.01||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.0+cu118 autocast half xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|sd_xl_base_1.0_0.9vae.safetensors [e6bb9ea85b]|crock||48ffdc|b309ef ",
+      "generated_at": "2025-09-03T17:38:00-04:00",
+      "source_id": 14395076923
+    },
+    {
+      "id": "1899982257452658708",
+      "program": "SDBENCHMARK",
+      "message": "LDFZ 2024-07-21 00:57:33.439763|4.56 / 4.73 / 4.81||arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.6|torch:2.3.0+cu118 autocast nohalf xformers: diffusers:0.29.0 transformers:4.30.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 24GB|Automatic none|v1-5-pruned-emaonly.safetensors [6ce0161689]|ope||a7435f|61ec58 ",
+      "generated_at": "2025-09-03T17:38:00-04:00",
+      "source_id": 14395076923
+    },
+    {
+      "id": "1899982257452658712",
+      "program": "SDBENCHMARK",
+      "message": "LDFZ 2025-09-03 21:34:26.802531|4.58 / 5.36 / 5.76|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:580.97 12GB|Automatic none|sd\\sd_xl_base_1.0_0.9vae.safetensors|LDFZ||274fc0|a5dafc ",
+      "generated_at": "2025-09-03T17:38:00-04:00",
+      "source_id": 14395076923
+    },
+    {
+      "id": "1900021678071795714",
+      "program": "SDBENCHMARK",
+      "message": "matts 2025-09-04 00:13:56.260645|2.68 / 2.86 / 3.11|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10|torch:2.7.1+cu128 xformers:0.0.30 diffusers:0.34.0.dev0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:528.24 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentInpaintDiffusion model:absolutereality181_arpm7inpaintv10.safetensors [177dcc96f9] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:768|matts||f52d0c|161223 ",
+      "generated_at": "2025-09-03T20:14:51-04:00",
+      "source_id": 14395142510
     }
   ]
 }
