@@ -1,5 +1,5 @@
 {
-  "max_id": "1900021678071795714",
+  "max_id": "1900127346778877964",
   "events": [
     {
       "id": "1899004295999827978",
@@ -133,6 +133,97 @@
       "message": "matts 2025-09-04 00:13:56.260645|2.68 / 2.86 / 3.11|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.10|torch:2.7.1+cu128 xformers:0.0.30 diffusers:0.34.0.dev0 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:528.24 6GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentInpaintDiffusion model:absolutereality181_arpm7inpaintv10.safetensors [177dcc96f9] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:768|matts||f52d0c|161223 ",
       "generated_at": "2025-09-03T20:14:51-04:00",
       "source_id": 14395142510
+    },
+    {
+      "id": "1900094485690494979",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-09-04 11:03:24.419023|8.82 / 9.64 / 10.52|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|Administrator||2bc0b5|7917d3 ",
+      "generated_at": "2025-09-04T07:04:10-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095475202306058",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:07:38.935333|8.83 / 9.35 / 10.22|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|HBDPGD||2bc0b5|298518 ",
+      "generated_at": "2025-09-04T07:08:06-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095501706113058",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:07:38.935333|8.83 / 9.35 / 10.22|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|HBDPGD||2bc0b5|298518 ",
+      "generated_at": "2025-09-04T07:08:12-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095502679191563",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:07:38.935333|8.83 / 9.35 / 10.22|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|HBDPGD||2bc0b5|298518 ",
+      "generated_at": "2025-09-04T07:08:12-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095522560192512",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:07:38.935333|8.83 / 9.35 / 10.22|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|HBDPGD||2bc0b5|298518 ",
+      "generated_at": "2025-09-04T07:08:17-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095529736646666",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:07:38.935333|8.83 / 9.35 / 10.22|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|二次元：dark sushi mix 大颗寿司mix_brighterpruned.safetensors [099e07547a]|HBDPGD||2bc0b5|298518 ",
+      "generated_at": "2025-09-04T07:08:19-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095817478484015",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:09:02.899635|8.7 / 9.3 / 10.15|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|HBDPGD||2bc0b5|5bad96 ",
+      "generated_at": "2025-09-04T07:09:27-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095824575246336",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:09:02.899635|8.7 / 9.3 / 10.15|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|HBDPGD||2bc0b5|5bad96 ",
+      "generated_at": "2025-09-04T07:09:29-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900095825858703372",
+      "program": "SDBENCHMARK",
+      "message": "HBDPGD 2025-09-04 11:09:02.899635|8.7 / 9.3 / 10.15|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|HBDPGD||2bc0b5|5bad96 ",
+      "generated_at": "2025-09-04T07:09:29-04:00",
+      "source_id": 14395239413
+    },
+    {
+      "id": "1900127299811069952",
+      "program": "SDBENCHMARK",
+      "message": "virtek 2025-09-04 10:12:10.607379|7.58 / 1.07 / 1.23|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.9.0.dev20250901+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:automatic width:512 height:512|virtek||286af0|f15d2c ",
+      "generated_at": "2025-09-04T06:14:33-04:00",
+      "source_id": 14395284506
+    },
+    {
+      "id": "1900127322787467278",
+      "program": "SDBENCHMARK",
+      "message": "virtek 2025-09-04 10:12:10.607379|7.58 / 1.07 / 1.23|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.9.0.dev20250901+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:automatic width:512 height:512|virtek||286af0|f15d2c ",
+      "generated_at": "2025-09-04T06:14:38-04:00",
+      "source_id": 14395284506
+    },
+    {
+      "id": "1900127345168265225",
+      "program": "SDBENCHMARK",
+      "message": "virtek 2025-09-04 10:12:10.607379|7.58 / 1.07 / 1.23|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.9.0.dev20250901+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:automatic width:512 height:512|virtek||286af0|f15d2c ",
+      "generated_at": "2025-09-04T06:14:44-04:00",
+      "source_id": 14395284506
+    },
+    {
+      "id": "1900127346778877964",
+      "program": "SDBENCHMARK",
+      "message": "virtek 2025-09-04 10:12:10.607379|7.58 / 1.07 / 1.23|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.9.0.dev20250901+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 [8bfad17222] vae:automatic width:512 height:512|virtek||286af0|f15d2c ",
+      "generated_at": "2025-09-04T06:14:44-04:00",
+      "source_id": 14395284506
     }
   ]
 }
