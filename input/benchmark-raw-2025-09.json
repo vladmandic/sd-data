@@ -1,5 +1,5 @@
 {
-  "max_id": "1900478979874414606",
+  "max_id": "1900651861741064204",
   "events": [
     {
       "id": "1899004295999827978",
@@ -266,6 +266,20 @@
       "message": "Den 2025-09-05 07:31:05.057258|5.69 / 5.84 / 6.55|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.9|torch:2.1.2+cu121 xformers: diffusers:0.23.0 transformers:4.30.2|device:NVIDIA RTX A4000 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cyberrealisticxl_v21.safetensors [d4aedfb248] vae:auto width:512 height:512|Den||46cfff|330222 ",
       "generated_at": "2025-09-05T03:31:59-04:00",
       "source_id": 14395824375
+    },
+    {
+      "id": "1900651048188698652",
+      "program": "SDBENCHMARK",
+      "message": "drewp 2025-09-05 10:55:18.582213|16.45 / 22.96 / 29.13|app: updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.167.4-microsoft-standard-WSL2 python:3.12.3|torch:2.8.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43482-0f2d60242 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/idkiro/sdxs-512-dreamshaper [76f720262b] vae:none width:512 height:512|drewp||13b4e6|99690b ",
+      "generated_at": "2025-09-05T06:55:44-04:00",
+      "source_id": 14396081561
+    },
+    {
+      "id": "1900651861741064204",
+      "program": "SDBENCHMARK",
+      "message": "drewp 2025-09-05 10:58:45.103641|16.45 / 22.99 / 29.28|app: updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.167.4-microsoft-standard-WSL2 python:3.12.3|torch:2.8.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43482-0f2d60242 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/idkiro/sdxs-512-dreamshaper [76f720262b] vae:none width:512 height:512|drewp|guhhh...|13b4e6|20e395 ",
+      "generated_at": "2025-09-05T06:58:58-04:00",
+      "source_id": 14396081561
     }
   ]
 }
