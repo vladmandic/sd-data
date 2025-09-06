@@ -1,5 +1,5 @@
 {
-  "max_id": "1900651861741064204",
+  "max_id": "1900821643010420744",
   "events": [
     {
       "id": "1899004295999827978",
@@ -280,6 +280,55 @@
       "message": "drewp 2025-09-05 10:58:45.103641|16.45 / 22.99 / 29.28|app: updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.167.4-microsoft-standard-WSL2 python:3.12.3|torch:2.8.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT (1) hip:6.4.43482-0f2d60242 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers/idkiro/sdxs-512-dreamshaper [76f720262b] vae:none width:512 height:512|drewp|guhhh...|13b4e6|20e395 ",
       "generated_at": "2025-09-05T06:58:58-04:00",
       "source_id": 14396081561
+    },
+    {
+      "id": "1900821643006226437",
+      "program": "SDBENCHMARK",
+      "message": "crock 2024-01-04 21:37:31.466545|13.76 / 15.19 / 15.7|app:stable-diffusion-webui updated:2023-12-16 hash:cf2772fa url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/release_candidate|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.0.1+cu118 autocast half xformers:0.0.20 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:546.33 16GB|xformers none|v1-5-pruned-emaonly.safetensors [6ce0161689]|||ab9977|b46180 ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643006226459",
+      "program": "SDBENCHMARK",
+      "message": "crock 2024-06-23 11:57:46.277811|11.98 / 14.83 / 18.17|app:stable-diffusion-webui-forge updated:2024-06-08 hash:0af28699 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers:0.0.23.post1 diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:552.44 16GB|Automatic none|sd_xl_base_1.0_0.9vae.safetensors|crock||927701|bd8667 ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643006226462",
+      "program": "SDBENCHMARK",
+      "message": "crock 2024-07-04 22:46:03.372383|12.85 / 13.5 / 16.63|app:stable-diffusion-webui-forge updated:2024-06-27 hash:bfee03d8 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.1.2+cu121 autocast half xformers: diffusers:0.25.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:552.44 16GB|Automatic none|sd_xl_base_1.0_0.9vae.safetensors|||e7e09e|ac197c ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643006226463",
+      "program": "SDBENCHMARK",
+      "message": "crock 2024-10-12 19:45:10.596401|1.4 / 1.53 / 1.64|app:stable-diffusion-webui-forge updated:2024-10-12 hash:ae8187bf url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 autocast half xformers: diffusers:0.29.2 transformers:4.44.0|device:NVIDIA GeForce RTX 3090 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:565.90 24GB|Automatic none|unet\\flux1-dev-fp8.safetensors|omp||7c0f86|fc6720 ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643006226465",
+      "program": "SDBENCHMARK",
+      "message": "crock 2024-12-18 19:44:59.828533|1.42 / 1.48 / 1.57|app:stable-diffusion-webui-forge updated:2024-12-16 hash:37301b22 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:565.90 24GB|Automatic none|sd\\flux1-dev-bnb-nf4-v2.safetensors|crock||1d6798|c2dc99 ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643010420741",
+      "program": "SDBENCHMARK",
+      "message": "crock 2025-09-06 02:06:25.100815|error / error / error|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_90) (12, 0) cuda:12.1 cudnn:8907 driver:580.97 32GB|Automatic none|AnythingV5Ink_ink.safetensors|crock||1730b9|385a2c ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
+    },
+    {
+      "id": "1900821643010420744",
+      "program": "SDBENCHMARK",
+      "message": "crock 2025-09-06 05:10:57.582857|3.44 / 3.74 / 3.77|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.97 32GB|Automatic none|sd\\flux1-dev-bnb-nf4-v2.safetensors|crock||7726ed|5669cf ",
+      "generated_at": "2025-09-06T01:13:37-04:00",
+      "source_id": 14396317991
     }
   ]
 }
