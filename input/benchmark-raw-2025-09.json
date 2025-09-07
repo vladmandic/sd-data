@@ -1,5 +1,5 @@
 {
-  "max_id": "1900951442928349184",
+  "max_id": "1901291047573708806",
   "events": [
     {
       "id": "1899004295999827978",
@@ -455,6 +455,13 @@
       "message": "crock 2025-09-06 13:49:15.594283|21.67 / 37.36 / 46.79|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.8.0+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.97 32GB|Automatic none|sd\\AnythingV5Ink_ink.safetensors|crock|Zotac 5090 pcie_4|7726ed|a26840 ",
       "generated_at": "2025-09-06T09:49:23-04:00",
       "source_id": 14396317991
+    },
+    {
+      "id": "1901291047573708806",
+      "program": "SDBENCHMARK",
+      "message": "almond 2025-09-07 15:17:38.334473|2.51 / 2.89 / 4.28|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:nostramix_v20sdxlvae [c32538cbba] vae:none width:512 height:512|almond||e4e533|009bb6 ",
+      "generated_at": "2025-09-07T11:18:52-04:00",
+      "source_id": 14396845417
     }
   ]
 }
