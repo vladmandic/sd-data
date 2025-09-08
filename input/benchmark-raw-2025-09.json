@@ -1,5 +1,5 @@
 {
-  "max_id": "1901531544888193031",
+  "max_id": "1901741032643678263",
   "events": [
     {
       "id": "1899004295999827978",
@@ -490,6 +490,13 @@
       "message": "started: Sun Sep  7 22:14:34 2025 step: 0 / 0 jobs: 0 / 0 flags:  job:  text-info:  2025-07-19 12:26:52.604943|error / error / error / error / error|app:stable-diffusion-webui-reForge updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\absolutereality_v181.safetensors [463d6a9fe8] vae:fixyourcolorsvae_vaeftmse840000ema.pt width:512 height:512|alexc|4|db1623|0e8a98 ",
       "generated_at": "2025-09-07T18:14:35-04:00",
       "source_id": 14397120560
+    },
+    {
+      "id": "1901741032643678263",
+      "program": "SDBENCHMARK",
+      "message": "GG 2025-09-09 00:06:38.055176|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:手绘插画chinese style_v1.0.safetensors [ebacd101bb] vae:automatic width:512 height:512|GG||99cacc|df8660 ",
+      "generated_at": "2025-09-08T20:06:55-04:00",
+      "source_id": 14397433425
     }
   ]
 }
