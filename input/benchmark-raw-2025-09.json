@@ -1,5 +1,5 @@
 {
-  "max_id": "1901484393474744332",
+  "max_id": "1901531544888193031",
   "events": [
     {
       "id": "1899004295999827978",
@@ -483,6 +483,13 @@
       "message": "jerim 2025-09-08 00:07:07.303472|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.13.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:NoneType model:none vae:none width:512 height:512|jerim||e6926b|0e36c2 ",
       "generated_at": "2025-09-07T20:07:10-04:00",
       "source_id": 14397065221
+    },
+    {
+      "id": "1901531544888193031",
+      "program": "SDBENCHMARK",
+      "message": "started: Sun Sep  7 22:14:34 2025 step: 0 / 0 jobs: 0 / 0 flags:  job:  text-info:  2025-07-19 12:26:52.604943|error / error / error / error / error|app:stable-diffusion-webui-reForge updated:2025-07-14 hash:90adc6d5 url:https://github.com/Panchovix/stable-diffusion-webui-reForge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.32.2 transformers:4.48.1|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\absolutereality_v181.safetensors [463d6a9fe8] vae:fixyourcolorsvae_vaeftmse840000ema.pt width:512 height:512|alexc|4|db1623|0e8a98 ",
+      "generated_at": "2025-09-07T18:14:35-04:00",
+      "source_id": 14397120560
     }
   ]
 }
