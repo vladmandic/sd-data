@@ -1,5 +1,5 @@
 {
-  "max_id": "1901291047573708806",
+  "max_id": "1901484393474744332",
   "events": [
     {
       "id": "1899004295999827978",
@@ -462,6 +462,27 @@
       "message": "almond 2025-09-07 15:17:38.334473|2.51 / 2.89 / 4.28|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:nostramix_v20sdxlvae [c32538cbba] vae:none width:512 height:512|almond||e4e533|009bb6 ",
       "generated_at": "2025-09-07T11:18:52-04:00",
       "source_id": 14396845417
+    },
+    {
+      "id": "1901431838057082897",
+      "program": "SDBENCHMARK",
+      "message": "iTouch44 2025-09-07 21:34:42.381282|4.05 / 6.74 / 12.09 / 15.46 / 18.03 / 19.49 / 20.74|app:SD.next updated:2025-07-31 hash:a941992b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.16|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|iTouch44|RTX 5090 / 5900X / 32 GB DDR4|8eb3ca|bbf647 ",
+      "generated_at": "2025-09-07T17:38:18-04:00",
+      "source_id": 14397004099
+    },
+    {
+      "id": "1901431937520807936",
+      "program": "SDBENCHMARK",
+      "message": "iTouch44 2025-09-07 21:34:42.381282|4.05 / 6.74 / 12.09 / 15.46 / 18.03 / 19.49 / 20.74|app:SD.next updated:2025-07-31 hash:a941992b url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.16|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.53.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|iTouch44|RTX 5090 / 5900X / 32 GB DDR4|8eb3ca|bbf647 ",
+      "generated_at": "2025-09-07T17:38:42-04:00",
+      "source_id": 14397004099
+    },
+    {
+      "id": "1901484393474744332",
+      "program": "SDBENCHMARK",
+      "message": "jerim 2025-09-08 00:07:07.303472|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.13.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:NoneType model:none vae:none width:512 height:512|jerim||e6926b|0e36c2 ",
+      "generated_at": "2025-09-07T20:07:10-04:00",
+      "source_id": 14397065221
     }
   ]
 }
