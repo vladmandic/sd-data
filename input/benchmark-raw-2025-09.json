@@ -1,5 +1,5 @@
 {
-  "max_id": "1901741032643678263",
+  "max_id": "1901950709004423186",
   "events": [
     {
       "id": "1899004295999827978",
@@ -497,6 +497,13 @@
       "message": "GG 2025-09-09 00:06:38.055176|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:手绘插画chinese style_v1.0.safetensors [ebacd101bb] vae:automatic width:512 height:512|GG||99cacc|df8660 ",
       "generated_at": "2025-09-08T20:06:55-04:00",
       "source_id": 14397433425
+    },
+    {
+      "id": "1901950709004423186",
+      "program": "SDBENCHMARK",
+      "message": "Verner 2025-09-09 07:57:34.868593|8.97 / 14.23 / 17.41 / 18.73 / 19.7|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:581.08 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:cyberrealisticxl_v70 [183157e5d5] vae:none width:512 height:512|Verner||a72943|7e4950 ",
+      "generated_at": "2025-09-09T04:00:08-04:00",
+      "source_id": 14397744887
     }
   ]
 }
