@@ -1,5 +1,5 @@
 {
-  "max_id": "1901950709004423186",
+  "max_id": "1902200373515575301",
   "events": [
     {
       "id": "1899004295999827978",
@@ -504,6 +504,34 @@
       "message": "Verner 2025-09-09 07:57:34.868593|8.97 / 14.23 / 17.41 / 18.73 / 19.7|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:581.08 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:cyberrealisticxl_v70 [183157e5d5] vae:none width:512 height:512|Verner||a72943|7e4950 ",
       "generated_at": "2025-09-09T04:00:08-04:00",
       "source_id": 14397744887
+    },
+    {
+      "id": "1902171843369025542",
+      "program": "SDBENCHMARK",
+      "message": "Ich 2025-08-18 09:03:10.379008|15.42 / 24.69 / 29.99 / 30.48 / 32.21|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.18|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:577.00 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\illu\\illuanime\\prefectillustriousxl_v3.safetensors vae:none width:512 height:512|Ich|d|17b326|e25340 ",
+      "generated_at": "2025-09-09T18:38:49-04:00",
+      "source_id": 14398103729
+    },
+    {
+      "id": "1902171843402579968",
+      "program": "SDBENCHMARK",
+      "message": "Ich 2025-09-04 13:47:42.503353|17.59 / 18.38 / 20.86 / 22.55 / 23.11|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.18|torch:2.8.0+cu128 xformers:0.0.32.post2 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:580.97 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\sdxl\\cyberrealisticxl_v70.safetensors vae:none width:512 height:512|Ich|e|70c488|58f3ad ",
+      "generated_at": "2025-09-09T18:38:49-04:00",
+      "source_id": 14398103729
+    },
+    {
+      "id": "1902171843402579969",
+      "program": "SDBENCHMARK",
+      "message": "Ich 2025-09-05 22:38:38.273930|14.13 / 25.31 / 36.49 / 39.77 / 41.43|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.18|torch:2.8.0+cu128 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.97 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\sdxl\\biglove_photo1.safetensors vae:none width:512 height:512|Ich|f|a338c2|de9b18 ",
+      "generated_at": "2025-09-09T18:38:49-04:00",
+      "source_id": 14398103729
+    },
+    {
+      "id": "1902200373515575301",
+      "program": "SDBENCHMARK",
+      "message": "Hardware 2025-09-10 00:30:24.855003|27.65 / 27.64 / 29.54|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:diffusers\\idkiro/sdxs-512-dreamshaper [76f720262b] vae:automatic width:512 height:512|Hardware||8c9bcb|35dc79 ",
+      "generated_at": "2025-09-09T20:30:52-04:00",
+      "source_id": 14398148434
     }
   ]
 }
