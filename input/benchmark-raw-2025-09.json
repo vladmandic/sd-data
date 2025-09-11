@@ -1,5 +1,5 @@
 {
-  "max_id": "1902770468801396741",
+  "max_id": "1902779789673148423",
   "events": [
     {
       "id": "1899004295999827978",
@@ -637,6 +637,20 @@
       "message": "Clark 2025-09-11 07:17:09.881807|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.13.2|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 6700 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:none vae:none width:512 height:512|Clark||5c0b7e|159e1d ",
       "generated_at": "2025-09-11T03:17:33-04:00",
       "source_id": 14398996847
+    },
+    {
+      "id": "1902779780663783426",
+      "program": "SDBENCHMARK",
+      "message": "16399 2025-09-11 20:26:17.272712|0.17 / 0.18 / 0.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|16399||4fb736|5882c4 ",
+      "generated_at": "2025-09-11T16:54:22-04:00",
+      "source_id": 14399010517
+    },
+    {
+      "id": "1902779789673148423",
+      "program": "SDBENCHMARK",
+      "message": "16399 2025-09-11 20:26:17.272712|0.17 / 0.18 / 0.19|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|16399||4fb736|5882c4 ",
+      "generated_at": "2025-09-11T16:54:24-04:00",
+      "source_id": 14399010517
     }
   ]
 }
