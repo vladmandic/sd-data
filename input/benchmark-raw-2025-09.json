@@ -1,5 +1,5 @@
 {
-  "max_id": "1902556486459117582",
+  "max_id": "1902770468801396741",
   "events": [
     {
       "id": "1899004295999827978",
@@ -616,6 +616,27 @@
       "message": "Franky 2025-09-11 00:06:06.510647|1.42 / 2.76 / 4.74|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby_1659952 [dd08fa32f9] vae:none width:512 height:512|Franky||1282ac|420fc9 ",
       "generated_at": "2025-09-10T20:07:16-04:00",
       "source_id": 14398688868
+    },
+    {
+      "id": "1902757508494307341",
+      "program": "SDBENCHMARK",
+      "message": "t2p4 2025-09-11 20:25:30.081573|error|app:SD.next updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:boleromixillustrious_v402 [6e9c42d180] vae:none width:512 height:512|t2p4||af6baa|959af1 ",
+      "generated_at": "2025-09-11T16:26:04-04:00",
+      "source_id": 14398976742
+    },
+    {
+      "id": "1902770459016085508",
+      "program": "SDBENCHMARK",
+      "message": "Clark 2025-09-11 07:17:09.881807|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.13.2|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 6700 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:none vae:none width:512 height:512|Clark||5c0b7e|159e1d ",
+      "generated_at": "2025-09-11T03:17:31-04:00",
+      "source_id": 14398996847
+    },
+    {
+      "id": "1902770468801396741",
+      "program": "SDBENCHMARK",
+      "message": "Clark 2025-09-11 07:17:09.881807|error / error / error|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.13.2|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 6700 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 10GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:none vae:none width:512 height:512|Clark||5c0b7e|159e1d ",
+      "generated_at": "2025-09-11T03:17:33-04:00",
+      "source_id": 14398996847
     }
   ]
 }
