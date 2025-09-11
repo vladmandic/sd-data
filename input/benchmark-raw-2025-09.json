@@ -1,5 +1,5 @@
 {
-  "max_id": "1902434617634500626",
+  "max_id": "1902556486459117582",
   "events": [
     {
       "id": "1899004295999827978",
@@ -602,6 +602,20 @@
       "message": "marekop 2025-09-10 14:01:21.827625|2.73 / 2.54 / 2.62|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-79-generic python:3.12.3|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:575.64.03 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn [338b85bc4f] vae:none width:1024 height:1024|marekop||1ba0ed|9f9d15 ",
       "generated_at": "2025-09-10T10:03:00-04:00",
       "source_id": 14398285382
+    },
+    {
+      "id": "1902515586987122726",
+      "program": "SDBENCHMARK",
+      "message": "lylepaul78 2025-09-10 15:23:46.102643|error / error / error|app: updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext//tree/master|arch:x86_64 cpu:x86_64 system:Linux release:5.15.167.4-microsoft-standard-WSL2 python:3.12.11|torch:2.7.1+cu128 xformers: diffusers:0.35.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (2) (compute_120) (8, 9) cuda:12.8 cudnn:90701 driver:580.97 580.97 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:babesbystableyogipony_v60fp16 [cfb4d11b6f] vae:none width:512 height:512|lylepaul78||fb399d|7cbaa3 ",
+      "generated_at": "2025-09-10T11:24:44-04:00",
+      "source_id": 14398625346
+    },
+    {
+      "id": "1902556486459117582",
+      "program": "SDBENCHMARK",
+      "message": "Franky 2025-09-11 00:06:06.510647|1.42 / 2.76 / 4.74|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby_1659952 [dd08fa32f9] vae:none width:512 height:512|Franky||1282ac|420fc9 ",
+      "generated_at": "2025-09-10T20:07:16-04:00",
+      "source_id": 14398688868
     }
   ]
 }
