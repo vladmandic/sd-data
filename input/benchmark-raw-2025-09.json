@@ -1,5 +1,5 @@
 {
-  "max_id": "1903063998983757825",
+  "max_id": "1903367918067040338",
   "events": [
     {
       "id": "1899004295999827978",
@@ -658,6 +658,13 @@
       "message": "Administrator 2025-09-12 15:43:10.762128|6.81 / 7.22 / 7.62|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.11|torch:2.6.0+cu128.nv autocast half xformers:0.0.29.post2 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5050 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:577.00 8GB|Automatic medvram-sdxl|写实：majicMIX realistic 麦橘写实_v7.safetensors [7c819b6d13]|Administrator||e76b61|6f3ccd ",
       "generated_at": "2025-09-12T11:43:50-04:00",
       "source_id": 14399431688
+    },
+    {
+      "id": "1903367918067040338",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-09-13 11:49:50.422383|2.85 / 4.27 / 5.95|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.8.0.dev20250425+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wainsfwillustrious_v150.safetensors [befc694a29] vae:automatic width:512 height:512|Admin||bcd2bb|7270b5 ",
+      "generated_at": "2025-09-13T07:51:44-04:00",
+      "source_id": 14399840098
     }
   ]
 }
