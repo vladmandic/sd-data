@@ -1,5 +1,5 @@
 {
-  "max_id": "1903732850071613464",
+  "max_id": "1903857716997316610",
   "events": [
     {
       "id": "1899004295999827978",
@@ -735,6 +735,13 @@
       "message": "A 2025-09-14 12:47:17.267350|0.27 / 0.16 / 0.19|app:SD.next updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.8.0+cpu xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:Intel(R) UHD Graphics 770 (iGPU) openvino:2025.2.0 14GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:openvino compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:futaba_image_nv [091c41f714] vae:none width:512 height:512|A||6e7931|9a5865 ",
       "generated_at": "2025-09-14T09:01:41-04:00",
       "source_id": 14400255011
+    },
+    {
+      "id": "1903857716997316610",
+      "program": "SDBENCHMARK",
+      "message": "almond 2025-09-07 16:48:18.171813|2.66 / 3.45 / 4.8|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:nostramix_v20sdxlvae [c32538cbba] vae:none width:512 height:512|almond||e4e533|187d30 ",
+      "generated_at": "2025-09-14T13:17:47-04:00",
+      "source_id": 14400400518
     }
   ]
 }
