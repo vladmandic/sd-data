@@ -1,5 +1,5 @@
 {
-  "max_id": "1903857716997316610",
+  "max_id": "1904214697524252681",
   "events": [
     {
       "id": "1899004295999827978",
@@ -742,6 +742,27 @@
       "message": "almond 2025-09-07 16:48:18.171813|2.66 / 3.45 / 4.8|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:Intel(R) Arc(TM) A770 Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:nostramix_v20sdxlvae [c32538cbba] vae:none width:512 height:512|almond||e4e533|187d30 ",
       "generated_at": "2025-09-14T13:17:47-04:00",
       "source_id": 14400400518
+    },
+    {
+      "id": "1904214697524252677",
+      "program": "SDBENCHMARK",
+      "message": "dawid 2025-03-19 23:25:39.327857|1.19 / 1.35 / 1.48|app:sdnext updated:2025-03-14 hash:6633e8e5 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.6.0+cu118 xformers: diffusers:0.33.0.dev0 transformers:4.48.3|device:AMD Radeon RX 7800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:1024 height:1024|dawid||7f80c0|2dd394 ",
+      "generated_at": "2025-09-15T09:56:25-04:00",
+      "source_id": 14400865818
+    },
+    {
+      "id": "1904214697524252678",
+      "program": "SDBENCHMARK",
+      "message": "dawid 2025-05-21 09:11:09.288508|6.41 / 8.06 / 10.87|app:sdnext updated:2025-05-16 hash:12ebadcc url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.0+cu128 xformers: diffusers:0.34.0.dev0 transformers:4.51.3|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.52 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|dawid||01e7b0|ae9128 ",
+      "generated_at": "2025-09-15T09:56:25-04:00",
+      "source_id": 14400865818
+    },
+    {
+      "id": "1904214697524252681",
+      "program": "SDBENCHMARK",
+      "message": "dawid 2025-09-15 13:55:54.685198|5.38 / 9.51 / 12.91|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.29 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|dawid||e8311d|ccd84f ",
+      "generated_at": "2025-09-15T09:56:25-04:00",
+      "source_id": 14400865818
     }
   ]
 }
