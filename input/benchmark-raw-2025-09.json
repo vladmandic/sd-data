@@ -1,5 +1,5 @@
 {
-  "max_id": "1904214697524252681",
+  "max_id": "1904454816478965782",
   "events": [
     {
       "id": "1899004295999827978",
@@ -763,6 +763,13 @@
       "message": "dawid 2025-09-15 13:55:54.685198|5.38 / 9.51 / 12.91|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.29 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:wainsfwillustrious_v120 [89cb4ec0a9] vae:none width:512 height:512|dawid||e8311d|ccd84f ",
       "generated_at": "2025-09-15T09:56:25-04:00",
       "source_id": 14400865818
+    },
+    {
+      "id": "1904454816478965782",
+      "program": "SDBENCHMARK",
+      "message": "dwter 2025-09-15 23:31:26.978500|0.35 / 0.38 / 0.16|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 5700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:540 height:960|dwter||890393|bc03df ",
+      "generated_at": "2025-09-15T19:50:34-04:00",
+      "source_id": 14401238780
     }
   ]
 }
