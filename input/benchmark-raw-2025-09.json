@@ -1,5 +1,5 @@
 {
-  "max_id": "1904454816478965782",
+  "max_id": "1904592686770475014",
   "events": [
     {
       "id": "1899004295999827978",
@@ -770,6 +770,20 @@
       "message": "dwter 2025-09-15 23:31:26.978500|0.35 / 0.38 / 0.16|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 5700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:540 height:960|dwter||890393|bc03df ",
       "generated_at": "2025-09-15T19:50:34-04:00",
       "source_id": 14401238780
+    },
+    {
+      "id": "1904592681238188036",
+      "program": "SDBENCHMARK",
+      "message": "81231 2025-09-16 20:58:15.244409|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 580 2048SP (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|81231||2402d6|809018 ",
+      "generated_at": "2025-09-16T16:58:24-04:00",
+      "source_id": 14401454829
+    },
+    {
+      "id": "1904592686770475014",
+      "program": "SDBENCHMARK",
+      "message": "81231 2025-09-16 20:58:15.244409|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 580 2048SP (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|81231||2402d6|809018 ",
+      "generated_at": "2025-09-16T16:58:26-04:00",
+      "source_id": 14401454829
     }
   ]
 }
