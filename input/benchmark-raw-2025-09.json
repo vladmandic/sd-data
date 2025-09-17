@@ -1,5 +1,5 @@
 {
-  "max_id": "1904592686770475014",
+  "max_id": "1904962065269973003",
   "events": [
     {
       "id": "1899004295999827978",
@@ -784,6 +784,13 @@
       "message": "81231 2025-09-16 20:58:15.244409|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.3.1+cu118 autocast nohalf xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 580 2048SP (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 8GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|81231||2402d6|809018 ",
       "generated_at": "2025-09-16T16:58:26-04:00",
       "source_id": 14401454829
+    },
+    {
+      "id": "1904962065269973003",
+      "program": "SDBENCHMARK",
+      "message": "windows10 2025-09-17 21:24:51.599448|2.27 / 2.41 / 2.38|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:527.56 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|windows10||6782fd|2530a5 ",
+      "generated_at": "2025-09-17T17:26:11-04:00",
+      "source_id": 14402025468
     }
   ]
 }
