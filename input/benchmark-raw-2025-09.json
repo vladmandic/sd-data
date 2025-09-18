@@ -1,5 +1,5 @@
 {
-  "max_id": "1904962065269973003",
+  "max_id": "1905081600341884951",
   "events": [
     {
       "id": "1899004295999827978",
@@ -791,6 +791,13 @@
       "message": "windows10 2025-09-17 21:24:51.599448|2.27 / 2.41 / 2.38|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 94 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.17763-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA P104-100 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:527.56 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|windows10||6782fd|2530a5 ",
       "generated_at": "2025-09-17T17:26:11-04:00",
       "source_id": 14402025468
+    },
+    {
+      "id": "1905081600341884951",
+      "program": "SDBENCHMARK",
+      "message": "marekop 2025-09-17 21:20:46.255947|9.08 / 9.45 / 11.02|app:sdnext updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-83-generic python:3.12.3|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.65.06 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn [338b85bc4f] vae:none width:512 height:512|marekop||5d74d5|1c389a ",
+      "generated_at": "2025-09-17T17:21:10-04:00",
+      "source_id": 14402218001
     }
   ]
 }
