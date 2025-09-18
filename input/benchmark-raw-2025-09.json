@@ -1,5 +1,5 @@
 {
-  "max_id": "1905081600341884951",
+  "max_id": "1905174367759945732",
   "events": [
     {
       "id": "1899004295999827978",
@@ -798,6 +798,13 @@
       "message": "marekop 2025-09-17 21:20:46.255947|9.08 / 9.45 / 11.02|app:sdnext updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-83-generic python:3.12.3|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.65.06 15GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn [338b85bc4f] vae:none width:512 height:512|marekop||5d74d5|1c389a ",
       "generated_at": "2025-09-17T17:21:10-04:00",
       "source_id": 14402218001
+    },
+    {
+      "id": "1905174367759945732",
+      "program": "SDBENCHMARK",
+      "message": "MG 2025-09-17 22:24:39.898270|0.83 / 0.79 / 0.9|app:sdnext.git updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.3|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.29 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:illustrious\\darkillusoria_v1-il [e25d08cc9d] vae:dark-vae_whodimmedthelight-xl.safetensors width:832 height:1248|apear||10f87f|2f5383 ",
+      "generated_at": "2025-09-17T18:29:36-04:00",
+      "source_id": 14402341204
     }
   ]
 }
