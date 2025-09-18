@@ -1,5 +1,5 @@
 {
-  "max_id": "1905309453864067136",
+  "max_id": "1905346633227489293",
   "events": [
     {
       "id": "1899004295999827978",
@@ -811,6 +811,34 @@
       "program": "SDBENCHMARK",
       "message": "liutyi 2025-09-18 12:24:15.000816|1.01 / 1.03 / 1.07|app:sdnext.git updated:2025-09-17 hash:6f969958 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly [92954befdb] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|b67aeb ",
       "generated_at": "2025-09-18T08:26:35-04:00",
+      "source_id": 14402544305
+    },
+    {
+      "id": "1905314779317329926",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-09-18 12:45:21.786106|1.0 / 1.03 / 1.06|app:sdnext.git updated:2025-09-17 hash:6f969958 url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn [338b85bc4f] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|3fd7da ",
+      "generated_at": "2025-09-18T08:47:44-04:00",
+      "source_id": 14402544305
+    },
+    {
+      "id": "1905341917957382150",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-09-18 14:32:21.928671|0.66 / 0.78 / 0.82|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sd_xl_base_1.0 [31e35c80fc] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|1e642c ",
+      "generated_at": "2025-09-18T10:35:35-04:00",
+      "source_id": 14402544305
+    },
+    {
+      "id": "1905342989136474118",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-09-18 14:36:47.651827|0.74 / 0.78 / 0.82|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion [33e58e8668] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|715f6c ",
+      "generated_at": "2025-09-18T10:39:50-04:00",
+      "source_id": 14402544305
+    },
+    {
+      "id": "1905346633227489293",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-09-18 14:41:54.926656|0.17 / 0.19 / 0.2|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:diffusers/qwen/qwen-image [75e0b4be04] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|02495c ",
+      "generated_at": "2025-09-18T10:54:19-04:00",
       "source_id": 14402544305
     }
   ]
