@@ -1,5 +1,5 @@
 {
-  "max_id": "1905346633227489293",
+  "max_id": "1905402327536427038",
   "events": [
     {
       "id": "1899004295999827978",
@@ -839,6 +839,13 @@
       "program": "SDBENCHMARK",
       "message": "liutyi 2025-09-18 14:41:54.926656|0.17 / 0.19 / 0.2|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:diffusers/qwen/qwen-image [75e0b4be04] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|02495c ",
       "generated_at": "2025-09-18T10:54:19-04:00",
+      "source_id": 14402544305
+    },
+    {
+      "id": "1905402327536427038",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-09-18 14:57:44.389667|0.17 / 0.19 / 0.2|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:diffusers/qwen/qwen-image [75e0b4be04] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|392cf9 ",
+      "generated_at": "2025-09-18T14:35:37-04:00",
       "source_id": 14402544305
     }
   ]
