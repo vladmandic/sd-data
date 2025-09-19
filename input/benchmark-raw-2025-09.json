@@ -1,5 +1,5 @@
 {
-  "max_id": "1905402327536427038",
+  "max_id": "1905713299362861058",
   "events": [
     {
       "id": "1899004295999827978",
@@ -847,6 +847,41 @@
       "message": "liutyi 2025-09-18 14:57:44.389667|0.17 / 0.19 / 0.2|app:sdnext.git updated:2025-09-18 hash:d2b9930d url:https://github.com/vladmandic/sdnext.git/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-29-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:diffusers/qwen/qwen-image [75e0b4be04] vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|ce17db|392cf9 ",
       "generated_at": "2025-09-18T14:35:37-04:00",
       "source_id": 14402544305
+    },
+    {
+      "id": "1905677710940889119",
+      "program": "SDBENCHMARK",
+      "message": "高一涵 2025-09-19 20:31:15.621448|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+xpu autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|高一涵||dbe750|6dee94 ",
+      "generated_at": "2025-09-19T16:49:53-04:00",
+      "source_id": 14403147059
+    },
+    {
+      "id": "1905677772278390800",
+      "program": "SDBENCHMARK",
+      "message": "高一涵 2025-09-19 20:31:15.621448|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+xpu autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|高一涵||dbe750|6dee94 ",
+      "generated_at": "2025-09-19T16:50:08-04:00",
+      "source_id": 14403147059
+    },
+    {
+      "id": "1905678429064454158",
+      "program": "SDBENCHMARK",
+      "message": "高一涵 2025-09-19 20:52:21.609918|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 170 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+xpu autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|高一涵||dbe750|7e204b ",
+      "generated_at": "2025-09-19T16:52:45-04:00",
+      "source_id": 14403147059
+    },
+    {
+      "id": "1905697460312006659",
+      "program": "SDBENCHMARK",
+      "message": "int16 2025-09-19 22:04:34.803907|0.78 / 0.82 / 0.84|app:sdnext updated:2025-08-20 hash:3ec0d35d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.55.2|device:AMD Radeon RX 9070 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:kohakuxlbeta_beta7 [43c75e6831] vae:none width:512 height:512|int16||b0f992|073a13 ",
+      "generated_at": "2025-09-19T18:08:18-04:00",
+      "source_id": 14403179412
+    },
+    {
+      "id": "1905713299362861058",
+      "program": "SDBENCHMARK",
+      "message": "Monarch 2025-09-19 17:10:32.728478|2.77 / 4.49 / 6.04|app:sdnext updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:acornisspinning_acornxlv5 [29eb2bcf3f] vae:none width:512 height:512|Monarch||fe9abb|67566c ",
+      "generated_at": "2025-09-19T13:11:19-04:00",
+      "source_id": 14403207881
     }
   ]
 }
