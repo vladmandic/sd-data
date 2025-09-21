@@ -1,5 +1,5 @@
 {
-  "max_id": "1906019665730265088",
+  "max_id": "1906431876743225348",
   "events": [
     {
       "id": "1899004295999827978",
@@ -910,6 +910,20 @@
       "message": "Lionel 2025-09-20 13:28:18.783012|error / error / error|app:SD.next updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.10|torch:2.8.0+cpu xformers: diffusers:0.36.0.dev0 transformers:4.56.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:NoneType model:none vae:none width:512 height:512|Lionel||697b4e|1202a1 ",
       "generated_at": "2025-09-20T09:28:34-04:00",
       "source_id": 14403628923
+    },
+    {
+      "id": "1906431863061405702",
+      "program": "SDBENCHMARK",
+      "message": "Justi 2025-09-21 22:45:51.745583|5.02 / 5.05 / 6.23|app:sdnext.git updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:576.02 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sdxl\\waimatureillustrious_v20 [7e4b5e6d91] vae:none width:512 height:512|Justi||caf824|d8a532 ",
+      "generated_at": "2025-09-21T18:46:34-04:00",
+      "source_id": 14404111513
+    },
+    {
+      "id": "1906431876743225348",
+      "program": "SDBENCHMARK",
+      "message": "Justi 2025-09-21 22:45:51.745583|5.02 / 5.05 / 6.23|app:sdnext.git updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:576.02 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sdxl\\waimatureillustrious_v20 [7e4b5e6d91] vae:none width:512 height:512|Justi||caf824|d8a532 ",
+      "generated_at": "2025-09-21T18:46:37-04:00",
+      "source_id": 14404111513
     }
   ]
 }
