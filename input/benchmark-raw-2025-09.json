@@ -1,5 +1,5 @@
 {
-  "max_id": "1906431876743225348",
+  "max_id": "1907028270751342601",
   "events": [
     {
       "id": "1899004295999827978",
@@ -924,6 +924,20 @@
       "message": "Justi 2025-09-21 22:45:51.745583|5.02 / 5.05 / 6.23|app:sdnext.git updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.9|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:576.02 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:sdxl\\waimatureillustrious_v20 [7e4b5e6d91] vae:none width:512 height:512|Justi||caf824|d8a532 ",
       "generated_at": "2025-09-21T18:46:37-04:00",
       "source_id": 14404111513
+    },
+    {
+      "id": "1907028270747136000",
+      "program": "SDBENCHMARK",
+      "message": "wall 2024-11-13 01:02:35.271236|0.92 / 1.02 / 1.08|app:stable-diffusion-webui-forge.git updated:2024-11-11 hash:98e0adcc url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:5.15.0-125-generic python:3.10.12|torch:2.3.1+cu121 autocast half xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce GTX 1080 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8902 driver:550.127.05 8GB|Automatic none|noobaiXLNAIXL_vPred05Version.safetensors|wall||aaa475|7ce0c2 ",
+      "generated_at": "2025-09-23T10:16:33-04:00",
+      "source_id": 14405048846
+    },
+    {
+      "id": "1907028270751342601",
+      "program": "SDBENCHMARK",
+      "message": "wall 2025-09-23 14:13:51.297532|1.91 / 1.99 / 2.08|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-83-generic python:3.10.17|torch:2.7.0+cu126 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA RTX A3000 Laptop GPU (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:570.172.08 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:noobaixlnaixl_vpred10version.safetensors vae:automatic width:1024 height:1024|wall||a2545d|383c02 ",
+      "generated_at": "2025-09-23T10:16:33-04:00",
+      "source_id": 14405048846
     }
   ]
 }
