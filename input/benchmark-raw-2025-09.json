@@ -1,5 +1,5 @@
 {
-  "max_id": "1907028270751342601",
+  "max_id": "1907097210642944003",
   "events": [
     {
       "id": "1899004295999827978",
@@ -938,6 +938,20 @@
       "message": "wall 2025-09-23 14:13:51.297532|1.91 / 1.99 / 2.08|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:x86_64 cpu:x86_64 system:Linux release:6.8.0-83-generic python:3.10.17|torch:2.7.0+cu126 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA RTX A3000 Laptop GPU (1) (sm_90) (8, 6) cuda:12.6 cudnn:90501 driver:570.172.08 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:noobaixlnaixl_vpred10version.safetensors vae:automatic width:1024 height:1024|wall||a2545d|383c02 ",
       "generated_at": "2025-09-23T10:16:33-04:00",
       "source_id": 14405048846
+    },
+    {
+      "id": "1907097192443858945",
+      "program": "SDBENCHMARK",
+      "message": "ecno 2025-09-23 04:47:49.013396|0.88 / 1.02 / 1.12|app:sdnext updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 5600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|ecno||f34a7b|b8c1ee ",
+      "generated_at": "2025-09-23T00:50:23-04:00",
+      "source_id": 14405167716
+    },
+    {
+      "id": "1907097210642944003",
+      "program": "SDBENCHMARK",
+      "message": "ecno 2025-09-23 04:47:49.013396|0.88 / 1.02 / 1.12|app:sdnext updated:2025-09-16 hash:7c8f42fa url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 5600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 6GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:512 height:512|ecno||f34a7b|b8c1ee ",
+      "generated_at": "2025-09-23T00:50:27-04:00",
+      "source_id": 14405167716
     }
   ]
 }
