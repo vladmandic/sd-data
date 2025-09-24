@@ -1,5 +1,5 @@
 {
-  "max_id": "1907154236358189146",
+  "max_id": "1907534675136667658",
   "events": [
     {
       "id": "1899004295999827978",
@@ -959,6 +959,13 @@
       "message": "Lutetia 2025-09-23 22:36:43.677531|11.11 / 12.65 / 13.05|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab68 url:https://jihulab.com/hanamizuki/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.15 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Lutetia||f3ac5c|9e49f0 ",
       "generated_at": "2025-09-23T18:37:04-04:00",
       "source_id": 14405275409
+    },
+    {
+      "id": "1907534675136667658",
+      "program": "SDBENCHMARK",
+      "message": "ariam 2025-09-25 00:47:55.256753|2.67 / 3.46 / 3.56|app:sdnext.git updated:2025-09-16 hash:7c8f42fab url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:jankuv5nsfwtrainednoobai_v50 [217daae812] vae:none width:512 height:512|ariam||3e3fe3|109e8e ",
+      "generated_at": "2025-09-24T20:48:50-04:00",
+      "source_id": 14405948514
     }
   ]
 }
