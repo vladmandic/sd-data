@@ -1,5 +1,5 @@
 {
-  "max_id": "1907534675136667658",
+  "max_id": "1907727277467353090",
   "events": [
     {
       "id": "1899004295999827978",
@@ -966,6 +966,20 @@
       "message": "ariam 2025-09-25 00:47:55.256753|2.67 / 3.46 / 3.56|app:sdnext.git updated:2025-09-16 hash:7c8f42fab url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 6800 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:jankuv5nsfwtrainednoobai_v50 [217daae812] vae:none width:512 height:512|ariam||3e3fe3|109e8e ",
       "generated_at": "2025-09-24T20:48:50-04:00",
       "source_id": 14405948514
+    },
+    {
+      "id": "1907716350206455932",
+      "program": "SDBENCHMARK",
+      "message": "Wylk 2025-09-24 23:49:13.121821|5.39 / 6.42 / 7.78|app:sdnext updated:2025-09-16 hash:7c8f42fab url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.0|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:_illustrious\\flanime_illustrious-xl_-_high-quality_flat_anime\\flanimeillustriousxl_v20 [e69523adb3] vae:automatic width:512 height:512|Wylk|Zluda, default install, no tweaks|af377b|c8a337 ",
+      "generated_at": "2025-09-24T19:50:44-04:00",
+      "source_id": 14406272042
+    },
+    {
+      "id": "1907716471061131271",
+      "program": "SDBENCHMARK",
+      "message": "Wylk 2025-09-24 23:49:13.121821|5.39 / 6.42 / 7.78|app:sdnext updated:2025-09-16 hash:7c8f42fab url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.0|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:_illustrious\\flanime_illustrious-xl_-_high-quality_flat_anime\\flanimeillustriousxl_v20 [e69523adb3] vae:automatic width:512 height:512|Wylk|Zluda, default install, no tweaks|af377b|c8a337 ",
+      "generated_at": "2025-09-24T19:51:13-04:00",
+      "source_id": 14406272042
     }
   ]
 }
