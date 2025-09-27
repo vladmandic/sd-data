@@ -1,5 +1,5 @@
 {
-  "max_id": "1908372685579268113",
+  "max_id": "1908450442732560391",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1120,6 +1120,13 @@
       "message": "nailz 2025-09-26 19:17:55.032124|8.17 / 14.08 / 16.39|app:stable-diffusion-webui-forge.git updated:2025-09-26 hash:2b6048dc url:https://github.com/lllyasviel/stable-diffusion-webui-forge.git/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.1+cu128 xformers:0.0.31.post1 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.29 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:base\\illus\\new\\damnillustriouspony_v50illustriousnoobai.safetensors vae:automatic width:512 height:512|nailz||aee322|c093d8 ",
       "generated_at": "2025-09-26T15:18:46-04:00",
       "source_id": 14407404296
+    },
+    {
+      "id": "1908450442732560391",
+      "program": "SDBENCHMARK",
+      "message": "j 2025-09-27 03:23:12.020951|3.32 / 6.08 / 11.66|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 191 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers: diffusers:0.27.2 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8801 driver:581.29 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:pipiilcg36_v10.safetensors [5cb9cb34c0] vae:illustriousxlv20_v10.safetensors width:512 height:512|j||bb2873|6db913 ",
+      "generated_at": "2025-09-27T09:27:45-04:00",
+      "source_id": 14407556096
     }
   ]
 }
