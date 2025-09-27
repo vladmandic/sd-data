@@ -1,5 +1,5 @@
 {
-  "max_id": "1908497932890595350",
+  "max_id": "1908590390831923227",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1148,6 +1148,20 @@
       "message": "86136 2025-09-27 15:35:32.881939|5.0 / 6.35 / 7.41|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:546.30 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|86136||effc93|7a226a ",
       "generated_at": "2025-09-27T11:36:27-04:00",
       "source_id": 14407655467
+    },
+    {
+      "id": "1908590384263643172",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-09-27 21:43:37.314881|11.01 / 18.4 / 21.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.29 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||f57fcc|7936a8 ",
+      "generated_at": "2025-09-27T17:43:51-04:00",
+      "source_id": 14407833664
+    },
+    {
+      "id": "1908590390831923227",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-09-27 21:43:37.314881|11.01 / 18.4 / 21.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.29 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||f57fcc|7936a8 ",
+      "generated_at": "2025-09-27T17:43:53-04:00",
+      "source_id": 14407833664
     }
   ]
 }
