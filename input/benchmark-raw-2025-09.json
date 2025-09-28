@@ -1,5 +1,5 @@
 {
-  "max_id": "1908590390831923227",
+  "max_id": "1908660040777261073",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1162,6 +1162,69 @@
       "message": "Administrator 2025-09-27 21:43:37.314881|11.01 / 18.4 / 21.53|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.29 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||f57fcc|7936a8 ",
       "generated_at": "2025-09-27T17:43:53-04:00",
       "source_id": 14407833664
+    },
+    {
+      "id": "1908659960745746439",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2024-11-27 11:25:38.924360|1.41 / 1.65 / 1.93|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|sdp-no-mem - scaled dot product without memory efficient attention medvram-sdxl|realvisxlV50_LightningBakedvae.safetensors [fabcadd933]|51nb||770a20|2b3545 ",
+      "generated_at": "2025-09-27T22:20:17-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908659960745746440",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-02-26 02:14:45.300652|3.58 / 3.72 / 3.73|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp-no-mem - scaled dot product without memory efficient attention flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|51nb||471184|342323 ",
+      "generated_at": "2025-09-27T22:20:17-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908659960758329410",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-09-28 02:08:49.745898|1.51 / 1.77 / 1.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wanxiangxl_ultrarealisticphotographyv82.safetensors [7efcc22977] vae:none width:512 height:512|51nb||5b2b7c|08a9d2 ",
+      "generated_at": "2025-09-27T22:20:17-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908659974872162314",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2024-11-27 11:25:38.924360|1.41 / 1.65 / 1.93|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|sdp-no-mem - scaled dot product without memory efficient attention medvram-sdxl|realvisxlV50_LightningBakedvae.safetensors [fabcadd933]|51nb||770a20|2b3545 ",
+      "generated_at": "2025-09-27T22:20:21-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908659974872162315",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-02-26 02:14:45.300652|3.58 / 3.72 / 3.73|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp-no-mem - scaled dot product without memory efficient attention flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|51nb||471184|342323 ",
+      "generated_at": "2025-09-27T22:20:21-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908659974880550912",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-09-28 02:08:49.745898|1.51 / 1.77 / 1.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wanxiangxl_ultrarealisticphotographyv82.safetensors [7efcc22977] vae:none width:512 height:512|51nb||5b2b7c|08a9d2 ",
+      "generated_at": "2025-09-27T22:20:21-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908660040768872489",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2024-11-27 11:25:38.924360|1.41 / 1.65 / 1.93|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|sdp-no-mem - scaled dot product without memory efficient attention medvram-sdxl|realvisxlV50_LightningBakedvae.safetensors [fabcadd933]|51nb||770a20|2b3545 ",
+      "generated_at": "2025-09-27T22:20:36-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908660040768872493",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-02-26 02:14:45.300652|3.58 / 3.72 / 3.73|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp-no-mem - scaled dot product without memory efficient attention flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|51nb||471184|342323 ",
+      "generated_at": "2025-09-27T22:20:36-04:00",
+      "source_id": 14407303954
+    },
+    {
+      "id": "1908660040777261073",
+      "program": "SDBENCHMARK",
+      "message": "51nb 2025-09-28 02:08:49.745898|1.51 / 1.77 / 1.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wanxiangxl_ultrarealisticphotographyv82.safetensors [7efcc22977] vae:none width:512 height:512|51nb||5b2b7c|08a9d2 ",
+      "generated_at": "2025-09-27T22:20:36-04:00",
+      "source_id": 14407303954
     }
   ]
 }
