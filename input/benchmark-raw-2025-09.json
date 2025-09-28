@@ -1,5 +1,5 @@
 {
-  "max_id": "1908660040777261073",
+  "max_id": "1908822530706296834",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1225,6 +1225,13 @@
       "message": "51nb 2025-09-28 02:08:49.745898|1.51 / 1.77 / 1.9|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 6700 (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 10GB|pipeline:a1111 crossattention:sdp - scaled dot product flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wanxiangxl_ultrarealisticphotographyv82.safetensors [7efcc22977] vae:none width:512 height:512|51nb||5b2b7c|08a9d2 ",
       "generated_at": "2025-09-27T22:20:36-04:00",
       "source_id": 14407303954
+    },
+    {
+      "id": "1908822530706296834",
+      "program": "SDBENCHMARK",
+      "message": "Gary 2025-09-27 19:24:39.551203|10.22 / 18.27 / 21.3|app:stable-diffusion-webui.git updated:2025-09-18 hash:d4f02b89 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Gary||8ed487|16436d ",
+      "generated_at": "2025-09-27T17:06:17-04:00",
+      "source_id": 14408188172
     }
   ]
 }
