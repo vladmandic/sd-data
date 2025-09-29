@@ -1,5 +1,5 @@
 {
-  "max_id": "1908822530706296834",
+  "max_id": "1909139837055844377",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1232,6 +1232,20 @@
       "message": "Gary 2025-09-27 19:24:39.551203|10.22 / 18.27 / 21.3|app:stable-diffusion-webui.git updated:2025-09-18 hash:d4f02b89 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 23 Model 49 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.7.0+cu128 xformers: diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.83 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:v1-5-pruned-emaonly.safetensors [6ce0161689] vae:none width:512 height:512|Gary||8ed487|16436d ",
       "generated_at": "2025-09-27T17:06:17-04:00",
       "source_id": 14408188172
+    },
+    {
+      "id": "1909128881844183055",
+      "program": "SDBENCHMARK",
+      "message": "based 2025-09-29 11:23:04.019784|6.74 / 8.39 / 8.85|app:sd-webui-forge-classic updated:2025-09-18 hash:d5212074 url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.11.11|torch:2.8.0+cu128 xformers:0.0.32.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 4090 (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:581.29 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:noobaixlnaixl_vpred10version.safetensors vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:832 height:1216|based||d44484|0acb3c ",
+      "generated_at": "2025-09-29T07:23:36-04:00",
+      "source_id": 14408554525
+    },
+    {
+      "id": "1909139837055844377",
+      "program": "SDBENCHMARK",
+      "message": "Bishkekkel 2025-09-29 04:05:55.125679|11.29 / 12.57 / 14.2|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 Ti (1) (sm_90) (8, 6) cuda:12.1 cudnn:8907 driver:580.88 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd\\nova3dcgxl_illustriousv60.safetensors vae:none width:512 height:512|Bishkekkel||57e255|db35c8 ",
+      "generated_at": "2025-09-29T00:06:46-04:00",
+      "source_id": 14408565578
     }
   ]
 }
