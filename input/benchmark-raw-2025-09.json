@@ -1,5 +1,5 @@
 {
-  "max_id": "1909444027665793034",
+  "max_id": "1909648175300521984",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1274,6 +1274,20 @@
       "message": "gabri 2025-09-29 19:08:01.770678|1.68 / 1.58 / 0.2|app:stable-diffusion-webui-amdgpu.git updated:2025-08-24 hash:1ad6edf1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:abyssorangemix2_hard.safetensors [cadf2c6654] vae:automatic width:512 height:512|gabri||73cf0b|f7e9b9 ",
       "generated_at": "2025-09-29T15:15:54-04:00",
       "source_id": 14409019570
+    },
+    {
+      "id": "1909612335677493250",
+      "program": "SDBENCHMARK",
+      "message": "d3 2025-09-30 05:24:02.093124|14.56 / 17.92 / 19.42 / 20.04 / 20.51|app:stable-diffusion-webui-reForge.git updated:2025-08-31 hash:6a438e9c url:https://github.com/Panchovix/stable-diffusion-webui-reForge.git/tree/newmain_newforge|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.10|torch:2.7.1+cu128 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:566.36 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:stablemondai-sdg.safetensors vae:none width:512 height:512|d3||042ef7|38e27f ",
+      "generated_at": "2025-09-30T01:24:41-04:00",
+      "source_id": 14409271411
+    },
+    {
+      "id": "1909648175300521984",
+      "program": "SDBENCHMARK",
+      "message": "hoogo 2025-09-30 14:46:13.585044|3.31 / 4.81 / 4.25|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 154 Stepping 3, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.6|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3070 Laptop GPU (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:555.99 8GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:amanatsuillustrious_v11.safetensors [0842c2a1d8] vae:automatic width:512 height:512|hoogo||e8619c|81ebab ",
+      "generated_at": "2025-09-30T10:47:05-04:00",
+      "source_id": 14409331318
     }
   ]
 }
