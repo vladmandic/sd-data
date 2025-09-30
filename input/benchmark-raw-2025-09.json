@@ -1,5 +1,5 @@
 {
-  "max_id": "1909326239290798096",
+  "max_id": "1909444027665793034",
   "events": [
     {
       "id": "1899004295999827978",
@@ -1260,6 +1260,20 @@
       "message": "WDPC 2025-09-29 22:27:15.576972|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.8.0.dev20250425+cu128 autocast half xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.29 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:none width:512 height:512|WDPC||2a3995|f60081 ",
       "generated_at": "2025-09-29T18:27:51-04:00",
       "source_id": 14408830818
+    },
+    {
+      "id": "1909444027653210158",
+      "program": "SDBENCHMARK",
+      "message": "gabri 2025-09-28 23:51:20.099755|0.34 / 0.37 / 0.39|app:stable-diffusion-webui-amdgpu.git updated:2025-08-24 hash:1ad6edf1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.4.1+cpu xformers: diffusers:0.30.2 transformers:4.49.0| 0GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:zluda compile:none dtype:torch.float32|pipeline:LatentDiffusion model:abyssorangemix2nsfw_abyssorangemix2nsfw.safetensors [e892703c61] vae:automatic width:384 height:384|gabri||b64f92|e8c7c3 ",
+      "generated_at": "2025-09-29T15:15:54-04:00",
+      "source_id": 14409019570
+    },
+    {
+      "id": "1909444027665793034",
+      "program": "SDBENCHMARK",
+      "message": "gabri 2025-09-29 19:08:01.770678|1.68 / 1.58 / 0.2|app:stable-diffusion-webui-amdgpu.git updated:2025-08-24 hash:1ad6edf1 url:https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu.git/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu118 xformers: diffusers:0.30.2 transformers:4.49.0|device:AMD Radeon RX 6600 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:zluda compile:none dtype:torch.float16|pipeline:LatentDiffusion model:abyssorangemix2_hard.safetensors [cadf2c6654] vae:automatic width:512 height:512|gabri||73cf0b|f7e9b9 ",
+      "generated_at": "2025-09-29T15:15:54-04:00",
+      "source_id": 14409019570
     }
   ]
 }
