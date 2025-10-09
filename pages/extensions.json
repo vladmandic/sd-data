@@ -4718,16 +4718,12 @@
   {
     "name": "ReActor",
     "url": "https://github.com/Gourieff/sd-webui-reactor",
-    "description": "Fast and Simple FaceSwap Extension with improvements; No NSFW filter",
+    "description": "Fast and Simple FaceSwap Extension with a lot of improvements. R",
     "tags": [
       "editing",
       "manipulations"
     ],
-    "added": "2023-10-17T00:00:00.000Z",
-    "long-description": "",
-    "note": "Errors (harmless?) if using CUDA - Set to CPU",
-    "branch": "",
-    "status": 1
+    "added": "2023-10-17T00:00:00.000Z"
   },
   {
     "name": "TensorRT",

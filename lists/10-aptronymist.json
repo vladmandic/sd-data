@@ -116,15 +116,6 @@
         "status": 5
     },
     {
-        "name": "ReActor",
-        "url": "https://github.com/Gourieff/sd-webui-reactor.git",
-        "description": "Fast and Simple FaceSwap Extension with improvements; No NSFW filter",
-        "long-description": "",
-        "note": "Errors (harmless?) if using CUDA - Set to CPU",
-        "branch": "",
-        "status": 1
-    },
-    {
         "name": "LCM for SD WebUI",
         "url": "https://github.com/0xbitches/sd-webui-lcm.git",
         "description": "Latent Consistency Model extension",
