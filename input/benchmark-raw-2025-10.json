@@ -1,0 +1,40 @@
+{
+  "max_id": "1912858324597137419",
+  "events": [
+    {
+      "id": "1912574014585483264",
+      "program": "SDBENCHMARK",
+      "message": "giant 2025-10-08 22:32:37.570170|5.23 / 9.74 / 18.02|app:stable-diffusion-webui.git updated:2025-09-18 hash:d4f02b89 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.97 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:animaginexl40_v4opt.safetensors [6327eca98b] vae:automatic width:512 height:512|giant||76bdd8|e8ba12 ",
+      "generated_at": "2025-10-08T18:33:21-04:00",
+      "source_id": 14415104066
+    },
+    {
+      "id": "1912574019773837314",
+      "program": "SDBENCHMARK",
+      "message": "giant 2025-10-08 22:32:37.570170|5.23 / 9.74 / 18.02|app:stable-diffusion-webui.git updated:2025-09-18 hash:d4f02b89 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.97 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:animaginexl40_v4opt.safetensors [6327eca98b] vae:automatic width:512 height:512|giant||76bdd8|e8ba12 ",
+      "generated_at": "2025-10-08T18:33:22-04:00",
+      "source_id": 14415104066
+    },
+    {
+      "id": "1912574021950681098",
+      "program": "SDBENCHMARK",
+      "message": "giant 2025-10-08 22:32:37.570170|5.23 / 9.74 / 18.02|app:stable-diffusion-webui.git updated:2025-09-18 hash:d4f02b89 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.23.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:580.97 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:DiffusionEngine model:animaginexl40_v4opt.safetensors [6327eca98b] vae:automatic width:512 height:512|giant||76bdd8|e8ba12 ",
+      "generated_at": "2025-10-08T18:33:23-04:00",
+      "source_id": 14415104066
+    },
+    {
+      "id": "1912844137649065987",
+      "program": "SDBENCHMARK",
+      "message": "kevin 2025-10-09 15:26:04.437271|6.3 / 6.38 / 6.86|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.4 cudnn:90100 driver:581.42 12GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|kevin||982538|e97bf2 ",
+      "generated_at": "2025-10-09T11:26:39-04:00",
+      "source_id": 14415657202
+    },
+    {
+      "id": "1912858324597137419",
+      "program": "SDBENCHMARK",
+      "message": "liutyi 2025-10-09 08:08:51.161470|0.25 / 0.28 / 0.3|app:sdnext.git updated:2025-10-08 hash:71615ac4a url:https://github.com/liutyi/sdnext.git/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-33-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.2|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:oppoer/qwen-image-pruning+qwen-image-13b vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|f265ea|1d9371 ",
+      "generated_at": "2025-10-09T04:23:06-04:00",
+      "source_id": 14415686764
+    }
+  ]
+}

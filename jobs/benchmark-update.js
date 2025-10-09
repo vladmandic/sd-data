@@ -34,9 +34,10 @@ async function get(id) {
       resolve([]);
     }
     const headers = { 'x-papertrail-token': token };
+    const current = `${url}?min_id=${id}`;
 
-    https.get(`${url}?min_id=${id}`, { headers }, (res) => {
-      log('http response: ' + res.statusCode, 'rate limit: ' + res.headers['x-rate-limit-remaining']);
+    https.get(current, { headers }, (res) => {
+      log(`http response: url=${current} code=${res.statusCode} rate-limit: ${res.headers['x-rate-limit-remaining']}`);
       if (res.statusCode !== 200) {
         err('http request:', res.statusCode, res.statusMessage);
         resolve([]);
