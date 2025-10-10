@@ -1,5 +1,5 @@
 {
-  "max_id": "1912858324597137419",
+  "max_id": "1913235484960800769",
   "events": [
     {
       "id": "1912574014585483264",
@@ -35,6 +35,13 @@
       "message": "liutyi 2025-10-09 08:08:51.161470|0.25 / 0.28 / 0.3|app:sdnext.git updated:2025-10-08 hash:71615ac4a url:https://github.com/liutyi/sdnext.git/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-33-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.56.2|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 117GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:oppoer/qwen-image-pruning+qwen-image-13b vae:none width:512 height:512|liutyi|Intel core ultra 185H Arc iGPU|f265ea|1d9371 ",
       "generated_at": "2025-10-09T04:23:06-04:00",
       "source_id": 14415686764
+    },
+    {
+      "id": "1913235484960800769",
+      "program": "SDBENCHMARK",
+      "message": "sktnt 2025-10-10 17:21:35.382832|error / error / error|app:sdnext.git updated:2025-09-16 hash:7c8f42fab url:https://xget.xi-xu.me/gh/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26200-SP0 python:3.13.7|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.56.1|device:NVIDIA GeForce RTX 4090 (1) (sm_120) (8, 9) cuda:12.8 cudnn:91002 driver:581.29 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:inductor dtype:torch.bfloat16|pipeline:NoneType model:model.safetensors vae:automatic width:512 height:512|sktnt||13370a|491822 ",
+      "generated_at": "2025-10-10T13:21:48-04:00",
+      "source_id": 14416420659
     }
   ]
 }
