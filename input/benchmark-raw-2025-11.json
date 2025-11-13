@@ -1,5 +1,5 @@
 {
-  "max_id": "1924811877188284450",
+  "max_id": "1925299567692263426",
   "events": [
     {
       "id": "1923831308614815750",
@@ -76,6 +76,27 @@
       "program": "SDBENCHMARK",
       "message": "33550335 2025-11-11 16:01:44.507717|7.38 / 8.45 / 9.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wai_nsfw-illustrious_nsfw-illustrious-sdxl_v15.safetensors [befc694a29] vae:automatic width:512 height:512|33550335||5e05a5|5cddc9",
       "generated_at": "2025-11-11T08:02:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1924811877188284450",
+      "program": "SDBENCHMARK",
+      "message": "33550335 2025-11-11 16:01:44.507717|7.38 / 8.45 / 9.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:576.88 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:wai_nsfw-illustrious_nsfw-illustrious-sdxl_v15.safetensors [befc694a29] vae:automatic width:512 height:512|33550335||5e05a5|5cddc9",
+      "generated_at": "2025-11-11T08:02:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1925276626472579074",
+      "program": "SDBENCHMARK",
+      "message": "tuf 2025-11-12 22:48:35.106433|11.12 / 19.2 / 20.01|app:stable-diffusion-webui updated:2024-07-27 hash:c19d04436 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|tuf||54445e|80b10f",
+      "generated_at": "2025-11-12T14:48:59Z",
+      "source_id": 0
+    },
+    {
+      "id": "1925299567692263426",
+      "program": "SDBENCHMARK",
+      "message": "Antonio 2025-11-12 16:18:30.154452|2.13 / 1.98 / 2.16|app:sdnext.git updated:2025-11-06 hash:f2d8fe35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 7900 XTX [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby [dd08fa32f9] vae:none width:1024 height:1024|Antonio||bab34d|fc9936",
+      "generated_at": "2025-11-12T16:20:08Z",
       "source_id": 0
     }
   ]
