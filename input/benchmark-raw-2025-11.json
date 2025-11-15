@@ -1,5 +1,5 @@
 {
-  "max_id": "1926083092863438857",
+  "max_id": "1926292757543047274",
   "events": [
     {
       "id": "1923831308614815750",
@@ -237,6 +237,20 @@
       "program": "SDBENCHMARK",
       "message": "rocm 2025-11-14 21:11:16.042925|2.91 / 1.1 / 1.07|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:1024 height:1024|rocm||6cacba|2e31d3",
       "generated_at": "2025-11-14T20:13:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926083092863438857",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-14 21:11:16.042925|2.91 / 1.1 / 1.07|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:1024 height:1024|rocm||6cacba|2e31d3",
+      "generated_at": "2025-11-14T20:13:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926292757543047274",
+      "program": "SDBENCHMARK",
+      "message": "Starrysky 2025-11-15 18:04:49.837680|16.08 / 18.04 / 19.21 / 19.45 / 19.33 / 19.58 / 19.63|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.8.0.dev20250425+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.57 32GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:myself8.0.safetensors [44831812a9] vae:vae-ft-mse-840000-ema-pruned.safetensors width:960 height:540|Starrysky||c1e432|f15e98",
+      "generated_at": "2025-11-15T10:06:43Z",
       "source_id": 0
     }
   ]
