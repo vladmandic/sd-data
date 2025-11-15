@@ -1,5 +1,5 @@
 {
-  "max_id": "1925924544837758977",
+  "max_id": "1926083092863438857",
   "events": [
     {
       "id": "1923831308614815750",
@@ -195,6 +195,48 @@
       "program": "SDBENCHMARK",
       "message": "yifei 2025-11-14 17:43:08.047698|8.67 / 9.19 / 9.43|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.80 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|yifei||55b848|2ee34a",
       "generated_at": "2025-11-14T09:43:34Z",
+      "source_id": 0
+    },
+    {
+      "id": "1925924544837758977",
+      "program": "SDBENCHMARK",
+      "message": "yifei 2025-11-14 17:43:08.047698|8.67 / 9.19 / 9.43|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5060 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:581.80 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|yifei||55b848|2ee34a",
+      "generated_at": "2025-11-14T09:43:34Z",
+      "source_id": 0
+    },
+    {
+      "id": "1925989834573402129",
+      "program": "SDBENCHMARK",
+      "message": "borlo 2025-11-14 14:59:23.573140|0.56 / 0.6 / 1.09|app:sdnext.git updated:2025-11-06 hash:f2d8fe35d url:https://github.com/vladmandic/sdnext.git/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA GeForce RTX 5070 Ti (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:581.80 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:tiwaz/cenkrechro vae:none width:512 height:512|borlo||71a116|6bae33",
+      "generated_at": "2025-11-14T14:03:01Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926080253428682763",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-14 21:01:38.389509|7.12 / 3.1 / 8.21|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Disabled flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:512 height:512|rocm||b26ef7|04b29d",
+      "generated_at": "2025-11-14T20:02:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926081038317178883",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-14 21:02:39.906455|2.63 / 1.02 / 1.0|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Disabled flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:1024 height:1024|rocm||b26ef7|dfc72a",
+      "generated_at": "2025-11-14T20:05:25Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926083092859236359",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-14 21:02:39.906455|2.63 / 1.02 / 1.0|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Disabled flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:1024 height:1024|rocm||b26ef7|dfc72a",
+      "generated_at": "2025-11-14T20:13:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926083092863438857",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-14 21:11:16.042925|2.91 / 1.1 / 1.07|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.9.1+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectrsbmixillustrious_definitivetheta [205c9278e1] vae:none width:1024 height:1024|rocm||6cacba|2e31d3",
+      "generated_at": "2025-11-14T20:13:35Z",
       "source_id": 0
     }
   ]
