@@ -1,5 +1,5 @@
 {
-  "max_id": "1926405395132370955",
+  "max_id": "1926881643210125316",
   "events": [
     {
       "id": "1923831308614815750",
@@ -321,6 +321,20 @@
       "program": "SDBENCHMARK",
       "message": "rocm 2025-11-15 18:34:04.777875|7.74 / 12.49 / 15.52|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.8.0+rocm7.1.0.git7a520360 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:7.1.25424-4179531dcd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:damnillustriouspony_v50illustriousnoobai [a1499a9989] vae:none width:512 height:512|rocm||6fb431|00f5d6",
       "generated_at": "2025-11-15T17:34:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926405395132370955",
+      "program": "SDBENCHMARK",
+      "message": "rocm 2025-11-15 18:34:04.777875|7.74 / 12.49 / 15.52|app:sdnext.git updated:2025-11-08 hash:93797dff8 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-35-generic python:3.12.3|torch:2.8.0+rocm7.1.0.git7a520360 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:7.1.25424-4179531dcd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:onediff dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:damnillustriouspony_v50illustriousnoobai [a1499a9989] vae:none width:512 height:512|rocm||6fb431|00f5d6",
+      "generated_at": "2025-11-15T17:34:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926881643210125316",
+      "program": "SDBENCHMARK",
+      "message": "sasch 2025-11-17 02:05:04.799504|6.22 / 8.78 / 9.09|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.3.1+cu121 xformers:0.0.27 diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_90) (8, 9) cuda:12.1 cudnn:8907 driver:580.97 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:pony\\cyberrealisticpony_v130.safetensors vae:none width:512 height:512|sasch||7c2d48|85a38b",
+      "generated_at": "2025-11-17T01:06:44Z",
       "source_id": 0
     }
   ]
