@@ -1,5 +1,5 @@
 {
-  "max_id": "1926938730153816071",
+  "max_id": "1927128933321592866",
   "events": [
     {
       "id": "1923831308614815750",
@@ -349,6 +349,20 @@
       "program": "SDBENCHMARK",
       "message": "c2apa 2025-11-17 04:50:34.410806|7.25 / 7.78 / 8.58|app:sd-webui-forge-classic.git updated:2025-11-06 hash:52e6fc1a url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.14|torch:2.8.0+cu128 xformers:0.0.32.post2 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:577.00 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:realismbystableyogi_sd15v9_1129025.safetensors [f592c30e3f] vae:none width:512 height:512|c2apa||6aa97f|27d642",
       "generated_at": "2025-11-17T04:53:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1926938730153816071",
+      "program": "SDBENCHMARK",
+      "message": "c2apa 2025-11-17 04:50:34.410806|7.25 / 7.78 / 8.58|app:sd-webui-forge-classic.git updated:2025-11-06 hash:52e6fc1a url:https://github.com/Haoming02/sd-webui-forge-classic/tree/classic|arch:AMD64 cpu:Intel64 Family 6 Model 58 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.14|torch:2.8.0+cu128 xformers:0.0.32.post2 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:577.00 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:realismbystableyogi_sd15v9_1129025.safetensors [f592c30e3f] vae:none width:512 height:512|c2apa||6aa97f|27d642",
+      "generated_at": "2025-11-17T04:53:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927128933321592866",
+      "program": "SDBENCHMARK",
+      "message": "Stucks 2025-11-17 18:19:17.928831|0.25 / 0.25 / 0.26|app:sdnext updated:2025-10-18 hash:50e4c208a url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Dynamic Attention BMM flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:hyphoriaillustrious20_v001 [416daecfbe] vae:none width:1024 height:1024|Stucks||053454|ccdb44",
+      "generated_at": "2025-11-17T17:29:23Z",
       "source_id": 0
     }
   ]
