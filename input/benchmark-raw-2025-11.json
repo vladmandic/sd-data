@@ -1,5 +1,5 @@
 {
-  "max_id": "1927719188655427641",
+  "max_id": "1927859560903790593",
   "events": [
     {
       "id": "1923831308614815750",
@@ -419,6 +419,41 @@
       "program": "SDBENCHMARK",
       "message": "Khwarezmid 2025-11-19 11:30:03.029886|4.31 / 5.0 / 7.01|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+rocm7.10.0a20251118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9060 XT (1) hip:7.2.0-fba4704d17 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:lunarcherrymix_v21 [a683ec5441] vae:none width:512 height:512|Khwarezmid||9f1fff|d21f74",
       "generated_at": "2025-11-19T08:34:51Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927719188655427641",
+      "program": "SDBENCHMARK",
+      "message": "Khwarezmid 2025-11-19 11:30:03.029886|4.31 / 5.0 / 7.01|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+rocm7.10.0a20251118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9060 XT (1) hip:7.2.0-fba4704d17 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:lunarcherrymix_v21 [a683ec5441] vae:none width:512 height:512|Khwarezmid||9f1fff|d21f74",
+      "generated_at": "2025-11-19T08:34:51Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927826395954851961",
+      "program": "SDBENCHMARK",
+      "message": "romeo 2025-11-19 16:38:01.768820|1.07 / 1.08 / 0.95|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:Quadro P2200 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:581.80 5GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusion model:realisticvisionv60b1_v51vae.safetensors vae:none width:512 height:512|romeo||b444ca|9bf396",
+      "generated_at": "2025-11-19T15:40:51Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927826456419938314",
+      "program": "SDBENCHMARK",
+      "message": "romeo 2025-11-19 16:38:01.768820|1.07 / 1.08 / 0.95|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:Intel64 Family 6 Model 165 Stepping 5, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.3.1+cu121 xformers: diffusers:0.31.0 transformers:4.46.1|device:Quadro P2200 (1) (sm_90) (6, 1) cuda:12.1 cudnn:8907 driver:581.80 5GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float32|pipeline:StableDiffusion model:realisticvisionv60b1_v51vae.safetensors vae:none width:512 height:512|romeo||b444ca|9bf396",
+      "generated_at": "2025-11-19T15:41:06Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927834911532830732",
+      "program": "SDBENCHMARK",
+      "message": "Cheez 2025-11-20 01:14:04.153390|5.36 / 7.4 / 8.97|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:jankutrainednoobairouwei_v60 [70ba3a56ff] vae:none width:512 height:512|Cheez||7732f7|f3e15e",
+      "generated_at": "2025-11-19T16:14:41Z",
+      "source_id": 0
+    },
+    {
+      "id": "1927859560903790593",
+      "program": "SDBENCHMARK",
+      "message": "Cheez 2025-11-20 02:51:58.725345|12.59 / 13.99 / 13.51|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|Cheez||7732f7|5159dd",
+      "generated_at": "2025-11-19T17:52:38Z",
       "source_id": 0
     }
   ]
