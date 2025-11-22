@@ -1,5 +1,5 @@
 {
-  "max_id": "1928270800398503943",
+  "max_id": "1928805300949930002",
   "events": [
     {
       "id": "1923831308614815750",
@@ -538,6 +538,34 @@
       "program": "SDBENCHMARK",
       "message": "cheez-linux 2025-11-21 05:55:03.500770|12.62 / 15.2 / 15.87|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|cheez-linux||5fa2f3|eca700",
       "generated_at": "2025-11-20T21:06:45Z",
+      "source_id": 0
+    },
+    {
+      "id": "1928270800398503943",
+      "program": "SDBENCHMARK",
+      "message": "cheez-linux 2025-11-21 05:55:03.500770|12.62 / 15.2 / 15.87|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.43484-123eb5128 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:dreamshaper_8 [879db523c3] vae:none width:512 height:512|cheez-linux||5fa2f3|eca700",
+      "generated_at": "2025-11-20T21:06:45Z",
+      "source_id": 0
+    },
+    {
+      "id": "1928792657618972681",
+      "program": "SDBENCHMARK",
+      "message": "lujunyang 2025-11-22 15:37:19.232840|12.95 / 19.6 / 24.97|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D v2 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver: 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuxlillustrious_v22.safetensors [9ece21c352] vae:automatic width:512 height:512|lujunyang||671da5|50de56",
+      "generated_at": "2025-11-22T07:40:26Z",
+      "source_id": 0
+    },
+    {
+      "id": "1928792662840881152",
+      "program": "SDBENCHMARK",
+      "message": "lujunyang 2025-11-22 15:37:19.232840|12.95 / 19.6 / 24.97|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5090 D v2 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver: 24GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:hassakuxlillustrious_v22.safetensors [9ece21c352] vae:automatic width:512 height:512|lujunyang||671da5|50de56",
+      "generated_at": "2025-11-22T07:40:27Z",
+      "source_id": 0
+    },
+    {
+      "id": "1928805300949930002",
+      "program": "SDBENCHMARK",
+      "message": "MSI 2025-11-22 16:30:07.650885|8.75 / 9.26 / 9.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22000-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:576.52 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|MSI||d4911c|a81e95",
+      "generated_at": "2025-11-22T08:30:40Z",
       "source_id": 0
     }
   ]
