@@ -1,5 +1,5 @@
 {
-  "max_id": "1929713754359124017",
+  "max_id": "1930300619122462739",
   "events": [
     {
       "id": "1923831308614815750",
@@ -650,6 +650,20 @@
       "program": "SDBENCHMARK",
       "message": "q 2025-11-24 21:40:43.908371|1.39|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.12.10|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Disabled flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:waimatureillustrious_v20 [7e4b5e6d91] vae:none width:512 height:512|q||c713e1|e52613",
       "generated_at": "2025-11-24T20:40:32Z",
+      "source_id": 0
+    },
+    {
+      "id": "1929713754359124017",
+      "program": "SDBENCHMARK",
+      "message": "q 2025-11-24 21:40:43.908371|1.39|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19044-SP0 python:3.12.10|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Disabled flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:waimatureillustrious_v20 [7e4b5e6d91] vae:none width:512 height:512|q||c713e1|e52613",
+      "generated_at": "2025-11-24T20:40:32Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930300619122462739",
+      "program": "SDBENCHMARK",
+      "message": "Khwarezmid 2025-11-26 14:31:40.572539|3.88 / 4.57 / 6.6|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251124 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9060 XT (1) hip:7.2.0-2817f32143 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v23 [b4d6dee26f] vae:none width:512 height:512|Khwarezmid||d60dec|f8c376",
+      "generated_at": "2025-11-26T11:32:32Z",
       "source_id": 0
     }
   ]
