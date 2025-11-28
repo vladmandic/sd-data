@@ -1,5 +1,5 @@
 {
-  "max_id": "1930300619122462739",
+  "max_id": "1930965130682748938",
   "events": [
     {
       "id": "1923831308614815750",
@@ -664,6 +664,41 @@
       "program": "SDBENCHMARK",
       "message": "Khwarezmid 2025-11-26 14:31:40.572539|3.88 / 4.57 / 6.6|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251124 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9060 XT (1) hip:7.2.0-2817f32143 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v23 [b4d6dee26f] vae:none width:512 height:512|Khwarezmid||d60dec|f8c376",
       "generated_at": "2025-11-26T11:32:32Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930300619122462739",
+      "program": "SDBENCHMARK",
+      "message": "Khwarezmid 2025-11-26 14:31:40.572539|3.88 / 4.57 / 6.6|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251124 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9060 XT (1) hip:7.2.0-2817f32143 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:ponyrealism_v23 [b4d6dee26f] vae:none width:512 height:512|Khwarezmid||d60dec|f8c376",
+      "generated_at": "2025-11-26T11:32:32Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930895119104520206",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-11-28 10:48:34.327333|8.78 / 14.86 / 16.11|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4080 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:576.28 16GB|Automatic none|【Nova】\\novaAnimeXL_ilV125.safetensors [bd157e62de]|Administrator||0439d1|dbb3a8",
+      "generated_at": "2025-11-28T02:54:52Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930965122969423894",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-11-28 15:20:33.605019|3.44 / 3.66 / 3.79|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon Pro VII (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||2cfdf6|96e1eb",
+      "generated_at": "2025-11-28T07:33:02Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930965127163727889",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-11-28 15:20:33.605019|3.44 / 3.66 / 3.79|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon Pro VII (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||2cfdf6|96e1eb",
+      "generated_at": "2025-11-28T07:33:03Z",
+      "source_id": 0
+    },
+    {
+      "id": "1930965130682748938",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-11-28 15:20:33.605019|3.44 / 3.66 / 3.79|app:stable-diffusion-webui updated:2024-04-22 hash:1c0a0c4c url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.2.2+cu118 autocast half xformers:0.0.25.post1+cu118 diffusers:0.16.1 transformers:4.30.2|device:AMD Radeon Pro VII (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|Automatic none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|Administrator||2cfdf6|96e1eb",
+      "generated_at": "2025-11-28T07:33:04Z",
       "source_id": 0
     }
   ]
