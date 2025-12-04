@@ -1,5 +1,5 @@
 {
-  "max_id": "1932674163168948233",
+  "max_id": "1932969104080293904",
   "events": [
     {
       "id": "1931987773745704971",
@@ -34,6 +34,13 @@
       "program": "SDBENCHMARK",
       "message": "BenzyWolf 2025-12-02 06:57:36.770118|17.93 / 20.81 / 22.58|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.10.0.dev20251201+cu130 xformers:0.0.30 diffusers:0.18.2 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:13.0 cudnn:91200 driver:581.80 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:banana splitz xl_v7_side b_fp16.safetensors [7c07da3aae] vae:automatic width:512 height:512|BenzyWolf||7280f9|db612d",
       "generated_at": "2025-12-01T22:57:51Z",
+      "source_id": 0
+    },
+    {
+      "id": "1932969104080293904",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-03 20:08:16.938378|0.3 / 0.31 / 0.31|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:ZImagePipeline model:diffusers/tongyi-mai/z-image-turbo [013496ad04] vae:automatic width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU|311ac7|bd7cbe",
+      "generated_at": "2025-12-03T20:16:08Z",
       "source_id": 0
     }
   ]
