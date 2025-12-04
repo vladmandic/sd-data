@@ -1,5 +1,5 @@
 {
-  "max_id": "1932969104080293904",
+  "max_id": "1933200108627873797",
   "events": [
     {
       "id": "1931987773745704971",
@@ -41,6 +41,62 @@
       "program": "SDBENCHMARK",
       "message": "oliutyi 2025-12-03 20:08:16.938378|0.3 / 0.31 / 0.31|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:ZImagePipeline model:diffusers/tongyi-mai/z-image-turbo [013496ad04] vae:automatic width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU|311ac7|bd7cbe",
       "generated_at": "2025-12-03T20:16:08Z",
+      "source_id": 0
+    },
+    {
+      "id": "1932969104080293904",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-03 20:08:16.938378|0.3 / 0.31 / 0.31|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:ZImagePipeline model:diffusers/tongyi-mai/z-image-turbo [013496ad04] vae:automatic width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU|311ac7|bd7cbe",
+      "generated_at": "2025-12-03T20:16:08Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933179918557032480",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 09:30:02.195535|0.04 / 0.06 / 0.08|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:Flux2Pipeline model:diffusers/disty0/flux.2-dev-sdnq-uint4-svd-r32 [a26ed32605] vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|e5cfe8",
+      "generated_at": "2025-12-04T10:13:50Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933181485221859338",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 10:18:47.473168|1.93 / 2.13 / 2.46|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:stabilityai/stable-diffusion-xl-base-1.0 vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|44fbfb",
+      "generated_at": "2025-12-04T10:20:04Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933182328616701959",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 10:22:28.696937|2.72 / 2.89 / 3.31|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|68419b",
+      "generated_at": "2025-12-04T10:23:25Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933183610609913860",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 10:27:26.046814|2.01 / 2.37 / 2.72|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:tempestbyvlad_basev01 vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|f649ed",
+      "generated_at": "2025-12-04T10:28:31Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933184529309282316",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 10:31:46.834572|1.61 / error / error|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:PRXPipeline model:photoroom/prx-1024-t2i-beta vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|bca0b7",
+      "generated_at": "2025-12-04T10:32:10Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933191852442431503",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 10:52:55.784431|0.26 / 0.31 / 0.42|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:QwenImagePipeline model:diffusers/qwen/qwen-image [75e0b4be04] vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|fff404",
+      "generated_at": "2025-12-04T11:01:16Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933200108627873797",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-04 11:19:36.028902|0.28 / 0.31 / 0.34|app:sdnext.git updated:2025-12-02 hash:b2f4ce8c8 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:black-forest-labs/flux.1-dev vae:none width:512 height:512|oliutyi|Intel core Ultra 9 285H iGPU 96GB DDR5|311ac7|f9114e",
+      "generated_at": "2025-12-04T11:34:04Z",
       "source_id": 0
     }
   ]
