@@ -1,5 +1,5 @@
 {
-  "max_id": "1933368506867437586",
+  "max_id": "1933644829212987418",
   "events": [
     {
       "id": "1931987773745704971",
@@ -118,6 +118,76 @@
       "program": "SDBENCHMARK",
       "message": "gurlo 2025-12-04 17:39:49.558386|0.93 / 1.39 / 1.67|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.11|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.95.05 31GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:shuttleai/shuttle-jaguar vae:none width:1024 height:1024|gurlo||541940|442291",
       "generated_at": "2025-12-04T22:43:13Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933368506867437586",
+      "program": "SDBENCHMARK",
+      "message": "gurlo 2025-12-04 17:39:49.558386|0.93 / 1.39 / 1.67|app:SD.next updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.11|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA GeForce RTX 5090 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:580.95.05 31GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:shuttleai/shuttle-jaguar vae:none width:1024 height:1024|gurlo||541940|442291",
+      "generated_at": "2025-12-04T22:43:13Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933602403471511559",
+      "program": "SDBENCHMARK",
+      "message": "genom 2025-12-05 09:10:30.327019|8.68 / 1.09 / 1.12|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.17.9-arch1-1 python:3.13.7|torch:2.10.0.dev20251124+rocm7.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:7.1.25424 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:kodoranimem_v21 [c9c3ae4806] vae:none width:512 height:512|genom||80d5f2|0a4eb3",
+      "generated_at": "2025-12-05T14:12:39Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933612386502234132",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 14:20:02.727974|0.09 / 0.1 / 0.1|app:sdnext.git updated:2025-12-04 hash:6a4994db2 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:FluxPipeline model:shuttleai/shuttle-jaguar vae:none width:1024 height:1024|oliutyi|GMKTec EVO-T1 (Intel Arc iGPU)|311ac7|41f314",
+      "generated_at": "2025-12-05T14:52:19Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933618999493570576",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 15:16:35.242822|1.65 / 1.87 / 2.13|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 62GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:stabilityai/stable-diffusion-xl-base-1.0 vae:automatic width:512 height:512|oliutyi|GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|d92334",
+      "generated_at": "2025-12-05T15:18:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933621722389590126",
+      "program": "SDBENCHMARK",
+      "message": "test 2025-12-05 16:26:37.113177|4.69 / 5.3 / 7.16|app:sdnext updated:2025-12-05 hash:26dd77cb4 url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.1|torch:2.8.0a0+gitfc14c65 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 9070 XT (1) hip:6.4.50101-9a6572ae7 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:realisticfreedom_omega1 [ada9befd37] vae:none width:512 height:512|test|test|76f8bb|509fc7",
+      "generated_at": "2025-12-05T15:29:25Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933623516373102614",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 15:27:31.316180|0.33 / 0.34 / 0.35|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 62GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:FluxPipeline model:black-forest-labs/flux.1-dev vae:automatic width:512 height:512|oliutyi|GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|dd00c2",
+      "generated_at": "2025-12-05T15:36:32Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933625733826138175",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 15:42:20.654020|1.86 / 2.08 / 2.22|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 62GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:juggernaut_reborn vae:automatic width:512 height:512|oliutyi|GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|269be2",
+      "generated_at": "2025-12-05T15:45:21Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933629314331488282",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 15:57:56.113459|1.65 / 1.91 / 2.14|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 62GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:inductor dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:juggernautxl_juggxibyrundiffusion vae:automatic width:512 height:512|oliutyi|GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|8e51e5",
+      "generated_at": "2025-12-05T15:59:35Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933634384464891904",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 16:10:05.080567|0.2 / 0.24 / 0.27|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 58GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:ZImagePipeline model:disty0/z-image-turbo-sdnq-uint4-svd-r32 vae:none width:512 height:512|oliutyi| GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|9e32c1",
+      "generated_at": "2025-12-05T16:19:43Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933644829212987418",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-05 16:29:25.121936|0.29 / 0.29 / 0.3|app:sdnext.git updated:2025-12-04 hash:9d3eb871c url:https://github.com/liutyi/sdnext/tree/ipex|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-36-generic python:3.12.3|torch:2.7.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex:2.7.10+xpu 58GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:ZImagePipeline model:tongyi-mai/z-image-turbo vae:none width:512 height:512|oliutyi| GMKTec NucBox EVO-T1 (Intel 285H)|b274cd|b56559",
+      "generated_at": "2025-12-05T17:01:14Z",
       "source_id": 0
     }
   ]
