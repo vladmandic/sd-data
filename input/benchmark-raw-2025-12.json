@@ -1,5 +1,5 @@
 {
-  "max_id": "1933975228313161743",
+  "max_id": "1934291725094924301",
   "events": [
     {
       "id": "1931987773745704971",
@@ -419,6 +419,62 @@
       "program": "SDBENCHMARK",
       "message": "nakane sho 2025-12-06 23:50:30.568611|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.18|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.21.4 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:581.57 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\meinahentai_v5final.safetensors [f22bb5699d] vae:automatic width:512 height:512|nakane sho||38a641|30c3ba",
       "generated_at": "2025-12-06T14:54:07Z",
+      "source_id": 0
+    },
+    {
+      "id": "1933975228313161743",
+      "program": "SDBENCHMARK",
+      "message": "nakane sho 2025-12-06 23:50:30.568611|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/HEAD|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.18|torch:2.1.2+cu121 xformers:0.0.23.post1 diffusers:0.21.4 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_90) (8, 6) cuda:12.1 cudnn:8801 driver:581.57 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd\\meinahentai_v5final.safetensors [f22bb5699d] vae:automatic width:512 height:512|nakane sho||38a641|30c3ba",
+      "generated_at": "2025-12-06T14:54:07Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934181855523950594",
+      "program": "SDBENCHMARK",
+      "message": "mario 2025-12-07 05:34:21.829333|error / error / error|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:NoneType model:diffusers\\disty0/flux.1-schnell-sdnq-uint4-svd-r32 [dd7d3aa9fb] vae:none width:512 height:512|mario||aca5e7|62c22b",
+      "generated_at": "2025-12-07T04:35:11Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934216578094780433",
+      "program": "SDBENCHMARK",
+      "message": "zhujiangnan 2025-12-07 14:50:25.038370|1.22 / 1.21 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv140.safetensors [aaa94191eb] vae:sdxl_vae.safetensors width:1024 height:1024|zhujiangnan||c03a25|daaa29",
+      "generated_at": "2025-12-07T06:53:09Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934216596503580672",
+      "program": "SDBENCHMARK",
+      "message": "zhujiangnan 2025-12-07 14:50:25.038370|1.22 / 1.21 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv140.safetensors [aaa94191eb] vae:sdxl_vae.safetensors width:1024 height:1024|zhujiangnan||c03a25|daaa29",
+      "generated_at": "2025-12-07T06:53:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934216883909873667",
+      "program": "SDBENCHMARK",
+      "message": "zhujiangnan 2025-12-07 14:50:25.038370|1.22 / 1.21 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv140.safetensors [aaa94191eb] vae:sdxl_vae.safetensors width:1024 height:1024|zhujiangnan||c03a25|daaa29",
+      "generated_at": "2025-12-07T06:54:22Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934216885575012356",
+      "program": "SDBENCHMARK",
+      "message": "zhujiangnan 2025-12-07 14:50:25.038370|1.22 / 1.21 / 0.72|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:novaanimexl_ilv140.safetensors [aaa94191eb] vae:sdxl_vae.safetensors width:1024 height:1024|zhujiangnan||c03a25|daaa29",
+      "generated_at": "2025-12-07T06:54:23Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934237460984934401",
+      "program": "SDBENCHMARK",
+      "message": "oliutyi 2025-12-07 08:07:41.400394|0.31 / 0.32 / 0.33|app:sdnext.git updated:2025-12-05 hash:6ea881b10 url:https://github.com/liutyi/sdnext/tree/pytorch|arch:x86_64 cpu:x86_64 system:Linux release:6.17.0-7-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:Intel(R) Arc(TM) Graphics (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:ZImagePipeline model:diffusers/tongyi-mai/z-image-turbo [013496ad04] vae:none width:512 height:512|oliutyi|GMKTec NucBox EVO-T1 (Intel 285H)|cd2ae1|7526f0",
+      "generated_at": "2025-12-07T08:16:08Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934291725094924301",
+      "program": "SDBENCHMARK",
+      "message": "test 2025-12-07 12:30:05.037961|0.18 / 0.43 / 0.21|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6600 [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:waiillustrioussdxl_v150 [befc694a29] vae:none width:832 height:1216|test||41e056|f19680",
+      "generated_at": "2025-12-07T11:51:46Z",
       "source_id": 0
     }
   ]
