@@ -1,5 +1,5 @@
 {
-  "max_id": "1934610450339778560",
+  "max_id": "1934805307914113059",
   "events": [
     {
       "id": "1931987773745704971",
@@ -489,6 +489,27 @@
       "program": "SDBENCHMARK",
       "message": "24954 2025-12-08 16:57:59.712036|3.32 / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:566.36 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|24954||c1a960|375c21",
       "generated_at": "2025-12-08T08:58:16Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934610450339778560",
+      "program": "SDBENCHMARK",
+      "message": "24954 2025-12-08 16:57:59.712036|3.32 / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:566.36 6GB|pipeline:a1111 crossattention:Automatic flags:medvram compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|24954||c1a960|375c21",
+      "generated_at": "2025-12-08T08:58:16Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934805307914113053",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-08-24 14:51:07.084230|0.97 / 1.15 / 1.82|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:git@github.com:vladmandic/sdnext.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.6|torch:2.7.1 xformers: diffusers:0.35.0.dev0 transformers:4.55.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby_1659952/juggernautxl_ragnarokby_1659952 [dd08fa32f9] vae:none width:512 height:512|aaronkline||64b3f5|8163f9",
+      "generated_at": "2025-12-08T21:52:33Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934805307914113059",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-12-08 14:50:05.838094|0.75 / 1.0 / 1.26|app:sdnext.git updated:2025-11-14 hash:e38a711c6 url:git@github.com:vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.11.14|torch:2.5.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:_archive/lucignoloxl_v10/lucignoloxl_v10 [b461f2f53f] vae:none width:512 height:512|aaronkline||c68f4d|2af6ae",
+      "generated_at": "2025-12-08T21:52:33Z",
       "source_id": 0
     }
   ]
