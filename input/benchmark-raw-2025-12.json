@@ -1,5 +1,5 @@
 {
-  "max_id": "1934962071062097930",
+  "max_id": "1935465022935453719",
   "events": [
     {
       "id": "1931987773745704971",
@@ -538,6 +538,27 @@
       "program": "SDBENCHMARK",
       "message": "huang 2025-12-09 16:10:41.475975|6.37 / 6.76 / 7.48|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:591.44 10GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:flux1\\flux1-dev-kontext_fp8_scaled.safetensors vae:automatic width:512 height:512|huang||14a36f|1d16f5",
       "generated_at": "2025-12-09T08:15:29Z",
+      "source_id": 0
+    },
+    {
+      "id": "1934962071062097930",
+      "program": "SDBENCHMARK",
+      "message": "huang 2025-12-09 16:10:41.475975|6.37 / 6.76 / 7.48|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.11.9|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3080 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:591.44 10GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float32|pipeline:LatentDiffusion model:flux1\\flux1-dev-kontext_fp8_scaled.safetensors vae:automatic width:512 height:512|huang||14a36f|1d16f5",
+      "generated_at": "2025-12-09T08:15:29Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935464733872410638",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-11 01:32:00.325719|4.36 / 4.9 / 5.26|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (compute_37) (8, 6) cuda:11.8 cudnn:8700 driver:576.52 12GB|Automatic none|LEOSAM HelloWorld 新世界 _ SDXL大模型_v7.0.safetensors [573f4a7d35]|Administrator||f32ca6|1d4191",
+      "generated_at": "2025-12-10T17:32:53Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935465022935453719",
+      "program": "SDBENCHMARK",
+      "message": "ackra 2025-12-10 11:33:41.060739|2.51 / 1.58 / 2.31|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:divingillustriousflat_v40vae [48973dd072] vae:none width:512 height:512|ackra||7c3c95|69e5b0",
+      "generated_at": "2025-12-10T17:34:02Z",
       "source_id": 0
     }
   ]
