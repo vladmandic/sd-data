@@ -1,5 +1,5 @@
 {
-  "max_id": "1935865379305992201",
+  "max_id": "1936091003912114197",
   "events": [
     {
       "id": "1931987773745704971",
@@ -587,6 +587,20 @@
       "program": "SDBENCHMARK",
       "message": "Younger 2025-12-12 00:13:01.506829|13.04 / 14.8 / 16.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:581.29 16GB|Automatic none|sd1.5\\novaAnimeXL_ilV130.safetensors [e8abe8dac1]|Younger||e14141|87da62",
       "generated_at": "2025-12-11T16:13:34Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936090970768715787",
+      "program": "SDBENCHMARK",
+      "message": "n0n0 2025-12-12 11:57:08.208312|2.9 / 0.52 / 0.74|app:SD.next updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.18.0-061800-generic python:3.12.11|torch:2.9.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon Graphics (1) hip:6.4.43484-123eb5128 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:realdream_sdxlpony19 [c136e1cf38] vae:none width:512 height:512|tin||d5350f|8f5f8a",
+      "generated_at": "2025-12-12T11:01:19Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936091003912114197",
+      "program": "SDBENCHMARK",
+      "message": "n0n0 2025-12-12 11:57:08.208312|2.9 / 0.52 / 0.74|app:SD.next updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:x86_64 cpu: system:Linux release:6.18.0-061800-generic python:3.12.11|torch:2.9.0+rocm6.4 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon Graphics (1) hip:6.4.43484-123eb5128 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:realdream_sdxlpony19 [c136e1cf38] vae:none width:512 height:512|tin||d5350f|8f5f8a",
+      "generated_at": "2025-12-12T11:01:27Z",
       "source_id": 0
     }
   ]
