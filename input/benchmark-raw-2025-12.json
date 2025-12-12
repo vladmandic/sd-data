@@ -1,5 +1,5 @@
 {
-  "max_id": "1935465022935453719",
+  "max_id": "1935865379305992201",
   "events": [
     {
       "id": "1931987773745704971",
@@ -559,6 +559,34 @@
       "program": "SDBENCHMARK",
       "message": "ackra 2025-12-10 11:33:41.060739|2.51 / 1.58 / 2.31|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:divingillustriousflat_v40vae [48973dd072] vae:none width:512 height:512|ackra||7c3c95|69e5b0",
       "generated_at": "2025-12-10T17:34:02Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935465022935453719",
+      "program": "SDBENCHMARK",
+      "message": "ackra 2025-12-10 11:33:41.060739|2.51 / 1.58 / 2.31|app:sdnext updated:2025-11-14 hash:e38a711c6 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.7|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:AMD Radeon RX 6800 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:divingillustriousflat_v40vae [48973dd072] vae:none width:512 height:512|ackra||7c3c95|69e5b0",
+      "generated_at": "2025-12-10T17:34:02Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935807074411925517",
+      "program": "SDBENCHMARK",
+      "message": "Younger 2025-12-12 00:13:01.506829|13.04 / 14.8 / 16.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:581.29 16GB|Automatic none|sd1.5\\novaAnimeXL_ilV130.safetensors [e8abe8dac1]|Younger||e14141|87da62",
+      "generated_at": "2025-12-11T16:13:13Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935807076609740803",
+      "program": "SDBENCHMARK",
+      "message": "Younger 2025-12-12 00:13:01.506829|13.04 / 14.8 / 16.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:581.29 16GB|Automatic none|sd1.5\\novaAnimeXL_ilV130.safetensors [e8abe8dac1]|Younger||e14141|87da62",
+      "generated_at": "2025-12-11T16:13:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1935807163419250719",
+      "program": "SDBENCHMARK",
+      "message": "Younger 2025-12-12 00:13:01.506829|13.04 / 14.8 / 16.09|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4070 Ti SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:90100 driver:581.29 16GB|Automatic none|sd1.5\\novaAnimeXL_ilV130.safetensors [e8abe8dac1]|Younger||e14141|87da62",
+      "generated_at": "2025-12-11T16:13:34Z",
       "source_id": 0
     }
   ]
