@@ -1,5 +1,5 @@
 {
-  "max_id": "1936553245602402313",
+  "max_id": "1936745431908405284",
   "events": [
     {
       "id": "1931987773745704971",
@@ -755,6 +755,20 @@
       "program": "SDBENCHMARK",
       "message": "qno 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428",
       "generated_at": "2025-12-13T17:38:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936553245602402313",
+      "program": "SDBENCHMARK",
+      "message": "qno 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428",
+      "generated_at": "2025-12-13T17:38:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936745431908405284",
+      "program": "SDBENCHMARK",
+      "message": "erewhon 2025-12-14 15:21:11.054670|4.61 / 8.71 / 15.0|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.10.0.dev20251213+cu128 xformers: diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Ti (2) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:581.94  581.94 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:illustrious\\wainsfwillustrious_v150.safetensors [befc694a29] vae:automatic width:512 height:512|erewhon||a1bca6|715fde",
+      "generated_at": "2025-12-14T06:21:55Z",
       "source_id": 0
     }
   ]
