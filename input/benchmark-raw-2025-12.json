@@ -1,5 +1,5 @@
 {
-  "max_id": "1936233009388900361",
+  "max_id": "1936553245602402313",
   "events": [
     {
       "id": "1931987773745704971",
@@ -734,6 +734,27 @@
       "program": "SDBENCHMARK",
       "message": "BenzyWolf 2025-12-13 04:23:27.909901|14.74 / 22.08 / 24.47 / 24.67 / 24.15|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu128.nv xformers: diffusers:0.36.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:591.44 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:banana kiwi_il.safetensors [b70c79bc05] vae:automatic width:512 height:512|BenzyWolf||33d647|70e45d",
       "generated_at": "2025-12-12T20:25:44Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936233009388900361",
+      "program": "SDBENCHMARK",
+      "message": "BenzyWolf 2025-12-13 04:23:27.909901|14.74 / 22.08 / 24.47 / 24.67 / 24.15|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.11|torch:2.6.0+cu128.nv xformers: diffusers:0.36.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:90700 driver:591.44 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:banana kiwi_il.safetensors [b70c79bc05] vae:automatic width:512 height:512|BenzyWolf||33d647|70e45d",
+      "generated_at": "2025-12-12T20:25:44Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936493287246581780",
+      "program": "SDBENCHMARK",
+      "message": "skuro 2025-12-13 21:37:26.556250|1.02 / 0.99 / 1.05|app:stable-diffusion-webui.git updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:arm64 cpu:arm system:Darwin release:25.2.0 python:3.10.19|torch:2.3.1 xformers: diffusers:0.31.0 transformers:4.30.2| 0GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:百万动漫风格混合animaginexl40 checkpoint模型下载网盘分享/百万动漫风格混合animaginexl40 checkpoint_v4opt.safetensors [6327eca98b] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|skuro||fd772f|442855",
+      "generated_at": "2025-12-13T13:39:59Z",
+      "source_id": 0
+    },
+    {
+      "id": "1936553245602402313",
+      "program": "SDBENCHMARK",
+      "message": "qno 2023-12-13 17:52:47.968291|5.56 / 6.73 / 8.69 / 10.22 / 10.84|app:stable-diffusion-webui.git updated:2023-12-05 hash:f92d6149 url:https://gitcode.net/overbill1683/stable-diffusion-webui.git/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.0.0a0+gite9ebda2 autocast half xformers: diffusers:0.24.0 transformers:4.30.2| 0GB|sdp none|anything-v5-PrtRE.safetensors [7f96a1a9ca]|nuullll|A770 16G | 1G SDP split|1a1fcf|9c6428",
+      "generated_at": "2025-12-13T17:38:14Z",
       "source_id": 0
     }
   ]
