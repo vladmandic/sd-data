@@ -1,5 +1,5 @@
 {
-  "max_id": "1937000862941630498",
+  "max_id": "1937471563469344775",
   "events": [
     {
       "id": "1931987773745704971",
@@ -825,6 +825,27 @@
       "program": "SDBENCHMARK",
       "message": "CeerapY 2025-12-15 00:08:38.800355|error / error / error|app:sdnext updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.4|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:NoneType model:v2-1_768-ema-pruned [dcd690123c] vae:none width:512 height:512|CeerapY||6d63dc|c9997f",
       "generated_at": "2025-12-14T23:16:54Z",
+      "source_id": 0
+    },
+    {
+      "id": "1937000862941630498",
+      "program": "SDBENCHMARK",
+      "message": "CeerapY 2025-12-15 00:08:38.800355|error / error / error|app:sdnext updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26100-SP0 python:3.12.4|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cpu compile:none dtype:torch.float32|pipeline:NoneType model:v2-1_768-ema-pruned [dcd690123c] vae:none width:512 height:512|CeerapY||6d63dc|c9997f",
+      "generated_at": "2025-12-14T23:16:54Z",
+      "source_id": 0
+    },
+    {
+      "id": "1937471550794158106",
+      "program": "SDBENCHMARK",
+      "message": "lhx03 2025-12-16 14:25:56.331101|2.13 / 3.55 / 6.14|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:【sdxl】hans_38硝酸铜v2.0.safetensors [cc358a6669] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|lhx03||845eff|d6a4f3",
+      "generated_at": "2025-12-16T06:27:15Z",
+      "source_id": 0
+    },
+    {
+      "id": "1937471563469344775",
+      "program": "SDBENCHMARK",
+      "message": "lhx03 2025-12-16 14:25:56.331101|2.13 / 3.55 / 6.14|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:【sdxl】hans_38硝酸铜v2.0.safetensors [cc358a6669] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|lhx03||845eff|d6a4f3",
+      "generated_at": "2025-12-16T06:27:18Z",
       "source_id": 0
     }
   ]
