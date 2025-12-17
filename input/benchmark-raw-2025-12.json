@@ -1,5 +1,5 @@
 {
-  "max_id": "1937471563469344775",
+  "max_id": "1937745772665819178",
   "events": [
     {
       "id": "1931987773745704971",
@@ -846,6 +846,20 @@
       "program": "SDBENCHMARK",
       "message": "lhx03 2025-12-16 14:25:56.331101|2.13 / 3.55 / 6.14|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:【sdxl】hans_38硝酸铜v2.0.safetensors [cc358a6669] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|lhx03||845eff|d6a4f3",
       "generated_at": "2025-12-16T06:27:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1937471563469344775",
+      "program": "SDBENCHMARK",
+      "message": "lhx03 2025-12-16 14:25:56.331101|2.13 / 3.55 / 6.14|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:90701 driver:577.00 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:【sdxl】hans_38硝酸铜v2.0.safetensors [cc358a6669] vae:vae-ft-mse-840000-ema-pruned.safetensors width:512 height:512|lhx03||845eff|d6a4f3",
+      "generated_at": "2025-12-16T06:27:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1937745772665819178",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-12-15 04:22:09.486131|error / error / error|app:sdnext.git updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-37-generic python:3.12.3|torch:2.9.1+xpu xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:Intel(R) Graphics [0xe20b] (1) ipex: 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:ipex compile:none dtype:torch.bfloat16|pipeline:NoneType model:none vae:none width:512 height:512|root||ed7cba|553dc3",
+      "generated_at": "2025-12-17T00:36:55Z",
       "source_id": 0
     }
   ]
