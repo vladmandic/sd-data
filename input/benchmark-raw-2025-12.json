@@ -1,5 +1,5 @@
 {
-  "max_id": "1938381118562816066",
+  "max_id": "1938570878245851140",
   "events": [
     {
       "id": "1931987773745704971",
@@ -895,6 +895,27 @@
       "program": "SDBENCHMARK",
       "message": "gamer 2025-12-18 20:40:39.799020|3.98 / 4.86 / 5.17|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:nova3dcgxl_ilv80.safetensors [dfe06b86b4] vae:automatic width:512 height:512|gamer||8bd260|e8f63c",
       "generated_at": "2025-12-18T18:41:33Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938381118562816066",
+      "program": "SDBENCHMARK",
+      "message": "gamer 2025-12-18 20:40:39.799020|3.98 / 4.86 / 5.17|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:nova3dcgxl_ilv80.safetensors [dfe06b86b4] vae:automatic width:512 height:512|gamer||8bd260|e8f63c",
+      "generated_at": "2025-12-18T18:41:33Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938570867869143068",
+      "program": "SDBENCHMARK",
+      "message": "wilson 2025-12-19 15:14:34.254690|4.39 / 4.43 / 4.86|app:automatic.git updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.6|torch:2.9.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly vae:none width:512 height:512|wilson||b6599c|e0184b",
+      "generated_at": "2025-12-19T07:15:33Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938570878245851140",
+      "program": "SDBENCHMARK",
+      "message": "wilson 2025-12-19 15:14:34.254690|4.39 / 4.43 / 4.86|app:automatic.git updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.6|torch:2.9.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly vae:none width:512 height:512|wilson||b6599c|e0184b",
+      "generated_at": "2025-12-19T07:15:35Z",
       "source_id": 0
     }
   ]
