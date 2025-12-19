@@ -1,5 +1,5 @@
 {
-  "max_id": "1938172426613600264",
+  "max_id": "1938381118562816066",
   "events": [
     {
       "id": "1931987773745704971",
@@ -874,6 +874,27 @@
       "program": "SDBENCHMARK",
       "message": "Administrator 2025-12-18 12:51:39.594555|3.58 / 3.72 / 3.85|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon Pro VII (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||29862e|c552bd",
       "generated_at": "2025-12-18T04:52:17Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938172426613600264",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-18 12:51:39.594555|3.58 / 3.72 / 3.85|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 13, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 xformers:0.0.27+cu118 diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon Pro VII (1) (compute_37) (8, 8) cuda:11.8 cudnn:8700 driver: 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Administrator||29862e|c552bd",
+      "generated_at": "2025-12-18T04:52:17Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938381094948884502",
+      "program": "SDBENCHMARK",
+      "message": "gamer 2025-12-18 20:40:39.799020|3.98 / 4.86 / 5.17|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:nova3dcgxl_ilv80.safetensors [dfe06b86b4] vae:automatic width:512 height:512|gamer||8bd260|e8f63c",
+      "generated_at": "2025-12-18T18:41:27Z",
+      "source_id": 0
+    },
+    {
+      "id": "1938381118562816066",
+      "program": "SDBENCHMARK",
+      "message": "gamer 2025-12-18 20:40:39.799020|3.98 / 4.86 / 5.17|app:stable-diffusion-webui.git updated:2025-10-08 hash:6685e532 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 10, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.0+cu128 xformers:0.0.30 diffusers: transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:nova3dcgxl_ilv80.safetensors [dfe06b86b4] vae:automatic width:512 height:512|gamer||8bd260|e8f63c",
+      "generated_at": "2025-12-18T18:41:33Z",
       "source_id": 0
     }
   ]
