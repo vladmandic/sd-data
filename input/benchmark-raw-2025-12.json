@@ -1,5 +1,5 @@
 {
-  "max_id": "1939701870138404917",
+  "max_id": "1939925754888507417",
   "events": [
     {
       "id": "1931987773745704971",
@@ -930,6 +930,20 @@
       "program": "SDBENCHMARK",
       "message": "Admin 2025-12-22 18:09:05.996578|10.87 / 13.34 / 13.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26220-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Admin||264823|d51263",
       "generated_at": "2025-12-22T10:09:45Z",
+      "source_id": 0
+    },
+    {
+      "id": "1939701870138404917",
+      "program": "SDBENCHMARK",
+      "message": "Admin 2025-12-22 18:09:05.996578|10.87 / 13.34 / 13.2|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.26220-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:581.80 8GB|pipeline:a1111 crossattention:Automatic flags:medvram-sdxl compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|Admin||264823|d51263",
+      "generated_at": "2025-12-22T10:09:45Z",
+      "source_id": 0
+    },
+    {
+      "id": "1939925754888507417",
+      "program": "SDBENCHMARK",
+      "message": "xc 2025-12-23 08:56:07.004206|0.54 / 0.64 / 0.83|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro P2200 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:581.42 5GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|xc||f25259|b01582",
+      "generated_at": "2025-12-23T00:59:23Z",
       "source_id": 0
     }
   ]
