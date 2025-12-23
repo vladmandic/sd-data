@@ -1,5 +1,5 @@
 {
-  "max_id": "1939925754888507417",
+  "max_id": "1940079682510835760",
   "events": [
     {
       "id": "1931987773745704971",
@@ -944,6 +944,27 @@
       "program": "SDBENCHMARK",
       "message": "xc 2025-12-23 08:56:07.004206|0.54 / 0.64 / 0.83|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro P2200 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:581.42 5GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|xc||f25259|b01582",
       "generated_at": "2025-12-23T00:59:23Z",
+      "source_id": 0
+    },
+    {
+      "id": "1939925754888507417",
+      "program": "SDBENCHMARK",
+      "message": "xc 2025-12-23 08:56:07.004206|0.54 / 0.64 / 0.83|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 7, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.5.1+cu124 autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:Quadro P2200 (1) (sm_90) (6, 1) cuda:12.4 cudnn:90100 driver:581.42 5GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|xc||f25259|b01582",
+      "generated_at": "2025-12-23T00:59:23Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940079659324723226",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-23 18:54:57.927067|1.54 / 1.44 / 1.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:591.44 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||c594fd|3cf31e",
+      "generated_at": "2025-12-23T11:10:57Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940079682510835760",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-23 18:54:57.927067|1.54 / 1.44 / 1.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:591.44 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||c594fd|3cf31e",
+      "generated_at": "2025-12-23T11:11:02Z",
       "source_id": 0
     }
   ]
