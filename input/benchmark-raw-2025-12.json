@@ -1,5 +1,5 @@
 {
-  "max_id": "1940079682510835760",
+  "max_id": "1940147335699017746",
   "events": [
     {
       "id": "1931987773745704971",
@@ -965,6 +965,48 @@
       "program": "SDBENCHMARK",
       "message": "Administrator 2025-12-23 18:54:57.927067|1.54 / 1.44 / 1.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:591.44 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||c594fd|3cf31e",
       "generated_at": "2025-12-23T11:11:02Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940079682510835760",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-23 18:54:57.927067|1.54 / 1.44 / 1.56|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 158 Stepping 9, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.5.1+cu124 autocast nohalf xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce GTX 1660 SUPER (1) (sm_90) (7, 5) cuda:12.4 cudnn:90100 driver:591.44 6GB|Automatic medvram|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||c594fd|3cf31e",
+      "generated_at": "2025-12-23T11:11:02Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940132364038615062",
+      "program": "SDBENCHMARK",
+      "message": "558 2025-12-23 22:39:21.017087|6.74 / 7.52 / 8.22|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.80 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|558||5da063|acfab6",
+      "generated_at": "2025-12-23T14:40:23Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940132368899813389",
+      "program": "SDBENCHMARK",
+      "message": "558 2025-12-23 22:39:21.017087|6.74 / 7.52 / 8.22|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.19041-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 2060 SUPER (1) (compute_37) (7, 5) cuda:11.8 cudnn:8700 driver:576.80 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|558||5da063|acfab6",
+      "generated_at": "2025-12-23T14:40:24Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940145301155393572",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-12-23 15:29:51.585013|2.33 / 2.56 / 3.48|app:sdnext updated:2025-11-01 hash:02644008 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.13|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA RTX A2000 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:550.163.01 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectionasianilxl_v10 vae:none width:512 height:512|root||3db735|8b80c1",
+      "generated_at": "2025-12-23T15:31:47Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940147086955819034",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-12-23 15:32:20.278307|2.96 / 3.95 / 4.87 / 5.19 / 5.49 / error / error|app:sdnext updated:2025-11-01 hash:02644008 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.13|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA RTX A2000 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:550.163.01 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectionasianilxl_v10 vae:none width:512 height:512|root||3db735|1cd2e9",
+      "generated_at": "2025-12-23T15:38:53Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940147335699017746",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-12-23 15:32:20.278307|2.96 / 3.95 / 4.87 / 5.19 / 5.49 / error / error|app:sdnext updated:2025-11-01 hash:02644008 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.13|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA RTX A2000 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:550.163.01 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectionasianilxl_v10 vae:none width:512 height:512|root||3db735|1cd2e9",
+      "generated_at": "2025-12-23T15:39:52Z",
       "source_id": 0
     }
   ]
