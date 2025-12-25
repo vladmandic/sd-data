@@ -1,5 +1,5 @@
 {
-  "max_id": "1940147335699017746",
+  "max_id": "1940597260383604777",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1007,6 +1007,55 @@
       "program": "SDBENCHMARK",
       "message": "root 2025-12-23 15:32:20.278307|2.96 / 3.95 / 4.87 / 5.19 / 5.49 / error / error|app:sdnext updated:2025-11-01 hash:02644008 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.13|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA RTX A2000 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:550.163.01 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectionasianilxl_v10 vae:none width:512 height:512|root||3db735|1cd2e9",
       "generated_at": "2025-12-23T15:39:52Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940147335699017746",
+      "program": "SDBENCHMARK",
+      "message": "root 2025-12-23 15:32:20.278307|2.96 / 3.95 / 4.87 / 5.19 / 5.49 / error / error|app:sdnext updated:2025-11-01 hash:02644008 url:https://github.com/vladmandic/sdnext/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:5.10.55+ python:3.11.13|torch:2.8.0+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.1|device:NVIDIA RTX A2000 Laptop GPU (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:550.163.01 8GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:perfectionasianilxl_v10 vae:none width:512 height:512|root||3db735|1cd2e9",
+      "generated_at": "2025-12-23T15:39:52Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940473125594640412",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-08-24 14:51:07.084230|0.97 / 1.15 / 1.82|app:sdnext.git updated:2025-08-20 hash:3ec0d35d url:git@github.com:vladmandic/sdnext.git/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.6|torch:2.7.1 xformers: diffusers:0.35.0.dev0 transformers:4.55.2| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:juggernautxl_ragnarokby_1659952/juggernautxl_ragnarokby_1659952 [dd08fa32f9] vae:none width:512 height:512|aaronkline||64b3f5|8163f9",
+      "generated_at": "2025-12-24T13:14:26Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940473125594640413",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-12-08 14:50:05.838094|0.75 / 1.0 / 1.26|app:sdnext.git updated:2025-11-14 hash:e38a711c6 url:git@github.com:vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.11.14|torch:2.5.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.1| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float32|pipeline:StableDiffusionXLPipeline model:_archive/lucignoloxl_v10/lucignoloxl_v10 [b461f2f53f] vae:none width:512 height:512|aaronkline||c68f4d|2af6ae",
+      "generated_at": "2025-12-24T13:14:26Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940473125594640414",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-12-23 21:49:07.141113|0.76 / error / error|app:sdnext.git updated:2025-12-11 hash:e0cadf015 url:git@github.com:vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.14|torch:2.9.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:none dtype:torch.float16|pipeline:WanPipeline model:diffusers/wan-ai/wan2.1-t2v-1.3b-diffusers [0fad780a53] vae:none width:512 height:512|aaronkline||06668b|b2c444",
+      "generated_at": "2025-12-24T13:14:26Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940473125594640415",
+      "program": "SDBENCHMARK",
+      "message": "aaronkline 2025-12-24 06:11:49.449411|2.62 / 2.63 / 2.64|app:sdnext.git updated:2025-12-11 hash:e0cadf015 url:git@github.com:vladmandic/sdnext/tree/master|arch:arm64 cpu:arm system:Darwin release:24.6.0 python:3.10.19|torch:2.9.1 xformers: diffusers:0.36.0.dev0 transformers:4.57.3| 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:mps compile:onediff dtype:torch.float16|pipeline:StableDiffusionPipeline model:realmint_theos/realmint_theos [ef3b0879be] vae:none width:512 height:512|aaronkline||9414fd|0dea96",
+      "generated_at": "2025-12-24T13:14:26Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940597243845455925",
+      "program": "SDBENCHMARK",
+      "message": "htpc 2025-12-24 22:24:33.936797|10.01 / 1.58 / 1.22|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-37-generic python:3.10.19|torch:2.10.0.dev20251123+rocm7.0 xformers: diffusers: transformers:4.30.2|device:Radeon RX 7900 XT (2) hip:7.0.51831 20GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cyberrealisticpony_v141.safetensors [2a0874a341] vae:sdxl_vae.safetensors width:512 height:512|htpc||bf7514|0c8923",
+      "generated_at": "2025-12-24T21:27:39Z",
+      "source_id": 0
+    },
+    {
+      "id": "1940597260383604777",
+      "program": "SDBENCHMARK",
+      "message": "deck 2025-12-24 22:24:42.716258|10.68 / 0.95 / 0.96|app:stable-diffusion-webui updated:2025-12-18 hash:fd68e0c3 url:https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/dev|arch:x86_64 cpu:x86_64 system:Linux release:6.14.0-37-generic python:3.10.19|torch:2.11.0.dev20251223+rocm7.1 xformers: diffusers:0.31.0 transformers:4.30.2|device:AMD Radeon RX 9070 (2) hip:7.1.52802 16GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:DiffusionEngine model:cyberrealisticpony_v141.safetensors [2a0874a341] vae:automatic width:512 height:512|deck||a58782|99864c",
+      "generated_at": "2025-12-24T21:27:42Z",
       "source_id": 0
     }
   ]
