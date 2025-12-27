@@ -1,5 +1,5 @@
 {
-  "max_id": "1941184974673850491",
+  "max_id": "1941348842490474564",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1070,6 +1070,48 @@
       "program": "SDBENCHMARK",
       "message": "astrelsky 2025-12-26 07:09:47.914778|0.5 / 0.49 / 0.5|app:SD.next updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251225 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon(TM) 890M Graphics (1) hip:7.2.53150-8c0ad5dc51 68GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectillustriousxl_v5 [949d791528] vae:none width:832 height:1216|astrelsky||8e8c2b|b3dafa",
       "generated_at": "2025-12-26T12:23:04Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941184974673850491",
+      "program": "SDBENCHMARK",
+      "message": "astrelsky 2025-12-26 07:09:47.914778|0.5 / 0.49 / 0.5|app:SD.next updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 26 Model 36 Stepping 0, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251225 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon(TM) 890M Graphics (1) hip:7.2.53150-8c0ad5dc51 68GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectillustriousxl_v5 [949d791528] vae:none width:832 height:1216|astrelsky||8e8c2b|b3dafa",
+      "generated_at": "2025-12-26T12:23:04Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941199377930563625",
+      "program": "SDBENCHMARK",
+      "message": "Sdnext 2025-12-26 14:19:45.172706|5.69 / 6.53 / 10.16|app:sdnext updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.8|torch:2.9.1+rocm7.11.0a20251226 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 9070 XT (2) hip:7.2.53150-93a0a375e8 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:cyberrealisticpony_v141 [2a0874a341] vae:none width:512 height:512|Sdnext||cd539e|b05759",
+      "generated_at": "2025-12-26T13:20:18Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941348187965141032",
+      "program": "SDBENCHMARK",
+      "message": "persi 2024-08-26 16:23:55.939623|1.24|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Dynamic Attention BMM medvram|dreamshaper_8 [879db523c3]|persi||3c6484|bbb01b",
+      "generated_at": "2025-12-26T23:11:38Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941348187969335312",
+      "program": "SDBENCHMARK",
+      "message": "persi 2025-12-27 01:10:45.632211|4.67 / 4.5 / 4.8|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Disabled none|dreamshaper_8 [879db523c3]|persi||5beb38|82eb9a",
+      "generated_at": "2025-12-26T23:11:38Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941348842486280298",
+      "program": "SDBENCHMARK",
+      "message": "persi 2024-08-26 16:23:55.939623|1.24|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Dynamic Attention BMM medvram|dreamshaper_8 [879db523c3]|persi||3c6484|bbb01b",
+      "generated_at": "2025-12-26T23:14:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941348842490474564",
+      "program": "SDBENCHMARK",
+      "message": "persi 2025-12-27 01:10:45.632211|4.67 / 4.5 / 4.8|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Disabled none|dreamshaper_8 [879db523c3]|persi||5beb38|82eb9a",
+      "generated_at": "2025-12-26T23:14:14Z",
       "source_id": 0
     }
   ]
