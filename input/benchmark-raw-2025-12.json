@@ -1,5 +1,5 @@
 {
-  "max_id": "1941348842490474564",
+  "max_id": "1941517187655315503",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1112,6 +1112,27 @@
       "program": "SDBENCHMARK",
       "message": "persi 2025-12-27 01:10:45.632211|4.67 / 4.5 / 4.8|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Disabled none|dreamshaper_8 [879db523c3]|persi||5beb38|82eb9a",
       "generated_at": "2025-12-26T23:14:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941348842490474564",
+      "program": "SDBENCHMARK",
+      "message": "persi 2025-12-27 01:10:45.632211|4.67 / 4.5 / 4.8|app:SD.next updated:2024-07-24 hash:a874b27e url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.10.6|torch:2.3.1+cpu Autocast half xformers: diffusers:0.29.1 transformers:4.42.3| 0GB|Disabled none|dreamshaper_8 [879db523c3]|persi||5beb38|82eb9a",
+      "generated_at": "2025-12-26T23:14:14Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941517181753929752",
+      "program": "SDBENCHMARK",
+      "message": "JYC 2025-12-27 18:21:36.017725|9.73 / 14.4 / 16.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:581.42 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|JYC||62607f|b41290",
+      "generated_at": "2025-12-27T10:23:09Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941517187655315503",
+      "program": "SDBENCHMARK",
+      "message": "JYC 2025-12-27 18:21:36.017725|9.73 / 14.4 / 16.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:581.42 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|JYC||62607f|b41290",
+      "generated_at": "2025-12-27T10:23:10Z",
       "source_id": 0
     }
   ]
