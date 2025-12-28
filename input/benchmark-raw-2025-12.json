@@ -1,5 +1,5 @@
 {
-  "max_id": "1941613881256488964",
+  "max_id": "1941902434402218048",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1147,6 +1147,34 @@
       "program": "SDBENCHMARK",
       "message": "HOMAX16 2025-12-27 17:45:00.602414|2.55 / 4.38 / 8.02|app:sdnext updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:591.44 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixnoobai_illustriousv2 [cb39f56617] vae:none width:512 height:512|HOMAX16||a8b675|d62386",
       "generated_at": "2025-12-27T16:47:24Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941613881256488964",
+      "program": "SDBENCHMARK",
+      "message": "HOMAX16 2025-12-27 17:45:00.602414|2.55 / 4.38 / 8.02|app:sdnext updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:591.44 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixnoobai_illustriousv2 [cb39f56617] vae:none width:512 height:512|HOMAX16||a8b675|d62386",
+      "generated_at": "2025-12-27T16:47:24Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941901141482844185",
+      "program": "SDBENCHMARK",
+      "message": "h-yam 2025-12-28 20:46:49.360959|2.1 / 4.89 / 7.43|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectiousxlnsfw_v10 [85851de4a0] vae:none width:512 height:512|h-yam||95e165|674465",
+      "generated_at": "2025-12-28T11:48:52Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941901649199149088",
+      "program": "SDBENCHMARK",
+      "message": "h-yam 2025-12-28 20:50:10.483212|4.58 / 8.54 / 11.8|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectiousxlnsfw_v10 [85851de4a0] vae:none width:512 height:512|h-yam||95e165|352ce5",
+      "generated_at": "2025-12-28T11:50:53Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941902434402218048",
+      "program": "SDBENCHMARK",
+      "message": "h-yam 2025-12-28 20:51:11.707816|4.58 / 8.54 / 11.8|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 183 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3080 Ti (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:prefectiousxlnsfw_v10 [85851de4a0] vae:none width:512 height:512|h-yam||95e165|5caa03",
+      "generated_at": "2025-12-28T11:54:00Z",
       "source_id": 0
     }
   ]
