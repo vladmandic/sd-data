@@ -1,5 +1,5 @@
 {
-  "max_id": "1941517187655315503",
+  "max_id": "1941613881256488964",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1133,6 +1133,20 @@
       "program": "SDBENCHMARK",
       "message": "JYC 2025-12-27 18:21:36.017725|9.73 / 14.4 / 16.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:581.42 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|JYC||62607f|b41290",
       "generated_at": "2025-12-27T10:23:10Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941517187655315503",
+      "program": "SDBENCHMARK",
+      "message": "JYC 2025-12-27 18:21:36.017725|9.73 / 14.4 / 16.33|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 63 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26100-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 2080 Ti (1) (sm_120) (7, 5) cuda:12.8 cudnn:90701 driver:581.42 22GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:sd1.5\\anything-v5.safetensors [7f96a1a9ca] vae:automatic width:512 height:512|JYC||62607f|b41290",
+      "generated_at": "2025-12-27T10:23:10Z",
+      "source_id": 0
+    },
+    {
+      "id": "1941613881256488964",
+      "program": "SDBENCHMARK",
+      "message": "HOMAX16 2025-12-27 17:45:00.602414|2.55 / 4.38 / 8.02|app:sdnext updated:2025-12-11 hash:e0cadf015 url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 198 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 5090 Laptop GPU (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:591.44 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:smoothmixnoobai_illustriousv2 [cb39f56617] vae:none width:512 height:512|HOMAX16||a8b675|d62386",
+      "generated_at": "2025-12-27T16:47:24Z",
       "source_id": 0
     }
   ]
