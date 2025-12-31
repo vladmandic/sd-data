@@ -1,5 +1,5 @@
 {
-  "max_id": "1942501297211224089",
+  "max_id": "1942822167809011726",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1392,6 +1392,48 @@
       "program": "SDBENCHMARK",
       "message": "dallas4u 2025-12-29 21:16:52.816300|19.23 / 21.61 / 23.7|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.4.0+cu124 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:91701 driver:591.59 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sdvn3realart_v1.safetensors vae:none width:512 height:512|dallas4u||dd150a|3b4b99",
       "generated_at": "2025-12-30T03:33:40Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942501297211224089",
+      "program": "SDBENCHMARK",
+      "message": "dallas4u 2025-12-29 21:16:52.816300|19.23 / 21.61 / 23.7|app:stable-diffusion-webui-forge.git updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.4.0+cu124 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 4070 SUPER (1) (sm_90) (8, 9) cuda:12.4 cudnn:91701 driver:591.59 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusion model:sdvn3realart_v1.safetensors vae:none width:512 height:512|dallas4u||dd150a|3b4b99",
+      "generated_at": "2025-12-30T03:33:40Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942668009491583015",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2025-12-30 22:35:50.497658|10.68 / 10.43 / 10.9|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.22621-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 4060 Ti (1) (compute_37) (8, 9) cuda:11.8 cudnn:8700 driver:591.59 8GB|Automatic medvram-sdxl|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||7ca3f8|0c5fd4",
+      "generated_at": "2025-12-30T14:36:08Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942682950407729171",
+      "program": "SDBENCHMARK",
+      "message": "dav 2025-12-30 16:34:42.974701|6.38 / 4.06 / 7.37|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:591.59 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:clarity_3 [0ba3d23162] vae:none width:512 height:512|dav||cafb59|38be38",
+      "generated_at": "2025-12-30T15:35:30Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942682968069943315",
+      "program": "SDBENCHMARK",
+      "message": "dav 2025-12-30 16:34:42.974701|6.38 / 4.06 / 7.37|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 151 Stepping 2, GenuineIntel system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:591.59 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:clarity_3 [0ba3d23162] vae:none width:512 height:512|dav||cafb59|38be38",
+      "generated_at": "2025-12-30T15:35:34Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942751647612710928",
+      "program": "SDBENCHMARK",
+      "message": "cresius 2025-12-30 21:07:32.416146|9.94 / 8.1 / 11.62|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251229 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon AI PRO R9700 (1) hip:7.2.53150-a2dcb3d213 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:iniversemixsfwnsfw_ponyrealguofengv51 [1fe5e64752] vae:none width:512 height:512|cresius||fea728|eded9a",
+      "generated_at": "2025-12-30T20:08:28Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942751908691357723",
+      "program": "SDBENCHMARK",
+      "message": "cresius 2025-12-30 21:07:32.416146|9.94 / 8.1 / 11.62|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251229 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon AI PRO R9700 (1) hip:7.2.53150-a2dcb3d213 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:iniversemixsfwnsfw_ponyrealguofengv51 [1fe5e64752] vae:none width:512 height:512|cresius||fea728|eded9a",
+      "generated_at": "2025-12-30T20:09:31Z",
       "source_id": 0
     }
   ]
