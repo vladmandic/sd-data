@@ -1,5 +1,5 @@
 {
-  "max_id": "1942822167809011726",
+  "max_id": "1942913217986736190",
   "events": [
     {
       "id": "1931987773745704971",
@@ -1434,6 +1434,13 @@
       "program": "SDBENCHMARK",
       "message": "cresius 2025-12-30 21:07:32.416146|9.94 / 8.1 / 11.62|app:SD.next updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.11|torch:2.9.1+rocm7.11.0a20251229 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon AI PRO R9700 (1) hip:7.2.53150-a2dcb3d213 32GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:iniversemixsfwnsfw_ponyrealguofengv51 [1fe5e64752] vae:none width:512 height:512|cresius||fea728|eded9a",
       "generated_at": "2025-12-30T20:09:31Z",
+      "source_id": 0
+    },
+    {
+      "id": "1942913217986736190",
+      "program": "SDBENCHMARK",
+      "message": "47104 2025-12-31 14:49:58.081225|2.77 / 2.54 / error|app:stable-diffusion-webui updated:2024-07-27 hash:c19d0443 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26100-SP0 python:3.10.11|torch:2.3.1+cu118 autocast half xformers:0.0.27+cu118 diffusers:0.16.1 transformers:4.30.2|device:NVIDIA GeForce RTX 5070 Laptop GPU (1) (compute_37) (12, 0) cuda:11.8 cudnn:8700 driver:591.59 8GB|Automatic medvram-sdxl|sd1.5\\Interior Design _ 室内设计通用模型_V1.0.safetensors [3ade228658]|47104||bf0efa|75745a",
+      "generated_at": "2025-12-31T06:50:30Z",
       "source_id": 0
     }
   ]
