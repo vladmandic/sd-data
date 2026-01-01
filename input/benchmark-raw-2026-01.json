@@ -1,11 +1,25 @@
 {
-  "max_id": "1943190280354320398",
+  "max_id": "1943355957329448962",
   "events": [
     {
       "id": "1943190280354320398",
       "program": "SDBENCHMARK",
       "message": "root 2026-01-01 01:11:22.034574|error / error / error|app:sdnext.git updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.20+ python:3.12.3|torch:2.9.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:12th Gen Intel(R) Core(TM) i5-1240P openvino:2025.3.0 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:openvino compile:none dtype:torch.float32|pipeline:NoneType model:stabilityai/stable-diffusion-2-1-base vae:none width:512 height:512|root||373e60|3328d8",
       "generated_at": "2026-01-01T01:11:27Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943190280354320398",
+      "program": "SDBENCHMARK",
+      "message": "root 2026-01-01 01:11:22.034574|error / error / error|app:sdnext.git updated:2025-12-26 hash:3ae10181d url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu:x86_64 system:Linux release:6.12.20+ python:3.12.3|torch:2.9.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:12th Gen Intel(R) Core(TM) i5-1240P openvino:2025.3.0 0GB|pipeline:native crossattention:Scaled-Dot-Product flags:medvram compute:openvino compile:none dtype:torch.float32|pipeline:NoneType model:stabilityai/stable-diffusion-2-1-base vae:none width:512 height:512|root||373e60|3328d8",
+      "generated_at": "2026-01-01T01:11:27Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943355957329448962",
+      "program": "SDBENCHMARK",
+      "message": "Sausage_AI 2025-12-20 16:36:17.695094|5.46 / 8.42 / 11.27|app:sdnext updated:2025-12-18 hash:745a805df url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.10|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:waiillustrioussdxl_v150 [0b3a4a8f0d] vae:default width:512 height:512|Sausage||957288|f56319",
+      "generated_at": "2026-01-01T12:09:47Z",
       "source_id": 0
     }
   ]
