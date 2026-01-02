@@ -1,5 +1,5 @@
 {
-  "max_id": "1943355957329448962",
+  "max_id": "1943535935543234666",
   "events": [
     {
       "id": "1943190280354320398",
@@ -20,6 +20,34 @@
       "program": "SDBENCHMARK",
       "message": "Sausage_AI 2025-12-20 16:36:17.695094|5.46 / 8.42 / 11.27|app:sdnext updated:2025-12-18 hash:745a805df url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.10|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:waiillustrioussdxl_v150 [0b3a4a8f0d] vae:default width:512 height:512|Sausage||957288|f56319",
       "generated_at": "2026-01-01T12:09:47Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943355957329448962",
+      "program": "SDBENCHMARK",
+      "message": "Sausage_AI 2025-12-20 16:36:17.695094|5.46 / 8.42 / 11.27|app:sdnext updated:2025-12-18 hash:745a805df url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:Intel64 Family 6 Model 85 Stepping 4, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.10|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:581.80 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:waiillustrioussdxl_v150 [0b3a4a8f0d] vae:default width:512 height:512|Sausage||957288|f56319",
+      "generated_at": "2026-01-01T12:09:47Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943491492857434216",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2026-01-02 05:08:00.103141|error / error / error|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c0 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.22631-SP0 python:3.11.9|torch:2.7.0+xpu autocast half xformers:0.0.28.post3 diffusers:0.31.0 transformers:4.30.2| 0GB|Automatic none|sd1.5\\anything-v5.safetensors [7f96a1a9ca]|Administrator||1c99e6|bc4b8f",
+      "generated_at": "2026-01-01T21:08:21Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943535915062448231",
+      "program": "SDBENCHMARK",
+      "message": "Кирилл 2026-01-02 07:04:30.105676|error / error / error|app:SD.next updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.8|torch:2.4.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Disabled flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|Кирилл||74f480|8f329d",
+      "generated_at": "2026-01-02T00:04:52Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943535935543234666",
+      "program": "SDBENCHMARK",
+      "message": "Кирилл 2026-01-02 07:04:30.105676|error / error / error|app:SD.next updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.8|torch:2.4.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Disabled flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|Кирилл||74f480|8f329d",
+      "generated_at": "2026-01-02T00:04:57Z",
       "source_id": 0
     }
   ]
