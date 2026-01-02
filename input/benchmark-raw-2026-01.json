@@ -1,5 +1,5 @@
 {
-  "max_id": "1943535935543234666",
+  "max_id": "1943681109044940841",
   "events": [
     {
       "id": "1943190280354320398",
@@ -48,6 +48,34 @@
       "program": "SDBENCHMARK",
       "message": "Кирилл 2026-01-02 07:04:30.105676|error / error / error|app:SD.next updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.8|torch:2.4.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Disabled flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|Кирилл||74f480|8f329d",
       "generated_at": "2026-01-02T00:04:57Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943535935543234666",
+      "program": "SDBENCHMARK",
+      "message": "Кирилл 2026-01-02 07:04:30.105676|error / error / error|app:SD.next updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/automatic/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19045-SP0 python:3.12.8|torch:2.4.1+cpu xformers: diffusers:0.36.0.dev0 transformers:4.52.4| 0GB|pipeline:native crossattention:Disabled flags:none compute:directml compile:none dtype:torch.float16|pipeline:StableDiffusionXLPipeline model:ponydiffusionv6xl_v6startwiththisone [67ab2fd8ec] vae:none width:512 height:512|Кирилл||74f480|8f329d",
+      "generated_at": "2026-01-02T00:04:57Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943606948431843379",
+      "program": "SDBENCHMARK",
+      "message": "misha 2026-01-02 09:45:54.643551|2.42 / 2.47 / 2.95|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 186 Stepping 2, GenuineIntel system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.6|torch:2.7.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 4080 Laptop GPU (1) (sm_120) (8, 9) cuda:12.8 cudnn:90701 driver:591.59 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:epicrealismxl_purefix\\epicrealismxl_purefix [dd21adcc3a] vae:fixfp16errorssdxllowermemoryuse_v10.safetensors width:768 height:1024|misha||cff4c8|c142bd",
+      "generated_at": "2026-01-02T04:47:08Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943680879109001221",
+      "program": "SDBENCHMARK",
+      "message": "aaq 2026-01-02 18:40:14.028803|4.15 / 7.76 / 11.58|app:sdnext updated:2026-01-01 hash:4e8b0f83b url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.10|torch:2.9.1+rocm7.11.0a20260102 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 9070 XT (1) hip:7.2.53150-8f9f9903f6 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaorangexl_v90 [a242241038] vae:liquid111vae_sdxl9745vae.safetensors width:512 height:512|aaq||38bc05|80d8c7",
+      "generated_at": "2026-01-02T09:40:54Z",
+      "source_id": 0
+    },
+    {
+      "id": "1943681109044940841",
+      "program": "SDBENCHMARK",
+      "message": "aaq 2026-01-02 18:40:14.028803|4.15 / 7.76 / 11.58|app:sdnext updated:2026-01-01 hash:4e8b0f83b url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD system:Windows release:Windows-11-10.0.26200-SP0 python:3.12.10|torch:2.9.1+rocm7.11.0a20260102 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 9070 XT (1) hip:7.2.53150-8f9f9903f6 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionXLPipeline model:novaorangexl_v90 [a242241038] vae:liquid111vae_sdxl9745vae.safetensors width:512 height:512|aaq||38bc05|80d8c7",
+      "generated_at": "2026-01-02T09:41:49Z",
       "source_id": 0
     }
   ]
