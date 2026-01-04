@@ -1,5 +1,5 @@
 {
-  "max_id": "1944256375005827125",
+  "max_id": "1944378946288267266",
   "events": [
     {
       "id": "1943190280354320398",
@@ -139,6 +139,20 @@
       "program": "SDBENCHMARK",
       "message": "mcoombes 2026-01-03 23:46:36.759300|17.9 / 19.99 / 22.3|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.18.2-3-cachyos python:3.10.17|torch:2.9.1+cu128 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:590.48.01 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/waiillustrioussdxl_v160.safetensors vae:none width:512 height:512|mcoombes||3b66f8|ff7315",
       "generated_at": "2026-01-03T23:47:43Z",
+      "source_id": 0
+    },
+    {
+      "id": "1944256375005827125",
+      "program": "SDBENCHMARK",
+      "message": "mcoombes 2026-01-03 23:46:36.759300|17.9 / 19.99 / 22.3|app:stable-diffusion-webui-forge updated:2025-06-26 hash:dfdcbab6 url:https://github.com/lllyasviel/stable-diffusion-webui-forge/tree/main|arch:x86_64 cpu: system:Linux release:6.18.2-3-cachyos python:3.10.17|torch:2.9.1+cu128 xformers: diffusers:0.31.0 transformers:4.46.1|device:NVIDIA GeForce RTX 5080 (1) (sm_120) (12, 0) cuda:12.8 cudnn:91002 driver:590.48.01 15GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:StableDiffusionXL model:sd/waiillustrioussdxl_v160.safetensors vae:none width:512 height:512|mcoombes||3b66f8|ff7315",
+      "generated_at": "2026-01-03T23:47:43Z",
+      "source_id": 0
+    },
+    {
+      "id": "1944378946288267266",
+      "program": "SDBENCHMARK",
+      "message": "John 2026-01-04 07:42:39.554020|17.0 / 14.79 / 18.29|app:sdnext updated:2026-01-03 hash:9dce5cac9 url:https://github.com/vladmandic/sdnext/tree/dev|arch:AMD64 cpu:AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD system:Windows release:Windows-10-10.0.19044-SP0 python:3.12.10|torch:2.9.1+rocm7.11.0a20260103 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 9070 XT (1) hip:7.2.53150-865e99cebd 16GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:rocm compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-emaonly-fp16 [e9476a1372] vae:none width:512 height:512|John||eb19c0|87a2f6",
+      "generated_at": "2026-01-04T07:54:47Z",
       "source_id": 0
     }
   ]
