@@ -1,5 +1,5 @@
 {
-  "max_id": "1944500594043695184",
+  "max_id": "1945027867603808296",
   "events": [
     {
       "id": "1943190280354320398",
@@ -167,6 +167,27 @@
       "program": "SDBENCHMARK",
       "message": "h2so4 2026-01-04 16:51:01.038663|20.69 / 18.74 / 20.54|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.17.13-1-MANJARO python:3.13.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:590.48.01 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly vae:none width:512 height:512|h2so4||6eacf3|ccca63",
       "generated_at": "2026-01-04T15:58:10Z",
+      "source_id": 0
+    },
+    {
+      "id": "1944500594043695184",
+      "program": "SDBENCHMARK",
+      "message": "h2so4 2026-01-04 16:51:01.038663|20.69 / 18.74 / 20.54|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:x86_64 cpu: system:Linux release:6.17.13-1-MANJARO python:3.13.11|torch:2.9.1+cu128 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:NVIDIA GeForce RTX 3090 (1) (sm_120) (8, 6) cuda:12.8 cudnn:91002 driver:590.48.01 24GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:cuda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:v1-5-pruned-fp16-emaonly vae:none width:512 height:512|h2so4||6eacf3|ccca63",
+      "generated_at": "2026-01-04T15:58:10Z",
+      "source_id": 0
+    },
+    {
+      "id": "1945027122607337499",
+      "program": "SDBENCHMARK",
+      "message": "Viga 2026-01-06 03:49:34.353527|2.44 / 4.74 / 5.66|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:urpm_v13 [ea7ca90676] vae:none width:512 height:512|Viga||0db47c|3b2fea",
+      "generated_at": "2026-01-06T02:50:24Z",
+      "source_id": 0
+    },
+    {
+      "id": "1945027867603808296",
+      "program": "SDBENCHMARK",
+      "message": "Viga 2026-01-06 03:52:43.507630|4.75 / 5.09 / 5.75|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:urpm_v13 [ea7ca90676] vae:none width:512 height:512|Viga||0db47c|574ef6",
+      "generated_at": "2026-01-06T02:53:22Z",
       "source_id": 0
     }
   ]
