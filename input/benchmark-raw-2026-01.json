@@ -1,5 +1,5 @@
 {
-  "max_id": "1945027867603808296",
+  "max_id": "1945298547817762828",
   "events": [
     {
       "id": "1943190280354320398",
@@ -188,6 +188,27 @@
       "program": "SDBENCHMARK",
       "message": "Viga 2026-01-06 03:52:43.507630|4.75 / 5.09 / 5.75|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:urpm_v13 [ea7ca90676] vae:none width:512 height:512|Viga||0db47c|574ef6",
       "generated_at": "2026-01-06T02:53:22Z",
+      "source_id": 0
+    },
+    {
+      "id": "1945027867603808296",
+      "program": "SDBENCHMARK",
+      "message": "Viga 2026-01-06 03:52:43.507630|4.75 / 5.09 / 5.75|app:sdnext updated:2026-01-01 hash:56a8aeaea url:https://github.com/vladmandic/sdnext/tree/master|arch:AMD64 cpu:AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD system:Windows release:Windows-10-10.0.26200-SP0 python:3.10.11|torch:2.7.1+cu118 xformers: diffusers:0.36.0.dev0 transformers:4.57.3|device:AMD Radeon RX 7700 XT [ZLUDA] (1) (compute_37) (8, 8) cuda:11.8 cudnn:90100 driver: 12GB|pipeline:native crossattention:Scaled-Dot-Product flags:none compute:zluda compile:none dtype:torch.bfloat16|pipeline:StableDiffusionPipeline model:urpm_v13 [ea7ca90676] vae:none width:512 height:512|Viga||0db47c|574ef6",
+      "generated_at": "2026-01-06T02:53:22Z",
+      "source_id": 0
+    },
+    {
+      "id": "1945298521427202052",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2026-01-07 04:49:31.480916|7.41 / 8.29 / 8.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:myself8.0.safetensors [44831812a9] vae:automatic width:512 height:512|Administrator||ef08ef|a23304",
+      "generated_at": "2026-01-06T20:48:50Z",
+      "source_id": 0
+    },
+    {
+      "id": "1945298547817762828",
+      "program": "SDBENCHMARK",
+      "message": "Administrator 2026-01-07 04:49:31.480916|7.41 / 8.29 / 8.65|app:stable-diffusion-webui updated:2024-07-27 hash:82a973c04 url:https://jihulab.com/hanamizuki/stable-diffusion-webui/tree/master|arch:AMD64 cpu:Intel64 Family 6 Model 167 Stepping 1, GenuineIntel system:Windows release:Windows-10-10.0.19045-SP0 python:3.11.9|torch:2.7.0+cu128 xformers:0.0.30+4cf69f09.d20250606 diffusers:0.31.0 transformers:4.30.2|device:NVIDIA GeForce RTX 3060 (1) (sm_120) (8, 6) cuda:12.8 cudnn:90701 driver:591.44 12GB|pipeline:a1111 crossattention:Automatic flags:none compute:unknown compile:none dtype:torch.float16|pipeline:LatentDiffusion model:myself8.0.safetensors [44831812a9] vae:automatic width:512 height:512|Administrator||ef08ef|a23304",
+      "generated_at": "2026-01-06T20:48:57Z",
       "source_id": 0
     }
   ]
