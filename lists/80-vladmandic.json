@@ -1,12 +1,14 @@
 [
   {
-    "url": "https://github.com/Dahvikiin/clip-interrogator-ext",
     "status": 1,
+    "url": "https://github.com/Dahvikiin/clip-interrogator-ext",
     "note": "Fork of <https://github.com/pharmapsychotic/clip-interrogator-ext>"
   },
   {
-    "url": "https://github.com/ArtVentureX/sd-webui-agent-scheduler",
-    "status": 1
+    "status": 1,
+    "url": "https://github.com/liutyi/sdnext-scheduler",
+    "oldurl": "https://github.com/ArtVentureX/sd-webui-agent-scheduler",
+    "note": "Fork of <https://github.com/ArtVentureX/sd-webui-agent-scheduler.git>"
   },
   {
     "url": "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser",
@@ -20,9 +22,8 @@
     "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "status": 2
   },
-    {
-      "url": "https://github.com/continue-revolution/sd-webui-animatediff",
-      "status": 2
-    }
+  {
+    "url": "https://github.com/continue-revolution/sd-webui-animatediff",
+    "status": 2
+  }
 ]
-

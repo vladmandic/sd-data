@@ -166,13 +166,22 @@ async function curate(data) {
     for (const ext of list) {
       if (!ext.url) continue;
       if (ext.url.endsWith('.git')) ext.url = ext.url.replace('.git', '');
+
+      const j = data.findIndex((e) => e.url === ext.oldurl);
+      if (j > -1) {
+        data[j].url = ext.url; // update url
+        log('updated:', { file: f, url: ext.url });
+      }
+
       const i = curated.findIndex((e) => e.url === ext.url);
       if (ext.url !== curated[i]?.url) newData = await getDetails(ext);
       else newData = {};
       if (i > -1) {
+        log('curated:', { file: f, url: ext.url });
         curated[i] = { ...curated[i], ...newData, ...ext };
         ammended += 1;
       } else {
+        log('appended:', { file: f, url: ext.url });
         curated.push({ ...newData, ...ext });
         appended += 1;
       }
