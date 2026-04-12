@@ -11,6 +11,9 @@
     "note": "Fork of <https://github.com/ArtVentureX/sd-webui-agent-scheduler.git>"
   },
   {
+    "url": "https://github.com/dgracey01/sd-script-order"
+  },
+  {
     "url": "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser",
     "status": 1
   },
