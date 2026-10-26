@@ -1,24 +1,15 @@
 [
   {
-    "name": "sd-webui-agent-scheduler",
+    "name": "Agent Scheduler",
     "url": "https://github.com/liutyi/sdnext-scheduler",
-    "description": "An open source Scheduling Agent for Generative AI",
+    "description": "Queue task and task history",
     "tags": [
       "tab"
     ],
     "added": "2023-06-23T00:00:00.000Z",
-    "created": "2023-05-16T04:35:16.000Z",
-    "pushed": "2025-01-13T10:03:39.000Z",
-    "long": "SipherAGI/sd-webui-agent-scheduler",
-    "size": 20897,
-    "stars": 690,
-    "issues": 121,
-    "branch": "main",
-    "updated": "2025-01-13T10:03:39Z",
-    "commits": 168,
     "status": 1,
-    "note": "Fork of <https://github.com/ArtVentureX/sd-webui-agent-scheduler.git>",
-    "oldurl": "https://github.com/ArtVentureX/sd-webui-agent-scheduler"
+    "oldurl": "https://github.com/ArtVentureX/sd-webui-agent-scheduler",
+    "note": "Fork of <https://github.com/ArtVentureX/sd-webui-agent-scheduler.git>"
   },
   {
     "name": "TemporalKit",
@@ -86,8 +77,8 @@
     "stars": 100,
     "issues": 7,
     "branch": "",
-    "updated": "2023-08-22T03:58:54Z",
-    "commits": 75,
+    "updated": "2023-08-22T04:11:51.000Z",
+    "commits": 1,
     "status": 5,
     "note": "Don't use - SDNext has integrated (and better) Kandinsky support",
     "long-description": ""
@@ -188,7 +179,7 @@
     "pushed": "2025-09-17T21:59:05.000Z",
     "long": "d8ahazard/sd_dreambooth_extension",
     "size": 13737,
-    "stars": 1882,
+    "stars": 1881,
     "issues": 1,
     "branch": "main",
     "updated": "2025-09-17T21:59:03Z",
@@ -239,24 +230,13 @@
     "note": ""
   },
   {
-    "name": "DreamArtist-sd-webui-extension",
+    "name": "DreamArtist",
     "url": "https://github.com/7eu7d7/DreamArtist-sd-webui-extension",
-    "description": "DreamArtist for Stable-Diffusion-webui extension",
+    "description": "Towards Controllable One-Shot Text-to-Image Generation via Contr",
     "tags": [
       "training"
     ],
-    "added": "2022-11-15T00:00:00.000Z",
-    "created": "2022-11-12T12:17:15.000Z",
-    "pushed": "2023-11-08T15:39:19.000Z",
-    "long": "IrisRainbowNeko/DreamArtist-sd-webui-extension",
-    "size": 61019,
-    "stars": 684,
-    "issues": 31,
-    "branch": "master",
-    "updated": "2023-04-24T05:53:26Z",
-    "commits": 50,
-    "status": 0,
-    "note": ""
+    "added": "2022-11-15T00:00:00.000Z"
   },
   {
     "name": "Hypernetwork-MonkeyPatch-Extension",
@@ -317,8 +297,8 @@
     "stars": 198,
     "issues": 30,
     "branch": "main",
-    "updated": "2024-07-19T18:22:56Z",
-    "commits": 34,
+    "updated": "2024-07-19T18:22:58.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -359,8 +339,8 @@
     "stars": 76,
     "issues": 5,
     "branch": "master",
-    "updated": "2023-09-03T15:30:00Z",
-    "commits": 20,
+    "updated": "2023-09-03T15:43:04.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -464,8 +444,8 @@
     "stars": 837,
     "issues": 14,
     "branch": "main",
-    "updated": "2026-10-24T16:38:45Z",
-    "commits": 709,
+    "updated": "2026-10-24T16:38:45.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -499,14 +479,14 @@
     ],
     "added": "2022-11-01T00:00:00.000Z",
     "created": "2023-01-14T16:20:37.000Z",
-    "pushed": "2026-10-19T14:21:58.000Z",
+    "pushed": "2026-10-26T17:41:29.000Z",
     "long": "AlUlkesh/stable-diffusion-webui-images-browser",
-    "size": 343,
+    "size": 344,
     "stars": 648,
     "issues": 24,
     "branch": "main",
-    "updated": "2026-10-19T14:21:58Z",
-    "commits": 328,
+    "updated": "2026-10-26T17:41:29Z",
+    "commits": 330,
     "status": 1,
     "note": ""
   },
@@ -523,7 +503,7 @@
     "pushed": "2026-10-24T14:11:16.000Z",
     "long": "zanllp/infinite-image-browsing",
     "size": 51476,
-    "stars": 1363,
+    "stars": 1362,
     "issues": 85,
     "branch": "",
     "updated": "2026-10-24T14:11:15Z",
@@ -569,8 +549,8 @@
     "stars": 83,
     "issues": 3,
     "branch": "master",
-    "updated": "2023-06-26T08:38:08Z",
-    "commits": 20,
+    "updated": "2023-06-26T08:38:08.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -627,7 +607,7 @@
     "pushed": "2025-04-24T22:54:10.000Z",
     "long": "Zyin055/Config-Presets",
     "size": 129,
-    "stars": 314,
+    "stars": 313,
     "issues": 9,
     "branch": "main",
     "updated": "2025-04-24T22:54:10Z",
@@ -853,7 +833,7 @@
     "pushed": "2026-07-01T07:44:36.000Z",
     "long": "DominikDoom/a1111-sd-webui-tagcomplete",
     "size": 15533,
-    "stars": 2811,
+    "stars": 2812,
     "issues": 19,
     "branch": "",
     "updated": "2026-07-01T07:44:35Z",
@@ -1105,8 +1085,8 @@
     "stars": 325,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-04-21T12:08:15Z",
-    "commits": 84,
+    "updated": "2023-04-21T12:08:24.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1185,8 +1165,8 @@
     "stars": 142,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-06-30T03:49:37Z",
-    "commits": 48,
+    "updated": "2023-06-30T03:49:38.000Z",
+    "commits": 1,
     "status": 1,
     "note": ""
   },
@@ -1242,7 +1222,7 @@
     "pushed": "2024-08-18T06:28:04.000Z",
     "long": "thygate/stable-diffusion-webui-depthmap-script",
     "size": 3607,
-    "stars": 1855,
+    "stars": 1856,
     "issues": 159,
     "branch": "main",
     "updated": "2024-08-18T05:59:53Z",
@@ -1266,8 +1246,8 @@
     "stars": 376,
     "issues": 16,
     "branch": "main",
-    "updated": "2023-03-06T14:11:30Z",
-    "commits": 80,
+    "updated": "2023-03-06T14:11:30.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1287,8 +1267,8 @@
     "stars": 360,
     "issues": 31,
     "branch": "main",
-    "updated": "2023-04-13T04:10:08Z",
-    "commits": 36,
+    "updated": "2023-04-13T04:10:08.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1410,8 +1390,8 @@
     "stars": 111,
     "issues": 4,
     "branch": "main",
-    "updated": "2023-03-25T14:37:33Z",
-    "commits": 40,
+    "updated": "2023-12-06T06:18:29.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1430,8 +1410,8 @@
     "stars": 112,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-10-17T06:38:02Z",
-    "commits": 24,
+    "updated": "2023-10-17T07:00:04.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1467,11 +1447,11 @@
     "pushed": "2024-06-30T01:06:10.000Z",
     "long": "Coyote-A/ultimate-upscale-for-automatic1111",
     "size": 33006,
-    "stars": 1765,
+    "stars": 1766,
     "issues": 73,
     "branch": "master",
-    "updated": "2024-03-08T16:55:37Z",
-    "commits": 105,
+    "updated": "2024-06-30T01:06:10.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1567,11 +1547,11 @@
     "pushed": "2024-08-12T13:06:00.000Z",
     "long": "Mikubill/sd-webui-controlnet",
     "size": 18436,
-    "stars": 17822,
+    "stars": 17821,
     "issues": 171,
     "branch": "main",
-    "updated": "2024-08-12T13:06:00.000Z",
-    "commits": 1,
+    "updated": "2024-07-25T20:52:52Z",
+    "commits": 1941,
     "status": 2,
     "note": ""
   },
@@ -1630,8 +1610,8 @@
     "stars": 61,
     "issues": 1,
     "branch": "master",
-    "updated": "2024-05-12T03:15:57Z",
-    "commits": 31,
+    "updated": "2024-05-12T03:16:13.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1651,8 +1631,8 @@
     "stars": 61,
     "issues": 17,
     "branch": "master",
-    "updated": "2022-11-23T14:41:10Z",
-    "commits": 9,
+    "updated": "2023-04-02T20:15:18.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1671,8 +1651,8 @@
     "stars": 40,
     "issues": 3,
     "branch": "main",
-    "updated": "2024-09-09T21:34:50Z",
-    "commits": 14,
+    "updated": "2024-09-09T21:34:50.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1732,8 +1712,8 @@
     "stars": 29,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-05-11T23:08:43Z",
-    "commits": 21,
+    "updated": "2023-05-11T23:08:43.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1752,8 +1732,8 @@
     "stars": 12,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-01-03T03:00:30Z",
-    "commits": 5,
+    "updated": "2023-01-03T03:00:31.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1772,8 +1752,8 @@
     "stars": 202,
     "issues": 23,
     "branch": "master",
-    "updated": "2023-06-05T17:10:01.000Z",
-    "commits": 1,
+    "updated": "2023-06-05T17:10:00Z",
+    "commits": 45,
     "status": 0,
     "note": ""
   },
@@ -1792,8 +1772,8 @@
     "stars": 112,
     "issues": 10,
     "branch": "main",
-    "updated": "2024-06-21T11:48:47Z",
-    "commits": 76,
+    "updated": "2024-06-21T11:48:55.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1832,8 +1812,8 @@
     "stars": 95,
     "issues": 4,
     "branch": "main",
-    "updated": "2026-08-09T20:14:02.000Z",
-    "commits": 1,
+    "updated": "2026-08-09T20:14:02Z",
+    "commits": 20,
     "status": 0,
     "note": ""
   },
@@ -1853,8 +1833,8 @@
     "stars": 307,
     "issues": 1,
     "branch": "main",
-    "updated": "2026-03-31T12:10:14Z",
-    "commits": 1023,
+    "updated": "2026-03-31T12:10:17.000Z",
+    "commits": 1,
     "status": 1,
     "note": ""
   },
@@ -1895,8 +1875,8 @@
     "stars": 62,
     "issues": 11,
     "branch": "master",
-    "updated": "2024-06-06T08:57:44.000Z",
-    "commits": 1,
+    "updated": "2024-06-06T08:40:36Z",
+    "commits": 84,
     "status": 0,
     "note": ""
   },
@@ -1915,8 +1895,8 @@
     "stars": 20,
     "issues": 5,
     "branch": "main",
-    "updated": "2023-06-12T16:00:34Z",
-    "commits": 11,
+    "updated": "2023-06-12T16:00:35.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -1955,8 +1935,8 @@
     "stars": 145,
     "issues": 17,
     "branch": "main",
-    "updated": "2022-12-11T05:52:39Z",
-    "commits": 21,
+    "updated": "2023-01-16T21:31:55.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2017,8 +1997,8 @@
     "stars": 541,
     "issues": 68,
     "branch": "main",
-    "updated": "2023-09-10T01:35:46Z",
-    "commits": 42,
+    "updated": "2024-06-28T06:22:03.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2058,8 +2038,8 @@
     "stars": 108,
     "issues": 2,
     "branch": "master",
-    "updated": "2023-12-30T03:24:42Z",
-    "commits": 65,
+    "updated": "2023-12-30T03:24:55.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2078,8 +2058,8 @@
     "stars": 591,
     "issues": 31,
     "branch": "master",
-    "updated": "2023-05-03T08:59:57Z",
-    "commits": 73,
+    "updated": "2024-02-03T20:35:19.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2095,7 +2075,7 @@
     "pushed": "2023-12-30T09:00:37.000Z",
     "long": "hnmr293/sd-webui-llul",
     "size": 14575,
-    "stars": 794,
+    "stars": 793,
     "issues": 10,
     "branch": "master",
     "updated": "2023-12-30T09:00:13Z",
@@ -2136,11 +2116,11 @@
     "pushed": "2023-10-23T01:48:26.000Z",
     "long": "s9roll7/ebsynth_utility",
     "size": 58233,
-    "stars": 1273,
+    "stars": 1272,
     "issues": 90,
     "branch": "main",
-    "updated": "2023-10-23T01:48:26Z",
-    "commits": 88,
+    "updated": "2023-10-23T01:48:26.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2176,7 +2156,7 @@
     "pushed": "2024-08-07T09:32:25.000Z",
     "long": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
     "size": 1238,
-    "stars": 4991,
+    "stars": 4990,
     "issues": 125,
     "branch": "main",
     "updated": "2024-08-07T09:32:25Z",
@@ -2199,8 +2179,8 @@
     "stars": 247,
     "issues": 8,
     "branch": "master",
-    "updated": "2023-09-12T01:35:02.000Z",
-    "commits": 1,
+    "updated": "2023-09-11T23:58:28Z",
+    "commits": 130,
     "status": 0,
     "note": ""
   },
@@ -2219,8 +2199,8 @@
     "stars": 35,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-03-28T23:58:24Z",
-    "commits": 16,
+    "updated": "2023-03-28T23:58:24.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2236,7 +2216,7 @@
     "pushed": "2023-10-22T18:54:07.000Z",
     "long": "GeorgLegato/sd-webui-panorama-viewer",
     "size": 3581,
-    "stars": 179,
+    "stars": 178,
     "issues": 4,
     "branch": "main",
     "updated": "2023-10-22T18:54:07Z",
@@ -2259,8 +2239,8 @@
     "stars": 49,
     "issues": 1,
     "branch": "main",
-    "updated": "2023-10-02T03:44:08Z",
-    "commits": 11,
+    "updated": "2023-10-02T03:44:08.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2280,8 +2260,8 @@
     "stars": 1366,
     "issues": 40,
     "branch": "master",
-    "updated": "2024-04-14T16:08:42.000Z",
-    "commits": 1,
+    "updated": "2023-12-30T13:04:03Z",
+    "commits": 16,
     "status": 0,
     "note": ""
   },
@@ -2321,8 +2301,8 @@
     "stars": 808,
     "issues": 74,
     "branch": "main",
-    "updated": "2023-04-15T13:21:06Z",
-    "commits": 206,
+    "updated": "2023-06-18T10:58:33.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2341,8 +2321,8 @@
     "stars": 59,
     "issues": 2,
     "branch": "main",
-    "updated": "2025-08-27T03:19:20Z",
-    "commits": 315,
+    "updated": "2025-08-27T03:19:22.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2382,8 +2362,8 @@
     "stars": 1322,
     "issues": 46,
     "branch": "main",
-    "updated": "2024-01-11T07:49:56Z",
-    "commits": 511,
+    "updated": "2024-07-14T07:14:03.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2424,8 +2404,8 @@
     "stars": 360,
     "issues": 5,
     "branch": "main",
-    "updated": "2024-08-13T12:02:30Z",
-    "commits": 309,
+    "updated": "2024-09-06T08:19:10.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -2444,8 +2424,8 @@
     "stars": 1815,
     "issues": 8,
     "branch": "main",
-    "updated": "2026-10-24T16:35:31.000Z",
-    "commits": 1,
+    "updated": "2026-10-24T16:35:30Z",
+    "commits": 371,
     "status": 0,
     "note": ""
   },
@@ -2589,8 +2569,8 @@
     "stars": 884,
     "issues": 3,
     "branch": "main",
-    "updated": "2024-02-16T08:38:29.000Z",
-    "commits": 1,
+    "updated": "2024-02-16T08:38:27Z",
+    "commits": 74,
     "status": 0,
     "note": ""
   },
@@ -2874,8 +2854,8 @@
     "stars": 528,
     "issues": 7,
     "branch": "master",
-    "updated": "2024-05-12T04:20:22.000Z",
-    "commits": 1,
+    "updated": "2024-05-12T04:20:22Z",
+    "commits": 45,
     "status": 0,
     "note": ""
   },
@@ -2896,8 +2876,8 @@
     "stars": 3242,
     "issues": 51,
     "branch": "",
-    "updated": "2026-10-13T15:14:40.000Z",
-    "commits": 1,
+    "updated": "2026-10-13T15:14:40Z",
+    "commits": 700,
     "status": 1,
     "note": "",
     "long-description": "Extension that aims to improve the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface, provides automatic translation, history and collection functions, and supports multiple languages to meet the needs of different users."
@@ -3025,8 +3005,8 @@
     "stars": 123,
     "issues": 5,
     "branch": "main",
-    "updated": "2026-02-14T04:09:44.000Z",
-    "commits": 1,
+    "updated": "2025-11-04T17:07:49Z",
+    "commits": 30,
     "status": 0,
     "note": ""
   },
@@ -3045,8 +3025,8 @@
     "stars": 1089,
     "issues": 37,
     "branch": "master",
-    "updated": "2024-08-06T04:42:44.000Z",
-    "commits": 1,
+    "updated": "2024-08-06T04:42:44Z",
+    "commits": 21,
     "status": 0,
     "note": ""
   },
@@ -3084,7 +3064,7 @@
     "pushed": "2025-02-24T05:58:42.000Z",
     "long": "papuSpartan/stable-diffusion-webui-distributed",
     "size": 463,
-    "stars": 184,
+    "stars": 183,
     "issues": 3,
     "branch": "master",
     "updated": "2024-10-27T02:46:01Z",
@@ -3107,8 +3087,8 @@
     "stars": 48,
     "issues": 0,
     "branch": "master",
-    "updated": "2023-05-24T16:51:42Z",
-    "commits": 5,
+    "updated": "2023-05-24T16:51:44.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -3128,8 +3108,8 @@
     "stars": 10,
     "issues": 1,
     "branch": "master",
-    "updated": "2023-06-21T18:59:36.000Z",
-    "commits": 1,
+    "updated": "2023-05-30T23:23:23Z",
+    "commits": 5,
     "status": 0,
     "note": ""
   },
@@ -3149,8 +3129,8 @@
     "stars": 37,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-10-17T20:15:33Z",
-    "commits": 108,
+    "updated": "2023-10-17T20:16:49.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -3171,8 +3151,8 @@
     "stars": 50,
     "issues": 12,
     "branch": "main",
-    "updated": "2024-04-03T12:43:29Z",
-    "commits": 95,
+    "updated": "2024-04-03T12:45:24.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -3193,8 +3173,8 @@
     "stars": 87,
     "issues": 8,
     "branch": "main",
-    "updated": "2023-12-07T04:14:47.000Z",
-    "commits": 1,
+    "updated": "2023-12-07T04:14:43Z",
+    "commits": 198,
     "status": 0,
     "note": ""
   },
@@ -3332,8 +3312,8 @@
     "stars": 106,
     "issues": 20,
     "branch": "main",
-    "updated": "2023-11-04T17:35:35.000Z",
-    "commits": 1,
+    "updated": "2023-11-04T17:34:31Z",
+    "commits": 30,
     "status": 0,
     "note": ""
   },
@@ -3354,8 +3334,8 @@
     "stars": 210,
     "issues": 5,
     "branch": "master",
-    "updated": "2024-01-20T17:50:59.000Z",
-    "commits": 1,
+    "updated": "2023-06-28T09:45:44Z",
+    "commits": 5,
     "status": 0,
     "note": ""
   },
@@ -3369,10 +3349,10 @@
     ],
     "added": "2023-06-28T00:00:00.000Z",
     "created": "2023-02-25T06:41:18.000Z",
-    "pushed": "2026-10-23T21:40:26.000Z",
+    "pushed": "2026-10-26T18:32:18.000Z",
     "long": "lobehub/sd-webui-lobe-theme",
-    "size": 56557,
-    "stars": 2716,
+    "size": 56556,
+    "stars": 2715,
     "issues": 115,
     "branch": "main",
     "updated": "2026-10-23T09:32:31Z",
@@ -3396,8 +3376,8 @@
     "stars": 29,
     "issues": 6,
     "branch": "main",
-    "updated": "2023-12-15T05:30:50.000Z",
-    "commits": 1,
+    "updated": "2023-06-27T17:17:12Z",
+    "commits": 224,
     "status": 0,
     "note": ""
   },
@@ -3414,7 +3394,7 @@
     "pushed": "2024-02-24T14:29:02.000Z",
     "long": "if-ai/IF_prompt_MKR",
     "size": 13680,
-    "stars": 108,
+    "stars": 107,
     "issues": 3,
     "branch": "main",
     "updated": "2024-02-24T14:29:02Z",
@@ -3477,8 +3457,8 @@
     "stars": 43,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-08-31T20:07:24.000Z",
-    "commits": 1,
+    "updated": "2023-08-31T20:07:19Z",
+    "commits": 5,
     "status": 0,
     "note": ""
   },
@@ -3496,11 +3476,11 @@
     "pushed": "2023-07-20T01:54:04.000Z",
     "long": "antfu/sd-webui-qrcode-toolkit",
     "size": 7,
-    "stars": 673,
+    "stars": 672,
     "issues": 3,
     "branch": "main",
-    "updated": "2023-07-20T01:53:20Z",
-    "commits": 6,
+    "updated": "2023-07-20T01:54:04.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -3517,11 +3497,11 @@
     "pushed": "2024-06-26T12:51:53.000Z",
     "long": "OpenTalker/SadTalker",
     "size": 94371,
-    "stars": 14159,
+    "stars": 14163,
     "issues": 670,
     "branch": "",
-    "updated": "2024-06-26T12:51:53.000Z",
-    "commits": 1,
+    "updated": "2023-10-10T16:10:21Z",
+    "commits": 289,
     "status": 5,
     "note": "",
     "long-description": ""
@@ -3538,7 +3518,7 @@
     "pushed": "2024-04-22T18:44:01.000Z",
     "long": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "size": 20480,
-    "stars": 7304,
+    "stars": 7303,
     "issues": 230,
     "branch": "master",
     "updated": "2023-12-09T13:58:35Z",
@@ -3580,7 +3560,7 @@
     "pushed": "2024-05-14T05:35:22.000Z",
     "long": "picobyte/stable-diffusion-webui-wd14-tagger",
     "size": 1386,
-    "stars": 687,
+    "stars": 686,
     "issues": 45,
     "branch": "master",
     "updated": "2023-11-04T11:58:30Z",
@@ -3624,8 +3604,8 @@
     "stars": 47,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-10-07T01:39:15.000Z",
-    "commits": 1,
+    "updated": "2023-09-26T01:52:56Z",
+    "commits": 38,
     "status": 0,
     "note": ""
   },
@@ -3647,8 +3627,8 @@
     "stars": 535,
     "issues": 34,
     "branch": "main",
-    "updated": "2024-02-01T12:17:42Z",
-    "commits": 174,
+    "updated": "2024-02-01T12:17:43.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -3708,8 +3688,8 @@
     "stars": 18,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-09-16T21:18:36.000Z",
-    "commits": 1,
+    "updated": "2024-09-16T21:18:36Z",
+    "commits": 23,
     "status": 0,
     "note": ""
   },
@@ -3768,8 +3748,8 @@
     "stars": 10,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-06-28T03:49:43.000Z",
-    "commits": 1,
+    "updated": "2024-06-28T03:49:36Z",
+    "commits": 21,
     "status": 0,
     "note": ""
   },
@@ -3809,8 +3789,8 @@
     "stars": 24,
     "issues": 2,
     "branch": "main",
-    "updated": "2023-10-11T03:41:18.000Z",
-    "commits": 1,
+    "updated": "2023-08-21T07:30:47Z",
+    "commits": 33,
     "status": 0,
     "note": ""
   },
@@ -3976,8 +3956,8 @@
     "stars": 693,
     "issues": 26,
     "branch": "main",
-    "updated": "2024-03-20T06:56:21Z",
-    "commits": 97,
+    "updated": "2024-07-19T13:16:30.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -4324,8 +4304,8 @@
     "stars": 10,
     "issues": 5,
     "branch": "master",
-    "updated": "2024-11-18T18:10:16Z",
-    "commits": 14,
+    "updated": "2024-11-18T18:10:16.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -4350,26 +4330,15 @@
     "note": ""
   },
   {
-    "name": "Stable-Diffusion-Webui-Civitai-Helper",
+    "name": "Stable Diffusion Webui Civitai Helper",
     "url": "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper",
-    "description": "Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.",
+    "description": "Download or populate models with metadata and preview image from",
     "tags": [
       "tab",
       "UI related",
       "online"
     ],
-    "added": "2023-05-16T00:00:00.000Z",
-    "created": "2023-07-28T19:44:31.000Z",
-    "pushed": "2026-01-13T00:01:32.000Z",
-    "long": "zixaphir/Stable-Diffusion-Webui-Civitai-Helper",
-    "size": 5081,
-    "stars": 254,
-    "issues": 50,
-    "branch": "master",
-    "updated": "2026-01-13T00:01:32Z",
-    "commits": 554,
-    "status": 0,
-    "note": ""
+    "added": "2023-05-16T00:00:00.000Z"
   },
   {
     "name": "sd-webui-sc-loader",
@@ -4391,8 +4360,8 @@
     "stars": 41,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-03-21T05:03:40Z",
-    "commits": 47,
+    "updated": "2024-05-03T21:25:35.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -4412,8 +4381,8 @@
     "stars": 48,
     "issues": 13,
     "branch": "main",
-    "updated": "2026-05-24T10:32:30Z",
-    "commits": 222,
+    "updated": "2026-05-24T10:32:30.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -4439,24 +4408,13 @@
     "note": ""
   },
   {
-    "name": "sd-fast-pnginfo",
+    "name": "Fast PNG Info",
     "url": "https://github.com/NoCrypt/sd-fast-pnginfo",
-    "description": "Javascript version of webui PNG Info tab ",
+    "description": "Allows you to view PNG Info of an image without upload to webui'",
     "tags": [
       "tab"
     ],
-    "added": "2023-09-17T00:00:00.000Z",
-    "created": "2023-03-09T13:23:58.000Z",
-    "pushed": "2024-12-07T17:02:48.000Z",
-    "long": "NoCrypt/sd-fast-pnginfo",
-    "size": 28482,
-    "stars": 44,
-    "issues": 0,
-    "branch": "master",
-    "updated": "2024-12-07T17:02:08Z",
-    "commits": 31,
-    "status": 0,
-    "note": ""
+    "added": "2023-09-17T00:00:00.000Z"
   },
   {
     "name": "sd-webui-mov2mov",
@@ -4472,7 +4430,7 @@
     "pushed": "2025-01-21T08:58:36.000Z",
     "long": "Scholar01/sd-webui-mov2mov",
     "size": 17446,
-    "stars": 2157,
+    "stars": 2156,
     "issues": 38,
     "branch": "master",
     "updated": "2025-01-21T08:58:29Z",
@@ -4491,18 +4449,10 @@
       "manipulations"
     ],
     "added": "2023-10-01T00:00:00.000Z",
-    "created": "2023-08-28T10:46:27.000Z",
-    "pushed": "2024-07-10T08:40:20.000Z",
-    "long": "aigc-apps/sd-webui-EasyPhoto",
-    "size": 54726,
-    "stars": 5144,
-    "issues": 86,
-    "branch": "",
-    "updated": "2024-07-10T08:40:20Z",
-    "commits": 191,
-    "status": 5,
+    "long-description": "",
     "note": "Lots of errors",
-    "long-description": ""
+    "branch": "",
+    "status": 5
   },
   {
     "name": "sd-webui-rich-text",
@@ -4536,18 +4486,7 @@
     "tags": [
       "editing"
     ],
-    "added": "2023-09-30T00:00:00.000Z",
-    "created": "2023-09-30T12:09:09.000Z",
-    "pushed": "2023-10-01T15:32:19.000Z",
-    "long": "Scholar01/sd-webui-bg-mask",
-    "size": 5,
-    "stars": 39,
-    "issues": 2,
-    "branch": "master",
-    "updated": "2023-10-01T15:32:10Z",
-    "commits": 4,
-    "status": 0,
-    "note": ""
+    "added": "2023-09-30T00:00:00.000Z"
   },
   {
     "name": "sd-webui-ranbooru",
@@ -4573,47 +4512,25 @@
     "note": ""
   },
   {
-    "name": "sd-webui-civbrowser",
+    "name": "CivBrowser",
     "url": "https://github.com/SignalFlagZ/sd-webui-civbrowser",
-    "description": "Extension to search and download Civitai models in multiple tabs. Save model information. Send sample infotext to txt2img.",
+    "description": "Extension to search and download Civitai models in multiple tabs",
     "tags": [
       "script",
       "tab",
       "online"
     ],
-    "added": "2023-10-02T00:00:00.000Z",
-    "created": "2023-02-08T13:37:20.000Z",
-    "pushed": "2026-10-23T05:35:27.000Z",
-    "long": "SignalFlagZ/sd-webui-civbrowser",
-    "size": 710,
-    "stars": 117,
-    "issues": 2,
-    "branch": "mod",
-    "updated": "2026-10-23T05:27:50Z",
-    "commits": 836,
-    "status": 0,
-    "note": ""
+    "added": "2023-10-02T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-nsfw-filter",
+    "name": "NSFW Blurrer-NSFWJS",
     "url": "https://github.com/aria1th/sd-webui-nsfw-filter",
-    "description": "immediate nsfw protection for your colab, based on nsfwjs(https://github.com/infinitered/nsfwjs)",
+    "description": "Blurs NSFW images using NSFWJS, based on onnxmodel ",
     "tags": [
       "script",
       "manipulations"
     ],
-    "added": "2023-10-17T00:00:00.000Z",
-    "created": "2023-10-05T14:05:49.000Z",
-    "pushed": "2023-10-26T03:49:21.000Z",
-    "long": "aria1th/sd-webui-nsfw-filter",
-    "size": 14,
-    "stars": 21,
-    "issues": 1,
-    "branch": "main",
-    "updated": "2023-10-26T03:49:12Z",
-    "commits": 17,
-    "status": 0,
-    "note": ""
+    "added": "2023-10-17T00:00:00.000Z"
   },
   {
     "name": "NegPiP - Negative Prompt-in-Prompt",
@@ -4623,58 +4540,28 @@
       "manipulations"
     ],
     "added": "2023-10-17T00:00:00.000Z",
-    "created": "2023-07-26T15:58:03.000Z",
-    "pushed": "2026-10-24T16:21:45.000Z",
-    "long": "hako-mikan/sd-webui-negpip",
-    "size": 3081,
-    "stars": 263,
-    "issues": 2,
-    "branch": "",
-    "updated": "2026-10-24T16:18:27Z",
-    "commits": 109,
-    "status": 1,
+    "long-description": "enhances prompts and cross-attention, Permits negative prompts in prompts and positive prompts in negative.",
     "note": "Very powerful, Aptro's Thumbs up!",
-    "long-description": "enhances prompts and cross-attention, Permits negative prompts in prompts and positive prompts in negative."
+    "branch": "",
+    "status": 1
   },
   {
-    "name": "sd-webui-cd-tuner",
+    "name": "CD(Color/Detail) Tuner",
     "url": "https://github.com/hako-mikan/sd-webui-cd-tuner",
-    "description": "Color/Detail control for Stable Diffusion web-ui",
+    "description": "Adjust color tone, brightness, and level of detailing using a di",
     "tags": [
       "manipulations"
     ],
-    "added": "2023-10-17T00:00:00.000Z",
-    "created": "2023-07-08T17:05:49.000Z",
-    "pushed": "2026-10-24T16:22:49.000Z",
-    "long": "hako-mikan/sd-webui-cd-tuner",
-    "size": 31553,
-    "stars": 226,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2026-10-24T16:22:49Z",
-    "commits": 71,
-    "status": 0,
-    "note": ""
+    "added": "2023-10-17T00:00:00.000Z"
   },
   {
-    "name": "stable-diffusion-webui-devdark",
+    "name": "DevDark theme",
     "url": "https://github.com/devdarktheme/stable-diffusion-webui-devdark",
-    "description": "dedvdark theme for stable diffusion webui by AUTOMATIC1111",
+    "description": "Custom css based on Catppuccin, enable / disabled via extensions",
     "tags": [
       "UI related"
     ],
-    "added": "2023-10-17T00:00:00.000Z",
-    "created": "2023-05-29T18:18:02.000Z",
-    "pushed": "2026-05-01T16:49:20.000Z",
-    "long": "devdarktheme/stable-diffusion-webui-devdark",
-    "size": 11,
-    "stars": 22,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2026-05-01T16:49:14Z",
-    "commits": 10,
-    "status": 0,
-    "note": ""
+    "added": "2023-10-17T00:00:00.000Z"
   },
   {
     "name": "webui-model-uploader",
@@ -4739,25 +4626,14 @@
     "note": ""
   },
   {
-    "name": "sd-webui-nudenet-nsfw-censor",
+    "name": "NudeNet NSFW Censor",
     "url": "https://github.com/w-e-w/sd-webui-nudenet-nsfw-censor",
-    "description": "NSFW regions censoring using NudeNet for Stable Diffusion Web UI ",
+    "description": "Customizable detection and censoring of NSFW portions within an ",
     "tags": [
       "editing",
       "extras"
     ],
-    "added": "2023-10-22T00:00:00.000Z",
-    "created": "2023-10-16T16:44:07.000Z",
-    "pushed": "2025-06-11T18:59:45.000Z",
-    "long": "w-e-w/sd-webui-nudenet-nsfw-censor",
-    "size": 10364,
-    "stars": 139,
-    "issues": 6,
-    "branch": "main",
-    "updated": "2025-06-11T18:59:45.000Z",
-    "commits": 1,
-    "status": 0,
-    "note": ""
+    "added": "2023-10-22T00:00:00.000Z"
   },
   {
     "name": "LCM for SD WebUI",
@@ -4767,39 +4643,20 @@
       "tab"
     ],
     "added": "2023-10-22T00:00:00.000Z",
-    "created": "2023-10-22T11:53:48.000Z",
-    "pushed": "2023-11-13T06:28:41.000Z",
-    "long": "0xbitches/sd-webui-lcm",
-    "size": 3523,
-    "stars": 606,
-    "issues": 38,
-    "branch": "",
-    "updated": "2023-10-26T10:33:14Z",
-    "commits": 14,
-    "status": 5,
+    "long-description": "",
     "note": "LCM is built-in, Do not use.",
-    "long-description": ""
+    "branch": "",
+    "status": 5
   },
   {
-    "name": "sd-webui-cads",
+    "name": "CADS",
     "url": "https://github.com/v0xie/sd-webui-cads",
-    "description": "Greatly increase the diversity of your generated images in Automatic1111 WebUI through Condition-Annealed Sampling.",
+    "description": "CADS greatly increases diversity of generated images by adding s",
     "tags": [
       "dropdown",
       "manipulations"
     ],
-    "added": "2023-11-01T00:00:00.000Z",
-    "created": "2023-10-31T22:36:03.000Z",
-    "pushed": "2024-04-22T04:29:12.000Z",
-    "long": "v0xie/sd-webui-cads",
-    "size": 15896,
-    "stars": 106,
-    "issues": 13,
-    "branch": "main",
-    "updated": "2024-04-22T04:29:12Z",
-    "commits": 42,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-01T00:00:00.000Z"
   },
   {
     "name": "sd-webui-facefusion",
@@ -4844,26 +4701,15 @@
     "note": ""
   },
   {
-    "name": "sd-webui-inpaint-difference",
+    "name": "Inpaint difference",
     "url": "https://github.com/John-WL/sd-webui-inpaint-difference",
-    "description": "A1111 extension to find the inpaint mask to use based on the difference between two images.",
+    "description": "Use the difference between 2 images to generate an inpaint mask.",
     "tags": [
       "tab",
       "UI related",
       "manipulations"
     ],
-    "added": "2023-11-03T00:00:00.000Z",
-    "created": "2023-10-30T16:17:34.000Z",
-    "pushed": "2024-08-12T03:53:33.000Z",
-    "long": "PladsElsker/sd-webui-inpaint-difference",
-    "size": 120,
-    "stars": 56,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2024-08-12T03:53:32Z",
-    "commits": 116,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-03T00:00:00.000Z"
   },
   {
     "name": "sd-webui-temporal",
@@ -4897,23 +4743,15 @@
       "online"
     ],
     "added": "2023-11-05T00:00:00.000Z",
-    "created": "2023-08-10T10:46:54.000Z",
-    "pushed": "2025-06-06T09:32:00.000Z",
-    "long": "modelscope/facechain",
-    "size": 101027,
-    "stars": 9506,
-    "issues": 22,
-    "branch": "",
-    "updated": "2025-06-06T09:32:00Z",
-    "commits": 424,
-    "status": 5,
+    "long-description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin",
     "note": "not working but under investigation",
-    "long-description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin"
+    "branch": "",
+    "status": 5
   },
   {
     "name": "Stylez",
     "url": "https://github.com/javsezlol1/Stylez",
-    "description": "An improved styles Libary with 600+ built in styles. Prompt gene",
+    "description": "An improved styles Libary with 600+ built in styles. Prompt generation is included. Style creating/Editing. Auto CSV conversion to work with Stylez. CivitAI image browser",
     "tags": [
       "script",
       "tab",
@@ -4922,29 +4760,29 @@
       "online",
       "query"
     ],
-    "added": "2023-11-06T00:00:00.000Z"
+    "added": "2023-11-06T00:00:00.000Z",
+    "created": "2023-10-03T05:46:11.000Z",
+    "pushed": "2024-02-12T16:20:59.000Z",
+    "long": "javsezlol1/Stylez",
+    "size": 11440,
+    "stars": 123,
+    "issues": 5,
+    "branch": "main",
+    "updated": "2024-02-12T16:20:52Z",
+    "commits": 75,
+    "status": 0,
+    "note": ""
   },
   {
     "name": "sd-webui-panorama-tools",
     "url": "https://github.com/Flyguygx/sd-webui-panorama-tools",
-    "description": "Panorama editing tools for Automatic1111's Stable Diffusion WebUI",
+    "description": "Various tools for creating/editing/viewing 360 degree panoramic ",
     "tags": [
       "tab",
       "editing",
       "manipulations"
     ],
-    "added": "2023-11-06T00:00:00.000Z",
-    "created": "2023-11-06T01:51:44.000Z",
-    "pushed": "2025-01-23T00:35:55.000Z",
-    "long": "Flyguygx/sd-webui-panorama-tools",
-    "size": 19833,
-    "stars": 41,
-    "issues": 1,
-    "branch": "master",
-    "updated": "2025-01-23T00:35:55Z",
-    "commits": 56,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-06T00:00:00.000Z"
   },
   {
     "name": "sd-webui-extended-style-saver",
@@ -4993,31 +4831,20 @@
     "stars": 10,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-04-28T19:00:00.000Z",
-    "commits": 1,
+    "updated": "2023-11-13T15:24:49Z",
+    "commits": 10,
     "status": 0,
     "note": ""
   },
   {
-    "name": "a-person-mask-generator",
+    "name": "A Person Mask Generator",
     "url": "https://github.com/djbielejeski/a-person-mask-generator",
-    "description": "Extension for Automatic1111 and ComfyUI to automatically create masks for Background/Hair/Body/Face/Clothes in Img2Img",
+    "description": "Extension for Automatic1111 to automatically create masks for Ba",
     "tags": [
       "script",
       "editing"
     ],
-    "added": "2023-11-18T00:00:00.000Z",
-    "created": "2023-11-16T22:51:53.000Z",
-    "pushed": "2026-02-10T19:46:03.000Z",
-    "long": "djbielejeski/a-person-mask-generator",
-    "size": 4150,
-    "stars": 407,
-    "issues": 10,
-    "branch": "main",
-    "updated": "2026-02-10T19:46:03Z",
-    "commits": 66,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-18T00:00:00.000Z"
   },
   {
     "name": "extension-style-vars",
@@ -5040,24 +4867,13 @@
     "note": ""
   },
   {
-    "name": "sd-webui-api-payload-display",
+    "name": "SD-WebUI API Payload Display",
     "url": "https://github.com/huchenlei/sd-webui-api-payload-display",
-    "description": "Display the corresponding API payload after each generation on WebUI",
+    "description": "Display the corresponding API payload after each generation on W",
     "tags": [
       "script"
     ],
-    "added": "2023-11-23T00:00:00.000Z",
-    "created": "2023-06-18T19:48:32.000Z",
-    "pushed": "2023-11-23T18:15:09.000Z",
-    "long": "huchenlei/sd-webui-api-payload-display",
-    "size": 20,
-    "stars": 201,
-    "issues": 11,
-    "branch": "main",
-    "updated": "2023-11-23T18:15:06Z",
-    "commits": 15,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-23T00:00:00.000Z"
   },
   {
     "name": "uddetailer",
@@ -5072,7 +4888,7 @@
     "pushed": "2025-01-31T03:45:16.000Z",
     "long": "wkpark/uddetailer",
     "size": 1918,
-    "stars": 83,
+    "stars": 82,
     "issues": 20,
     "branch": "master",
     "updated": "2025-01-30T05:49:43Z",
@@ -5081,24 +4897,13 @@
     "note": ""
   },
   {
-    "name": "sd-webui-Lora-queue-helper",
+    "name": "Lora Queue Helper",
     "url": "https://github.com/Yinzo/sd-webui-Lora-queue-helper",
-    "description": "A Script that help you generate a batch of Lora, using same prompt & settings.  Helpful for compare Lora, Or just switching Lora easily without switch tab.",
+    "description": "A Script that help you generate a batch of Lora, using same prom",
     "tags": [
       "script"
     ],
-    "added": "2023-11-26T00:00:00.000Z",
-    "created": "2023-11-25T13:17:02.000Z",
-    "pushed": "2026-01-18T16:41:03.000Z",
-    "long": "Yinzo/sd-webui-Lora-queue-helper",
-    "size": 1413,
-    "stars": 35,
-    "issues": 4,
-    "branch": "main",
-    "updated": "2026-01-18T16:39:41Z",
-    "commits": 47,
-    "status": 0,
-    "note": ""
+    "added": "2023-11-26T00:00:00.000Z"
   },
   {
     "name": "Kohya Hires Fix",
@@ -5108,18 +4913,10 @@
       "manipulations"
     ],
     "added": "2023-11-26T00:00:00.000Z",
-    "created": "2023-11-15T19:52:20.000Z",
-    "pushed": "2023-12-23T17:35:10.000Z",
-    "long": "wcde/sd-webui-kohya-hiresfix",
-    "size": 11,
-    "stars": 222,
-    "issues": 14,
-    "branch": "",
-    "updated": "2023-12-23T17:35:10Z",
-    "commits": 21,
-    "status": 2,
+    "long-description": "",
     "note": "extension from https://gist.github.com/kohya-ss/3f774da220df102548093a7abc8538ed",
-    "long-description": ""
+    "branch": "",
+    "status": 2
   },
   {
     "name": "test_my_prompt",
@@ -5165,46 +4962,24 @@
   {
     "name": "Kohaku-NAI",
     "url": "https://github.com/KohakuBlueleaf/Kohaku-NAI",
-    "description": "A Novel-AI client with more utilities built in it",
+    "description": "A NovelAI client built for SD-WebUI.",
     "tags": [
       "script",
       "online"
     ],
-    "added": "2023-12-02T00:00:00.000Z",
-    "created": "2023-11-22T04:18:35.000Z",
-    "pushed": "2026-08-21T13:02:32.000Z",
-    "long": "KohakuBlueleaf/Kohaku-NAI",
-    "size": 173,
-    "stars": 93,
-    "issues": 14,
-    "branch": "main",
-    "updated": "2026-08-21T13:02:21Z",
-    "commits": 188,
-    "status": 0,
-    "note": ""
+    "added": "2023-12-02T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-replacer",
+    "name": "Replacer - fast inpaint",
     "url": "https://github.com/light-and-ray/sd-webui-replacer",
-    "description": "A tab for sd-webui for replacing objects in pictures or videos using detection prompt",
+    "description": "Adds a tab for fast inpaint image by detection prompt. Requires ",
     "tags": [
       "tab",
       "editing",
       "animation",
       "script"
     ],
-    "added": "2023-12-06T00:00:00.000Z",
-    "created": "2023-11-06T10:09:24.000Z",
-    "pushed": "2026-01-08T09:44:49.000Z",
-    "long": "light-and-ray/sd-webui-replacer",
-    "size": 6880,
-    "stars": 242,
-    "issues": 12,
-    "branch": "master",
-    "updated": "2026-01-08T09:44:45Z",
-    "commits": 428,
-    "status": 0,
-    "note": ""
+    "added": "2023-12-06T00:00:00.000Z"
   },
   {
     "name": "sd-webui-color-correction-extras",
@@ -5227,26 +5002,15 @@
     "note": ""
   },
   {
-    "name": "sd-webui-state-manager",
+    "name": "State Manager",
     "url": "https://github.com/SenshiSentou/sd-webui-state-manager",
-    "description": "A state manager to quickly save and return to previous configs in A1111",
+    "description": "A state manager to quickly save and return to previous configs i",
     "tags": [
       "script",
       "tab",
       "UI related"
     ],
-    "added": "2023-12-15T00:00:00.000Z",
-    "created": "2023-12-14T03:17:33.000Z",
-    "pushed": "2024-04-14T11:35:28.000Z",
-    "long": "SenshiSentou/sd-webui-state-manager",
-    "size": 5863,
-    "stars": 68,
-    "issues": 20,
-    "branch": "main",
-    "updated": "2024-04-14T11:35:28.000Z",
-    "commits": 1,
-    "status": 0,
-    "note": ""
+    "added": "2023-12-15T00:00:00.000Z"
   },
   {
     "name": "sd-webui-agentattention",
@@ -5285,8 +5049,8 @@
     "stars": 37,
     "issues": 1,
     "branch": "main",
-    "updated": "2025-04-01T05:09:49.000Z",
-    "commits": 1,
+    "updated": "2025-04-01T05:09:49Z",
+    "commits": 14,
     "status": 0,
     "note": ""
   },
@@ -5349,8 +5113,8 @@
     "stars": 84,
     "issues": 4,
     "branch": "main",
-    "updated": "2026-09-25T15:58:41.000Z",
-    "commits": 1,
+    "updated": "2026-09-25T15:58:40Z",
+    "commits": 173,
     "status": 0,
     "note": ""
   },
@@ -5376,48 +5140,26 @@
     "note": ""
   },
   {
-    "name": "sd-webui-lama-cleaner-masked-content",
+    "name": "Lama cleaner as masked content",
     "url": "https://github.com/light-and-ray/sd-webui-lama-cleaner-masked-content",
-    "description": "Use lama cleaner before inpainting inside stable-diffusion-webui",
+    "description": "Adds new \"Masked content\" value in inpaint tab. It can be useful",
     "tags": [
       "script",
       "editing",
       "manipulations",
       "extras"
     ],
-    "added": "2024-01-14T00:00:00.000Z",
-    "created": "2024-01-05T00:35:23.000Z",
-    "pushed": "2024-08-07T05:30:55.000Z",
-    "long": "light-and-ray/sd-webui-lama-cleaner-masked-content",
-    "size": 3066,
-    "stars": 102,
-    "issues": 1,
-    "branch": "master",
-    "updated": "2024-08-07T05:30:43Z",
-    "commits": 66,
-    "status": 0,
-    "note": ""
+    "added": "2024-01-14T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-latent-regional-helper",
+    "name": "Latent Regional Helper",
     "url": "https://github.com/safubuki/sd-webui-latent-regional-helper",
-    "description": "Useful extension for stable diffusion web UI.",
+    "description": "Simplify the region division settings for Latent Couple and Regi",
     "tags": [
       "script",
       "tab"
     ],
-    "added": "2024-01-14T00:00:00.000Z",
-    "created": "2023-12-31T09:51:50.000Z",
-    "pushed": "2024-02-17T14:53:29.000Z",
-    "long": "safubuki/sd-webui-latent-regional-helper",
-    "size": 1188,
-    "stars": 23,
-    "issues": 3,
-    "branch": "main",
-    "updated": "2024-02-13T14:44:42Z",
-    "commits": 35,
-    "status": 0,
-    "note": ""
+    "added": "2024-01-14T00:00:00.000Z"
   },
   {
     "name": "sd-webui-thumbnailizer",
@@ -5436,8 +5178,8 @@
     "stars": 24,
     "issues": 14,
     "branch": "main",
-    "updated": "2024-07-31T22:00:10.000Z",
-    "commits": 1,
+    "updated": "2024-07-31T22:00:02Z",
+    "commits": 32,
     "status": 0,
     "note": ""
   },
@@ -5469,8 +5211,8 @@
     "stars": 20,
     "issues": 2,
     "branch": "master",
-    "updated": "2024-09-22T22:00:29.000Z",
-    "commits": 1,
+    "updated": "2024-09-22T22:00:25Z",
+    "commits": 20,
     "status": 0,
     "note": ""
   },
@@ -5534,8 +5276,8 @@
     "stars": 17,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-06-12T12:22:18Z",
-    "commits": 20,
+    "updated": "2024-06-12T12:22:30.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -5577,31 +5319,20 @@
     "stars": 52,
     "issues": 1,
     "branch": "main",
-    "updated": "2024-08-29T02:12:34.000Z",
-    "commits": 1,
+    "updated": "2024-08-29T02:12:34Z",
+    "commits": 50,
     "status": 0,
     "note": ""
   },
   {
     "name": "sd-webui-creaprompt",
     "url": "https://github.com/tritant/sd-webui-creaprompt",
-    "description": "generate prompt randomly",
+    "description": "This extension for A1111 generates wonderful prompts randomly",
     "tags": [
       "UI related",
       "prompting"
     ],
-    "added": "2024-02-09T00:00:00.000Z",
-    "created": "2024-02-07T22:32:21.000Z",
-    "pushed": "2024-11-19T15:30:26.000Z",
-    "long": "tritant/sd-webui-creaprompt",
-    "size": 667,
-    "stars": 73,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2024-11-19T15:30:26Z",
-    "commits": 229,
-    "status": 0,
-    "note": ""
+    "added": "2024-02-09T00:00:00.000Z"
   },
   {
     "name": "sd-webui-workflow",
@@ -5618,8 +5349,8 @@
     "stars": 18,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-02-24T10:46:33Z",
-    "commits": 18,
+    "updated": "2024-02-24T10:46:00.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -5638,8 +5369,8 @@
     "stars": 6,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-02-11T14:26:05.000Z",
-    "commits": 1,
+    "updated": "2024-02-11T14:26:03Z",
+    "commits": 6,
     "status": 0,
     "note": ""
   },
@@ -5658,32 +5389,21 @@
     "stars": 8,
     "issues": 0,
     "branch": "main",
-    "updated": "2023-09-14T23:14:51.000Z",
-    "commits": 1,
+    "updated": "2023-09-14T23:14:48Z",
+    "commits": 4,
     "status": 0,
     "note": ""
   },
   {
     "name": "SimpleTaggerEditor",
     "url": "https://github.com/davidkingzyb/SimpleTaggerEditor",
-    "description": "A Stable Diffusion WebUI extension edit tagger from auto generated caption one by one",
+    "description": "edit tagger from auto generated caption one by one",
     "tags": [
       "tab",
       "editing",
       "extras"
     ],
-    "added": "2024-03-06T00:00:00.000Z",
-    "created": "2024-02-25T12:12:50.000Z",
-    "pushed": "2026-09-25T17:28:24.000Z",
-    "long": "davidkingzyb/SimpleTaggerEditor",
-    "size": 27,
-    "stars": 8,
-    "issues": 2,
-    "branch": "master",
-    "updated": "2026-09-25T17:28:24.000Z",
-    "commits": 1,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-06T00:00:00.000Z"
   },
   {
     "name": "sd-webui-resharpen",
@@ -5746,44 +5466,22 @@
     "note": ""
   },
   {
-    "name": "sd-webui-tabs-extension",
+    "name": "SD Webui Tabs Extension",
     "url": "https://github.com/Haoming02/sd-webui-tabs-extension",
-    "description": "An Extension for Automatic1111 Webui that organizes Extensions into Tabs",
+    "description": "Reorganize extension accordion layout with tabs.",
     "tags": [
       "UI related"
     ],
-    "added": "2024-03-08T00:00:00.000Z",
-    "created": "2023-11-01T04:03:47.000Z",
-    "pushed": "2025-03-10T07:24:41.000Z",
-    "long": "Haoming02/sd-webui-tabs-extension",
-    "size": 284,
-    "stars": 103,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2025-03-10T07:24:39Z",
-    "commits": 58,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-08T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-mosaic-outpaint",
+    "name": "Mosaic Outpaint",
     "url": "https://github.com/Haoming02/sd-webui-mosaic-outpaint",
-    "description": "An Extension for Automatic1111 Webui that trivializes outpainting",
+    "description": "Outpainting without ControlNet",
     "tags": [
       "tab"
     ],
-    "added": "2024-03-08T00:00:00.000Z",
-    "created": "2024-02-01T04:21:48.000Z",
-    "pushed": "2026-02-10T10:05:30.000Z",
-    "long": "Haoming02/sd-webui-mosaic-outpaint",
-    "size": 442,
-    "stars": 119,
-    "issues": 1,
-    "branch": "master",
-    "updated": "2026-02-10T10:05:29Z",
-    "commits": 11,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-08T00:00:00.000Z"
   },
   {
     "name": "sd-webui-boomer",
@@ -5820,30 +5518,19 @@
     "stars": 74,
     "issues": 0,
     "branch": "main",
-    "updated": "2025-11-17T07:47:24Z",
-    "commits": 25,
+    "updated": "2025-11-17T07:48:21.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
   {
-    "name": "sd-webui-moar-generate",
+    "name": "Moar Generate Button",
     "url": "https://github.com/Haoming02/sd-webui-moar-generate",
-    "description": "An Extension for Automatic1111 Webui that adds a 2nd Generate button",
+    "description": "Adds a 2nd Generate button",
     "tags": [
       "UI related"
     ],
-    "added": "2024-03-08T00:00:00.000Z",
-    "created": "2023-09-01T10:11:45.000Z",
-    "pushed": "2025-07-23T07:17:30.000Z",
-    "long": "Haoming02/sd-webui-moar-generate",
-    "size": 15,
-    "stars": 30,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2025-07-23T07:17:28Z",
-    "commits": 15,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-08T00:00:00.000Z"
   },
   {
     "name": "sd-webui-old-photo-restoration",
@@ -5860,30 +5547,19 @@
     "stars": 151,
     "issues": 0,
     "branch": "main",
-    "updated": "2025-07-03T07:40:12.000Z",
-    "commits": 1,
+    "updated": "2025-06-30T04:28:39Z",
+    "commits": 33,
     "status": 0,
     "note": ""
   },
   {
-    "name": "sd-webui-mobile-friendly",
+    "name": "Mobile friendly UI tweaks",
     "url": "https://github.com/Haoming02/sd-webui-mobile-friendly",
-    "description": "An Extension for Automatic1111 Webui that makes the interface easier to use on mobile (portrait)",
+    "description": "UI tweaks to makes the web interface easier to use on mobile (po",
     "tags": [
       "UI related"
     ],
-    "added": "2024-03-08T00:00:00.000Z",
-    "created": "2023-09-04T06:39:05.000Z",
-    "pushed": "2024-04-16T20:33:12.000Z",
-    "long": "Haoming02/sd-webui-mobile-friendly",
-    "size": 2,
-    "stars": 16,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2024-04-16T20:33:12.000Z",
-    "commits": 1,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-08T00:00:00.000Z"
   },
   {
     "name": "Easy Tag Insert",
@@ -5895,45 +5571,23 @@
     "added": "2024-03-09T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-token-downsampling",
+    "name": "Token Downsampling",
     "url": "https://github.com/feffy380/sd-webui-token-downsampling",
-    "description": "Token Downsampling optimization for stable-diffusion-webui",
+    "description": "ToDo implements an improved version of token merging (ToMe) to s",
     "tags": [
       "script",
       "manipulations"
     ],
-    "added": "2024-03-10T00:00:00.000Z",
-    "created": "2024-03-08T21:43:59.000Z",
-    "pushed": "2024-04-22T05:38:20.000Z",
-    "long": "feffy380/sd-webui-token-downsampling",
-    "size": 13,
-    "stars": 25,
-    "issues": 3,
-    "branch": "main",
-    "updated": "2024-04-22T05:38:20.000Z",
-    "commits": 1,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-10T00:00:00.000Z"
   },
   {
-    "name": "sd-webui-ar_xhox",
+    "name": "Aspect Ratio Resolutions selector-xhox",
     "url": "https://github.com/xhoxye/sd-webui-ar_xhox",
-    "description": "Select a preset resolution in sd webUI",
+    "description": "Extension for stable-diffusion-webui adding image aspect ratio r",
     "tags": [
       "UI related"
     ],
-    "added": "2024-03-11T00:00:00.000Z",
-    "created": "2024-02-11T08:57:58.000Z",
-    "pushed": "2024-03-15T12:36:15.000Z",
-    "long": "xhoxye/sd-webui-ar_xhox",
-    "size": 216,
-    "stars": 40,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2024-03-15T12:36:11Z",
-    "commits": 39,
-    "status": 0,
-    "note": ""
+    "added": "2024-03-11T00:00:00.000Z"
   },
   {
     "name": "sd-webui-hires-fix-tweaks",
@@ -5952,8 +5606,8 @@
     "stars": 43,
     "issues": 7,
     "branch": "main",
-    "updated": "2025-06-13T17:07:20Z",
-    "commits": 106,
+    "updated": "2025-06-13T17:30:39.000Z",
+    "commits": 1,
     "status": 0,
     "note": ""
   },
@@ -5994,8 +5648,8 @@
     "stars": 53,
     "issues": 9,
     "branch": "main",
-    "updated": "2024-03-24T12:39:05.000Z",
-    "commits": 1,
+    "updated": "2024-03-24T12:22:29Z",
+    "commits": 25,
     "status": 0,
     "note": ""
   },
@@ -6034,8 +5688,8 @@
     "stars": 23,
     "issues": 2,
     "branch": "main",
-    "updated": "2024-04-21T13:53:35.000Z",
-    "commits": 1,
+    "updated": "2024-04-21T13:53:33Z",
+    "commits": 85,
     "status": 0,
     "note": ""
   },
@@ -6055,8 +5709,8 @@
     "stars": 153,
     "issues": 22,
     "branch": "master",
-    "updated": "2025-04-24T01:25:58.000Z",
-    "commits": 1,
+    "updated": "2024-08-05T03:03:30Z",
+    "commits": 350,
     "status": 0,
     "note": ""
   },
@@ -6076,8 +5730,8 @@
     "stars": 32,
     "issues": 2,
     "branch": "master",
-    "updated": "2024-06-12T19:39:06.000Z",
-    "commits": 1,
+    "updated": "2024-06-12T19:39:03Z",
+    "commits": 20,
     "status": 0,
     "note": ""
   },
@@ -6117,8 +5771,8 @@
     "stars": 16,
     "issues": 1,
     "branch": "master",
-    "updated": "2024-05-01T14:59:10.000Z",
-    "commits": 1,
+    "updated": "2024-05-01T14:59:06Z",
+    "commits": 31,
     "status": 0,
     "note": ""
   },
@@ -6145,13 +5799,24 @@
     "note": ""
   },
   {
-    "name": "D2 Prompt Selector",
+    "name": "sd-d2-prompt-selector",
     "url": "https://github.com/da2el-ai/sd-d2-prompt-selector",
     "description": "Insert prompts or random prompts on button click",
     "tags": [
       "prompting"
     ],
-    "added": "2024-05-04T00:00:00.000Z"
+    "added": "2024-05-04T00:00:00.000Z",
+    "created": "2024-04-30T08:36:28.000Z",
+    "pushed": "2024-05-08T19:43:23.000Z",
+    "long": "da2el-ai/sd-d2-prompt-selector",
+    "size": 282,
+    "stars": 6,
+    "issues": 0,
+    "branch": "main",
+    "updated": "2024-05-08T19:42:58Z",
+    "commits": 16,
+    "status": 0,
+    "note": ""
   },
   {
     "name": "sd-webui-untitledmerger",
@@ -6169,8 +5834,8 @@
     "stars": 22,
     "issues": 4,
     "branch": "main",
-    "updated": "2025-01-15T08:55:48.000Z",
-    "commits": 1,
+    "updated": "2025-01-15T08:55:37Z",
+    "commits": 69,
     "status": 0,
     "note": ""
   },
@@ -6189,8 +5854,8 @@
     "stars": 6,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-07-09T11:20:02.000Z",
-    "commits": 1,
+    "updated": "2024-07-09T11:19:56Z",
+    "commits": 22,
     "status": 0,
     "note": ""
   },
@@ -6210,8 +5875,8 @@
     "stars": 32,
     "issues": 1,
     "branch": "master",
-    "updated": "2026-09-01T01:24:51.000Z",
-    "commits": 1,
+    "updated": "2026-09-01T01:24:49Z",
+    "commits": 47,
     "status": 0,
     "note": ""
   },
@@ -6251,8 +5916,8 @@
     "stars": 8,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-09-27T17:17:12.000Z",
-    "commits": 1,
+    "updated": "2024-09-27T17:17:12Z",
+    "commits": 34,
     "status": 0,
     "note": ""
   },
@@ -6271,8 +5936,8 @@
     "stars": 23,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-06-09T11:00:14.000Z",
-    "commits": 1,
+    "updated": "2024-06-09T11:00:14Z",
+    "commits": 18,
     "status": 0,
     "note": ""
   },
@@ -6311,8 +5976,8 @@
     "stars": 2191,
     "issues": 66,
     "branch": "main",
-    "updated": "2026-02-05T05:01:35.000Z",
-    "commits": 1,
+    "updated": "2026-02-05T05:01:23Z",
+    "commits": 466,
     "status": 0,
     "note": ""
   },
@@ -6331,8 +5996,8 @@
     "stars": 16,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-07-15T15:02:50.000Z",
-    "commits": 1,
+    "updated": "2024-07-15T15:02:50Z",
+    "commits": 24,
     "status": 0,
     "note": ""
   },
@@ -6357,22 +6022,44 @@
     "note": ""
   },
   {
-    "name": "ScramblePrompts [m9]",
+    "name": "sd-scramble-prompts-m9",
     "url": "https://github.com/MarcusNyne/sd-scramble-prompts-m9",
-    "description": "Creates prompt variations during image generation by reordering ",
+    "description": "Scramble Prompts extension for Stable Diffusion",
     "tags": [
       "prompting"
     ],
-    "added": "2024-07-01T00:00:00.000Z"
+    "added": "2024-07-01T00:00:00.000Z",
+    "created": "2024-02-14T02:32:31.000Z",
+    "pushed": "2024-12-01T03:54:04.000Z",
+    "long": "MarcusNyne/sd-scramble-prompts-m9",
+    "size": 57,
+    "stars": 9,
+    "issues": 1,
+    "branch": "main",
+    "updated": "2024-12-01T03:54:03Z",
+    "commits": 51,
+    "status": 0,
+    "note": ""
   },
   {
-    "name": "TweakWeights [m9]",
+    "name": "sd-tweak-weights-m9",
     "url": "https://github.com/MarcusNyne/sd-tweak-weights-m9",
-    "description": "Creates prompt variations during image generation by modifying p",
+    "description": "A Stable Diffusion extension for tweaking prompt weights",
     "tags": [
       "prompting"
     ],
-    "added": "2024-07-01T00:00:00.000Z"
+    "added": "2024-07-01T00:00:00.000Z",
+    "created": "2024-02-14T21:37:49.000Z",
+    "pushed": "2024-12-01T04:37:24.000Z",
+    "long": "MarcusNyne/sd-tweak-weights-m9",
+    "size": 55,
+    "stars": 2,
+    "issues": 0,
+    "branch": "main",
+    "updated": "2024-12-01T04:37:24Z",
+    "commits": 33,
+    "status": 0,
+    "note": ""
   },
   {
     "name": "sd-webui-prevent-interruption",
@@ -6410,8 +6097,8 @@
     "stars": 6,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-08-03T08:19:04.000Z",
-    "commits": 1,
+    "updated": "2024-08-03T08:19:03Z",
+    "commits": 19,
     "status": 0,
     "note": ""
   },
@@ -6431,8 +6118,8 @@
     "stars": 45,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-10-21T18:12:49.000Z",
-    "commits": 1,
+    "updated": "2024-10-21T18:12:49Z",
+    "commits": 29,
     "status": 0,
     "note": ""
   },
@@ -6473,8 +6160,8 @@
     "stars": 190,
     "issues": 4,
     "branch": "main",
-    "updated": "2025-11-05T18:51:55.000Z",
-    "commits": 1,
+    "updated": "2025-11-05T18:51:55Z",
+    "commits": 45,
     "status": 0,
     "note": ""
   },
@@ -6494,8 +6181,8 @@
     "stars": 12,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-07-26T21:08:31.000Z",
-    "commits": 1,
+    "updated": "2024-07-26T21:08:27Z",
+    "commits": 16,
     "status": 0,
     "note": ""
   },
@@ -6535,8 +6222,8 @@
     "stars": 3,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-07-24T21:22:38.000Z",
-    "commits": 1,
+    "updated": "2024-07-24T21:22:34Z",
+    "commits": 8,
     "status": 0,
     "note": ""
   },
@@ -6555,8 +6242,8 @@
     "stars": 6,
     "issues": 0,
     "branch": "master",
-    "updated": "2024-07-12T13:43:14.000Z",
-    "commits": 1,
+    "updated": "2024-07-12T13:43:11Z",
+    "commits": 4,
     "status": 0,
     "note": ""
   },
@@ -6596,21 +6283,32 @@
     "stars": 8,
     "issues": 0,
     "branch": "main",
-    "updated": "2024-07-21T04:38:09.000Z",
-    "commits": 1,
+    "updated": "2024-07-21T04:38:09Z",
+    "commits": 29,
     "status": 0,
     "note": ""
   },
   {
     "name": "chara-searcher",
     "url": "https://github.com/NON906/chara-searcher",
-    "description": "This is a extension for 'character images search' from image and",
+    "description": "This is a repository for \"character images search\" from image and tags.",
     "tags": [
       "tab",
       "editing",
       "query"
     ],
-    "added": "2024-07-22T00:00:00.000Z"
+    "added": "2024-07-22T00:00:00.000Z",
+    "created": "2024-07-13T02:59:00.000Z",
+    "pushed": "2025-09-17T02:10:20.000Z",
+    "long": "NON906/chara-searcher",
+    "size": 1204,
+    "stars": 38,
+    "issues": 1,
+    "branch": "main",
+    "updated": "2025-04-13T03:11:26Z",
+    "commits": 56,
+    "status": 0,
+    "note": ""
   },
   {
     "name": "sd-webui-fsr-integration",
@@ -6737,25 +6435,14 @@
     "note": ""
   },
   {
-    "name": "Automatic1111-Geeky-Remb",
+    "name": "GeekyRemB",
     "url": "https://github.com/GeekyGhost/Automatic1111-Geeky-Remb",
-    "description": "Automatic1111 port of my comfyUI geely remb tool",
+    "description": "Advanced Background Removal for Automatic1111 Web UI. Offers mul",
     "tags": [
       "editing",
       "tab"
     ],
-    "added": "2024-08-19T00:00:00.000Z",
-    "created": "2024-08-04T01:33:34.000Z",
-    "pushed": "2024-10-24T03:25:27.000Z",
-    "long": "GeekyGhost/Automatic1111-Geeky-Remb",
-    "size": 120,
-    "stars": 17,
-    "issues": 3,
-    "branch": "GeekyGhostDesigns",
-    "updated": "2024-10-24T03:25:27Z",
-    "commits": 25,
-    "status": 0,
-    "note": ""
+    "added": "2024-08-19T00:00:00.000Z"
   },
   {
     "name": "img2img-hires-fix",
@@ -6887,22 +6574,11 @@
   {
     "name": "sd-webui-quickrecents",
     "url": "https://github.com/MINENEMA/sd-webui-quickrecents",
-    "description": "Extension for stable diffusion webui to view recent generations and get their generation parameters",
+    "description": "View recent generations and get their generation parameters stra",
     "tags": [
       "UI related"
     ],
-    "added": "2024-10-24T00:00:00.000Z",
-    "created": "2024-10-22T10:10:58.000Z",
-    "pushed": "2025-03-18T07:41:47.000Z",
-    "long": "MINENEMA/sd-webui-quickrecents",
-    "size": 1416,
-    "stars": 11,
-    "issues": 0,
-    "branch": "main",
-    "updated": "2025-03-18T07:41:47Z",
-    "commits": 34,
-    "status": 0,
-    "note": ""
+    "added": "2024-10-24T00:00:00.000Z"
   },
   {
     "name": "lora-keywords-finder",
@@ -7030,26 +6706,15 @@
     "note": ""
   },
   {
-    "name": "sd-webui-vae-tools",
+    "name": "VAE Tools (in extras tab)",
     "url": "https://github.com/light-and-ray/sd-webui-vae-tools",
-    "description": "Work with VAE models inside sd-webui",
+    "description": "You can encode, decode images using VAE models inside Extras tab",
     "tags": [
       "script",
       "editing",
       "extras"
     ],
-    "added": "2026-04-03T00:00:00.000Z",
-    "created": "2025-04-10T16:57:02.000Z",
-    "pushed": "2025-04-18T23:38:37.000Z",
-    "long": "light-and-ray/sd-webui-vae-tools",
-    "size": 502,
-    "stars": 2,
-    "issues": 0,
-    "branch": "master",
-    "updated": "2025-04-18T23:38:33Z",
-    "commits": 21,
-    "status": 0,
-    "note": ""
+    "added": "2026-04-03T00:00:00.000Z"
   },
   {
     "name": "lora-forge-alibaba-cloud",
@@ -7057,10 +6722,10 @@
     "description": "LoRA Docker Auto Build and Aliyun Push Toolkit 2026",
     "tags": "",
     "created": "2026-09-21T21:44:25.000Z",
-    "pushed": "2026-10-26T00:48:30.000Z",
-    "updated": "2026-10-26T00:48:34.000Z",
+    "pushed": "2026-10-26T17:45:08.000Z",
+    "updated": "2026-10-26T17:45:13.000Z",
     "long": "misCandijay2025/lora-forge-alibaba-cloud",
-    "size": 485,
+    "size": 495,
     "stars": 56,
     "issues": 0,
     "branch": "main",
@@ -7073,12 +6738,28 @@
     "description": "Automated LoRA Training Docker Builds for Alibaba Cloud 2026",
     "tags": "",
     "created": "2026-08-25T09:57:07.000Z",
-    "pushed": "2026-10-26T00:32:56.000Z",
-    "updated": "2026-10-26T00:33:00.000Z",
+    "pushed": "2026-10-26T13:03:16.000Z",
+    "updated": "2026-10-26T13:03:20.000Z",
     "long": "nrodriguez1997/lora-docker-aliyun-pipeline",
-    "size": 1506,
+    "size": 1522,
     "stars": 55,
     "issues": 0,
+    "branch": "main",
+    "note": "",
+    "status": 6
+  },
+  {
+    "name": "sd-webui-lobe-theme",
+    "url": "https://github.com/lobehub/sd-webui-lobe-theme",
+    "description": "🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
+    "tags": "",
+    "created": "2023-02-25T06:41:18.000Z",
+    "pushed": "2026-10-26T18:32:18.000Z",
+    "updated": "2026-10-26T08:04:00.000Z",
+    "long": "lobehub/sd-webui-lobe-theme",
+    "size": 56556,
+    "stars": 2715,
+    "issues": 115,
     "branch": "main",
     "note": "",
     "status": 6
@@ -7106,27 +6787,11 @@
     "tags": "",
     "created": "2023-03-07T18:26:27.000Z",
     "pushed": "2026-10-24T14:11:16.000Z",
-    "updated": "2026-10-24T14:11:21.000Z",
+    "updated": "2026-10-26T15:58:30.000Z",
     "long": "zanllp/infinite-image-browsing",
     "size": 51476,
-    "stars": 1363,
+    "stars": 1362,
     "issues": 85,
-    "branch": "main",
-    "note": "",
-    "status": 6
-  },
-  {
-    "name": "sd-webui-lobe-theme",
-    "url": "https://github.com/lobehub/sd-webui-lobe-theme",
-    "description": "🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.",
-    "tags": "",
-    "created": "2023-02-25T06:41:18.000Z",
-    "pushed": "2026-10-23T21:40:26.000Z",
-    "updated": "2026-10-23T10:55:13.000Z",
-    "long": "lobehub/sd-webui-lobe-theme",
-    "size": 56557,
-    "stars": 2716,
-    "issues": 115,
     "branch": "main",
     "note": "",
     "status": 6
